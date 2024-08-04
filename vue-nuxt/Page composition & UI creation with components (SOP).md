@@ -44,3 +44,5 @@ Here we aim to understand the user's interaction with a use-case, user story, et
 
 ![](component-diagram.png)
 
+
+## 4. User interactivity elements (inputs, dialogs, notifications, etc.)
