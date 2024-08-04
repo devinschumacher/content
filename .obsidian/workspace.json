@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "09add0a38ea76dd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "73cc550daba1839e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52e44932b4631119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/Website Performance (Comparison).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "846a8147844a54c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "328db2c62c04bcfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43e09908f77c85d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "904f2c6d98bdceb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b91fd9c2e7156b50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.00390243530273
+  },
+  "right": {
+    "id": "12156b4b7b24ea9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f301c97ce38f224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d48724bdc4a3cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b9342e520937624",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "programming/Website Performance (Comparison).md"
+              }
+            }
+          },
+          {
+            "id": "b24d8d5f6384fad1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "e1cfa993b96feb30",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e9646c48ec9d69e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 449.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "publish:Publish changes...": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "daily-notes:Open today's daily note": false,
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "43e09908f77c85d5",
+  "lastOpenFiles": [
+    "vue-nuxt/Directive.md",
+    "programming/Code Minification (Minifying).md",
+    "servers/New Server Setup (logins & ssh keys).md",
+    "SOPs/Gitpod.md",
+    "research_papers/Enhancing Suno's BARK Text-to-Speech Model - Addressing Limitations through Meta's Encodec and Pretrained HuBert.md",
+    "ChatGPT_MD/chats/Machin.md",
+    "ChatGPT_MD/chats/20230501060132.md",
+    "pnpm/pnpx ( pnpm dlx).md",
+    "pnpm/pnpm add <pkg>.md",
+    "2024-08-04.md",
+    "smart-chats",
+    "programming/Website Performance (Comparison).md",
+    "pnpm/pnpm install (pnpm i).md",
+    "pnpm",
+    "Gold Boxing Shorts.md",
+    "Untitled.canvas",
+    "cyber_security/Fingerprinting/MAC Address.md",
+    "cyber_security/Fingerprinting/JS.Navigator.md",
+    "cyber_security/Web Beacons.md",
+    "cyber_security/UDP Protocol.md",
+    "cyber_security/How to be 100% anonymous online.md",
+    "cyber_security/How do websites detect proxies?.md",
+    "cyber_security/Fingerprinting/WebRTC .md",
+    "cyber_security/Fingerprinting/IP Fingerprint).md",
+    "cyber_security/Fingerprinting/IP Address Fingerprinting.md",
+    "cyber_security/Fingerprinting/DNS Leaks.md",
+    "cyber_security/Fingerprinting/Audio Fingerprinting.md",
+    "vue-nuxt",
+    "cyber_security/Fingerprinting/Browser Fingerprinting.md",
+    "artificial_intelligence/Transformers.md",
+    "Figma",
+    "_assets/bundling.png",
+    "_assets/minifying 1.png",
+    "_assets/minifying 2.png",
+    "_assets/minifying.png",
+    "_assets/Precision-recall curve on test set.png",
+    "research_papers",
+    "_assets/Screenshot 2023-04-13 at 03.06.23.png",
+    "_assets/Screenshot 2023-04-07 at 04.40.19.png",
+    "_assets/Screenshot 2023-04-13 at 03.06.28.png",
+    "_assets/Screenshot 2023-04-13 at 03.06.34.png",
+    "_assets/Screenshot 2023-04-17 at 09.51.11.png",
+    "ChatGPT_MD/chats",
+    "ChatGPT_MD",
+    "*Artificial Intelligence/Terms/Neural Search.html",
+    "artificial_intelligence/Tools",
+    "*Artificial Intelligence/AI Research Papers"
+  ]
+}

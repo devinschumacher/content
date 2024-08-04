@@ -1,0 +1,19 @@
+{
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showInlineTitle": true,
+  "promptDelete": false,
+  "livePreview": false,
+  "attachmentFolderPath": "_assets",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "rightToLeft": false,
+  "showLineNumber": false,
+  "showFrontmatter": true,
+  "vimMode": false
+}
