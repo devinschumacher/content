@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae6d0c4fa14594b6",
+        "id": "28dbc0c7f892225b",
         "type": "tabs",
         "children": [
           {
-            "id": "92f76490f3116853",
+            "id": "3d71fb5d5f501d91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,7 @@
                 "file": "vue-nuxt/Page composition & UI creation with components (SOP).md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.00390243530273,
-    "collapsed": true
+    "width": 256.00390243530273
   },
   "right": {
     "id": "12156b4b7b24ea9d",
@@ -182,13 +181,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "92f76490f3116853",
+  "active": "3d71fb5d5f501d91",
   "lastOpenFiles": [
+    "_assets/1.jpg",
+    "vue-nuxt/Page composition & UI creation with components (SOP).md",
     "_assets/component-diagram.png",
     "_assets/2.png",
-    "_assets/1.jpg",
     "vue-nuxt/vite.config.xx.md",
-    "vue-nuxt/Page composition & UI creation with components (SOP).md",
     "vue-nuxt/Directives.md",
     "pnpm/pnpm install.md",
     "pnpm/pnpm add.md",
@@ -208,7 +207,6 @@
     "_content-other/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_USE_database.png",
     "_content-other/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES_IN.png",
     "_content-other/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES.png",
-    "_content-other/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_FULL_TABLES.png",
     "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/https browserleaks com",
     "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/WebGPU Browser Report",
     "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Silverlight",
