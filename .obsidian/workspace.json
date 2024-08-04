@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vite.config.xx.md",
+                "file": "vue-nuxt/vite.config.xx.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.00390243530273,
-    "collapsed": true
+    "width": 256.00390243530273
   },
   "right": {
     "id": "12156b4b7b24ea9d",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vite.config.xx.md"
+                "file": "vue-nuxt/vite.config.xx.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vite.config.xx.md",
+                "file": "vue-nuxt/vite.config.xx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vite.config.xx.md",
+                "file": "vue-nuxt/vite.config.xx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +181,9 @@
       "smart-connections:Open: Smart Chat Conversation": true
     }
   },
-  "active": "7b3ea41fae30f441",
+  "active": "43e09908f77c85d5",
   "lastOpenFiles": [
-    "vite.config.xx.md",
+    "vue-nuxt/vite.config.xx.md",
     "vue-nuxt/Directives.md",
     "pnpm/pnpm install.md",
     "pnpm/pnpm add.md",

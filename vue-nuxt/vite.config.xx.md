@@ -76,4 +76,4 @@ resolve: {
 	- `__dirname` represents the directory of the current module (where `vite.config.js` is located).
 - `extensions` 
 	- Specifies file extensions to try when resolving imports without extensions.
-	- this "extension resolution" allows you to write `import './utils'` instead of `import './utils.js'`.
+	- this "extension resolution allows you to write `import './utils'` instead of `import './utils.js'`.
