@@ -1,0 +1,36 @@
+# CSS Height, Width & Max Width
+
+---
+
+The CSS `height` and `width` properties are used to set the height and width of an *element*.
+
+The CSS `max-width` property is used to set the maximum width of an *element*.
+
+## **CSS `height` & `width` values**
+
+- `auto` - This is default. The browser calculates the height and width
+- `length` - Defines the height/width in px, cm, etc.
+- `%` - Defines the height/width in percent of the containing block
+- `initial` - Sets the height/width to its default value
+- `inherit` - The height/width will be inherited from its parent value
+
+## `max-width` property
+
+The `max-width` property is used to set the maximum width of an element.
+
+The `max-width` can be specified in *length values*, like px, cm, etc., or in percent (%) of the containing block, or set to none (this is default. Means that there is no maximum width).
+
+The problem with setting a fixed `width` occurs when the browser window is smaller than the width of the element - the browser will add a horizontal scrollbar to the page.
+
+Using `max-width` instead, will improve the browser's handling of small windows.
+
+## **CSS Dimension Properties**
+
+| Property | Description |
+| --- | --- |
+| https://www.w3schools.com/cssref/pr_dim_height.asp | Sets the height of an element |
+| https://www.w3schools.com/cssref/pr_dim_max-height.asp | Sets the maximum height of an element |
+| https://www.w3schools.com/cssref/pr_dim_max-width.asp | Sets the maximum width of an element |
+| https://www.w3schools.com/cssref/pr_dim_min-height.asp | Sets the minimum height of an element |
+| https://www.w3schools.com/cssref/pr_dim_min-width.asp | Sets the minimum width of an element |
+| https://www.w3schools.com/cssref/pr_dim_width.asp | Sets the width of an element |

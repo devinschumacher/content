@@ -1,0 +1,15 @@
+# Intro to pandas | pandas, python
+
+---
+
+Pandas (for “Panel Data” or “Python Data Analysis”) is a library built for working with data sets, created by Wes McKinney in 2008.
+
+It comes with pre-built functions for analyzing, cleaning & manipulating data.
+
+Pandas allows us to analyze big data and make conclusions based on statistical theories.
+
+Pandas can clean messy data sets, and make them readable and relevant.
+
+Relevant data is very important in data science.
+
+continue here [https://www.w3schools.com/python/pandas/pandas_intro.asp](https://www.w3schools.com/python/pandas/pandas_intro.asp)

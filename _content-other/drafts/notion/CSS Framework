@@ -1,0 +1,70 @@
+# CSS Framework
+
+Module: Glossary
+
+A CSS framework is a pre-built CSS file that you can use in your project which will let you style your HTML by simply adding the framework’s CSS classes.
+
+CSS framework’s will typically define styles for many different types of common components (buttons, alerts, forms, dropdowns, etc.).
+
+In addition to being pre-built CSS files, a good CSS framework is a design system in itself - a series of design decisions that create a cohesive and performant look - helping you build websites and apps faster by not having to make so many decisions about what things should look like, what they should be named, etc.
+
+### Pros
+
+- done-for-you design
+- consistent styles
+- browser compatibilty
+- saves time
+
+### Cons
+
+- “class bloat”
+- customization / personalization
+
+## When to use a CSS framework
+
+- if you’re building a website or app and want to get it up and working online quickly
+- if you don’t already have a brand style guide and web design system of some kind
+
+## How to use a CSS framework
+
+1. Include via CDN
+2. Include all the files in your project “locally”
+
+### Include via CDN
+
+To use a CSS framework via CDN, you simple include the `.css` and `.js` links in your website’s files that contains all of the CSS framework’s code.
+
+The user’s browser will access those files, download them, and render the webpage while referencing those files so that they see and experience the website as it was intended.
+
+Here's an example code snippet for including a CSS framework in your project:
+
+```html
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>My Website</title>
+
+  <!-- Include the CSS framework via CDN -->
+  <link rel="stylesheet" href="<https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css>" />
+
+</head>
+
+<body>
+  <h1>Welcome to my website</h1>
+  <p>This is some example text.</p>
+
+  <!-- Example button using the CSS framework's class -->
+  <button class="btn btn-primary">Click me</button>
+
+  <!-- Include the JavaScript file for the CSS framework -->
+  <script src="<https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js>"></script>
+
+</body>
+
+</html>
+
+```
+
+In this example, we're using the Bootstrap CSS (and javascript) framework via CDN, which allows us to include the framework's CSS and JavaScript files in our website without having to download them ourselves.

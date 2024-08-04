@@ -1,0 +1,108 @@
+# SQL
+
+Topics: Databases, SQL
+
+[SQL Intro](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20Intro%2096a3c85aa2a046f5837ddb20134df5e6.md)
+
+[SQL Syntax](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20Syntax%2064ee543879c44bac8b2b545ef4568e19.md)
+
+[SQL Select](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20Select%20f1afb3a65d5e4fbba0661941bbd75019.md)
+
+[SQL Select Distinct](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20Select%20Distinct%20e2b8da33309248ed9dcf05da0d285863.md)
+
+[SQL Where](https://www.w3schools.com/sql/sql_where.asp)
+
+[SQL Data Types](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20Data%20Types%20f57512efba44411387943cda7750825e.md)
+
+[SQL Comparison Operators](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20Comparison%20Operators%20148d1d7f335d4d888f06f6e4e1a4172f.md)
+
+[SQL Arithmetic Operators](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20Arithmetic%20Operators%200a2d327822b549358909feeb701f6359.md)
+
+[SQL Logical Operators](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20Logical%20Operators%201ca6b0c26120486ebad24305a7788bca.md)
+
+[SQL Wildcards](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20Wildcards%20b560cc5b73c74573bed237290201fff7.md)
+
+[SQL SHOW](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20SHOW%2017e94861b9b14bcf99c9644c8eada702.md)
+
+[SQL IS NULL](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20IS%20NULL%2057c1b8cafb3940f18eaba2b07eb888a4.md)
+
+[SQL Aggregate Functions](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20Aggregate%20Functions%206a486ce7f95f4f9d8e4e989db2a5b4fe.md)
+
+[SQL Recipes](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20Recipes%2035c83065210e43aa880133c77c263bf8.md)
+
+[SQL JOIN](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20JOIN%20c2fa4c6adf4e407ea70759b80a0567aa.md)
+
+[SQL INNER JOIN](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20INNER%20JOIN%20a8a369bd339f407e83426d861ba6e24b.md)
+
+[SQL LEFT JOIN](SQL%2082561c53356a424d9eb1a58986fbe056/SQL%20LEFT%20JOIN%20b99eb6c52e8e45a4aa1a639a48392db9.md)
+
+[SQL And, Or, Not](https://www.w3schools.com/sql/sql_and_or.asp)
+
+[SQL Order By](https://www.w3schools.com/sql/sql_orderby.asp)
+
+[SQL Insert Into](https://www.w3schools.com/sql/sql_insert.asp)
+
+[SQL Null Values](https://www.w3schools.com/sql/sql_null_values.asp)
+
+[SQL Update](https://www.w3schools.com/sql/sql_update.asp)
+
+[SQL Delete](https://www.w3schools.com/sql/sql_delete.asp)
+
+[SQL Select Top](https://www.w3schools.com/sql/sql_top.asp)
+
+[SQL Min and Max](https://www.w3schools.com/sql/sql_min_max.asp)
+
+[SQL Count, Avg, Sum](https://www.w3schools.com/sql/sql_count_avg_sum.asp)
+
+[SQL Like](https://www.w3schools.com/sql/sql_like.asp)
+
+[SQL Wildcards](https://www.w3schools.com/sql/sql_wildcards.asp)
+
+[SQL In](https://www.w3schools.com/sql/sql_in.asp)
+
+[SQL Between](https://www.w3schools.com/sql/sql_between.asp)
+
+[SQL Aliases](https://www.w3schools.com/sql/sql_alias.asp)
+
+[SQL Joins](https://www.w3schools.com/sql/sql_join.asp)
+
+[SQL Inner Join](https://www.w3schools.com/sql/sql_join_inner.asp)
+
+[SQL Left Join](https://www.w3schools.com/sql/sql_join_left.asp)
+
+[SQL Right Join](https://www.w3schools.com/sql/sql_join_right.asp)
+
+[SQL Full Join](https://www.w3schools.com/sql/sql_join_full.asp)
+
+[SQL Self Join](https://www.w3schools.com/sql/sql_join_self.asp)
+
+[SQL Union](https://www.w3schools.com/sql/sql_union.asp)
+
+[SQL Group By](https://www.w3schools.com/sql/sql_groupby.asp)
+
+[SQL Having](https://www.w3schools.com/sql/sql_having.asp)
+
+[SQL Exists](https://www.w3schools.com/sql/sql_exists.asp)
+
+[SQL Any, All](https://www.w3schools.com/sql/sql_any_all.asp)
+
+[SQL Select Into](https://www.w3schools.com/sql/sql_select_into.asp)
+
+[SQL Insert Into Select](https://www.w3schools.com/sql/sql_insert_into_select.asp)
+
+[SQL Case](https://www.w3schools.com/sql/sql_case.asp)
+
+[SQL Null Functions](https://www.w3schools.com/sql/sql_isnull.asp)
+
+[SQL Stored Procedures](https://www.w3schools.com/sql/sql_stored_procedures.asp)
+
+[SQL Comments](https://www.w3schools.com/sql/sql_comments.asp)
+
+[SQL Operators](https://www.w3schools.com/sql/sql_operators.asp)
+
+---
+
+**continue ripping here:**
+
+- [https://www.digitalocean.com/community/tutorials/sql-data-types#sql-data-types](https://www.digitalocean.com/community/tutorials/sql-data-types#sql-data-types)
+- + the course at mode.com

@@ -1,0 +1,394 @@
+# [CURRENT] Make Django Application(s) into Installable Python Package
+
+Topics: Django
+
+- **Table of contents:**
+
+---
+
+# PART 1: PACKAGE YOUR APP & PUSH IT TO A REPOSITORY
+
+1. Install `setuptools` , `build` , and `tree`
+
+```bash
+❯ python -m venv .venv # im leaving this out of the follow tree structures
+❯ pip install setuptools build
+```
+
+1. Get outside of your project directory & created a parent folder. This one is for the application called `directory` so i made a parent folder called `pkg-directory`.
+
+```bash
+❯ mkdir pkg-directory
+```
+
+1. Copy & paste your actual app ‘directory’ into the `pkg-directory` folder
+2. Create these files in the `pkg-directory` folder
+    1. `README.md`
+    2. `LICENSE`
+    3. `pyproject.toml`
+    4. `setup.cfg`
+    5. `MANIFEST.in`
+    6. `.github/workflows/main.yaml`
+    7. `docs/index.md`
+
+```markdown
+# README
+
+directory
+```
+
+```bash
+# LICENSE
+
+Copyright (c) 2023, SERP
+All rights reserved.
+
+No part of this software may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the copyright holder.
+```
+
+```toml
+# pyproject.toml
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = 'setuptools.build_meta'
+
+[project]
+name = "directory"
+version = "0.1.0"
+license = { text = "Proprietary" }
+description = "A Django app. bolt on module for SERP Website"
+```
+
+```python
+# setup.cfg
+
+[options]
+include_package_data = true
+packages = find:
+```
+
+```python
+# MANIFEST.in
+
+include LICENSE
+include README.md
+recursive-include pkg-directory *
+global-exclude __pycache__
+global-exclude *.pyc
+global-exclude .git/
+```
+
+```python
+# main.yaml
+
+name: Django Package 'directory'
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: 3.11
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install build
+      - name: Build package
+        run: |
+          python -m build
+          if [ ! -f ./dist/directory-0.1.0.tar.gz ]; then echo "Build failed"; exit 1; fi
+      - name: Get version
+        id: get_version
+        run: |
+          echo "::set-output name=version::$(python -c "import toml; print(toml.load('pyproject.toml')['project']['version'])")"
+      - name: Upload package
+        uses: actions/upload-artifact@v2
+        with:
+          name: dist
+          path: dist/*
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.run_number }}
+          release_name: Release ${{ github.run_number }}
+          draft: false
+          prerelease: false
+      - name: Check release
+        run: |
+          if [ -z "${{ steps.create_release.outputs.upload_url }}" ]; then echo "Release creation failed"; exit 1; fi
+      - name: List contents of dist directory
+        run: ls -l ./dist
+      - name: Upload Release Asset
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./dist/directory-0.1.0.tar.gz
+          asset_name: directory-0.1.0.tar.gz
+          asset_content_type: application/gzip
+```
+
+```python
+# docs/index.md
+
+Directory
+```
+
+```bash
+.
+├── pkg-directory
+│   ├── LICENSE
+│   ├── MANIFEST.in
+│   ├── README.md
+│   ├── directory
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── migrations
+│   │   ├── models.py
+│   │   ├── templates
+│   │   ├── tests.py
+│   │   ├── urls.py
+│   │   └── views.py
+│   ├── docs
+│   │   └── index.md
+│   ├── pyproject.toml
+│   └── setup.cfg
+
+```
+
+1. Now build your packages
+    1. `cd` to your 'pkg folder’
+    2. Make sure your REAL APP is in there if not already (copy and paste it in)
+    3. Run **`python -m build`** to build your package - this will create your distribution (aka ‘dist’) packages that can be found in the newly created **`dist/`** directory - `dist/tar.gz` and `dist/.whl` package.
+
+```python
+❯ python -m build
+
+# ...
+
+# **Successfully built django-app-0.1.tar.gz and django_app-0.1-py3-none-any.whl**
+```
+
+```bash
+.
+├── pkg-directory
+│   ├── LICENSE
+│   ├── MANIFEST.in
+│   ├── README.md
+│   ├── directory
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── migrations
+│   │   ├── models.py
+│   │   ├── templates
+│   │   ├── tests.py
+│   │   ├── urls.py
+│   │   └── views.py
+│   ├── directory.egg-info
+│   │   ├── PKG-INFO
+│   │   ├── SOURCES.txt
+│   │   ├── dependency_links.txt
+│   │   └── top_level.txt
+│   ├── dist
+│   │   ├── directory-0.1.0-py3-none-any.whl
+│   │   └── directory-0.1.0.tar.gz
+│   ├── docs
+│   │   └── index.md
+│   ├── pyproject.toml
+│   └── setup.cfg
+
+```
+
+1. update the files so the fields match your add (aka change `directory` to `your app`
+
+## if first release:
+
+1. Create a github repository to store your app: `git init`
+
+Now, whenever you push to the master branch, it will create a new release and attach the built package to it as defined in your `.github/workflows/main.yaml`
+
+1. Commit the workflow file, and create a remote repository.
+
+```python
+git add . && git commit -am 'first package' && gh repo create
+```
+
+Now your workflow will run & package create. Now your package is updated on the remote. 
+
+## if not first release:
+
+1. Commit the workflow file, and create a remote repository.
+
+```python
+git add . && git commit -am 'package version X' && git push
+```
+
+Now your workflow will run & package create. Now your package is updated on the remote. 
+
+---
+
+---
+
+# PART 2: GITHUB ACTION TO AUTOMATE PUSHING UPDATES
+
+*** we dont realy need to continue on until doing this manally becomes burdensome ***
+
+you can set up a separate script or GitHub workflow that is triggered manually and pushes a signal to your other projects to initiate their update processes.
+
+In each of your projects, you would then have a GitHub workflow that watches for this signal (such as a repository_dispatch event) and updates the package when it receives it.
+
+**Here's a basic example of how you can set up the manual triggering workflow in your package repository:**
+
+```yaml
+name: Trigger Updates
+
+on:
+  workflow_dispatch:
+    inputs:
+      repos:
+        description: 'Comma-separated list of repositories to update'
+        required: true
+
+jobs:
+  trigger:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Trigger update workflows
+      run: |
+        IFS=', ' read -r -a repos <<< "${{ github.event.inputs.repos }}"
+        for repo in "${repos[@]}"; do
+          curl -X POST \
+               -H "Authorization: token ${{ secrets.PAT }}" \
+               -H "Accept: application/vnd.github.everest-preview+json" \
+               "https://api.github.com/repos/$repo/dispatches" \
+               -d '{"event_type": "update_package"}'
+        done
+```
+
+This workflow is triggered manually from GitHub's UI and takes a comma-separated list of repositories to update as input. It then sends a POST request to the repository_dispatch endpoint of each repository's GitHub API, which will trigger an "update_package" event in those repositories.
+
+**In each of your other projects, you can then have a workflow like this:**
+
+```yaml
+name: Update package
+
+on:
+  repository_dispatch:
+    types: [update_package]
+
+jobs:
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install your-package>=0.x  # Replace 'your-package' and '0.x' with your package's name and minimum version
+    - name: Run tests
+      run: |
+        # Add commands to run your tests here
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'Your Name'
+        git config --global user.email 'your.email@example.com'
+        git commit -am "Update package"
+        git push
+```
+
+## ALTERNATIVELY:
+
+You could log into the server and `cd` into each project and git pull repo updates.
+
+Or, automate it with a bash script:
+
+```yaml
+#!/bin/bash
+
+declare -a repos=("repo1" "repo2" "repo3" "repo4" "repo5")
+
+for repo in "${repos[@]}"
+do
+   echo "Updating $repo"
+   cd /path/to/your/repos/$repo
+   git pull
+   # Maybe you want to restart the service associated with the repo or any other post-update action
+   echo "Updated $repo"
+done
+```
+
+# What about the *other* projects that are using this app(s)?
+
+You can use GitHub Actions to automate the process of updating your other projects that use this app. 
+
+In your other projects, you can create a GitHub Action that watches for new releases of the 'directory' app. 
+
+Once it detects a new release, the action can automatically update the version of the 'directory' app that your project depends on.
+
+Here is a rough outline of how you can do this:
+
+1. Create a GitHub Action workflow file (e.g., `.github/workflows/update_directory_app.yml`) in your other projects that depend on the 'directory' app.
+2. In this workflow file, specify a job that gets triggered on a schedule (e.g., once a day) or through a webhook.
+3. In the job, write a step that checks for a new release of the 'directory' app. You can do this by calling the GitHub API to get the latest release and comparing it with the current version your project is using.
+4. If a new release is found, update the version of the 'directory' app in your project's requirements file or wherever you specify your project's dependencies.
+5. Commit and push these changes to your repository.
+
+Here's an example of what the workflow file might look like:
+
+```yaml
+name: Update directory app
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install PyGithub  # Install a Python library to interact with the GitHub API
+    - name: Check for new release and update if necessary
+      run: python .github/update_directory_app.py  # This script would implement the logic mentioned in steps 3-5
+
+```
+
+Please note that this is a basic example and the actual implementation might vary depending on your specific needs and setup.
+
+The `update_directory_app.py` would be a Python script that uses the GitHub API to fetch the latest release of the 'directory' app, compare it with the current version in your project, and update it if necessary. There are many ways you could implement this, depending on your project's structure and how you manage your dependencies.
+
+Remember to handle the case where the new release of the 'directory' app introduces breaking changes. In this case, you might not want to automatically update to the new version without first making necessary changes to your project to accommodate these breaking changes.
+
+---
+
+# PART 3: TEST NEW PKG UPDATES ON STAGING ENV

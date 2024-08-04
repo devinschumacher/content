@@ -1,0 +1,19 @@
+# Shadow DOM
+
+Shadow DOM provides encapsulation. 
+
+It allows a component to have its very own “shadow” DOM tree, that can’t be accidentally accessed from the main document, may have local style rules, and more.
+
+The browser uses DOM/CSS internally to draw/style/present HTML elements, which is hidden by default, but can be seen via: Developer Tools > “Show user agent shadow DOM”.
+
+These ‘built-in shadow DOM elements’ cannot be targeted/accessed by regular JavaScript calls or selectors.
+
+For example, a simple `<input type="range">` looks like this:
+
+![Untitled](Shadow%20DOM%2020a2a36852e74545940da5c2fa23cce9/Untitled.png)
+
+What you see under `#shadow-root` is called “shadow DOM”.
+
+In the screenshot above, you can see a useful attribute `pseudo`.
+
+![Untitled](Shadow%20DOM%2020a2a36852e74545940da5c2fa23cce9/Untitled%201.png)

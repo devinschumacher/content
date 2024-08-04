@@ -1,0 +1,7 @@
+# Apache NiFi
+
+- Download `brew install nifi`
+- Start `nifi start`
+    - access @ `localhost:8443/nifi/login`
+        - ^ this is defined in your `/opt/homebrew/Cellar/nifi/1.23.2/libexec/conf/nifi.properties` file @ `nifi.web.https.port=8443`
+- Stop `nifi stop`

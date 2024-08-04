@@ -1,0 +1,35 @@
+# HTML Attributes
+
+---
+
+HTML elements can have **attributes.**
+
+HTML attributes give more information to the HTML tags. 
+
+Think of “attributes” kind of like “adjectives” in English grammar - they provide additional information.
+
+For example, let’s say you have a ‘hyperlink’ HTML element. 
+
+It would normally look something like this:
+
+`<a href="https://devinschumacher.com/">Devin's Website</a>`
+
+This would show up in a browser like this: [Devin’s Website](http://devinschumacher.com)
+
+Well, what if you wanted to give a little more information to this link, such as “when someone clicks this link, make sure you open it in a new tab!”
+
+In this case you would add an HTML attribute to this HTML element, `target="_blank"`
+
+It would go inside of the HTML element, like this:
+
+`<a href="https://devinschumacher.com/" target="_blank">Devin's Website</a>`
+
+## Other Common HTML Attributes
+
+- The `href` attribute of `<a>` specifies the URL of the page the link goes to
+- The `src` attribute of `<img>` specifies the path to the image to be displayed
+- The `width` and `height` attributes of `<img>` provide size information for images
+- The `alt` attribute of `<img>` provides an alternate text for an image
+- The `style` attribute is used to add styles to an element, such as color, font, size, and more
+- The `lang` attribute of the `<html>` tag declares the language of the Web page
+- The `title` attribute defines some extra information about an element

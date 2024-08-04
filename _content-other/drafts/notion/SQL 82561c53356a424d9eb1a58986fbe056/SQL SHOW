@@ -1,0 +1,98 @@
+# SQL SHOW
+
+---
+
+When managing [MySQL](https://www.mysql.com/) database servers, one of the most frequent tasks you’ll perform is to get familiar with the environment. This includes [listing databases](https://linuxize.com/post/how-to-show-databases-in-mysql/) that reside on the server, displaying the database tables, or fetching information about [user accounts and their privileges](https://linuxize.com/post/how-to-create-mysql-user-accounts-and-grant-privileges/) .
+
+This article shows how to list tables in a MySQL or MariaDB database via the command line, once you’ve connected to your server.
+
+In case you haven’t connected yet:
+
+1. Open Terminal
+2. Connect to MySQL server
+
+```sql
+$ mysql -u root -p
+```
+
+When prompted for your password, enter it if you have one. 
+
+Chances are if you don’t know it - you don’t have one - so just press the `return` key.
+
+![mysql -u root -p.png](SQL%20SHOW%2017e94861b9b14bcf99c9644c8eada702/mysql_-u_root_-p.png)
+
+When connected, you’re prompt will change to `mysql>`
+
+## mysql> SHOW DATABASES;
+
+The most obvious starting point is to figure out what databases you have to work with. 
+
+To list your databases, use the `SHOW` statement.
+
+```sql
+# SHOW DATABASES;
+
+mysql> SHOW DATABASES;
+```
+
+![mysql show databases.png](SQL%20SHOW%2017e94861b9b14bcf99c9644c8eada702/mysql_show_databases.png)
+
+Switch to your deisred databases with the `USE` statement.
+
+```sql
+# USE <database_name>;
+
+mysql> USE pixeldevs;
+```
+
+![mysql USE database.png](SQL%20SHOW%2017e94861b9b14bcf99c9644c8eada702/mysql_USE_database.png)
+
+## mysql> SHOW TABLES;
+
+You’re connected and ready to use a specific database.
+
+To see the tables & views in the selected database, use the `SHOW` statement.
+
+```sql
+# SHOW TABLES;
+
+mysql> SHOW TABLES;
+```
+
+![mysql SHOW TABLES;.png](SQL%20SHOW%2017e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES.png)
+
+### mysql> SHOW FULL TABLES;
+
+If you’d like a little more information about the each table’s type, add the `FULL` modifier into your statement.
+
+```sql
+# SHOW FULL TABLES;
+
+mysql> SHOW FULL TABLES;
+```
+
+![mysql> SHOW FULL TABLES;.png](SQL%20SHOW%2017e94861b9b14bcf99c9644c8eada702/mysql_SHOW_FULL_TABLES.png)
+
+## mysql> SHOW TABLES FROM;
+
+Alternatively, if you don’t want to “use” a particular database, you can run the same commands by on different databases, and database tables, by modifying your statement’s specificity a bit.
+
+```sql
+# SHOW TABLES FROM <database_name>;
+
+mysql> SHOW TABLES FROM pixelsdevs;
+```
+
+![show tables. FROM.png](SQL%20SHOW%2017e94861b9b14bcf99c9644c8eada702/show_tables._FROM.png)
+
+Alternatively you can use the `IN` clause:
+
+```sql
+# SHOW TABLES IN <database_name>
+
+mysql> SHOW TABLES IN sales_example;
+
+mysql> SHOW TABLES IN pixeldevs;
+```
+
+![mysql> SHOW TABLES IN.png](SQL%20SHOW%2017e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES_IN.png)

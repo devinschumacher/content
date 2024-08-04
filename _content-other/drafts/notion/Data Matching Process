@@ -1,0 +1,17 @@
+# Data Matching Process
+
+1. Data Pre-processing
+
+## **Data pre-processing**
+
+Data pre processing ensures data from multiple sources are in the same format, are appropriately cleaned & standardized. 
+
+Some **major steps in data pre-processing:**
+
+1. Removing unwanted characters and words
+2. Expand abbreviations & correct misspellings
+3. Segment attributes into well-defined consitent output attributes
+4. **Handling Missing Values**: Determine how to handle missing values in the dataset. Some common strategies include removing records with missing values or imputing missing values.
+5. **Data Transformation**: Normalize or standardize numerical fields, encode categorical fields, and so on.
+6. **Data Cleaning**: Handle outliers, invalid values, or errors in the dataset.
+7. **Feature Engineering**: Create new features that may be useful for analysis.

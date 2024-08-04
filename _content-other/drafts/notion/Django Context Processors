@@ -1,0 +1,65 @@
+# Django Context Processors
+
+A context processor in Django is a Python `function` that takes the `request` object as an `arg` and returns a `dictionary` to be added to the `template context`. 
+
+Once you set up the context processor, the variable will be automatically included in the context for every view/template.
+
+## How to make a context processor
+
+1. Create a Python file in your Django app directory to store your context processors. This can be named anything, but for clarity, you might want to call it **`context_processors.py`**.
+
+```bash
+your_app/
+	context_processors.py
+```
+
+1. In **`context_processors.py`**, define a function that takes **`request`** as an argument and returns a dictionary. The keys of this dictionary will be the names of the context variables that you want to add, and the values will be the corresponding values of these variables.
+
+Here's an example that adds your **`gtm_tag`**:
+
+```python
+# your_app/context_processors.py
+
+from decouple import Config
+
+def gtm_context_processor(request):
+    config = Config('.env')
+    gtm_tag = config('GTM_TAG')
+    return {'gtm_tag': gtm_tag}
+```
+
+1. Add your context processor to the **`'context_processors'`** option of the TEMPLATES setting in your settings file (usually **`settings.py`**).
+
+```python
+# PROJECT/settings.py
+
+TEMPLATES = [
+    {
+        'OPTIONS': {
+            'context_processors': [
+                'your_app.context_processors.gtm_context_processor',
+            ],
+        },
+    },
+]
+```
+
+Now you can use **`{{ gtm_tag }}`** in any of your templates, and Django will automatically replace it with the value returned by **`gtm_context_processor`**.
+
+<aside>
+❗ Context processors run for every single request, so if you have heavy processing in your context processors, it can slow down your entire site. 
+
+For something lightweight like fetching a GTM tag, a context processor is a perfect choice.
+
+If you have concerns about performance, it's recommended to keep your context processors as lightweight as possible, and consider other optimizations, such as optimizing database queries, using more efficient data structures or algorithms, and so on.
+
+</aside>
+
+## Context Processors + Caching
+
+In the context of a Django application, these two facts work together like this:
+
+- When a request is received, all context processors are executed. This happens every time a request is received, regardless of caching.
+- If there's an expensive operation within a context processor function (like a complex database query, for instance), you can use caching to store the result of that operation. The first time the context processor is run and performs this operation, you would store the result in the cache.
+- On subsequent requests, when the context processor runs again, instead of performing the expensive operation, it can fetch the result from the cache. This can speed up the processing time significantly, because fetching from the cache is usually much faster than performing the expensive operation.
+- However, the context processor function itself still runs on every request, even if it's just fetching the result from the cache instead of performing the expensive operation.

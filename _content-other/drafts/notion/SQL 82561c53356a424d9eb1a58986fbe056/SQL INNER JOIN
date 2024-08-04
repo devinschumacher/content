@@ -1,0 +1,191 @@
+# SQL INNER JOIN
+
+The `INNER JOIN` keyword selects records that have matching values in both tables.
+
+```sql
+SELECT column_name(s)
+FROM table1
+INNER JOIN table2
+ON table1.column_name = table2.column_name;
+```
+
+The `INNER JOIN` clause appears after the `FROM` clause.
+
+Suppose, you have two tables: A and B.
+
+Table A has four rows: (1,2,3,4) and table B has four rows: (3,4,5,6)
+
+When table A joins with table B using the inner join, you have the result set (3,4) that is the intersection of table A and table B.
+
+For each row in table A, the inner join clause finds the matching rows in table B. If a row is matched, it is included in the final result set.
+
+Suppose the columns in the A and B tables are `a` and `b`. 
+
+The following statement illustrates the inner join clause:
+
+```sql
+SELECT a
+FROM A
+INNER JOIN B ON b = a;
+```
+
+1. The `INNER JOIN` clause appears after the `FROM` clause. 
+2. The condition to match between table A and table B is specified after the `ON` keyword. This condition is called *join condition* i.e., *`B.n = A.n`*
+
+The `INNER JOIN` clause can join three or more tables as long as they have relationships, typically *foreign key relationships.*
+
+For example, the following statement illustrates how to join 3 tables: A, B, and C:
+
+```sql
+SELECT
+  A.n
+FROM A
+INNER JOIN B ON B.n = A.n
+INNER JOIN C ON C.n = A.n;
+```
+
+## **SQL INNER JOIN Examples**
+
+Let’s take some practical examples of using the `INNER JOIN` clause.
+
+### Example 1: **SQL `INNER JOIN` with 2 tables**
+
+We will use the `employees` and `departments`tables from our fake DB to demonstrate how the `INNER JOIN` clause works.
+
+![Untitled](SQL%20INNER%20JOIN%20a8a369bd339f407e83426d861ba6e24b/Untitled.png)
+
+Each employee belongs to one and only one department while each department can have more than one employee. The relationship between the `departments` and `employees` is one-to-many.
+
+The `department_id` column in the `employees` table is the foreign key column that links the `employees` to the `departments` table.
+
+To get the information of the department id 1,2, and 3, you use the following statement.
+
+```sql
+SELECT
+	department_id,
+	department_name
+FROM
+	departments
+WHERE
+	department_id IN (1, 2, 3);
+```
+
+To get the information of employees who work in the department id 1, 2 and 3, you use the following query:
+
+```sql
+SELECT
+	first_name,
+	last_name,
+	department_id
+FROM
+	employees
+WHERE
+	department_id IN (1, 2, 3)
+ORDER BY
+	department_id;
+```
+
+![Untitled](SQL%20INNER%20JOIN%20a8a369bd339f407e83426d861ba6e24b/Untitled%201.png)
+
+To combine data from these two tables, you use an inner join clause as the following query:
+
+```sql
+SELECT 
+    first_name,
+    last_name,
+    employees.department_id,
+    departments.department_id,
+    department_name
+FROM
+    employees
+        INNER JOIN
+    departments ON departments.department_id = employees.department_id
+WHERE
+    employees.department_id IN (1 , 2, 3);
+```
+
+**Syntax breakdown:**
+
+```sql
+SELECT
+		first_name,
+		last_name,
+		employees.department_id,
+		departments.department_id,
+		department_name
+```
+
+Use the `SELECT` statement to choose (1) which columns we want to see, and (2) which columns we are going to join on. 
+
+1. Those columns happen to be:
+    1. first_name, last_name
+    2. department_id (from the employees table)
+    3. department_id (from the departments table)
+    4. department_name
+
+```sql
+FROM
+		employees
+				INNER JOIN
+		departments
+
+```
+
+Use the `FROM` clause to choose which tables we are going to `JOIN` together, in this case `INNER JOIN`.
+
+```sql
+# FROM
+#		employees
+#				INNER JOIN
+#		departments
+
+				ON departments.department_id = employees.department_id
+```
+
+Use the `ON` keyword to specify which COLUMN that the tables have in common that we are going to use to perform the `INNER JOIN` , Do this with an `=` sign, which seems pretty relevant.
+
+![Untitled](SQL%20INNER%20JOIN%20a8a369bd339f407e83426d861ba6e24b/Untitled%202.png)
+
+For each row in the `employees` table, our statement checks if the value of the `department_id` column  from `employees` is equal to the value of the `department_id` column from the `departments`table.
+
+If they are equal, the those rows of each table can be joined together. 
+
+AKA - “If the condition: 
+
+`employees.department_id = departments.department_id`
+
+is satisfied, the combined row that includes data from rows in both `employees`  and `departments` tables are included in the result set.
+
+<aside>
+🎗️ **Note**: Since both `employees` and `departments` tables have the same column name ”`department_id`",  we had to qualify the `department_id` column using the syntax `table_name.column_name`.
+
+</aside>
+
+### Example 2: **SQL `INNER JOIN` with 3 tables**
+
+Each employee holds one job while a job may be held by many employees. The relationship between the `jobs` table and the `employees` table is one-to-many.
+
+The following database diagram illustrates the relationships between `employees`, `departments` and `jobs` tables:
+
+![Untitled](SQL%20INNER%20JOIN%20a8a369bd339f407e83426d861ba6e24b/Untitled%203.png)
+
+The following query uses the inner join clauses to join 3 tables: `employees`, `departments`, and `jobs` to get the first name, last name, job title, and department name of employees who work in department id 1, 2, and 3.
+
+```sql
+SELECT
+				first_name,
+				last_name,
+				job_title,
+				department_name
+FROM
+				employees e
+
+INNER JOIN departments d ON d.department_id = e.department_id
+INNER JOIN jobs j ON j.job_id = e.job_id
+
+WHERE
+
+				e.department_id IN (1, 2, 3);
+```
+
+![Untitled](SQL%20INNER%20JOIN%20a8a369bd339f407e83426d861ba6e24b/Untitled%204.png)

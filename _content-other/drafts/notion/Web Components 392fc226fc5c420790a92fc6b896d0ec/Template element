@@ -1,0 +1,36 @@
+# Template element
+
+A built-in `<template>` element serves as a storage for HTML markup templates.
+
+Usually, if we try to put `<tr>` inside, say, a `<div>`, the browser detects the invalid DOM structure and “fixes” it, adds `<table>` around, however `<template>` keeps exactly what we place there. 
+
+Its content can be any valid HTML, even if it normally requires a proper enclosing tag:
+
+```jsx
+<template>
+  <tr>
+    <td>Contents</td>
+  </tr>
+</template>
+```
+
+We can put styles and scripts into `<template>` as well:
+
+```jsx
+<template>
+  <style>
+    p { font-weight: bold; }
+  </style>
+  <script>
+    alert("Hello");
+  </script>
+</template>
+```
+
+## TLDR
+
+• `<template>` content can be any syntactically correct HTML, even those that don’t make sense without proper wrappers (e.g. `<tr>`).
+
+• `<template>` content is considered “out of the document”, so it doesn’t affect anything.
+
+• We can access `template.content` from JavaScript, clone it to reuse in a new component.

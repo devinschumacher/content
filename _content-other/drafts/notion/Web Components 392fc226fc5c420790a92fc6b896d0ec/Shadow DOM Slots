@@ -1,0 +1,86 @@
+# Shadow DOM Slots
+
+Usually, if an element has shadow DOM, then its light DOM is not displayed. Slots allow to show elements from light DOM in specified places of shadow DOM.
+
+Shadow DOM supports `<slot>` elements, that are automatically filled by the content from light DOM. 
+
+If there are multiple elements in light DOM with the same slot name, they are appended into the slot, one after another.
+
+The process of rendering slotted elements inside their slots is called “composition”. The result is called a “flattened DOM”.
+
+**There are two kinds of slots:**
+
+1. **Named slots**: `<slot name="X">...</slot>` – gets light children with `slot="X"`.
+2. **Default slots**: the first `<slot>` without a name (subsequent unnamed slots are ignored) – gets unslotted light children.
+
+For example, this:
+
+```jsx
+<user-card>
+  <span slot="username">John</span>
+  <span slot="username">Smith</span>
+</user-card>
+```
+
+Gives this flattened DOM with two elements in `<slot name="username">`:
+
+```jsx
+<user-card>
+  #shadow-root
+    <div>Name:
+      <slot name="username">
+        <span slot="username">John</span>
+        <span slot="username">Smith</span>
+      </slot>
+    </div>
+    <div>Birthday:
+      <slot name="birthday"></slot>
+    </div>
+</user-card>
+```
+
+<aside>
+💡 The `slot="..."` attribute is only valid for direct children of the shadow host
+
+</aside>
+
+If we put something inside a `<slot>`, it becomes the fallback, “default” content. The browser shows it if there’s no corresponding filler in light DOM.
+
+## Default <slot>
+
+The first `<slot>` in shadow DOM that doesn’t have a name is a “default” slot.
+
+It gets all nodes from the light DOM that aren’t slotted elsewhere.
+
+## Access & update slots
+
+The browser monitors slots and updates the rendering if slotted elements are added/removed.
+
+JavaScript can access slots using methods:
+
+- `slot.assignedNodes/Elements()` – returns nodes/elements inside the `slot`.
+- `node.assignedSlot` – the reverse property, returns slot by a node.
+
+## Monitoring slots
+
+You can track slot contents using:
+
+- `slotchange` event – triggers the first time a slot is filled, and on any add/remove/replace operation of the slotted element, but not its children. The slot is `event.target`.
+- [MutationObserver](https://javascript.info/mutation-observer) to go deeper into slot content, watch changes inside it.
+
+## Slot API
+
+JavaScript looks at the “real” DOM, without flattening, but if the shadow tree has `{mode: 'open'}`, then we can figure out which elements assigned to a slot and, vice-versa, the slot by the element inside it:
+
+- `node.assignedSlot` – returns the `<slot>` element that the `node` is assigned to.
+- `slot.assignedNodes({flatten: true/false})` – DOM nodes, assigned to the slot. The `flatten` option is `false` by default. If explicitly set to `true`, then it looks more deeply into the flattened DOM, returning nested slots in case of nested components and the fallback content if no node assigned.
+- `slot.assignedElements({flatten: true/false})` – DOM elements, assigned to the slot (same as above, but only element nodes).
+
+## TLDR
+
+Slots allow to show elements from light DOM in specified places of shadow DOM; this process of rendering slotted elements inside their slots is called “composition”. The result is called a “flattened DOM”.
+
+- Named slots: `<slot name="X">...</slot>` – gets light children with `slot="X"`.
+- Default slot: the first `<slot>` without a name (subsequent unnamed slots are ignored) – gets unslotted light children.
+- If there are many elements for the same slot – they are appended one after another.
+- The content of `<slot>` element is used as a fallback. It’s shown if there are no light children for the slot.

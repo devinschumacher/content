@@ -1,0 +1,98 @@
+# CSS Selectors
+
+CSS selectors “select” the HTML tags (aka HTML elements) that you want to style.
+
+## Type of CSS Selectors
+
+There are 5 types, or categories, of CSS selectors:
+
+1. Simple selectors
+2. Combinator selectors
+3. Pseudo-class selectors
+4. Pseudo-element selectors
+5. Attribute selectors
+
+### CSS Simple Selectors
+
+Simple selectors select HTML elements based on the HTML element’s “name”, “id”, or “class”.
+
+**The CSS Element Selector**
+
+The element selector selects all the HTML elements defined by the HTML element name.
+
+```css
+p {
+    color: green;
+    text-align: left;
+}
+```
+
+In this example, all of the HTML `<p>` element tags will be selected, and styled with a color of “green”, and a text alignment of “left”.
+
+**The CSS ID Selector**
+
+The CSS ID selector uses the HTML element’s attribute of “id” to select only the HTML element with a specific “id”. 
+
+So, instead of grabbing all of the `<p>` tags, as in the example above, we could select only the tag with an `id="paragraph1"`
+
+The syntax to use for the CSS ID selector is a `#`
+
+**Example:**
+
+```css
+#paragraph1 {
+    color: blue;
+    text-align: right;
+}
+```
+
+Since HTML attributes of “id” are meant to be unique, you don’t even need to define the HTML element.
+
+**The CSS Class Selector**
+
+Similar to the ID select, the class selector will only grab HTML elements that have the attribute of the defined class.
+
+The syntax to use for the CSS ID selector is a `.`
+
+**Example:**
+
+```css
+.myclass {
+    text-align: center;
+    color: purple;
+}
+```
+
+This CSS statement would style everything that shares the HTML attribute of `class=”myclass”`.
+
+However, if you want to make your CSS more specific and only grab certain HTML tags with that class, then you can define that as well.
+
+**Example:**
+
+```css
+p.myclass {
+    text-align: center;
+    color: purple;
+}
+```
+
+In this example, the CSS would only style the HTML `<p>` tags with the class of `class="myclass"`.
+
+**The CSS Universal Selector**
+
+The CSS universal selector, an asterisk ( `*` ) grabs all of the HTMl elements on a page.
+
+If you have any experience with other programming languages, or even something like REGEX, this should look familiar to you.
+
+**Example:**
+
+```css
+* {
+    text-align: right;
+    color: orange;
+}
+```
+
+That CSS rule will now affect every HTML element on the page.
+
+The CSS Grouping Selector

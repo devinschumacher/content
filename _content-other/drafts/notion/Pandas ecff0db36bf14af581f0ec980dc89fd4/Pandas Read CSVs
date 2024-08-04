@@ -1,0 +1,57 @@
+# Pandas Read CSVs
+
+---
+
+## Read CSV Files
+
+A simple way to store big data sets is to use CSV files (comma separated files).
+
+CSV files contains plain text and is a well know format that can be read by everyone including Pandas.
+
+In our examples we will be using a CSV file called 'data.csv'.
+
+If you have a large CSV with many rows, Pandas will only return the first 5 rows, and the last 5 rows:
+
+```python
+import pandas as pd
+
+df = pd.read_csv('data.csv')
+
+print(df
+```
+
+if you want to print the entire DataFrame, use the `to_string()` method:
+
+```python
+import pandas as pd
+
+df = pd.read_csv('data.csv')
+
+print(df.to_string())
+```
+
+## **max_rows**
+
+The number of rows returned is defined in Pandas option settings.
+
+You can check your system's maximum rows with the  statement: `pd.options.display.max_rows`
+
+Let’s check the number of maximum returned rows:
+
+```python
+import pandas as pd
+
+print(pd.options.display.max_rows)
+```
+
+We can use the same statement to alter the max_rows:
+
+```python
+import pandas as pd
+
+print.pd.options.display.max_rows = 999
+
+df = read_csv('data.csv')
+
+print(df)
+```

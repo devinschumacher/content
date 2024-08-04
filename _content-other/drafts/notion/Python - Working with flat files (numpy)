@@ -1,0 +1,18 @@
+# Python - Working with flat files (numpy)
+
+---
+
+```python
+# assign file to a variable
+file = 'spreadsheet.csv'
+
+# load the file as a numpy array, using the np.loadtxt() method
+numpyarr = np.loadtxt('spreadsheet.csv', delimiter=',')
+# or
+numpyarr = np.loadtxt(file, deliminter=',')
+```
+
+`np.loadtxt()`arguments:
+
+- `skiprows`
+- `usecols`

@@ -1,0 +1,19 @@
+# import & save data from the web: flat files - python, pandas, urllib
+
+```python
+# import urlretrieve from the request package of urllib
+from urllib.request import url retrieve
+
+# import pandas
+import pandas as pd
+
+# save the URL of the file online to variable 'url'
+url = 'https://whatever.com/whatever.csv'
+
+# save the file locally
+urlretrieve(url, 'name-it-here.csv')
+
+# read file into a dataframe
+df = rd.read_csv('name-it-here.csv', sep=',')
+
+```

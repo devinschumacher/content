@@ -1,0 +1,80 @@
+# Introduction to Django
+
+---
+
+## How to create a new Django project
+
+To create a new Django project, run:
+
+`$ django-admin startproject <project_name>`
+
+Which will create the following project structure:
+
+```
+project_name/
+    manage.py
+    mysite/
+        __init__.py
+        settings.py
+        urls.py
+        asgi.py
+        wsgi.py
+```
+
+## Django project file structure
+
+### project_name/
+
+The outer `project_name/` directory is a container for your project. 
+
+Its name doesn’t matter to Django; you can rename it to anything you like.
+
+### project_name/manage.py
+
+The `[manage.py](http://manage.py)` file is a command-line utility that lets you interact with your Django project in various ways via the CLI. 
+
+### project_name/project_name/
+
+The inner `project_name/project_name/` directory is the actual Python package for your project. Its name is the Python package name you’ll need to use to import anything inside it.
+
+### mysite/__init__.py
+
+**`mysite/__init__.py`** is an empty file that tells Python that this directory should be considered a Python package. 
+
+…
+
+- **`mysite/settings.py`**: Settings/configuration for this Django project. [Django settings](https://docs.djangoproject.com/en/4.2/topics/settings/) will tell you all about how settings work.
+- **`mysite/urls.py`**: The URL declarations for this Django project; a “table of contents” of your Django-powered site. You can read more about URLs in [URL dispatcher](https://docs.djangoproject.com/en/4.2/topics/http/urls/).
+- **`mysite/asgi.py`**: An entry-point for ASGI-compatible web servers to serve your project. See [How to deploy with ASGI](https://docs.djangoproject.com/en/4.2/howto/deployment/asgi/) for more details.
+- **`mysite/wsgi.py`**: An entry-point for WSGI-compatible web servers to serve your project. See [How to deploy with WSGI](https://docs.djangoproject.com/en/4.2/howto/deployment/wsgi/) for more details.
+
+## Django **Projects vs. Django apps**
+
+What’s the difference between a project and an app? 
+
+An app is a web application that does something – e.g., a blog system, a database of public records or a small poll app. 
+
+A project is a collection of configuration and apps for a particular website. 
+
+<aside>
+📝 A project can contain multiple apps. An app can be in multiple projects.
+
+</aside>
+
+**Create a new Django project with:**
+
+`python manage.py startproject <project-name>`
+
+**Create a new Django app with:**
+
+`python manage.py startapp <app-name>`
+
+## Django Overview
+
+When a user requests a URL in their browser to a website/app built on Django, here is what happens:
+
+1. Django receives the URL, checks the `urls.py` file, and calls the view that matches the URL.
+2. The view, located in `views.py`, checks for relevant models, located in the `models.py` file
+3. The models are imported from the `models.py` file.
+4. The view then sends the data to a specified HTML template in the `template/` folder.
+5. The template contains HTML and Django tags, and with the data it returns finished HTML content back to the browser.

@@ -1,0 +1,193 @@
+# Python Packages
+
+**Modular programming** is the process of breaking a large, unwieldy programming task into separate, smaller, more manageable subtasks or **modules**. Individual modules can then be put together like building blocks to create a larger application.
+
+There are several advantages to **modularizing** code in a large application:
+
+- **Simplicity:** Rather than focusing on the entire problem at hand, a module typically focuses on one relatively small portion of the problem. If you’re working on a single module, then you’ll have a smaller problem domain to wrap your head around. This makes development easier and less error-prone.
+- **Maintainability:** Modules are typically designed so that they enforce logical boundaries between different problem domains. If modules are written in a way that minimizes interdependency, then there is decreased likelihood that modifications to a single module will have an impact on other parts of the program. (You may even be able to make changes to a module without having any knowledge of the application outside that module.) This makes it more viable for a team of many programmers to work collaboratively on a large application.
+- **Reusability:** Functionality defined in a single module can be easily reused (through an appropriately defined interface) by other parts of the application. This eliminates the need to recreate duplicate code.
+- **Scoping:** Modules typically define a separate **namespace**, which helps avoid collisions between identifiers in different areas of a program.
+
+## What is a python package / module
+
+It’s a `[something.py](http://something.py)` file that contains objects which you can import into other projects and use the pre-built functionality.
+
+```python
+# something.py
+
+name = "Programming is fun"
+numbers = [1, 2, 3, 4]
+
+def print_numbers(nums):
+    for num in nums:
+        print(num)
+
+class MyClass:
+    def __init__(self, name):
+        self.name = name
+
+    def get_name(self):
+        return self.name
+
+```
+
+Several objects are defined:
+
+Objects defined in the [something.py](http://something.py/) file are:
+
+- `name`
+- `numbers`
+- `print_numbers` function
+- `MyClass` class
+
+These objects can be accessed by **importing** the module.
+
+## Creating a python package
+
+**Packages** allow for a hierarchical structuring of the module namespace using **dot notation**. 
+
+In the same way that **modules** help avoid collisions between global variable names, **packages** help avoid collisions between module names.
+
+Creating a **package** is quite straightforward, since it makes use of the operating system’s inherent hierarchical file structure. Consider the following arrangement:
+
+```python
+folder/
+    |–file1.py
+		|–file2.py
+```
+
+Here, there is a directory named `folder` that contains two modules, `file1.py` and `file2.py`. The contents of the modules are:
+
+`file1.py`:
+
+```python
+def foo():
+    print('[mod1] foo()')
+
+class Foo:
+    pass
+```
+
+`file2.py`:
+
+```python
+def bar():
+    print('[mod2] bar()')
+
+class Bar:
+    pass
+```
+
+Given this structure, if the `folder` directory resides in a location where it can be found (in one of the directories contained in `sys.path`), you can refer to the two **modules** with **dot notation** (`folder.mod1`, `folder.mod2`) and import them with the syntax you are already familiar with:
+
+Here are some ways to import the `file1.py` module from the `folder` package:
+
+```python
+# Import the entire module
+import folder.file1
+
+# Import specific objects from the module
+from folder.file1 import foo, Foo
+
+# Import all objects from the module
+from folder.file1 import *
+
+# Create an alias for the module
+import folder.file1 as f1
+
+```
+
+Similarly, here are some ways to import the `file2.py` module from the `folder` package:
+
+```python
+# Import the entire module
+import folder.file2
+
+# Import specific objects from the module
+from folder.file2 import bar, Bar
+
+# Import all objects from the module
+from folder.file2 import *
+
+# Create an alias for the module
+import folder.file2 as f2
+
+```
+
+## **Initialization**
+
+If a file named `__init__.py` is present in a package directory, it is invoked when the package or a module in the package is imported. This can be used for execution of package initialization code, such as initialization of package-level data.
+
+For example, consider the following `__init__.py` file:
+
+`*__init__.py`:*
+
+```python
+print(f'Invoking __init__.py for {__name__}')
+A = ['quux', 'corge', 'grault']
+```
+
+Let’s add this file to the `folder` directory from the above example:
+
+```python
+folder/
+    |–__init__.py
+    |–file1.py
+		|–file2.py
+```
+
+Now when the package is imported, the global list `A` is initialized:
+
+```python
+>>> import folder
+Invoking __init__.py for folder
+>>> folder.A
+['quux', 'corge', 'grault']
+```
+
+A **module** in the package can access the global variable by importing it in turn:
+
+***mod1.py***
+
+```python
+def foo():
+    from folder import A
+    print('[file1] foo() / A = ', A)
+
+class Foo:
+    pass
+```
+
+```python
+>>> from folder import file1
+Invoking __init__.py for folder
+>>> file1.foo()
+[file1] foo() / A =  ['quux', 'corge', 'grault']
+```
+
+`__init__.py` can also be used to effect automatic importing of modules from a package. 
+
+For example, earlier you saw that the statement `import folder` only places the name `folder` in the caller’s local symbol table and doesn’t import any modules. 
+
+But if `__init__.py` in the `folder` directory contains the following:
+
+***__init__.py***
+
+`print(f'Invoking __init__.py for {__name__}')
+import pkg.mod1, pkg.mod2`
+
+then when you execute `import pkg`, modules `mod1` and `mod2` are imported automatically:
+
+>>>
+
+`>>> import pkg
+Invoking __init__.py for pkg
+>>> pkg.mod1.foo()
+[mod1] foo()
+>>> pkg.mod2.bar()
+[mod2] bar()`
+
+**Note:** Much of the Python documentation states that an `__init__.py` file **must** be present in the package directory when creating a package. This was once true. It used to be that the very presence of `__init__.py` signified to Python that a package was being defined. The file could contain initialization code or even be empty, but it **had** to be present.
+
+Starting with **Python 3.3**, [Implicit Namespace Packages](https://www.python.org/dev/peps/pep-0420) were introduced. These allow for the creation of a package without any `__init__.py` file. Of course, it **can** still be present if package initialization is needed. But it is no longer required.

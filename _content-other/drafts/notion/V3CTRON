@@ -1,0 +1,8 @@
+# V3CTRON
+
+Topics: Artificial Intelligence, Research Papers
+Glossary Short Definition: • V3CTRON: An open-source vector database that enables super-accurate semantic search and retrieval of text-based documents using natural language queries. It supports multiple vector database providers and has a memory capability for context-aware chat experiences.
+
+V3CTRON is an open source vector database that allows users to upload text based documents & document collections, which are automatically embedded for super-accurate semantic search & retrieval using natural language queries. V3CTRON supports multiple vector database providers, including Milvus, LlamaIndex and Qdrant, giving developers flexibility & customization - and end users the ability to leverage the benefits of LLMs that can directly access their use-case specific data. A notable feature of V3CTRON is its memory capability, which allows ChatGPT to remember and retrieve information from previous conversations by saving conversation snippets to the vector database. V3CTRON is a practical solution for enhancing document accessibility and enabling context-aware and memory-relevant chat experiences with effective neural search capabilities.
+
+---

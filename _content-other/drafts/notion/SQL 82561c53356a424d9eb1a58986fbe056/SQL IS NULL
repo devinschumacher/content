@@ -1,0 +1,19 @@
+# SQL IS NULL
+
+---
+
+`IS NULL`
+ is a **[logical operator](https://mode.com/sql-tutorial/sql-logical-operators)**
+ in SQL that allows you to exclude rows with missing data from your results.
+
+You can select rows that do not have any data in a given column with `IS NULL`.
+
+```sql
+SELECT *
+FROM <table_name>
+WHERE <field> IS NULL;
+```
+
+Notice that we are using `WHERE field IS NULL` and not `WHERE field = NULL`.
+
+The latter will not work because you cannot perform arithmetic operations on NULL values.

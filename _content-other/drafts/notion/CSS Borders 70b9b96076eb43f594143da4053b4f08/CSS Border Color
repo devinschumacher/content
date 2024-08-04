@@ -1,0 +1,18 @@
+# CSS Border Color
+
+---
+
+The `border-color` property is used to set the color of the four borders.
+
+**The `border-color` can be set by:**
+
+- name - specify a color name, like "red"
+- HEX - specify a HEX value, like "#ff0000"
+- RGB - specify a RGB value, like "rgb(255,0,0)"
+- HSL - specify a HSL value, like "hsl(0, 100%, 50%)"
+- transparent
+
+<aside>
+💡 **Note:** If `border-color` is not set, it inherits the color of the element.
+
+</aside>

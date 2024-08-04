@@ -1,0 +1,887 @@
+# Make Django Application(s) into Installable Python Package
+
+Topics: Django
+
+---
+
+- References:
+    - [https://write.agrevolution.in/packaging-a-django-project-using-setuptools-c1d7d565779e](https://write.agrevolution.in/packaging-a-django-project-using-setuptools-c1d7d565779e)
+
+---
+
+## Intro: Whats a package?
+
+In Python, a package is a directory (containing `__init__.py`) with source files (also known as modules) that can be imported.
+
+```python
+my_package
+  |
+  |--__init__.py
+```
+
+## Stuff we need to make
+
+1. MANIFEST.in
+2. LICENSE
+3. README.md
+4. pyproject.toml
+5. setup.py
+6. boot_django
+
+```python
+MANIFEST.in # contains text & static files to be included in the package
+LICENSE # the license
+README.md # a README
+pyproject.toml # the build dependencies
+setup.py # instructions of how to package your project
+	¹|--install_requires=[]
+	²|--scripts=[]
+  ³|--classifiers=[]
+
+boot_django/ # used to load Django settings and setup Django before using the package
+    |--__init__.py
+    |--boot_django.py
+```
+
+¹ `install_requires`contains the minimal project dependencies that are required to run the project. When the project is installed with pip, this specification will be used to install its dependencies.
+
+² `scripts` contains the scripts that are outside the django applications and need to be packaged with the project, for example if we add `manage.py` in the scripts, this will be added in the path and you’ll be able to run any manage.py commands directly, like`manage.py runserver`
+
+³ `classifiers` is the data written for users, who can get useful information from it
+
+## Starting Directory structure
+
+Start by making a rando folder for all this tomfoolery to take place in:
+
+```bash
+❯ mkdir foo
+❯ cd foo
+❯ tree
+```
+
+Which creates this project structure:
+
+```bash
+.
+
+0 directories, 0 files
+```
+
+There’s you - a lonely `.` (which is really `foo/`.
+
+Now, let’s get started with a django proj. structure to see how this shakes out:
+
+Running the following commands to start a project, and create an app:
+
+```bash
+❯ django-admin startproject project
+❯ cd project
+❯ django-admin startapp app
+❯ cd ..
+❯ tree
+```
+
+Project structure:
+
+```bash
+.
+└── project
+    ├── app
+    │   ├── __init__.py
+    │   ├── admin.py
+    │   ├── apps.py
+    │   ├── migrations
+    │   │   └── __init__.py
+    │   ├── models.py
+    │   ├── tests.py
+    │   └── views.py
+    ├── manage.py
+    └── project
+        ├── __init__.py
+        ├── asgi.py
+        ├── settings.py
+        ├── urls.py
+        └── wsgi.py
+
+5 directories, 13 files
+```
+
+## Make Your Installable Django App
+
+To package your app, you need to pull it out of the project. 
+
+Following this idea, you can get started with packaging your installable Django app.
+
+It’s a good idea to keep the project around so you can run the Django dev server and play with a live version of your app, but don’t include it in the resulting package - but it can still live in your repository. 
+
+if you used `django-admin startproject project .` originally, you are already in the right place
+
+### Part 1: Install pre-requisites
+
+1. Install `setuptools` , `build` , and `tree`
+
+```bash
+❯ python -m venv .venv # im leaving this out of the follow tree structures
+❯ pip install setuptools build
+❯ brew install tree
+```
+
+### Part **2: Create a parent directory for the app(s)** you intend to package
+
+1. Get outside of your project directory
+
+```bash
+❯ cd project
+❯ mv app ..
+❯ cd ..
+❯ tree
+```
+
+Project structure:
+
+```bash
+.
+├── app
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   │   └── __init__.py
+│   ├── models.py
+│   ├── tests.py
+│   └── views.py
+├── manage.py
+└── project
+    ├── __init__.py
+    ├── asgi.py
+    ├── settings.py
+    ├── urls.py
+    └── wsgi.py
+
+5 directories, 13 files
+```
+
+1. Create a parent directory
+
+```bash
+❯ mkdir _packages
+❯ mkdir pkg-app
+❯ tree
+```
+
+Project structure:
+
+```bash
+.
+├── django-app
+│   └── app
+│       ├── __init__.py
+│       ├── admin.py
+│       ├── apps.py
+│       ├── migrations
+│       │   └── __init__.py
+│       ├── models.py
+│       ├── tests.py
+│       └── views.py
+└── project
+    ├── manage.py
+    └── project
+        ├── __init__.py
+        ├── asgi.py
+        ├── settings.py
+        ├── urls.py
+        └── wsgi.py
+
+6 directories, 13 files
+```
+
+1. Create a README for the app in the parent directory you made.
+
+```bash
+❯ touch django-app/README.md
+❯ tree
+```
+
+1. Populate your `README.md` (or don’t)
+
+```markdown
+# README
+
+"App" is a Django app to do XYZ...
+
+Detailed documentation is in the "docs" directory.
+
+## Quick start
+
+1. Add "app" to your INSTALLED_APPS setting like this:
+
+```python
+INSTALLED_APPS = [
+    ...,
+    "app",
+]
+```
+
+2. Include the app URLconf in your project urls.py like this:
+
+`path("app/", include("app.urls"))`,
+
+or like this if you don't want to prefix the app urls with "app/":
+
+`path("", include("app.urls"))`,
+
+3. Run `python manage.py migrate` to create the app models.
+
+4. Start the development server... etc., etc.
+
+```
+
+Project structure:
+
+```bash
+.
+├── django-app
+│   ├── README.md
+│   └── app
+│       ├── __init__.py
+│       ├── admin.py
+│       ├── apps.py
+│       ├── migrations
+│       │   └── __init__.py
+│       ├── models.py
+│       ├── tests.py
+│       └── views.py
+└── project
+    ├── manage.py
+    └── project
+        ├── __init__.py
+        ├── asgi.py
+        ├── settings.py
+        ├── urls.py
+        └── wsgi.py
+
+6 directories, 14 files
+```
+
+1. Create a LICENSE file for the app in the parent directory you made
+
+```bash
+❯ touch django-app/LICENSE
+❯ tree
+```
+
+Populate your `LICENSE` file with the relevant license:
+
+```python
+# Proprietary Example
+
+Copyright (c) 2023, SERP
+All rights reserved.
+
+No part of this software may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the copyright holder.
+```
+
+Project structure:
+
+```bash
+.
+├── django-app
+│   ├── LICENSE
+│   ├── README.md
+│   └── app
+│       ├── __init__.py
+│       ├── admin.py
+│       ├── apps.py
+│       ├── migrations
+│       │   └── __init__.py
+│       ├── models.py
+│       ├── tests.py
+│       └── views.py
+└── project
+    ├── manage.py
+    └── project
+        ├── __init__.py
+        ├── asgi.py
+        ├── settings.py
+        ├── urls.py
+        └── wsgi.py
+
+6 directories, 15 files
+```
+
+1. Create `pyproject.toml` & `setup.cfg`files.
+
+```bash
+❯ touch django-app/pyproject.toml django-app/setup.cfg
+❯ tree
+```
+
+1. Add some content to them:
+
+```toml
+# django-app/pyproject.toml
+
+[build-system]
+requires = ['setuptools>=40.8.0', 'wheel']
+build-backend = 'setuptools.build_meta'
+```
+
+*You can find our your django version with `python -m django --version`*
+
+```python
+# django-app/setup.cfg
+
+[metadata]
+name = django-app
+version = 0.1
+description = A Django app to ...
+long_description = file: README.md
+url = https://github.com/serpcompany/repo-name
+author = SERP
+license = Proprietary
+classifiers =
+    Environment :: Web Environment
+    Framework :: Django
+    Framework :: Django :: 4.2.3  
+    Intended Audience :: Internal
+    Operating System :: OS Independent
+    Programming Language :: Python
+    Programming Language :: Python :: 3
+    Programming Language :: Python :: 3 :: Only
+    Programming Language :: Python :: 3.10
+    Programming Language :: Python :: 3.11
+    Topic :: Internet :: WWW/HTTP
+    Topic :: Internet :: WWW/HTTP :: Dynamic Content
+
+[options]
+include_package_data = true
+packages = find:
+python_requires = >=3.11.4
+install_requires =
+    Django >= 4.2.3
+```
+
+Project structure:
+
+```bash
+.
+├── django-app
+│   ├── LICENSE
+│   ├── README.md
+│   ├── app
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── migrations
+│   │   │   └── __init__.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   └── views.py
+│   ├── pyproject.toml
+│   ├── setup.cfg
+└── project
+    ├── manage.py
+    └── project
+        ├── __init__.py
+        ├── asgi.py
+        ├── settings.py
+        ├── urls.py
+        └── wsgi.py
+
+6 directories, 18 files
+```
+
+Since only Python modules and packages are included in the package by default, we’ll need to create a `MANIFEST.in` file to include others - like our templates, the `README.md` and our `LICENSE` file. 
+
+1. Create a `MANIFEST.in` file
+
+```bash
+❯ touch django-app/MANIFEST.in
+❯ tree
+```
+
+Add content to your `MANIFEST.in` file:
+
+```python
+include LICENSE
+include README.md
+recursive-include app-directory *
+global-exclude __pycache__
+global-exclude *.pyc
+global-exclude .git/
+```
+
+Project structure:
+
+```bash
+.
+├── django-app
+│   ├── LICENSE
+│   ├── MANIFEST.in
+│   ├── README.md
+│   ├── app
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── migrations
+│   │   │   └── __init__.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   └── views.py
+│   ├── pyproject.toml
+│   ├── setup.cfg
+└── project
+    ├── manage.py
+    └── project
+        ├── __init__.py
+        ├── asgi.py
+        ├── settings.py
+        ├── urls.py
+        └── wsgi.py
+
+6 directories, 19 files
+```
+
+1. Create a directory + file for your app’s `docs`:
+
+```python
+❯ mkdir django-app/docs
+❯ echo "Write some documentation" > django-app/docs/index.md
+❯ tree
+```
+
+Project structure:
+
+```python
+.
+├── django-app
+│   ├── LICENSE
+│   ├── MANIFEST.in
+│   ├── README.md
+│   ├── app
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── migrations
+│   │   │   └── __init__.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   └── views.py
+│   ├── docs
+│   │   └── index.md
+│   ├── pyproject.toml
+│   ├── setup.cfg
+└── project
+    ├── manage.py
+    └── project
+        ├── __init__.py
+        ├── asgi.py
+        ├── settings.py
+        ├── urls.py
+        └── wsgi.py
+
+7 directories, 20 files
+```
+
+### Part 3: Build a package
+
+1. `cd` to your 'pkg folder’. 
+2. Make sure your APP is in there if not already.
+3. run **`python -m build`** to build your package. 
+
+When you run **`python -m build`**, Python will look at your **`pyproject.toml`** file to determine what build backend it should use and what its requirements are. 
+
+It will use **`setuptools`** as the build backend, as specified in your **`pyproject.toml`** file.
+
+After determining the build backend, Python will use it to build your package, taking into account the package metadata and options you've specified in your **`setup.cfg`** file. 
+
+The resulting distribution packages can be found in the newly created **`dist/`** directory. They will be a `dist/tar.gz` and `dist/.whl` package.
+
+The `tar.gz` will include the files you added with `MANIFEST.in`
+
+The `.whl` will only include Python files and resources specified in your **`setup.cfg`** or **`pyproject.toml`** (like package data) will be included. Non-Python files that are not explicitly specified as package data will not be included in the wheel, regardless of what's in your **`MANIFEST.in`** file. 
+
+```python
+❯ cd django-app
+❯ python -m build
+
+# ...
+
+# **Successfully built django-app-0.1.tar.gz and django_app-0.1-py3-none-any.whl**
+
+❯ cd ..
+❯ tree
+```
+
+Project structure:
+
+```bash
+.
+├── django-app
+│   ├── LICENSE
+│   ├── MANIFEST.in
+│   ├── README.md
+│   ├── app
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── migrations
+│   │   │   └── __init__.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   └── views.py
+│   ├── dist
+│   │   ├── django-app-0.1.tar.gz
+│   │   └── django_app-0.1-py3-none-any.whl
+│   ├── django_app.egg-info
+│   │   ├── PKG-INFO
+│   │   ├── SOURCES.txt
+│   │   ├── dependency_links.txt
+│   │   ├── requires.txt
+│   │   └── top_level.txt
+│   ├── docs
+│   │   └── index.md
+│   ├── pyproject.toml
+│   ├── setup.cfg
+└── project
+    ├── manage.py
+    └── project
+        ├── __init__.py
+        ├── asgi.py
+        ├── settings.py
+        ├── urls.py
+        └── wsgi.py
+
+9 directories, 26 files
+```
+
+1. Move the 'directory' folder back to the same level as your other Django apps ('blog', 'core', 'music', etc.).
+
+---
+
+---
+
+## Upload package to github
+
+**Repository Setup (new repo, first time packaging):**
+
+1. Create a github repository to store your app.
+2. **Create the workflow file**: In your repository, create a new file in the **`.github/workflows`** directory, like **`.github/workflows/main.yml`**. If the directory doesn't exist, create it.
+3. **Configure the workflow**: In the **`main.yml`** file, define a workflow that triggers on push events, installs the necessary dependencies, builds your package, and publishes it to your chosen platform (in this case, a private GitHub repository).
+
+**Example:**
+
+```yaml
+# main.yaml
+
+name: Django Package 'directory'
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: 3.11
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install build
+      - name: Build package
+        run: |
+          python -m build
+          if [ ! -f ./dist/directory-0.1.0.tar.gz ]; then echo "Build failed"; exit 1; fi
+      - name: Get version
+        id: get_version
+        run: |
+          echo "::set-output name=version::$(python -c "import toml; print(toml.load('pyproject.toml')['project']['version'])")"
+      - name: Upload package
+        uses: actions/upload-artifact@v2
+        with:
+          name: dist
+          path: dist/*
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.run_number }}
+          release_name: Release ${{ github.run_number }}
+          draft: false
+          prerelease: false
+      - name: Check release
+        run: |
+          if [ -z "${{ steps.create_release.outputs.upload_url }}" ]; then echo "Release creation failed"; exit 1; fi
+      - name: List contents of dist directory
+        run: ls -l ./dist
+      - name: Upload Release Asset
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./dist/directory-0.1.0.tar.gz
+          asset_name: directory-0.1.0.tar.gz
+          asset_content_type: application/gzip
+```
+
+Now, whenever you push to the master branch, it will create a new release and attach the built package to it
+
+### Your repo is built, your workflow is built.
+
+1. **Commit and push your changes**: Commit the workflow file and push it to your repository. 
+
+Now your package is updated on the remote. 
+
+**What about your other projects??**
+
+To update the package in your other projects, you would then pull the latest release of the package from GitHub.
+
+f you have a large number of projects that depend on this package, updating them manually would indeed be quite tedious. A more efficient approach would be to use a continuous integration (CI) system in those projects to automate the update process as well. 
+
+### Here's how you can do it:
+
+you can set up a separate script or GitHub workflow that is triggered manually and pushes a signal to your other projects to initiate their update processes.
+
+In each of your projects, you would then have a GitHub workflow that watches for this signal (such as a repository_dispatch event) and updates the package when it receives it.
+
+**Here's a basic example of how you can set up the manual triggering workflow in your package repository:**
+
+```yaml
+name: Trigger Updates
+
+on:
+  workflow_dispatch:
+    inputs:
+      repos:
+        description: 'Comma-separated list of repositories to update'
+        required: true
+
+jobs:
+  trigger:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Trigger update workflows
+      run: |
+        IFS=', ' read -r -a repos <<< "${{ github.event.inputs.repos }}"
+        for repo in "${repos[@]}"; do
+          curl -X POST \
+               -H "Authorization: token ${{ secrets.PAT }}" \
+               -H "Accept: application/vnd.github.everest-preview+json" \
+               "https://api.github.com/repos/$repo/dispatches" \
+               -d '{"event_type": "update_package"}'
+        done
+```
+
+This workflow is triggered manually from GitHub's UI and takes a comma-separated list of repositories to update as input. It then sends a POST request to the repository_dispatch endpoint of each repository's GitHub API, which will trigger an "update_package" event in those repositories.
+
+**In each of your other projects, you can then have a workflow like this:**
+
+```yaml
+name: Update package
+
+on:
+  repository_dispatch:
+    types: [update_package]
+
+jobs:
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install your-package>=0.x  # Replace 'your-package' and '0.x' with your package's name and minimum version
+    - name: Run tests
+      run: |
+        # Add commands to run your tests here
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'Your Name'
+        git config --global user.email 'your.email@example.com'
+        git commit -am "Update package"
+        git push
+```
+
+## ALTERNATIVELY:
+
+You could log into the server and `cd` into each project and git pull repo updates.
+
+Or, automate it with a bash script:
+
+```yaml
+#!/bin/bash
+
+declare -a repos=("repo1" "repo2" "repo3" "repo4" "repo5")
+
+for repo in "${repos[@]}"
+do
+   echo "Updating $repo"
+   cd /path/to/your/repos/$repo
+   git pull
+   # Maybe you want to restart the service associated with the repo or any other post-update action
+   echo "Updated $repo"
+done
+```
+
+### Anytime you want to package new developments/updates you can:
+
+1. drag your ‘directory’ app back into the outer folder
+2. update the version number on the steup files
+3. cd to your 'app folder’, run **`python -m build`** to build your package. This will create another distribution package that you can release.
+4. Move the 'directory' folder back to the same level as your other Django apps ('blog', 'core', 'music', etc.).
+5. Commit and push the new package to your repository!
+
+---
+
+# What about the *other* projects that are using this app(s)?
+
+You can use GitHub Actions to automate the process of updating your other projects that use this app. 
+
+In your other projects, you can create a GitHub Action that watches for new releases of the 'directory' app. 
+
+Once it detects a new release, the action can automatically update the version of the 'directory' app that your project depends on.
+
+Here is a rough outline of how you can do this:
+
+1. Create a GitHub Action workflow file (e.g., `.github/workflows/update_directory_app.yml`) in your other projects that depend on the 'directory' app.
+2. In this workflow file, specify a job that gets triggered on a schedule (e.g., once a day) or through a webhook.
+3. In the job, write a step that checks for a new release of the 'directory' app. You can do this by calling the GitHub API to get the latest release and comparing it with the current version your project is using.
+4. If a new release is found, update the version of the 'directory' app in your project's requirements file or wherever you specify your project's dependencies.
+5. Commit and push these changes to your repository.
+
+Here's an example of what the workflow file might look like:
+
+```yaml
+name: Update directory app
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install PyGithub  # Install a Python library to interact with the GitHub API
+    - name: Check for new release and update if necessary
+      run: python .github/update_directory_app.py  # This script would implement the logic mentioned in steps 3-5
+
+```
+
+Please note that this is a basic example and the actual implementation might vary depending on your specific needs and setup.
+
+The `update_directory_app.py` would be a Python script that uses the GitHub API to fetch the latest release of the 'directory' app, compare it with the current version in your project, and update it if necessary. There are many ways you could implement this, depending on your project's structure and how you manage your dependencies.
+
+Remember to handle the case where the new release of the 'directory' app introduces breaking changes. In this case, you might not want to automatically update to the new version without first making necessary changes to your project to accommodate these breaking changes.
+
+---
+
+### Part: Test your packages
+
+1. Create a new django project where you plan to use your app(s) following the usual django project creation process
+
+```bash
+❯ python -m venv venv-django-testproject
+❯ source venv-django-testproject/bin/activate
+❯ django-admin startproject testproject .
+❯ tree -I 'venv-django-testproject'
+```
+
+Project structure:
+
+```bash
+.
+├── manage.py
+└── testproject
+    ├── __init__.py
+    ├── asgi.py
+    ├── settings.py
+    ├── urls.py
+    └── wsgi.py
+
+2 directories, 6 files
+```
+
+1. Inside the newly created Django project, create a `requirements.txt` file & include your git repository:
+
+```python
+❯ echo "git+https://github.com/serpcompany/repo-name.git#subdirectory=django-app" > requirements.txt
+❯ tree -I 'venv-django-testproject'
+```
+
+Project structure:
+
+```bash
+.
+├── manage.py
+├── requirements.txt
+└── testproject
+    ├── __init__.py
+    ├── asgi.py
+    ├── settings.py
+    ├── urls.py
+    └── wsgi.py
+
+2 directories, 7 files
+```
+
+1. Install your app(s) from the `requirements.txt` file
+
+```python
+❯ pip install -r requirements.txt
+```
+
+1. Confirm they installed with `pip freeze` - This command will list all the installed Python packages, including your Django app(s), if they were successfully installed.
+
+```bash
+❯ pip freeze
+
+asgiref==3.7.2
+Django==4.2.3
+django-app @ git+https://github.com/serpcompany/packtest.git@bb578d98d98e361bcd8bff0e67aaf35fe45a4edd#subdirectory=django-app
+sqlparse==0.4.4
+```
+
+1. Add your app to the **`INSTALLED_APPS`** list in the **`settings.py`** file of your new Django project:
+
+```python
+# settings.py
+
+INSTALLED_APPS = [
+    ...
+    ...
+    'app',
+]
+```
+
+6. Start your development server to test the apps:
+
+```python
+❯ python manage.py runserver
+```

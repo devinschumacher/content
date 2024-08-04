@@ -1,0 +1,12 @@
+﻿Name,Text,Tags
+https://browserleaks.com/,,
+WebGPU Browser Report,the successor to WebGL,
+Client Hints Test,HTTP and JavaScript Client Hints test page,
+DNS Leak Test,standalone page for DNS Leak Test,
+CSS Media Queries,brute-forcing Media Queries in pure CSS,
+ClientRects Fingerprintingelements,measuring the size and position of rendered HTML,
+Do Not Track,checking whether the DNT or GPC is enabled in your browser,
+Flash Player,showing device info using Flash Player,
+Silverlight,showing device info using Silverlight plugin,
+Java Applet,showing device info using Java applet,
+Firefox Resources Reader,reading Resource URLs in pre-Quantum Firefox,

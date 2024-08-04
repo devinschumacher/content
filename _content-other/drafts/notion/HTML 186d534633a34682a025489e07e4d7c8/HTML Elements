@@ -1,0 +1,11 @@
+# HTML Elements
+
+---
+
+The HTML **element** is everything from the start tag to the end tag.
+
+```html
+<!-- An HTML element -->
+
+<TAG> Content goes here Here </TAG>
+```

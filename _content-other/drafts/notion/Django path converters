@@ -1,0 +1,29 @@
+# Django path converters
+
+```python
+urlpatterns = [
+    path('index/<this:that>/', views.index, name='index'),
+]
+```
+
+Thise part: `<this:that>` are path converters:
+
+### this
+
+`this` = is the type of the variable that you are capturing. 
+
+Django will use this to validate and convert the captured string into the specified type. 
+
+Some of the built-in types are **`str`**, **`int`**, **`slug`**, and **`uuid`**. **`str`**, which is used in the example, will match any non-empty string, excluding the path separator, '/'.
+
+Django allows you to define custom path converters.
+
+- [Django custom path converters](Django%20custom%20path%20converters%20b15358de3efa42d8b4ec1a93f34c8532.md)
+
+### that
+
+`that` = is the variable name that you will use in your view to access the captured value. 
+
+This value will be passed as an argument to the view function.
+
+In the example, **`template_version`** is used as the variable name.

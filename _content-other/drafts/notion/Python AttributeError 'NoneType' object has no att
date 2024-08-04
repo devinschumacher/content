@@ -1,0 +1,40 @@
+# Python AttributeError: 'NoneType' object has no attribute 'text’
+
+This is a pretty annoying error, and one I didn’t really understand for a while.
+
+Here’s an example… I was “practing some data science” trying to extract information about boxers from websites and wrote this piece of code:
+
+```python
+# get the boxer_reach (in cm)
+boxer_reach = soup.find('div', class_='boxer__reach').text.strip()
+boxer_reach
+```
+
+And I received the error:
+
+```jsx
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+Cell In[26], line 2
+      1 # get the boxer_reach (in cm)
+----> 2 boxer_reach = soup.find('div', class_='boxer__reach').text.strip()
+      3 boxer_reach
+
+AttributeError: 'NoneType' object has no attribute 'text'
+```
+
+Sick of getting this error I finally looked into wtf is means so I could stop writing code that would return it.
+
+**Here’s what it means:**
+
+1. The error message is telling you that the **`find`** method is returning **`None`**, 
+
+This means that you went spoonin’ through your “soup” object and there were no **`div`** elements with a **`class`** = **`boxer__reach`**.
+
+When the **`find`** method can't find the element you're looking for, it returns **`None`**. So when you try to access the **`text`** attribute of **`None`**, it raises an **`AttributeError`** because **`None`** doesn't have a **`text`** attribute.
+
+This error is a common issue when scraping websites, and usually means one of a few things:
+
+1. **The element doesn't exist**: In this case, there is no **`div`** with a class of **`boxer__reach`** on the page you're scraping.
+2. **The class name has been mistyped or changed**: Website designs and structures can change over time or even dynamically. You should double-check the website to ensure that the class name is still **`boxer__reach`**.
+3. **The data is loaded dynamically**: The data you're looking for might be loaded with JavaScript after the initial page load, which BeautifulSoup can't handle as it only parses the initial HTML.

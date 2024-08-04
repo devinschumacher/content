@@ -1,0 +1,90 @@
+# Autonomous Custom Web Elements
+
+Autonomous custom elements are “standalone” — they don't inherit from standard HTML elements. You use these on a page by literally writing them out as an HTML element.
+
+To create a custom element, we need to tell the browser several details about it.
+
+## **Autonomous Custom Elements**
+
+That’s done by making a class with special methods.
+
+There are only few methods, and all of them are optional.
+
+Here’s a list:
+
+```jsx
+// first you create the element by making a 'class'
+
+class MyElement extends HTMLElement {
+    constructor() {
+        super();
+        // always call super() first in a constructor
+    }
+
+    connectedCallback() {
+        // the browser calls this function (method) when the element has been added to the DOM
+        // this can be called many time if an element is repeatedly added/removed
+    }
+            
+    disconnectedCallback() {
+        // the browser calls this function (method) when the element has been removed from the DOM
+        // this can be called many time if an element is repeatedly added/removed
+    }
+
+    static get observedAttributes() {
+        return [/* array of attribute names to monitor for changes */];
+    }
+        
+    attributeChangedCallback(name, oldValue, newValue) { 
+        // the browser calls this function (method) when the value of an attribute has changed
+    }
+
+    adoptedCallback() {
+        // the browser calls this function (method) when the element has been moved to a new document
+        // (happens in document.adoptNode, very rarely used)
+    }
+}
+
+// now you need to register the element
+// the syntax is `customElements.define(tag, class`
+
+customElements.define('my-element', MyElement);
+```
+
+Whatever you have put in your `class` and finished off with the ‘registering of the element’ using the `customElements.define('my-element', MyElement);` syntax, would be put inside of a javascript file, for example: `myElement.js` so it can be used later.
+
+You are now able to put the actual HTML tag element in to your webpage by either:
+
+1. adding it as HTML, like: `<my-element></my-element>` , OR
+2. adding it via JavaScript, like: `document.createElement('my-element')`
+
+<aside>
+💡 **Note**: The name of the custom element must include a hyphen (-).
+
+</aside>
+
+This is to differentiate it from standard HTML elements and to ensure compatibility with future versions of HTML. 
+
+Additionally, it is a good practice to keep the name of your custom element short and descriptive, and to use a ‘namespace’:
+
+*A “namespace” is a custom prefix that you give to your code to ensure there are no code conflict, and also to group them together into a ‘collection’ or ‘group’ of similar components.*
+
+## TLDR
+
+**Autonomous web elements**: new tags, extending `HTMLElement`.
+
+Definition scheme:
+
+```jsx
+class MyElement extends HTMLElement {
+  constructor() { super(); /* ... */ }
+  connectedCallback() { /* ... */ }
+  disconnectedCallback() { /* ... */  }
+  static get observedAttributes() { return [/* ... */]; }
+  attributeChangedCallback(name, oldValue, newValue) { /* ... */ }
+  adoptedCallback() { /* ... */ }
+ }
+
+customElements.define('my-element', MyElement);
+/* creates the html tag: <my-element> */
+```

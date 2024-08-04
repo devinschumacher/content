@@ -1,0 +1,20 @@
+# How to convert existing MySQL database tables into Django models
+
+# **From MySQL to Django:**
+
+1. Connect to your MYSQL DB in the [setting.py](http://setting.py/) file & pip install mysqlclient
+2. run `python manage.py inspectdb > models.py`This command will inspect the database defined in your DATABASES setting and output a [models.py](http://models.py/) file with a basic model for each table in the database.
+3. Fine-Tune the Models: Open the [models.py](http://models.py/) file and review the generated models. You might need to make some adjustments to the models to handle relationships, custom fields, or other database features that inspectdb can't handle automatically.
+4. Move the [models.py](http://models.py/) File (Optional): If you ran the inspectdb command from the project directory, move the [models.py](http://models.py/) file to your app directory.
+5. Include the App in Your Project: Add the app to the INSTALLED_APPS setting of your Django project so that Django knows to use it.
+6. Run Migrations:
+`python [manage.py](http://manage.py/) makemigrations your_app_name`
+`python [manage.py](http://manage.py/) migrate`
+
+# **From Django (with MySQL) to PostgreSQL:**
+
+1. Install PostgreSQL Database and Client: `pip install psycopg2`
+2. Update the **`DATABASES`** setting in your **`settings.py`** file to use the PostgreSQL database.
+3. Use Django’s **`makemigrations`** and **`migrate`** commands to create the database schema in your new PostgreSQL database.
+4. Use a tool or command to export the data from your MySQL database as a fixture (a serialized data format). Django provides a **`dumpdata`** command for this purpose; `python [manage.py](http://manage.py/) dumpdata > datadump.json`
+5. Use the **`loaddata`** command to load the fixture data into your PostgreSQL database: `python [manage.py](http://manage.py/) loaddata datadump.json`

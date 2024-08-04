@@ -1,0 +1,31 @@
+# Shadow Tree
+
+**A DOM element can have two types of DOM subtrees:**
+
+1. Light tree: a *regular* DOM subtree, made of HTML children.
+2. Shadow tree: a *hidden* DOM subtree, not reflected in HTML; hidden by default.
+
+If an element has both, then the browser renders only the shadow tree.
+
+Shadow trees can be used in Custom Elements to hide component internals and apply component-local styles.
+
+For example, this `<show-hello>` element hides its internal DOM in shadow tree:
+
+```jsx
+class ShowHello extends HTMLElement {
+    connectedCallback() {
+        const shadow = this.attachShadow({ mode: 'open' });
+        shadow.internalHTML = `<p>
+        Hello, ${this.getAttribute('name')}
+        </p>`
+    }
+};
+
+customElements.define('show-hello', ShowHello)
+
+/* and in the HTML file:
+
+<show-hello name="John"></show-hello>
+
+*/
+```

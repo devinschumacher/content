@@ -1,0 +1,45 @@
+# CSS Borders
+
+---
+
+CSS border properties allow you to specify the style, width, and color of an element's border, using `border-style`.
+
+---
+
+[CSS Border Styles](CSS%20Borders%2070b9b96076eb43f594143da4053b4f08/CSS%20Border%20Styles%20fc01b21160d044ae80dd1da8125bb2a1.md)
+
+CSS Border Width
+
+[CSS Border Color](CSS%20Borders%2070b9b96076eb43f594143da4053b4f08/CSS%20Border%20Color%2043e255c5097b468bb99b66da52ec9e66.md)
+
+CSS Border Sides
+
+CSS Borders - *Shorthand*
+
+---
+
+## All CSS Border Properties
+
+| Property | Description |
+| --- | --- |
+| https://www.w3schools.com/cssref/pr_border.asp | Sets all the border properties in one declaration |
+| https://www.w3schools.com/cssref/pr_border-bottom.asp | Sets all the bottom border properties in one declaration |
+| https://www.w3schools.com/cssref/pr_border-bottom_color.asp | Sets the color of the bottom border |
+| https://www.w3schools.com/cssref/pr_border-bottom_style.asp | Sets the style of the bottom border |
+| https://www.w3schools.com/cssref/pr_border-bottom_width.asp | Sets the width of the bottom border |
+| https://www.w3schools.com/cssref/pr_border-color.asp | Sets the color of the four borders |
+| https://www.w3schools.com/cssref/pr_border-left.asp | Sets all the left border properties in one declaration |
+| https://www.w3schools.com/cssref/pr_border-left_color.asp | Sets the color of the left border |
+| https://www.w3schools.com/cssref/pr_border-left_style.asp | Sets the style of the left border |
+| https://www.w3schools.com/cssref/pr_border-left_width.asp | Sets the width of the left border |
+| https://www.w3schools.com/cssref/css3_pr_border-radius.asp | Sets all the four border-*-radius properties for rounded corners |
+| https://www.w3schools.com/cssref/pr_border-right.asp | Sets all the right border properties in one declaration |
+| https://www.w3schools.com/cssref/pr_border-right_color.asp | Sets the color of the right border |
+| https://www.w3schools.com/cssref/pr_border-right_style.asp | Sets the style of the right border |
+| https://www.w3schools.com/cssref/pr_border-right_width.asp | Sets the width of the right border |
+| https://www.w3schools.com/cssref/pr_border-style.asp | Sets the style of the four borders |
+| https://www.w3schools.com/cssref/pr_border-top.asp | Sets all the top border properties in one declaration |
+| https://www.w3schools.com/cssref/pr_border-top_color.asp | Sets the color of the top border |
+| https://www.w3schools.com/cssref/pr_border-top_style.asp | Sets the style of the top border |
+| https://www.w3schools.com/cssref/pr_border-top_width.asp | Sets the width of the top border |
+| https://www.w3schools.com/cssref/pr_border-width.asp | Sets the width of the four borders |

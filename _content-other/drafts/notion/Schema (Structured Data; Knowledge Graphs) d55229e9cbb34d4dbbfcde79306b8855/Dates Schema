@@ -1,0 +1,14 @@
+# Dates Schema
+
+---
+
+| precision | timestamp string | meaning | comments |
+| --- | --- | --- | --- |
+| day | +2023-02-05T00:00:00Z | 5 February 2023 | today's date |
+| month | +2023-02-00T00:00:00Z | February 2023 | this month |
+| year | +2023-00-00T00:00:00Z | 2023 | current year |
+| decade | +2010-00-00T00:00:00Z | 2010s | Any date in range 2010-2019 with precision 8 is interpreted as 2010s. |
+
+* note: timestamps are optional
+
+*reference:* [https://www.wikidata.org/wiki/Help:Dates](https://www.wikidata.org/wiki/Help:Dates)

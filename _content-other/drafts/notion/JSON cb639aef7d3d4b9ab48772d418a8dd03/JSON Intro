@@ -1,0 +1,105 @@
+# JSON Intro
+
+---
+
+**J**ava**S**cript **O**bject **N**otation (JSON) is a “text format” or data that makes storing, understanding, and “transporting” easy.
+
+JSON creates “Objects” in a structured manner that makes it easy for computers, programs, etc. to understand relationships of the data.
+
+For example, let’s say you wanted to store information about your friend Anthony, in JSON.
+
+```json
+
+{ "friend": { "name": "Anthony", "age": 35, "favoriteFood": "sushi" } }
+
+// can also be displayed like this to see the "object" structure more clearly
+
+{
+  "friend": {
+    "name": "Anthony",
+    "age": 35,
+    "favoriteFood": "sushi"
+  }
+}
+```
+
+This is a JSON `object` called “friend” with 3 `properties` and their associated `values`.
+
+These `property` : `value` things are called “key-value” pairs.
+
+JSON `object` for “friend”:
+
+| Property | Value |
+| --- | --- |
+| name | Anthony |
+| age | 35 |
+| favoriteFood | sushi |
+
+Writing JSON is kind of like how us human use lists (like bullet points lists, or outlines) to visualize the structure and organization of things. 
+
+I guess the human equivalent of this would be something like:
+
+**My friend Anthony:**
+
+- Age: 35
+- Favorite Food: sushi
+
+Well, how about a group of friends? What then?
+
+```json
+
+{ "friendsList": { "friend": [{ "name": "Anthony", "age": 35, "favoriteFood": "sushi" }, { "name": "Alex", "age": 35, "favoriteFood": "burritos" }] }}
+
+// can also be displayed like this to see the "object" structure more clearly
+
+{
+  "friendsList": {
+    "friend": [
+      {
+        "name": "Anthony",
+        "age": 35,
+        "favoriteFood": "sushi"
+      },
+      {
+        "name": "Alex",
+        "age": "36",
+        "favoriteFood": "burritos"
+      }
+    ]
+  }
+}
+```
+
+Here we can see we have an `object` “friendsList” that contains an `array` (also an `object`) of individual “friend” `objects` - each with `properties` and corresponding `values`.
+
+Human equivalent of this might look something like:
+
+**My friends:**
+
+- Anthony
+    - age: 35
+    - favorite food: sushi
+- Alex
+    - age: 36
+    - favorite food: burritos
+
+Humans can infer very easily that “Anthony” and “Alex” are our friends names. Because we grew up meeting people with those names - so we just know by experience, association, and semantics that those are their names. 
+
+We don’t need to write it like this:
+
+**My friends:**
+
+- name: Anthony
+    - age: 35
+    - favorite food: sushi
+- name: Alex
+    - age: 36
+    - favorite food: burritos
+    
+
+^ That would be kind of a weird outline for us, don’t you think?
+
+But computers are dumb-dumbs and don’t know things like this, so we have to be much more specific in our defining of what each thing is - and that is where “syntax” comes into play 
+
+> *Although computers are dumb-dumbs and don’t easily understand things like the example above, with the ability to now train Artificial Intelligence models, they now have the ability to learn & understand things like this.*
+>

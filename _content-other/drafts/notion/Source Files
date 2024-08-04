@@ -1,0 +1,38 @@
+# Source Files
+
+Topics: Bootstrap
+
+**Source files** are files that are meant to be processed by a theme’s build tools.
+
+## Types of source files
+
+### **SCSS files**
+
+**SCSS files are always source files** because they *must be compiled* by your theme’s build tool to generate a CSS file that a browser can understand.
+
+### **HTML files with any non-standard syntax are source files.**
+
+Some themes make use of libraries to create "includes" for elements shared across multiple pages. These includes *must be compiled* by your theme’s build tool to generate standard HTML.
+
+Source files are commonly in folders named `src/` or `app/`
+
+## Build Tools
+
+Build tools (like **[Gulp](https://gulpjs.com/), [Grunt](https://gruntjs.com/), and [Webpack](https://webpack.js.org/)) are JavaScript libraries used to compile a theme’s source files and create a local server**
+
+Each library has different syntax and capabilities and it’s up to each author which library they prefer to use. They all achieve the same result end result: allow us to compile source files and view those changes immediately in a browser.
+
+You run a "build process" to *compile* source files and create a local server to preview pages.
+
+Compiled files are often found in `/dist`, `public/`, or `build/` folders.
+
+## Local development setup process
+
+The basic process of setting up local development is roughly the same in every theme:
+
+1. Install a theme’s dependencies from your command line via npm. (i.e. `npm install`)
+2. Run a "watch" or "build" command powered by Gulp, Grunt, or Webpack build tools. (i.e. `npm start` or `gulp`)
+3. Open your browser to your local server’s address (i.e. open Chrome to `localhost:3000`)
+4. Edit source files and preview changes instantly with live reload
+
+![Untitled](Source%20Files%20b3632396ed9c4b4da6be8df01f211321/Untitled.png)

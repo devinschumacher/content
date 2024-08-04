@@ -1,0 +1,124 @@
+# Auto generate database schema in Django mysql postgres sqlite
+
+Topics: Django
+
+First you need an entire DB to clone, so you might have to make a DB by selecting specific MYSQL tables and cloning their SCHEMA and DATA over to a new DB.
+
+In Beekeeper/whatever, run a command like so: 
+
+```sql
+CREATE DATABASE new_database;
+
+USE new_database;
+
+CREATE TABLE new_table AS SELECT * FROM old_database.old_table;
+CREATE TABLE new_table AS SELECT * FROM old_database.old_table;
+...
+```
+
+**Example:** 
+
+```sql
+CREATE DATABASE boxing_export_db;
+
+USE boxing_export_db;
+
+CREATE TABLE boxing_boxers AS SELECT * FROM serp_app_db.boxing_boxers;
+CREATE TABLE boxing_boxers_titles_map AS SELECT * FROM serp_app_db.boxing_boxers_titles_map;
+CREATE TABLE boxing_boxers_weight_class_map AS SELECT * FROM serp_app_db.boxing_boxers_weight_class_map;
+CREATE TABLE boxing_calendar AS SELECT * FROM serp_app_db.boxing_calendar;
+CREATE TABLE boxing_calendar_boxers_map AS SELECT * FROM serp_app_db.boxing_calendar_boxers_map;
+CREATE TABLE boxing_fights AS SELECT * FROM serp_app_db.boxing_fights;
+CREATE TABLE boxing_titles AS SELECT * FROM serp_app_db.boxing_titles;
+CREATE TABLE boxing_weight_classes AS SELECT * FROM serp_app_db.boxing_weight_classes;
+CREATE TABLE projects_modules_boxers_map AS SELECT * FROM serp_app_db.projects_modules_boxers_map;
+
+```
+
+## Step 1: Install Necessary Packages
+
+`pip install mysqlclient psycopg2-binary psycopg2`
+
+## Step 2: Configure MySQL in Django
+
+```python
+DATABASES = {
+	'default': {
+		'ENGINE': 'django.db.backends.mysql',
+		'NAME': 'your_mysql_db_name',
+		'USER': 'your_mysql_username',
+		'PASSWORD': 'your_mysql_password',
+		'HOST': 'your_mysql_host',
+		'PORT': 'your_mysql_port',
+	}
+}
+```
+
+## Step 3: Generate Django Models
+
+```python
+# run 
+python manage.py inspectdb > models.py
+```
+
+## Step 4: Clean Up Generated Models
+
+Human/manual review of model generations. 
+
+Make any adjustments before you make migrations.
+
+- Organize
+- Segment them around into the correct apps (if relevant)
+- Ensure relationships (foreign keys, many-to-many fields) are correctly defined.
+- Add **`str`** methods, customize `Meta` options, etc.
+
+## Step 5: Make Migrations
+
+Now, while still connected to MySQL, make your migrations.
+
+```python
+python manage.py makemigrations
+```
+
+*This step creates the migration files based on the models.*
+
+## Step 6: Configure PostgreSQL in Django
+
+```sql
+DATABASES = {
+	'default': {
+		'ENGINE': 'django.db.backends.postgresql',
+		'NAME': 'your_postgres_db_name',
+		'USER': 'your_postgres_username',
+		'PASSWORD': 'your_postgres_password',
+		'HOST': 'your_postgres_host',
+		'PORT': 'your_postgres_port',
+		}
+	}
+```
+
+### **Step 7: Apply Migrations 📍**
+
+After switching to PostgreSQL, apply the migrations.
+
+```python
+python manage.py migrate
+```
+
+### **Step 8: Import Data**
+
+**Choose a strategy to migrate data:**
+
+1. Use a database tool to perform data migration between MySQL and PostgreSQL.
+2. Use Django's **`dumpdata`** and **`loaddata`** commands to export data from MySQL and import into PostgreSQL. Make sure to adjust **`DATABASES`** settings appropriately between commands if you’re working in a single Django project.
+3. Use a custom script or tool designed for data migration between different DBMSs.
+
+### **Additional Notes:**
+
+- **Testing:** Ensure thorough testing of the application with the new PostgreSQL database to validate data integrity and functionality.
+- **Backup:** Always maintain a backup of your original MySQL database to avoid accidental data loss.
+- **Review Relationships:** Post migration, verify relationships and constraints in the PostgreSQL database to ensure data consistency.
+
+This order ensures that the migration files are generated based on the models while connected to MySQL and then applied when connected to PostgreSQL. 
+
+Data migration can then be performed to populate the PostgreSQL database with your existing data.

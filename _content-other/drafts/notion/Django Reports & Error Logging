@@ -1,0 +1,30 @@
+# Django Reports & Error Logging
+
+• https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/#error-reporting
+
+---
+
+Django uses and extends Python’s builtin **`[logging](https://docs.python.org/3/library/logging.html#module-logging)`** module to perform system logging.
+
+A Python logging configuration consists of four parts:
+
+- [Loggers](https://docs.djangoproject.com/en/4.2/topics/logging/#topic-logging-parts-loggers)
+- [Handlers](https://docs.djangoproject.com/en/4.2/topics/logging/#topic-logging-parts-handlers)
+- [Filters](https://docs.djangoproject.com/en/4.2/topics/logging/#topic-logging-parts-filters)
+- [Formatters](https://docs.djangoproject.com/en/4.2/topics/logging/#topic-logging-parts-formatters)
+
+## Loggers
+
+A *logger* is the entry point into the logging system. 
+
+Each logger is a named bucket to which messages can be written for processing.
+
+A logger is configured to have a *log level*. This log level describes the severity of the messages that the logger will handle. 
+
+**Python defines the following log levels:**
+
+- **`DEBUG`**: Low level system information for debugging purposes
+- **`INFO`**: General system information
+- **`WARNING`**: Information describing a minor problem that has occurred.
+- **`ERROR`**: Information describing a major problem that has occurred.
+- **`CRITICAL`**: Information describing a critical problem that has occurred.

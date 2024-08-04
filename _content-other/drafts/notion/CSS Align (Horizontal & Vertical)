@@ -1,0 +1,62 @@
+# CSS Align (Horizontal & Vertical)
+
+Topics: CSS
+
+---
+
+## Center Align
+
+### Center Align Elements
+
+To horizontally center a block element, use `margin: auto;`
+
+Setting the width of the element will prevent it from stretching out to the edges of its container.
+
+<aside>
+💡 **Note:** Center aligning has no effect if the `width` property is not set (or set to 100%).
+
+</aside>
+
+### **Center Align Text**
+
+To center only *the text inside an element*, use `text-align: center;`
+
+### **Center an Image**
+
+To center an image, set left and right margin to `auto` and make it into a `block` element:
+
+> **See also**: [CSS Text Alignment](CSS%20Text%20a87e132fc2354bf7bcab9a56b920a02d/CSS%20Text%20Alignment%20afa91a3fe39e4cc0ada33dede33e69cc.md)
+> 
+
+## Left & Right Align
+
+### Left & Right Align - Using `position`
+
+One method for aligning elements is to use `position: absolute;`
+
+```css
+/* Example using `position: absolute;` */
+
+.right {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+```
+
+### Left & Right Align - Using `float`
+
+Another method for aligning elements is to use the `float` property:
+
+```css
+/* Example using float */
+
+.right {
+  float: right;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+```

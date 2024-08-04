@@ -1,0 +1,20 @@
+# SQL Comparison Operators
+
+---
+
+Comparison operators are probably the most common of any terminology you will encounter across your entire journey as a programmer. 
+
+So common, in fact, that I guarantee you’ve already encountered them - and so has your 11 year old nephew.
+
+That’s because comparison operators are what we use in math class!
+
+But they aren’t strictly limited to math & numbers anymore - let’s take a look.
+
+| Operator | Definition |
+| --- | --- |
+| Equal to | = |
+| Not equal to | <> or != |
+| Greather than | > |
+| Less that | < |
+| Greater than or equal to | >= |
+| Less than or equal to | <= |

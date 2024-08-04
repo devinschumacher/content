@@ -1,0 +1,109 @@
+# Intro to CSS
+
+## What is CSS?
+
+CSS, or Cascading Style Sheets, is the language used to “style” web pages.
+
+CSS is used to define style for HTML elements, like how they should be displayed - from color, to size, to position, etc.
+
+It was created by the World Wide Web Consortium as a way to provide styling to HTML documents, without having to add additional code into the HTML documents themselves.
+
+The purpose of HTML is to provide structure, and describe the various types of content, for a web page. Anything related to the design, style & display of that HTML markup should be handled by something other than the HTML. 
+
+Most of this styling is handled by CSS.
+
+## Where do you write CSS?
+
+### Inline CSS
+
+CSS *can* be written “inline” - meaning within the HTML markup itself - but it is not the ideal/preferred method.
+
+**Example - Inline CSS:**
+
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:blue;text-align:center;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
+
+</body>
+</html>
+```
+
+### Internal CSS
+
+Internal CSS refers to using CSS inside of an HTML document, but differs from inline CSS in that you define all of the CSS in the `<head>` are inside of `<style>` tags. 
+
+So, its a little more flexible than inline CSS - but still not the best option.
+
+**Example - Internal CSS:**
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
+
+### External CSS
+
+CSS can also be written in a completely separate `.css` file, typically called a ‘stylesheet’, and then referenced from the HTML document.
+
+This is the preferred method for writing CSS.
+
+**An example of external CSS:**
+
+```css
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 18px;
+}
+```
+
+Can you see how CSS is working here to give specific display instructions to the various HTML elements: `body` , `h1` , `p` ?
+
+**This CSS says:**
+
+- Make the `background-color` of the HTML `body` display in the color “pink”.
+- Make all `h1` HTML tags display with:
+    - `color` ”black”
+    - `text-align` “center aligned”
+- Make all `p` HTML tags display with:
+    - `font-family` ”helvetica”
+    - `font-size` “18px”
+
+## CSS Stylesheets
+
+Writing all of your CSS in an external stylesheet provides the convenience of keeping all your CSS in one place - which makes it easier to edit later without having to go into multiple documents.
+
+It also allows you the flexibility to write variations of how you want your website to be displayed - as you can simply create multiple stylesheets and then decide which one you want to use for the styling of your website.
+
+CSS is also used to define how your website will appear on other devices.

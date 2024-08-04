@@ -1,0 +1,29 @@
+# Create a function to print items in a list, in Python
+
+---
+
+Create function
+
+```python
+def greet_users(names):
+    """Print a simple greeting to each user in the list."""
+    for name in names:
+        msg = f'hi, {name.title()}!'
+        print(msg)
+```
+
+Your list
+
+```python
+pals = ['devin', 'kels', 'phil', 'jenn']
+```
+
+Run the function
+
+```python
+greet_users(pals)
+```
+
+Result:
+
+![Screen Shot 2022-11-19 at 13.18.43.png](Create%20a%20function%20to%20print%20items%20in%20a%20list,%20in%20Pyt%201dbd6430937b4259b2dee3270afd65ec/Screen_Shot_2022-11-19_at_13.18.43.png)
