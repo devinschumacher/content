@@ -1,4 +1,4 @@
 
 
-Grouping operators expect an [expression](javascript%20expression.md).
+Grouping operators expect an [expression](Expression.md).
 

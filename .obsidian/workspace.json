@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b783bd02f284655f",
+        "id": "ff6cf34c73335ff2",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad9bfbc0f1ba5aa",
+            "id": "1ee1bcaf16a92b5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/The new keyword.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d477b5c8c43a563b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_assets/1.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5026054382324
+    "width": 240.50260543823242
   },
   "right": {
     "id": "12156b4b7b24ea9d",
@@ -107,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_assets/1.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_assets/1.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_assets/1.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,13 +170,15 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "43e09908f77c85d5",
+  "active": "1ee1bcaf16a92b5d",
   "lastOpenFiles": [
+    "javascript/Expression.md",
+    "javascript/Callback functions.md",
+    "javascript/JavaScript Constructors.md",
     "_assets/2.png",
     "TODO.md",
     "_content-other/docs/README.md",
     "seo",
-    "Untitled.md",
     "templates/template.md",
     "_content-other/README.md",
     "javascript/Constructor functions.md",
@@ -204,7 +186,6 @@
     "javascript/Immediately Invoked Function Expressions (IIFE).md",
     "javascript/JavaScript Arrow Functions.md",
     "javascript/Grouping Operators.md",
-    "javascript/JavaScript Constructors.md",
     "javascript/Javascript Functions.md",
     "javascript/Function expression.md",
     "javascript/ESModules.md",
@@ -213,7 +194,6 @@
     "javascript/async function.md",
     "javascript/Array Methods.md",
     "javascript/Arrow functions.md",
-    "javascript/javascript expression.md",
     "linux/_glossary - Linux.md",
     "linux/BASH Prompt.md",
     "javascript/javscript statements.md",

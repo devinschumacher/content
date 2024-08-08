@@ -1,4 +1,4 @@
-Function expressions are functions created where an [expression](javascript%20expression.md) is expected. 
+Function expressions are functions created where an [expression](Expression.md) is expected. 
 
 You'll frequently encounter function expressions as values assigned to a variable.
 
