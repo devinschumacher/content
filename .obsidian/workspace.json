@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ff6cf34c73335ff2",
+        "id": "1f7c5edaf4da80c4",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee1bcaf16a92b5d",
+            "id": "05f4e718d7a171eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vue-nuxt/Directives.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vue-nuxt/Directives.md"
+              }
             }
           },
           {
@@ -128,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vue-nuxt/Directives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vue-nuxt/Directives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +179,14 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "1ee1bcaf16a92b5d",
+  "active": "05f4e718d7a171eb",
   "lastOpenFiles": [
+    "vue-nuxt/v-bind.md",
+    "cyber-security/Cross Site Scripting (XSS).md",
+    "vue-nuxt/Directives.md",
+    "html/HTML Attributes.md",
+    "Untitled",
+    "html",
     "javascript/Expression.md",
     "javascript/Callback functions.md",
     "javascript/JavaScript Constructors.md",
@@ -196,9 +211,6 @@
     "javascript/Arrow functions.md",
     "linux/_glossary - Linux.md",
     "linux/BASH Prompt.md",
-    "javascript/javscript statements.md",
-    "pnpm/pnpx ( pnpm dlx).md",
-    "pnpm/pnpm install.md",
     "_assets/1.jpg",
     "_assets/component-diagram.png",
     "smart-chats",
@@ -215,8 +227,6 @@
     "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Java Applet",
     "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Flash Player",
     "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Firefox Resources Reader",
-    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Do Not Track",
-    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/DNS Leak Test",
     "Untitled.canvas"
   ]
 }
