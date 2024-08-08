@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "28dbc0c7f892225b",
+        "id": "b783bd02f284655f",
         "type": "tabs",
         "children": [
           {
-            "id": "3d71fb5d5f501d91",
+            "id": "0ad9bfbc0f1ba5aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue-nuxt/Page composition & UI creation with components (SOP).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "vue-nuxt/Page composition & UI creation with components (SOP).md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue-nuxt/Page composition & UI creation with components (SOP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,18 +144,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue-nuxt/Page composition & UI creation with components (SOP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 449.5,
+    "width": 255.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,30 +167,41 @@
       "canvas:Create new canvas": false,
       "markdown-importer:Open format converter": false,
       "templates:Insert template": false,
-      "publish:Publish changes...": true,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "publish:Publish changes...": true
     }
   },
-  "active": "3d71fb5d5f501d91",
+  "active": "0ad9bfbc0f1ba5aa",
   "lastOpenFiles": [
-    "_assets/1.jpg",
+    "javascript/Immediately Invoked Function Expressions (IIFE).md",
+    "javascript/JavaScript Arrow Functions.md",
+    "javascript/Grouping Operators.md",
+    "javascript/JavaScript Constructors.md",
+    "javascript/Javascript Functions.md",
+    "javascript/Function expression.md",
+    "javascript/ESModules.md",
+    "javascript/Destructuring.md",
+    "javascript/Await.md",
+    "javascript/async function.md",
+    "javascript/Array Methods.md",
+    "javascript/Arrow functions.md",
+    "javascript/javascript expression.md",
+    "linux/_glossary - Linux.md",
+    "linux/BASH Prompt.md",
+    "javascript/javscript statements.md",
+    "pnpm/pnpx ( pnpm dlx).md",
+    "pnpm/pnpm install.md",
     "vue-nuxt/Page composition & UI creation with components (SOP).md",
+    "_assets/1.jpg",
     "_assets/component-diagram.png",
     "_assets/2.png",
     "vue-nuxt/vite.config.xx.md",
     "vue-nuxt/Directives.md",
-    "pnpm/pnpm install.md",
     "pnpm/pnpm add.md",
     "pnpm install.md",
     "smart-chats",
     "programming/Website Performance (Comparison).md",
     "_content-other/TODO.md",
     "_content-other/drafts/craftapp/Linux / Hacking/Articles/Systemctl.md",
-    "_content-other/drafts/craftapp/Linux / Hacking/Articles/Multiplexers.md",
-    "_content-other/drafts/craftapp/Linux / Hacking/Articles/Linux File System Hierarchy.md",
-    "_content-other/drafts/craftapp/Linux / Hacking/Articles/BASH Prompt.md",
-    "_content-other/drafts/craftapp/Online Privacy/Fingerprinting/Passive OS fingerprint masking (TCP/IP Fingerprint).md",
     "_content-other/drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled.png",
     "_content-other/drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled 1.png",
     "_content-other/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/show_tables._FROM.png",
@@ -216,18 +218,6 @@
     "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Do Not Track",
     "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/DNS Leak Test",
     "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/ClientRects Fingerprintingelements",
-    "_content-other/drafts/craftapp/Linux / Hacking/Glossary.md",
-    "_content-other/drafts/craftapp/Reviews/Posted/ZenMate VPN Revew.md",
-    "_content-other/drafts/craftapp/Reviews/Posted/Writesonic.md",
-    "_content-other/drafts/craftapp/Reviews/Posted/PureVPN Review.md",
-    "_content-other/drafts/craftapp/Online Privacy/Fingerprinting/WebRTC .md",
-    "_content-other/drafts/craftapp/Online Privacy/Fingerprinting/User-Agent.md",
-    "_content-other/drafts/craftapp/Online Privacy/Fingerprinting/Timezone.md",
-    "_content-other/drafts/craftapp/Online Privacy/Fingerprinting/Social Media Fingerprinting.md",
-    "_content-other/drafts/craftapp/Online Privacy/Fingerprinting/Port Scanning.md",
-    "_content-other/drafts/craftapp/Online Privacy/Fingerprinting/MAC Address.md",
-    "_content-other/drafts/craftapp/Online Privacy/Fingerprinting/JS.Navigator.md",
-    "_content-other/drafts/craftapp/Online Privacy/Fingerprinting/IP Address Fingerprinting.md",
     "Untitled.canvas"
   ]
 }
