@@ -11,11 +11,27 @@
             "id": "0ad9bfbc0f1ba5aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "javascript/The new keyword.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d477b5c8c43a563b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_assets/1.jpg"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.00390243530273
+    "width": 300.5026054382324
   },
   "right": {
     "id": "12156b4b7b24ea9d",
@@ -91,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_assets/1.jpg"
+              }
             }
           },
           {
@@ -128,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_assets/1.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_assets/1.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +190,17 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "0ad9bfbc0f1ba5aa",
+  "active": "43e09908f77c85d5",
   "lastOpenFiles": [
+    "_assets/2.png",
+    "TODO.md",
+    "_content-other/docs/README.md",
+    "seo",
+    "Untitled.md",
+    "templates/template.md",
+    "_content-other/README.md",
+    "javascript/Constructor functions.md",
+    "javascript/The new keyword.md",
     "javascript/Immediately Invoked Function Expressions (IIFE).md",
     "javascript/JavaScript Arrow Functions.md",
     "javascript/Grouping Operators.md",
@@ -190,34 +219,24 @@
     "javascript/javscript statements.md",
     "pnpm/pnpx ( pnpm dlx).md",
     "pnpm/pnpm install.md",
-    "vue-nuxt/Page composition & UI creation with components (SOP).md",
     "_assets/1.jpg",
     "_assets/component-diagram.png",
-    "_assets/2.png",
-    "vue-nuxt/vite.config.xx.md",
-    "vue-nuxt/Directives.md",
-    "pnpm/pnpm add.md",
-    "pnpm install.md",
     "smart-chats",
-    "programming/Website Performance (Comparison).md",
-    "_content-other/TODO.md",
-    "_content-other/drafts/craftapp/Linux / Hacking/Articles/Systemctl.md",
-    "_content-other/drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled.png",
-    "_content-other/drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled 1.png",
-    "_content-other/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/show_tables._FROM.png",
-    "_content-other/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_show_databases.png",
-    "_content-other/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_USE_database.png",
-    "_content-other/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES_IN.png",
-    "_content-other/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES.png",
-    "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/https browserleaks com",
-    "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/WebGPU Browser Report",
-    "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Silverlight",
-    "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Java Applet",
-    "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Flash Player",
-    "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Firefox Resources Reader",
-    "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Do Not Track",
-    "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/DNS Leak Test",
-    "_content-other/drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/ClientRects Fingerprintingelements",
+    "__drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled.png",
+    "__drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled 1.png",
+    "__drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/show_tables._FROM.png",
+    "__drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_show_databases.png",
+    "__drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_USE_database.png",
+    "__drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES_IN.png",
+    "__drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES.png",
+    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/https browserleaks com",
+    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/WebGPU Browser Report",
+    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Silverlight",
+    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Java Applet",
+    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Flash Player",
+    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Firefox Resources Reader",
+    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Do Not Track",
+    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/DNS Leak Test",
     "Untitled.canvas"
   ]
 }
