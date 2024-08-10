@@ -1,3 +1,23 @@
+---
+title: How To Use Chrome Developer Mode To Use Unofficial Browser Extensions
+slug: how-to-use-chrome-developer-mode-to-use-unofficial-browser-extensions
+subtitle: A step by step walkthrough on how to enable developer mode in Chrome
+tags: browser-extensions, chrome-developer-mode
+domain: devinschumacher.hashnode.dev
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704261826938/21URL7TKo.jpg?auto=format
+enableToc: true
+seriesSlug:
+
+publishAs:
+
+seoTitle:
+seoDescription:
+canonical:
+saveAsDraft:
+ignorePost:
+disableComments:
+hideFromHashnodeCommunity:
+---
 # ZenMate VPN Revew
 
 [ZenMate VPN](https://devin.to/zenmate) is a virtual private network (VPN) service provided by ZenMate, a company based in Berlin, Germany. The service claims to encrypt all of a user’s online activity and traffic, unblock websites and services, and enhance online privacy.

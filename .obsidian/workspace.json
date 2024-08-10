@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/servers/New Server Setup (logins & ssh keys).md",
+                "file": "notes/python/Python Booleans.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/servers/New Server Setup (logins & ssh keys).md"
+                "file": "notes/python/Python Booleans.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/servers/New Server Setup (logins & ssh keys).md",
+                "file": "notes/python/Python Booleans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/servers/New Server Setup (logins & ssh keys).md",
+                "file": "notes/python/Python Booleans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,41 +178,47 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "43e09908f77c85d5",
+  "active": "a531504b8314f326",
   "lastOpenFiles": [
+    "drafts/craftapp/Articles to write (good SV/KD).md",
+    "notes/python/Python Booleans.md",
+    "drafts/craftapp/Python/Python Booleans.md",
+    "posts/people/Dan Ryder.md",
+    "posts/company/ZenMate VPN Revew.md",
+    "notes/servers/New Server Setup (logins & ssh keys).md",
+    "posts/attimo/sales virtual assistants.md",
+    "posts/attimo/prospecting tools & software.md",
+    "posts/attimo/appointment setting apps.md",
+    "posts/attimo/ai scheduling assistants.md",
+    "posts/attimo/ai sales prospecting.md",
+    "posts/attimo/ai sales assistants.md",
+    "posts/attimo/ai phone answering services.md",
+    "posts/attimo/ai outbound calling.md",
+    "posts/attimo/ai lead generation tools.md",
+    "posts/attimo/ai cold calling tools.md",
+    "posts/attimo/ai call centers.md",
+    "posts/attimo",
+    "posts/untitled folder",
+    "Opus Pro.md",
+    "posts/Opus Pro.md",
+    "posts/ccw/medium/Wyoming-Concealed-Carry.html",
+    "posts/ccw/medium/Wisconsin-Concealed-Carry.html",
+    "posts/ccw/medium/West-Virginia-Concealed-Carry.html",
+    "posts/ccw/medium/Washington-Concealed-Carry.html",
+    "posts/ccw/medium/Virginia-Concealed-Carry.html",
+    "posts/ccw/medium/Vermont-Concealed-Carry.html",
+    "posts/ccw/medium/Utah-Concealed-Carry.html",
+    "posts/ccw/medium/Texas-Concealed-Carry.html",
     "__drafts/craftapp/Servers/New Server Setup (logins & ssh keys).md",
     "notes/artificial-intelligence/Terms/Image Inpainting.md",
     "__drafts/craftapp/Web Scraping/Web Scraping Process.md",
     "templates/template.md",
-    "notes",
     "notes/javascript/Imports + Exports.md",
     "TypeScript.md",
     "notes/javascript/Callback functions.md",
-    "notes/javascript/Arrow Functions.md",
-    "notes/javascript/Destructuring.md",
-    "reviews/shop/Center Channel Speakers.md",
-    "drafts/TODO.md",
-    "notes/javascript/Constructor functions.md",
-    "notes/javascript/Constructors.md",
-    "notes/javascript/The 'new' keyword.md",
-    "javascript/Ternaries.md",
-    "notes/javascript/Statements.md",
-    "javascript/Template Literals.md",
-    "javascript/Shorthand property names.md",
-    "javascript/Parameter defaults.md",
-    "javascript/Optional chaining.md",
-    "javascript/JavsScript short circuiting.md",
-    "notes/javascript/Functions.md",
-    "notes/vue-nuxt/Directives.md",
-    "notes/vue-nuxt/v-bind.md",
-    "notes/cyber-security/Cross Site Scripting (XSS).md",
-    "notes/html/HTML Attributes.md",
-    "notes/html",
     "_assets/2.png",
-    "notes/seo",
     "_assets/1.jpg",
     "_assets/component-diagram.png",
-    "smart-chats",
     "drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled.png",
     "drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled 1.png",
     "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/show_tables._FROM.png",
@@ -220,12 +226,6 @@
     "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_USE_database.png",
     "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES_IN.png",
     "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES.png",
-    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/https browserleaks com",
-    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/WebGPU Browser Report",
-    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Silverlight",
-    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Java Applet",
-    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Flash Player",
-    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Firefox Resources Reader",
     "Untitled.canvas"
   ]
 }
