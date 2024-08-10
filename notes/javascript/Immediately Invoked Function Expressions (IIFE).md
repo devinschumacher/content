@@ -49,5 +49,5 @@ The result is the same in either case.
 
 ## IIFEE Arrow functions
 
-When your IIFE is an arrow function, the parentheses used to call the function must be *outside* the grouping operators, because an [Arrow function](Arrow%20functions.md) on its own isn't an expression.
+When your IIFE is an arrow function, the parentheses used to call the function must be *outside* the grouping operators, because an [Arrow function](Arrow%20Functions.md) on its own isn't an expression.
 

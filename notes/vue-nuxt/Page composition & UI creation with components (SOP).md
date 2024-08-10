@@ -21,13 +21,13 @@ Have or make a design starting point (sketch/wireframe/figma design/etc.).
 1. Take your design file & mark sections w/ rectangles that may represent components, from the outermost down to a singular unit of interaction.
 2. Repeat until you have a comfortable amount of components.
 
-![](../_assets/1.jpg)
+![](1.jpg)
 
 ### 2.2. extract the relationships
 1. After you've identified the components, extract the relationships between them to create a hierarchy from the top-most root component.
 2. Name the components
 
-![](../_assets/2.png)
+![](2.png)
 
 
 ## 3. Relationships, the data flow, interactions and events
@@ -42,7 +42,7 @@ Here we aim to understand the user's interaction with a use-case, user story, et
 3. What events it will trigger
 4. Document it in some kind of documentation - scribbles/notes/UML (Universal Modeling Language) diagrams.
 
-![](../_assets/component-diagram.png)
+![](component-diagram.png)
 
 
 ## 4. User interactivity elements (inputs, dialogs, notifications, etc.)

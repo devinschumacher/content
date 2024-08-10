@@ -1,7 +1,10 @@
 ---
 title: JavaScript Imports & Exports - Guide & Reference Sheet
 tags:
- - javascript
+  - javascript
+  - blog
+  - post
+  - guide
 ---
 JavaScript modules (in the context of imports/exports) refers to the methods and syntax used to share code between different files or scripts, enabling developers to organize, encapsulate, and reuse functionality across their projects.
 
@@ -153,10 +156,10 @@ ES Module syntax provides a more standardized way of working with modules, align
 
 ```js
 // exportFile.mjs
-export const <name> = <value>
+export <object> <name> = <value>
 
 // importFile.mjs
-import { name } from '<path-to-module>'
+import { <name> } from '<path-to-module>'
 ```
 
 **Example:**
@@ -183,10 +186,10 @@ console.log(add(2, 3));  // Output: 5
 - Use `import` statement with curly braces for named imports.
 - Use `import` without curly braces for default imports.
 
-**Note:** To use ES Module syntax in Node.js:
-- Use the `.mjs` file extension, or
-- Set `"type": "module"` in your `package.json`, or
-- Use the `--experimental-modules` flag when running Node.js (for older versions)
+**Note:** To use ES Module syntax in Node.js, you must:
+1. Use the `.mjs` file extension, or
+2. Set `"type": "module"` in your `package.json`, or
+3. Use the `--experimental-modules` flag when running Node.js (for older versions)
 
 Remember that when using ES Module syntax, you can't mix `require()` and `import` in the same file. Choose one approach and stick to it within a module.
 
@@ -211,7 +214,7 @@ Named imports provides a way to share specific pieces of functionality between f
 
 ```js
 // exportFile.js
-export const <name> = "<value>"
+export <object> <name> = "<value>"
 
 // importFile.js
 import { name } from "<path-to-module>"
@@ -544,3 +547,58 @@ This approach has several benefits:
 - It makes imports more readable and maintainable.
 - It allows you to move files without breaking import paths.
 - It reduces the need for long relative paths.
+
+### Understanding the Nature of Imported Items
+
+When you see an import statement like `import { something } from "package"`, the `something` could be any valid JavaScript entity that has been exported from the module. This includes:
+
+1. Variables (including constants)
+2. Functions
+3. Classes
+4. Objects
+
+To determine what type of entity you're importing, you have several options:
+
+1. **Check the Documentation:**
+   - The most reliable way is to consult the official documentation of the package or module you're importing from.
+   - Good documentation will specify what each exported item is and how to use it.
+
+2. **Look at the Source Code:**
+   - If the package is open-source, you can examine the source code to see how the item is defined and exported.
+
+3. **Use IDE Features:**
+   - Many modern IDEs and code editors (like VSCode, WebStorm) provide intelligent code completion and hover-over information.
+   - These tools can often show you type information, especially if the package includes TypeScript definitions.
+
+4. **Console.log or Type Checking:**
+   - In a pinch, you can import the item and use `console.log(typeof something)` to get a basic idea of what it is.
+   - Keep in mind that this method is limited (e.g., it won't distinguish between objects and arrays).
+
+5. **Named Export Conventions:**
+   - While not foolproof, there are some common naming conventions:
+     - PascalCase names (e.g., `Component`, `Person`) often indicate classes.
+     - camelCase names ending in 'Fn' (e.g., `doSomethingFn`) might indicate functions.
+     - ALL_CAPS names often indicate constants.
+
+6. **Context and Usage:**
+   - The way the imported item is used in examples or documentation can give clues about its nature.
+
+**Example:**
+
+```javascript
+import { useState, useEffect, Component } from 'react';
+import { PI, calculateArea } from './mathUtils';
+import { UserContext } from './contexts';
+
+// useState and useEffect are functions (hooks)
+// Component is a class
+// PI is likely a constant
+// calculateArea is probably a function
+// UserContext could be an object created by React.createContext()
+```
+
+
+**Best Practices:**
+1. Use TypeScript or JSDoc comments in your projects to provide better type information.
+2. When creating your own modules, provide clear documentation on what each export is.
+3. Consider using named exports instead of default exports, as they're often easier to understand and autocomplete.

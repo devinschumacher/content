@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05f4e718d7a171eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reviews/shop/Center Channel Speakers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b26033e3e3135c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Imports + Exports.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a531504b8314f326",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Destructuring.md",
+                "file": "notes/servers/New Server Setup (logins & ssh keys).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.50260543823242,
-    "collapsed": true
+    "width": 240.50260543823242
   },
   "right": {
     "id": "12156b4b7b24ea9d",
@@ -125,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imports + Exports.md"
+                "file": "notes/servers/New Server Setup (logins & ssh keys).md"
               }
             }
           },
@@ -163,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imports + Exports.md",
+                "file": "notes/servers/New Server Setup (logins & ssh keys).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imports + Exports.md",
+                "file": "notes/servers/New Server Setup (logins & ssh keys).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,54 +178,54 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "b26033e3e3135c32",
+  "active": "43e09908f77c85d5",
   "lastOpenFiles": [
-    "Destructuring.md",
-    "Imports + Exports.md",
-    "javascript/Arrow Functions.md",
+    "__drafts/craftapp/Servers/New Server Setup (logins & ssh keys).md",
+    "notes/artificial-intelligence/Terms/Image Inpainting.md",
+    "__drafts/craftapp/Web Scraping/Web Scraping Process.md",
+    "templates/template.md",
+    "notes",
+    "notes/javascript/Imports + Exports.md",
+    "TypeScript.md",
+    "notes/javascript/Callback functions.md",
+    "notes/javascript/Arrow Functions.md",
+    "notes/javascript/Destructuring.md",
     "reviews/shop/Center Channel Speakers.md",
-    "Untitled",
-    "__drafts/TODO.md",
-    "javascript/Constructor functions.md",
-    "javascript/Constructors.md",
-    "javascript/Callback functions.md",
-    "javascript/The 'new' keyword.md",
+    "drafts/TODO.md",
+    "notes/javascript/Constructor functions.md",
+    "notes/javascript/Constructors.md",
+    "notes/javascript/The 'new' keyword.md",
     "javascript/Ternaries.md",
-    "javascript/Statements.md",
+    "notes/javascript/Statements.md",
     "javascript/Template Literals.md",
     "javascript/Shorthand property names.md",
     "javascript/Parameter defaults.md",
     "javascript/Optional chaining.md",
     "javascript/JavsScript short circuiting.md",
-    "javascript/Functions.md",
-    "vue-nuxt/Directives.md",
-    "vue-nuxt/v-bind.md",
-    "cyber-security/Cross Site Scripting (XSS).md",
-    "html/HTML Attributes.md",
-    "html",
-    "javascript/Expression.md",
+    "notes/javascript/Functions.md",
+    "notes/vue-nuxt/Directives.md",
+    "notes/vue-nuxt/v-bind.md",
+    "notes/cyber-security/Cross Site Scripting (XSS).md",
+    "notes/html/HTML Attributes.md",
+    "notes/html",
     "_assets/2.png",
-    "_content-other/docs/README.md",
-    "seo",
-    "templates/template.md",
-    "_content-other/README.md",
-    "javascript/Immediately Invoked Function Expressions (IIFE).md",
+    "notes/seo",
     "_assets/1.jpg",
     "_assets/component-diagram.png",
     "smart-chats",
-    "__drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled.png",
-    "__drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled 1.png",
-    "__drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/show_tables._FROM.png",
-    "__drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_show_databases.png",
-    "__drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_USE_database.png",
-    "__drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES_IN.png",
-    "__drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES.png",
-    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/https browserleaks com",
-    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/WebGPU Browser Report",
-    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Silverlight",
-    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Java Applet",
-    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Flash Player",
-    "__drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Firefox Resources Reader",
+    "drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled.png",
+    "drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled 1.png",
+    "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/show_tables._FROM.png",
+    "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_show_databases.png",
+    "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_USE_database.png",
+    "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES_IN.png",
+    "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES.png",
+    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/https browserleaks com",
+    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/WebGPU Browser Report",
+    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Silverlight",
+    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Java Applet",
+    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Flash Player",
+    "drafts/notion/Online Anonymity Privacy 32339ffd7d54443cb075e1cc42dd8b57/Tools - Online Privacy 0f471864e90e447892b70e94af94a42b/Firefox Resources Reader",
     "Untitled.canvas"
   ]
 }
