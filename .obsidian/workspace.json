@@ -29,7 +29,7 @@
                 "file": "Imports + Exports.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
