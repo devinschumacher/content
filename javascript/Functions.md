@@ -1,4 +1,4 @@
-A function is a modular, reusable block of [javscript statements](javscript%20statements.md) used to perform a set of related tasks.
+A function is a modular, reusable block of [Statements](Statements.md) used to perform a set of related tasks.
 
 ## Function declarations
 
@@ -7,7 +7,7 @@ A function declaration (aka "function statements", "function definitions") creat
 **Function declarations consist of:**
 1. the `function` keyword followed by an identifier
 2.  a list of comma-separated parameters enclosed in parentheses
-3. a block [javscript statements](javscript%20statements.md) called the "function body."
+3. a block [Statements](Statements.md) called the "function body."
 
 ## Function calling
 

@@ -3,8 +3,8 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "showInlineTitle": true,
-  "promptDelete": false,
-  "livePreview": false,
+  "promptDelete": true,
+  "livePreview": true,
   "attachmentFolderPath": "_assets",
   "pdfExportSettings": {
     "pageSize": "Letter",

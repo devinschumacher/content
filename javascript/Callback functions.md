@@ -10,7 +10,7 @@ This function (`setTimeout()`) takes 2 arguments:
 1. The first argument is the "callback function"
 2. The second argument is the amount of time to 'wait' or 'timeout' for.
 
-The first function here is the callback function. In this case it is `() => {}` - which happens to be an [Arrow Function](JavaScript%20Arrow%20Functions.md) that does nothing - however, it is a valid callback function because it is passed to the `setTimeout()` function to be executed after `2000` passes (2000 miliseconds aka 2 seconds).
+The first function here is the callback function. In this case it is `() => {}` - which happens to be an [Arrow Function](Arrow%20Functions.md) that does nothing - however, it is a valid callback function because it is passed to the `setTimeout()` function to be executed after `2000` passes (2000 miliseconds aka 2 seconds).
 
 So this code will wait for 2 seconds and then execute the empty function.
 
