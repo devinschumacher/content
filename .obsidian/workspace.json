@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b95275301a68f4b4",
+        "id": "bab513b460542823",
         "type": "tabs",
         "children": [
           {
-            "id": "f51442c9961ca321",
+            "id": "a353e7d26484d87e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wezterm.lua config.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "wezterm.lua config.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wezterm.lua config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wezterm.lua config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,44 +169,44 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "f51442c9961ca321",
+  "active": "a353e7d26484d87e",
   "lastOpenFiles": [
     "wezterm.lua config.md",
+    "vault/ccw/gists/Wyoming Concealed Carry Laws.md",
+    "vault/ccw/gists/Wisconsin Concealed Carry Laws.md",
+    "vault/ccw/gists/West Virginia Concealed Carry Laws.md",
+    "vault/ccw/gists/Washington Concealed Carry Laws.md",
+    "vault/ccw/gists/Virginia Concealed Carry Laws.md",
+    "vault/ccw/gists/Vermont Concealed Carry Laws.md",
+    "vault/ccw/gists/Utah Concealed Carry Laws.md",
+    "vault/ccw/gists/Texas Concealed Carry Laws.md",
+    "vault/ccw/gists/Tennessee Concealed Carry Laws.md",
+    "vault/ccw/gists/South Carolina Concealed Carry Laws.md",
+    "vault/ccw/gists/Rhode Island Concealed Carry Laws.md",
+    "vault/ccw/gists/Pennsylvania Concealed Carry Laws.md",
+    "vault/ccw/gists/Oregon Concealed Carry Laws.md",
+    "vault/ccw/gists/Oklahoma Concealed Carry Laws.md",
+    "vault/ccw/gists/Ohio Concealed Carry Laws.md",
+    "vault/ccw/gists/North Dakota Concealed Carry Laws.md",
+    "vault/ccw/gists/North Carolina Concealed Carry Laws.md",
+    "vault/ccw/gists/New York Concealed Carry Laws.md",
+    "vault/ccw/gists/New Mexico Concealed Carry Laws.md",
+    "vault/ccw/gists/New Jersey Concealed Carry Laws.md",
+    "vault/ccw/gists/New Hampshire Concealed Carry Laws.md",
+    "vault/ccw/gists/Nevada Concealed Carry Laws.md",
+    "vault/ccw/gists/Nebraska Concealed Carry Laws.md",
+    "vault/ccw/gists/Montana Concealed Carry Laws.md",
+    "vault/ccw/gists/Missouri Concealed Carry Laws.md",
+    "vault",
+    "vault/ccw/gists",
+    "vault/ccw/medium/Wyoming-Concealed.md.docx",
     "gists",
-    "notes/python/Python Booleans.md",
-    "posts/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors).md",
-    "posts/merchant_accounts/The Best Ecommerce Merchant Account Providers (Credit Card Processing Companies).md",
-    "posts/merchant_accounts",
-    "drafts/craftapp/Articles to write (good SV/KD).md",
-    "drafts/craftapp/Python/Python Booleans.md",
-    "posts/people/Dan Ryder.md",
-    "posts/company/ZenMate VPN Revew.md",
-    "notes/servers/New Server Setup (logins & ssh keys).md",
-    "posts/attimo/sales virtual assistants.md",
-    "posts/attimo/prospecting tools & software.md",
-    "posts/attimo/appointment setting apps.md",
-    "posts/attimo/ai scheduling assistants.md",
-    "posts/attimo/ai sales prospecting.md",
-    "posts/attimo/ai sales assistants.md",
-    "posts/attimo/ai phone answering services.md",
-    "posts/attimo/ai outbound calling.md",
-    "posts/attimo/ai lead generation tools.md",
-    "posts/attimo/ai cold calling tools.md",
-    "posts/attimo/ai call centers.md",
-    "posts/attimo",
+    "vault/merchant_accounts",
+    "vault/attimo",
     "posts/untitled folder",
-    "Opus Pro.md",
-    "posts/company/Opus Pro.md",
     "posts/ccw/medium/Wyoming-Concealed-Carry.html",
     "posts/ccw/medium/Wisconsin-Concealed-Carry.html",
     "posts/ccw/medium/West-Virginia-Concealed-Carry.html",
-    "posts/ccw/medium/Washington-Concealed-Carry.html",
-    "posts/ccw/medium/Virginia-Concealed-Carry.html",
-    "posts/ccw/medium/Vermont-Concealed-Carry.html",
-    "__drafts/craftapp/Servers/New Server Setup (logins & ssh keys).md",
-    "notes/artificial-intelligence/Terms/Image Inpainting.md",
-    "__drafts/craftapp/Web Scraping/Web Scraping Process.md",
-    "templates/template.md",
     "_assets/2.png",
     "_assets/1.jpg",
     "_assets/component-diagram.png",
