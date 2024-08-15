@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5fd5d861f86a2409",
+        "id": "28a542c8848f0f83",
         "type": "tabs",
         "children": [
           {
-            "id": "2039c411ac085240",
+            "id": "0a93b78e94df873e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.50260543823242
+    "width": 297.5026054382324
   },
   "right": {
     "id": "12156b4b7b24ea9d",
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,35 +170,37 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "2039c411ac085240",
+  "active": "43e09908f77c85d5",
   "lastOpenFiles": [
-    "vault/constitutional_carry/gists/Alabama-Constitutional-Carry-Laws.md",
+    "vault/merchant_accounts/The Best High Risk Merchant Account Providers (Credit Card Processors).md",
+    "vault/merchant_accounts/The Best Large Digital Goods Merchant Account Providers (Credit Card Processors).md",
+    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for Small Business.md",
+    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for Retail Brands.md",
+    "vault/merchant_accounts/The Best Mobile Merchant Account Providers (Credit Card Processors).md",
+    "vault/merchant_accounts/The Best Low Fee Merchant Account Providers (Credit Card Processors).md",
+    "vault/merchant_accounts/The Best Kratom Merchant Account Providers (Credit Card Processors).md",
+    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for Collection Agencies.md",
+    "vault/merchant_accounts/The Best Firearms Friendly Merchant Account Providers (Credit Card Processors).md",
+    "vault/merchant_accounts/Free No-Fee Merchant Account Providers (Credit Card Processors).md",
+    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for Healthcare Companies.md",
+    "vault/merchant_accounts/The Best Instant Approval Merchant Account Providers (Credit Card Processors).md",
+    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for NonProfits.md",
+    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for Restaurants.md",
+    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processing Companies) for CBD Companies.md",
+    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processing Companies) for Cannabis Businesses.md",
+    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processing Companies) for Bad Credit.md",
+    "vault/merchant_accounts/The Cheapest Merchant Account Providers (Credit Card Processing Companies).md",
+    "vault/merchant_accounts/The Best Ecommerce Merchant Account Providers (Credit Card Processing Companies) for CBD Companies.md",
+    "vault/merchant_accounts/The Best Ecommerce Merchant Account Providers (Credit Card Processing Companies) for Cannabis Businesses.md",
+    "vault/merchant_accounts/The Best Ecommerce Merchant Account Providers (Credit Card Processing Companies) for Bad Credit.md",
+    "vault/merchant_accounts/small business.md",
+    "vault/merchant_accounts/retail.md",
+    "vault/merchant_accounts/restaurants.md",
+    "vault/merchant_accounts/nonprofits.md",
+    "vault/merchant_accounts/mobile.md",
+    "_assets/1 1.jpg",
+    "notes/vue-nuxt/performance_optimization",
     "vault/constitutional_carry/gists",
-    "vault/constitutional_carry/gists/Utah-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/USA-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Texas-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Tennessee-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/South-Carolina-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Rhode-Island-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Pennsylvania-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Oregon-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Oklahoma-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Ohio-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/North-Carolina-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/New-York-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/New-Mexico-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/New-Jersey-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/New-Hampshire-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Nevada-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Nebraska-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Montana-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Missouri-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Mississippi-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Michigan-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Massachusetts-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Maryland-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Maine-Constitutional-Carry-Laws.md",
-    "vault/constitutional_carry/gists/Louisiana-Constitutional-Carry-Laws.md",
     "vault/constitutional_carry",
     "vault",
     "vault/ccw/gists",
@@ -206,7 +209,6 @@
     "vault/merchant_accounts",
     "vault/attimo",
     "posts/untitled folder",
-    "posts/ccw/medium/Wyoming-Concealed-Carry.html",
     "_assets/2.png",
     "_assets/1.jpg",
     "_assets/component-diagram.png",
@@ -216,7 +218,6 @@
     "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_show_databases.png",
     "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_USE_database.png",
     "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES_IN.png",
-    "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES.png",
     "Untitled.canvas"
   ]
 }
