@@ -26,7 +26,7 @@ Open carry is legal in North Carolina without a permit. Counties may regulate th
 
 Concealed carry is legal for residents with a North Carolina Concealed Handgun Permit (CHP) and for non-residents with any valid license/permit. North Carolina CHPs are issued to residents and members of the military permanently posted in North Carolina and require a state-approved firearms training course. The minimum age is 21 years old. North Carolina recognizes permits from all states, regardless of the age of the permit holder.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Use of Force
 
@@ -55,7 +55,7 @@ A person is justified in the use of deadly force and does not have a duty to ret
 
 “Home” is defined as a building or conveyance of any kind, including its curtilage, whether the building or conveyance is temporary or permanent, mobile or immobile, which has a roof over it, including a tent, and is designed as a temporary or permanent residence.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -115,7 +115,7 @@ A person is justified in the use of deadly force and does not have a duty to ret
 
 Can you concealed carry weapons other than handguns in North Carolina with a concealed carry permit (or under permitless carry if applicable)? No. A North Carolina CHP does not allow the concealed carry of non-handgun weapons.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -655,5 +655,5 @@ It is illegal to own a spring-loaded projectile knife, ballistic knife or any si
 
 Per § 14–12.7 and § 14–12.8, it is illegal for anyone over 16 years old to wear a mask, hood or disguise that conceals the identity of the wearer, on any public way or on public property in the State. However, a law was enacted during the pandemic to create an exemption. SB 704/SESSION LAW 2020–3(6) states that any person wearing a mask for the purpose of ensuring the physical health or safety of the wearer or others is exempt from the provisions of G.S. 14–12.7, 14–12.8, 14–12.9, 14–12.10 and 14–12.14.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

@@ -24,7 +24,7 @@ No permit, background check, or firearms registration is required for purchasing
 
 Individuals aged 18 and older, not prohibited from possessing firearms under state or federal laws, can openly carry firearms.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
   *  **Concealed Carry Laws:**
   * Residents with a Wisconsin Concealed Weapons License (CWL) and non-residents with valid licenses/permits from states recognized by Wisconsin can carry concealed.
@@ -52,7 +52,7 @@ Individuals aged 18 and older, not prohibited from possessing firearms under sta
 
 These laws are outlined under Wis. Stat. §§ 939.48 & 939.49, defining the parameters of self-defense and property protection in Wisconsin.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -96,7 +96,7 @@ If Wisconsin requires a license to carry a concealed firearm, how are those lice
 
 Does Wisconsin have ammunition restrictions? Yes. Wisconsin prohibits the possession or use of an armor-piercing bullet during the commission of a crime. [Wis. Stat. § 941.296(2)]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -715,5 +715,5 @@ I can legally carry a concealed firearm in Wisconsin, but can I wear a COVID-19 
 
 One statute in Wisconsin concerns individuals concealing their identity with intent to commit illegal acts or to hide their identity, but it does not specifically address wearing a mask while legally carrying a concealed firearm. There are no statutory or regulatory prohibitions identified that affect carrying a concealed carry license while complying with the order to wear a mask. [Wis. Stat. § 939.41]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

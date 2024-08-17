@@ -18,7 +18,7 @@ Georgia is a shall-issue state with concealed weapons licenses issued at the cou
 
 Open carry is legal in Georgia only with a Georgia Weapons Carry License (WCL) or a concealed carry permit from a state Georgia honors. Some areas are off-limits, including schools and courthouses. Open carry is not addressed in the constitutional carry bill that was signed into law on April 12, 2022.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Concealed Carry
 
@@ -59,7 +59,7 @@ A person is justified in threatening or using force to the extent that he reason
 
 The use of deadly force intended or likely to cause death or great bodily harm to prevent trespass on or other tortious or criminal interference with real property other than a habitation or personal property is justified only if it is necessary to prevent the commission of a forcible felony.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Definitions
 
@@ -126,7 +126,7 @@ The use of deadly force intended or likely to cause death or great bodily harm t
 
  **What is the minimum age in Georgia to get a concealed carry license?** You must be at least 21 years old to get a concealed carry license in Georgia, or 18 for members of the military on active duty (that have completed basic training) or that have been honorably discharged.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Carry Locations
 
@@ -668,5 +668,5 @@ Is there a Hunter Harassment Law in Georgia?
 
 It is legal to carry, open or concealed, a knife with a blade 12 inches or less in length without a license. A knife with a blade longer than 12 inches in length can be carried with a concealed carry license.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

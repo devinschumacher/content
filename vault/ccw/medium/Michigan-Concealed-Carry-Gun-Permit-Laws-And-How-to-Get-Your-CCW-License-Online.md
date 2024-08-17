@@ -18,7 +18,7 @@ Michigan operates as a shall-issue state, with licenses distributed at the local
 
 Open carry is legal for Michigan residents who are at least 18 years old and can legally possess a firearm, provided the gun is registered in their name. Non-residents must possess a valid concealed carry license from their home state to open or conceal carry in Michigan. Open carry is permitted in more locations than concealed carry, as the restrictions listed in Mich. Comp. Laws § 28.425o apply only to concealed carry.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Concealed Carry in Michigan
 
@@ -42,7 +42,7 @@ Imminent death or great bodily harm to themselves or another person; or
 
 Imminent sexual assault of themselves or another person.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -101,7 +101,7 @@ Imminent sexual assault of themselves or another person.
 
 It is illegal to use a Taser except under circumstances that justify the legal use of physical force, including self-defense or defending someone else from an attack or sexual assault. Stun guns are illegal in Michigan.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -798,5 +798,5 @@ For questions regarding USCCA Membership, Delta Defense, handgun laws, or the la
 
 * * *
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

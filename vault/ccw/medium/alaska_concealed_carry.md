@@ -18,9 +18,9 @@ Open carry is legal in Alaska for any person who is legally allowed to possess a
 
 Concealed carry is legal for anyone at least 21 years of age or older who can legally possess a firearm — a permit is not required. Residents who seek to be exempt from background checks when purchasing additional firearms or who want to carry a firearm in other states can obtain a concealed handgun permit to use in states with which Alaska has a reciprocity agreement. Concealed handgun permits are issued by the Alaska State Police and require a state-approved firearms training course. Alaska does not issue permits to non-residents. Since Alaska has permitless carry, any person 21 years of age and older who can legally possess a firearm may carry a concealed firearm without a license or permit.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 ## Use of Non-Deadly Force in Defense of Self
 
@@ -64,9 +64,9 @@ Is employed to work; or
 
 Is a guest or agent of the owner, lessor, or resident.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 ## Use of Force in Defense of Property and Premises
 
@@ -182,9 +182,9 @@ An employer or its agent may prohibit firearms possession in the following areas
 
 - - -
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 - - -
 
@@ -615,6 +615,6 @@ An employer or its agent may prohibit firearms possession in the following areas
 
 - - -
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)

@@ -26,7 +26,7 @@ Kansas allows both permitless open carry and concealed carry. Here are the key d
 
  **Carry Handgun Licenses (CCHLs):** Available to residents and military stationed in Kansas. Minimum age for a provisional CCHL is 18; standard CCHL requires applicants to be 21. Completion of an 8-hour handgun safety and training course approved by the attorney general is mandatory.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[� Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Purchasing and Possession
 
@@ -55,7 +55,7 @@ Kansas adheres to Castle Doctrine and “stand your ground” principles:
 
 These laws empower individuals to defend themselves and their property under reasonable circumstances throughout Kansas.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[� Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Kansas Gun Laws at a Glance
 
@@ -205,7 +205,7 @@ Are “No Weapons Allowed” signs enforced in Kansas?
 
 No, Kansas law does not recognize “No Weapons Allowed” signs.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[� Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
  **Preemption?**
 
@@ -674,5 +674,5 @@ Places off-limits even with a permit/license:
 
 * * *
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[� Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

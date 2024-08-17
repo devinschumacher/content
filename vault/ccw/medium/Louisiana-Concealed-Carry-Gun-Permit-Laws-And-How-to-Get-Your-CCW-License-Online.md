@@ -18,7 +18,7 @@ There is no permit, background check, or firearms registration required when buy
 
 The state of Louisiana does not prohibit the open carry of firearms in public. Therefore, it is legal in Louisiana without a permit for anyone at least 18 years old who is not prohibited from possessing a firearm. Some areas are off-limits, including parades and bars.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 Concealed carry is legal for residents with a Louisiana Concealed Handgun Permit (CHP) and for non-residents with a permit/license from a state recognized by Louisiana. As of August 1st, 2022, constitutional carry is legal for resident active duty military and veterans only. However, on March 5th, 2024, the governor signed a permitless carry bill into law, making Louisiana a constitutional carry state. The law will take effect on July 4th, 2024. CHPs are available for residents and members of the military permanently stationed in Louisiana; non-resident permits are not available. Applicants must be at least 21 years old, a resident of Louisiana, and complete a firearms training course. There are exemptions for non-residents who are in the military and have a Louisiana driver’s license or Louisiana state ID. Louisiana honors permits issued by states that recognize Louisiana permits.
 
@@ -35,7 +35,7 @@ The use of force is justifiable under either of the following circumstances:
 
 Louisiana is a Castle Doctrine state with a “stand your ground” statute. There is no duty to retreat in any place a person has the legal right to be before using force or violence, and a person may meet force with force.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Defense of Others
 
@@ -101,7 +101,7 @@ No. Louisiana places no restrictions on capacity for handgun magazines.
 
 Yes. Stun guns and Tasers are legal to purchase and possess without a permit.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Carry Locations
 
@@ -569,5 +569,5 @@ Can you concealed carry while bow hunting in Louisiana? Yes. Bow hunters may car
 
 Is there a Hunter Harassment Law in Louisiana? Yes. No person shall interfere with the lawful taking of a wild animal by a hunter, trapper, or fisherman or interfere with the process of taking, with intent to prevent the taking on lands or waters managed by the state or upon private lands or waters.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

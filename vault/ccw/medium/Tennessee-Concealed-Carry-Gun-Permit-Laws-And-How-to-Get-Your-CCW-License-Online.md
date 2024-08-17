@@ -20,7 +20,7 @@ Tennessee operates as a shall-issue state for concealed weapons permits, issued 
 
 No permit, background check, or firearms registration is required when purchasing a handgun from a private individual in Tennessee.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Permitless Carry Law
 
@@ -64,7 +64,7 @@ Tennessee adheres to Castle Doctrine principles and has a “stand your ground�
 
 [Tenn. Code. Ann. §§ 39–11–611, 39–11–612, 39–11–614]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -124,7 +124,7 @@ Tennessee adheres to Castle Doctrine principles and has a “stand your ground�
 
 Does Tennessee allow permitless carry? Yes. As of July 1, 2021, permitless open and concealed carry is legal for anyone meeting specific criteria outlined in Tennessee Code Annotated, § 39–17–1307(a)(1), 39–17–1307(g), and (h).
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -818,5 +818,5 @@ A permit holder must have the permit in the holder’s immediate possession at a
 
 [TCA 39–17–1351]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

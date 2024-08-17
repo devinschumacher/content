@@ -24,7 +24,7 @@ There is no requirement for a permit, background check, or firearms registration
 
 As of March 7th, 2024, open carry and concealed carry without a permit are legal for individuals aged 18 or older, provided they are not prohibited by law. A “concealable weapon” can be openly carried or concealed on one’s person, except in areas where concealed carry is prohibited, such as private properties posted with ‘No Concealable Weapons Allowed’ signs.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Concealed Weapons Permits (CWPs)
 
@@ -48,7 +48,7 @@ South Carolina follows the Castle Doctrine. Individuals attacked in a place wher
 
  **Vehicle:** Any conveyance, motorized or not, designed for transporting people or property.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -113,7 +113,7 @@ South Carolina follows the Castle Doctrine. Individuals attacked in a place wher
 
 [S.C. Code Ann. § 16–23–520]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -705,5 +705,5 @@ Yes. It is unlawful for a person willfully to impede or obstruct another person 
 
 [SC Code Ann. §§ 16–23–460 and 16–23–430]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

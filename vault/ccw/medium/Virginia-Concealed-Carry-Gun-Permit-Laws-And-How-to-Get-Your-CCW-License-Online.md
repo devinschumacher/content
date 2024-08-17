@@ -20,7 +20,7 @@ Virginia operates as a shall-issue state. Residents apply for permits through th
 
 Virginia does not require permits or registrations for private handgun sales between residents. Recent legislation (SB70/HB2) mandates that all sales, effective July 1, 2020, must be conducted through a licensed dealer who performs a background check. There’s also a restriction of one handgun per month, exempting concealed carry permit holders.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
  **Open Carry Regulations**
 
@@ -48,7 +48,7 @@ Under Virginia law, individuals not initiating aggression may use reasonable for
 
 Virginia law allows non-deadly force to prevent unlawful entry into a dwelling. Deadly force is justified if a person reasonably believes an intruder intends to cause great bodily harm or death.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -92,7 +92,7 @@ Is it legal to own a taser or stun gun in Virginia? Yes. Stun guns and Tasers ar
 
 Does Virginia have magazine capacity restrictions for handguns? No more than 20 rounds for handguns. Although Virginia has no law restricting large capacity ammunition magazines, certain areas and circumstances restrict assault firearms from being loaded and carried in public places.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -707,5 +707,5 @@ Places off-limits even with a permit/license:
 
 Yes, with a valid concealed handgun permit, provided the handgun is not used to hunt or take wildlife. [Va. Code Ann. § 18.2–308(C)(6)]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

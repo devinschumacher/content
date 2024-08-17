@@ -18,7 +18,7 @@
 
 Hawaii became a shall-issue state following the Supreme Court’s ruling on NYSRPA v Bruen on June 23rd, 2022. Permits are issued by the Chief of Police at the county level.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Handgun Purchase and Possession
 
@@ -38,7 +38,7 @@ The state and counties of Hawaii have sought rehearing of the Young v. Hawaii co
 
 #### Use of Force Laws in Hawaii
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Self-Defense
 
@@ -106,7 +106,7 @@ Is it legal to own a taser or stun gun in Hawaii?
 
 Yes. As of Jan. 1, 2022, Hawaii Revised Statute §134–16 was repealed, and it is legal for private citizens who are at least 21 years old and who meet specific criteria to own a Taser and other electric guns for self-defense, defense of others, or protection of property.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Chemical Spray/Pepper Spray?
 
@@ -511,5 +511,5 @@ Yes. No person shall intentionally prevent or attempt to prevent the lawful taki
 
 * * *
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

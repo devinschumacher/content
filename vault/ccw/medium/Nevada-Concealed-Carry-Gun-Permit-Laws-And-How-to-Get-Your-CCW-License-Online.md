@@ -24,7 +24,7 @@ No permit or firearms registration is required for buying a handgun from a priva
 
 Open carry is legal in Nevada without a permit for individuals 18 years and older who can legally possess a firearm. It is permitted in most public spaces except certain prohibited areas such as school premises and legislative buildings. Firearms carried openly in vehicles must not be concealed on the person without a concealed firearms permit.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Concealed Carry Permits
 
@@ -44,7 +44,7 @@ Individuals using force likely to cause death or bodily injury against an aggres
 
 These provisions aim to protect individuals’ rights to self-defense within the boundaries of Nevada’s legal framework.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -106,7 +106,7 @@ No, a Nevada concealed carry permit does not allow the carry of weapons other th
 
 Yes, stun guns and Tasers are legal to purchase and possess without a permit in Nevada.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -714,5 +714,5 @@ Yes. A person who is hunting during any period of an open season during which hu
 
 [Nev. Rev. Stat. 503.150(2)]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

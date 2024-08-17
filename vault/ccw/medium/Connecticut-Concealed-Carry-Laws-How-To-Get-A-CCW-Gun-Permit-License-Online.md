@@ -18,7 +18,7 @@
 
 Connecticut operates as a may-issue state, where local law enforcement has discretion in granting handgun carry permits based on a “suitability clause”. This clause applies to both new permit issuance and revocations. Obtaining a permit involves a two-step process: first, applying for a temporary permit locally, and then submitting another application at the state level through the Department of Emergency Services and Public Protection (DESPP).
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Handgun Purchase Requirements
 
@@ -44,7 +44,7 @@ Persons in control of premises can use reasonable physical force to prevent or s
 
 [Conn. Gen. Stat. Ann §§ 53a-19, 53a-20 & 53a-21]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Self-Defense
 
@@ -106,7 +106,7 @@ Connecticut incorporates the Castle Doctrine, which allows individuals to use ph
 
  _Does Connecticut have magazine capacity restrictions for handguns?_ No more than 10 rounds. There are restrictions on “large capacity magazines” with some exceptions and a grandfather provision for magazines possessed before January 1, 2014.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Carry Locations
 
@@ -465,5 +465,5 @@ Yes, obstructing or interfering with another person’s lawful wildlife hunting 
 
 Connecticut allows ownership of all types of knives, but restricts carrying certain types such as stilettos, blackjacks, dirks, and knives with blades longer than 4 inches. Exceptions exist for military personnel and specific activities like gun shows and historic reenactments.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes](https://linkoff.to/ccw)
 

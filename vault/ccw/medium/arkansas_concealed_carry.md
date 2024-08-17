@@ -55,9 +55,9 @@ A person is justified in using non-deadly physical force if they reasonably beli
 
 The Castle Doctrine in Arkansas states that the right of an individual to defend themselves and their home against harm, injury, or loss by a person unlawfully entering or attempting to enter the home is a fundamental right. As of March 3, 2021, Arkansas has a “stand your ground” law, with no duty to retreat before force can be used for self-defense anywhere a person is lawfully allowed to be.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)
 
-👆 Click to get your CCW permit online in just minutes!
+👉 Click to get your CCW permit online in just minutes!
 
 #### Arkansas Gun Laws at a Glance
 
@@ -101,9 +101,9 @@ No.
 
 - - -
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)
 
-👆 Click to get your CCW permit online in just minutes!
+👉 Click to get your CCW permit online in just minutes!
 
 #### Carry Locations FAQs
 
@@ -137,9 +137,9 @@ No.
 **Question:** Can you carry or possess a firearm on hotel property in Arkansas?  
  **Answer:** Arkansas statutes don’t specifically address firearms at hotels. Each hotel develops its own policies, and the individual hotel should be contacted to inquire about its concealed carry policy.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)
 
-**👆 Click to get your CCW permit online in just minutes!**
+**👉 Click to get your CCW permit online in just minutes!**
 
 #### Key State Laws
 
@@ -513,9 +513,9 @@ Ensure that any firearm training you receive for obtaining your license is appro
 
 - - -
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)
 
-👆 Click to get your CCW permit online in just minutes!
+👉 Click to get your CCW permit online in just minutes!
 
 #### FAQ: Arkansas Concealed Carry Questions
 

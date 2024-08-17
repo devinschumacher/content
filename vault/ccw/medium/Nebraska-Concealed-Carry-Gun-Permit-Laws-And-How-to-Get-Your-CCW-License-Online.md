@@ -22,7 +22,7 @@ Concealed carry is legal for residents with a Nebraska Concealed Handgun Permit 
 
 The minimum age to obtain a CHP is 21 years old. Applicants must complete a firearms training course. Permits are restricted to residents and military personnel and their spouses stationed in Nebraska. The city of Lincoln prohibits the possession of a firearm by anyone convicted of certain misdemeanors within the last 10 years, including stalking, violation of an order of protection, sexual assault, and public indecency. Nebraska recognizes permits issued by states with standards equal to or greater than Nebraska.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Use of Force for Protection of Property
 
@@ -73,7 +73,7 @@ The actor knows that he can avoid the necessity of using such force with complet
 
 The actor shall not be obliged to retreat from his or her dwelling or place of work unless the person was the initial aggressor or is assailed in the place of work by another person whose place of work the actor knows it to be.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -117,7 +117,7 @@ No, Nebraska does not have ammunition restrictions.
 
 Yes, on April 25, 2023, Gov. Jim Pillen (R) signed LB 77 into law, making Nebraska the 27th constitutional carry state in the U.S.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Carry Locations
 
@@ -765,5 +765,5 @@ Yes. No person shall knowingly and intentionally interfere or attempt to interfe
 
 Neb. Rev. Stat. § 37–564
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

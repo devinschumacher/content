@@ -18,7 +18,7 @@ Washington is a shall-issue state where licenses are issued locally by sheriffs 
 
 Private firearm sales in Washington require completion through a Federal Firearms Licensed (FFL) dealer with a mandatory background check. Retail dealers must register all retail pistol sales with local police/sheriff and the State Department of Licensing. For handgun transfers to individuals without a valid Washington ID or who haven’t been state residents for 90 days, an FFL may only deliver after a background check or 60 days from request.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Carrying and Displaying Firearms
 
@@ -40,7 +40,7 @@ Washington lacks a specific castle law but permits self-defense without a duty t
 
 Homicide is justifiable in defense against imminent felony or danger to persons in a dwelling. Washington law protects individuals using reasonable force to defend themselves, family, or property against violent crimes without legal jeopardy.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -100,7 +100,7 @@ Yes. On March 23, 2022, Gov. Jay Inslee signed SB 5078 into law, prohibiting the
 
 No. No handgun ammunition types are specifically forbidden in Washington.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -581,5 +581,5 @@ Yes, Any person engaging in a lawful outdoor recreational activity such as hunti
 
 [Wash. Rev. Code 9.41.060]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

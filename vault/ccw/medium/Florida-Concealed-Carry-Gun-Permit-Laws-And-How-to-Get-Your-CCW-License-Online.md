@@ -16,7 +16,7 @@
 
 No license, background check, or firearms registration is required when buying a handgun from a private individual. Buyers must be at least 21 years old to purchase any firearm. Some counties have waiting periods for purchases from non-licensed sellers, but Florida Concealed Weapons License (CWL) holders are exempt.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
  **Open Carry Restrictions** Open carry is not legal in Florida, except for limited exceptions such as fishing, camping, lawful hunting, or target practice at an indoor range.
 
@@ -32,7 +32,7 @@ No license, background check, or firearms registration is required when buying a
 
 Deadly force is also justified when resisting an attempt to murder or commit any felony upon oneself or in any dwelling where the person is located. The law presumes a reasonable fear of imminent death or bodily harm if an alleged perpetrator unlawfully enters or remains or attempts to remove another person against their will. Anyone who unlawfully and by force enters or attempts to enter another’s home or vehicle is presumed to have intent to commit an unlawful act involving force or violence.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Self-Defense
 
@@ -132,7 +132,7 @@ Yes. No public or private employer may prohibit a customer, employee, or invitee
 
 Employers cannot condition employment on whether the applicant possesses a license to carry a concealed firearm or on the existence of an agreement by the applicant not to possess a firearm or ammunition in a locked vehicle in a parking lot. Exceptions apply for correctional institutions, nuclear-powered electricity generation facilities, national defense businesses, aerospace businesses, homeland security businesses, and businesses involving the manufacture, use, storage, or transportation of combustible or explosive materials. School districts may adopt written and published policies that prohibit the possession of concealed firearms within the interior of a private vehicle for student and campus parking privileges.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -681,5 +681,5 @@ Yes, with a Florida Concealed Weapons License or a CCW permit from a state that 
 
 * * *
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

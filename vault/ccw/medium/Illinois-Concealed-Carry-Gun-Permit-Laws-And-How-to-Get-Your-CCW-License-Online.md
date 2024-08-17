@@ -22,7 +22,7 @@ Open carry of a handgun on your person or in a vehicle is illegal.
 
 An Illinois Concealed Carry License (CCL) is required to carry a concealed firearm in Illinois. Applicants must be 21 or older and complete a 16-hour firearms training course conducted by a state-approved instructor. The license permits carrying a loaded or unloaded handgun concealed from public view or within a vehicle. Non-resident licenses are only available for residents of Arkansas, Idaho, Mississippi, Nevada, Texas, and Virginia. Illinois does not honor concealed carry licenses from any other state.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 Illinois residents must have a Firearm Owners Identification Card (FOID) to possess a firearm or ammunition. FOID card holders without a CCL can carry unloaded firearms enclosed in a case. You must be 21 years old to apply for a FOID card, or have a parent or guardian sponsor who is eligible for a FOID card.
 
@@ -59,7 +59,7 @@ A person can use force to prevent or terminate an unlawful entry or attack on a 
 
 On January 10, 2023, Gov. JB Pritzker signed HB 5471, the Protect Illinois Communities Act, into law. This law makes it illegal to deliver, sell, purchase, or possess assault weapons, assault weapon attachments, .50 caliber rifles, or .50 caliber cartridges. Possession of such weapons is illegal 300 days after the law’s effective date, except for weapons registered with the Illinois State Police within the specified time.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Assault Weapon Definition
 
@@ -131,7 +131,7 @@ The sale or possession of stun guns and Tasers is illegal in Chicago.
  **Question:** Is it legal to buy or use chemical spray/pepper spray in Illinois?  
 **Answer:** Yes. Non-lethal noxious liquid gas or a substance designed solely for personal defense may be carried by a person 18 years of age or older.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Ammunition Restrictions?
 
@@ -680,5 +680,5 @@ Illinois is one of just two states with statutes against carrying a concealed fi
 
 * * *
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

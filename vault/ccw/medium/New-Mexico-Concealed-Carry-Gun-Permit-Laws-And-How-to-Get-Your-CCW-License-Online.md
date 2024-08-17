@@ -18,7 +18,7 @@ New Mexico operates as a shall-issue state for concealed weapons licenses issued
 
 As of July 1, 2019, background checks are mandatory for private firearm sales in New Mexico under SB-8. Exceptions include sales between law enforcement officers and immediate family members. Selling a gun without a background check is now a misdemeanor offense.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Open Carry Laws
 
@@ -38,7 +38,7 @@ While New Mexico does not have a specific Castle Doctrine statute, State v. Couc
 
 These laws outline the framework for firearm ownership, carrying, and self-defense rights in New Mexico.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -98,7 +98,7 @@ No. New Mexico does not have ammunition restrictions.
 
 These FAQs cover essential information about concealed and open carry laws, self-defense tools, and related regulations in New Mexico.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -623,5 +623,5 @@ Yes, there is a Hunter Harassment Law in New Mexico. It prohibits interference w
 
 In New Mexico, you may carry any legal knife openly on your own property or in your vehicle. However, it is illegal to own or carry switchblades, balisongs, or butterfly knives. Additionally, it is illegal to conceal deadly weapons such as dirks, poniards, daggers, bowie knives, switchblades, butterfly knives, butcher knives, or any knife that can cause dangerous wounds outside of one’s residence or real property. Deadly weapons are not permitted on school grounds or public buses.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

@@ -22,9 +22,9 @@ Colorado is a shall-issue state where concealed carry permits are issued by loca
 
 Open carry is legal in Colorado for individuals aged 18 or older who can legally possess a firearm, except in Denver County and other areas where signage prohibits it. Local governments have the authority to regulate open carrying within their jurisdiction, provided appropriate signage is displayed.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Self-Defense Laws
 
@@ -42,7 +42,7 @@ Colorado follows the Castle Doctrine, allowing individuals to expect absolute sa
 
 ![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Civil and Criminal Immunity
 
@@ -143,9 +143,9 @@ Can you carry or possess a firearm on hotel property in Colorado?
 
 Colorado statutes don’t specifically address firearms at hotels. Please note that each hotel develops their own policies and the individual hotel should be contacted to inquire about its concealed carry policy.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Key State Laws
 
@@ -504,6 +504,6 @@ On March 30, 2022, Gov. Jared Polis signed HB 1086 into law. It prohibits a pers
 
 Yes. There is no known statute in Colorado making it illegal to wear a COVID mask while carrying concealed. Additionally, the Weld County sheriff has stated, “Nowhere in Colorado law does it state one cannot wear a face mask and lawfully carry a concealed weapon at the same time.”
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)

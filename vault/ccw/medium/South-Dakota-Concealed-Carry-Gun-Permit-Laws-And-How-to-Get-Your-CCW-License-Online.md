@@ -22,7 +22,7 @@ South Dakota is currently a shall-issue, permitless carry state. Permits are pro
 
 Open carry is legal in South Dakota without a permit. The minimum age is 18 years old. Based on an unofficial 2004 Attorney General Opinion, without a permit, handguns in a vehicle must be in plain sight. Some areas are off-limits, including elementary and secondary schools and school buses.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Permitless Carry
 
@@ -73,7 +73,7 @@ A person is justified in using deadly force only if they reasonably believe that
 
 South Dakota is a Castle Doctrine state and has a “stand your ground” law. There is no duty to retreat as long as the force used is justified, and the law applies as long as the person is in a place where they have the right to be.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -135,7 +135,7 @@ No. There are no magazine capacity restrictions in South Dakota.
 
 No. South Dakota does not have ammunition restrictions.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -744,5 +744,5 @@ Yes. No person may intentionally interfere with any person or group of persons l
 
 All types of knives are legal in South Dakota and they may be carried openly or concealed, except that they may not be carried concealed by someone with intent to commit a felony. The possession of a “dangerous weapon,” which can include a knife, on school grounds, county courthouses, and the state capitol is prohibited. Municipalities may have additional restrictions.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

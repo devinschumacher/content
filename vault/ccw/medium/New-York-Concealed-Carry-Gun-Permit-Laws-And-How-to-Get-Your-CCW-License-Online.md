@@ -18,7 +18,7 @@ New York has transitioned to a shall-issue state following the Supreme Court’s
 
 To buy a handgun from a private individual in New York, a permit to purchase, background check, and firearms registration are required. Private sales must be processed through a licensed firearms dealer. It is illegal to possess an unregistered handgun.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Open Carry and Concealed Carry
 
@@ -44,7 +44,7 @@ Deadly force is justifiable in New York when defending against imminent threats 
 
 Pistol or revolver licenses issued by New York City, Westchester, Nassau, and Suffolk counties expire and require renewal every three years. Licenses issued outside these areas do not expire but must be recertified with the New York State Police every three years for concealed carry licenses.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -95,7 +95,7 @@ Yes. No more than 10 rounds. New York prohibits the manufacture, transportation,
 
 There are exceptions for attached tubular devices designed to accept, and capable of operating only with, .22 caliber rimfire ammunition or a feeding device that is a curio or relic.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -595,5 +595,5 @@ No, while bow hunting during a special bow season, you may not possess a firearm
 
 Yes, interference with lawful taking of wildlife, such as hunting, fishing, or trapping, is prohibited. This includes travel, camping, and other acts preparatory to taking, which occur on lands or waters upon which the affected person has the right or privilege to take such wildlife.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

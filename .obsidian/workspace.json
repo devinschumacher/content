@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28a542c8848f0f83",
+        "id": "93e89f72d3af44fd",
         "type": "tabs",
         "children": [
           {
-            "id": "0a93b78e94df873e",
+            "id": "417e340415afdf4a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,11 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "43e09908f77c85d5",
+  "active": "417e340415afdf4a",
   "lastOpenFiles": [
+    "vault/ccw/medium/alaska_concealed_carry.md",
+    "vault/ccw/medium/Delaware-Concealed-Carry-Gun-Permit-Laws-And-How-to-Get-Your-CCW-License-Online.md",
+    "_link hub.md",
     "vault/merchant_accounts/The Best High Risk Merchant Account Providers (Credit Card Processors).md",
     "vault/merchant_accounts/The Best Large Digital Goods Merchant Account Providers (Credit Card Processors).md",
     "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for Small Business.md",
@@ -195,9 +198,6 @@
     "vault/merchant_accounts/The Best Ecommerce Merchant Account Providers (Credit Card Processing Companies) for Bad Credit.md",
     "vault/merchant_accounts/small business.md",
     "vault/merchant_accounts/retail.md",
-    "vault/merchant_accounts/restaurants.md",
-    "vault/merchant_accounts/nonprofits.md",
-    "vault/merchant_accounts/mobile.md",
     "_assets/1 1.jpg",
     "notes/vue-nuxt/performance_optimization",
     "vault/constitutional_carry/gists",

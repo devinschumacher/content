@@ -16,7 +16,7 @@ Oregon operates as a shall-issue state for concealed carry permits, managed at t
 
 No license is required for firearm purchases in Oregon. Private-party transfers must occur through a licensed dealer, with both parties present. Federal law mandates background checks and record-keeping by the dealer, and the Oregon State Police retain records of firearm sales for five years.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Open Carry Laws
 
@@ -38,7 +38,7 @@ Oregon law does not explicitly include a Castle Doctrine or “stand your ground
 
 The use of deadly physical force is justified in Oregon when preventing a felony involving physical force, burglary in a dwelling, or imminent unlawful deadly physical force. It may also be used to defend against arson or a felony committed with force and violence.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -98,7 +98,7 @@ The use of deadly physical force is justified in Oregon when preventing a felony
 
  _Does Oregon have ammunition restrictions?_ Yes. It is illegal to possess teflon-coated handgun ammunition or handgun ammunition coated with any chemical compound with properties similar to Teflon and which is intended to penetrate soft body armor, for any person with the intent to use the ammunition in the commission of a felony. [Or. Rev. Stat. § 166.350]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -589,7 +589,7 @@ Is there a Hunter Harassment Law in Oregon?
 
 Yes. A person commits the offense of obstructing the taking of wildlife if the person, having no right to do so, interferes with the lawful taking, or the process of taking, of wildlife by another with the intent to prevent the taking. [ORS 496.994]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 By Tyson on July 18, 2024.
 

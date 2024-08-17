@@ -18,7 +18,7 @@ Pennsylvania operates as a shall-issue state for concealed weapons licenses, iss
 
 No permit is required for purchasing firearms in Pennsylvania, and there is no comprehensive firearms registration system. However, the state police maintain a database of all handgun buyers. Private-party transfers of handguns must be conducted through a licensed dealer or at a county sheriff’s office, with a mandatory background check. Exceptions include transfers between spouses, parents and children, or grandparents and grandchildren.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Open Carry Laws
 
@@ -38,7 +38,7 @@ The use of force is justified to prevent unlawful entry or trespass on land or t
 
 [18 Pa. Cons. Stat, §§ 505, 506 & 507]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -80,7 +80,7 @@ Is it legal to own a taser or stun gun in Pennsylvania? Yes. Stun guns and Taser
 
 Is open carry permitted in Pennsylvania? Yes, without a license. Any person who is at least 18 years old and legally entitled to possess a firearm can open carry. A license is required in a vehicle and in the city of Philadelphia. Be aware that the Pennsylvania Supreme Court decision in Commonwealth of Pennsylvania v. Darren Montgomery, 234 A.3d 523 (PA 2020), holding that sometimes a visible firearm is a concealed firearm. This decision has created uncertainty about the definition of open carry.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -562,5 +562,5 @@ What are the knife laws in Pennsylvania?
 
 It is legal to openly carry or conceal any type of knife in Pennsylvania, except on the grounds of K-12 schools and in courthouse buildings. Additional restrictions may apply in municipalities such as Philadelphia, which prohibits cutting weapons in public places.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

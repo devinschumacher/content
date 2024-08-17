@@ -34,9 +34,9 @@ military and veterans and require a state-approved firearms training course, alt
 may apply to law enforcement and members of the military. Since Arizona has permitless carry, any person 21 years of age
 and older who can legally possess a firearm may carry a concealed firearm without a license or permit.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Use of Force
 
@@ -72,9 +72,9 @@ A person is justified in threatening or using both physical force and deadly phy
 person reasonably believes the force is immediately necessary to prevent a number of violent felonies, including murder
 and sexual assault.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Self-Defense
 
@@ -282,9 +282,9 @@ when it is justified.
 
 Yes.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Handgun Purchase & Possession
 
@@ -727,6 +727,6 @@ considered an aggravating circumstance if charged with another crime.
 
 - - -
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)

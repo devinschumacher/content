@@ -20,7 +20,7 @@ Permits, firearms registration, or background checks aren’t required for purch
 
 Open carry of handguns is legal for residents with a Concealed Weapon License (CWL) and non-residents with a valid resident concealed carry license from a recognized state. Minimum age for carry is 18, with some areas such as bars off-limits.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### CONCEALED CARRY DEFINITION
 
@@ -48,7 +48,7 @@ Deadly force is justified to prevent death, serious injury, or violent felonies 
 
 North Dakota upholds laws that protect individuals’ rights to self-defense and secure living environments.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -108,7 +108,7 @@ North Dakota upholds laws that protect individuals’ rights to self-defense and
 
 Does North Dakota have ammunition restrictions? No, there are no restricted handgun ammo types in North Dakota.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -695,5 +695,5 @@ Possession of firearms and dangerous weapons is prohibited at certain public eve
 
 [NDCC §§ 62.1–01–01, 62.1–02–04, 62.1–02–05, 62.1–04–01 & 62.1–04–02]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

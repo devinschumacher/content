@@ -18,7 +18,7 @@ Maryland is now a shall-issue state following the Supreme Court’s ruling on th
 
 To buy a handgun from a private individual in Maryland, a permit to purchase, background check, and firearms registration are mandatory. Private firearms sellers must conduct transfers through a licensed dealer or designated law enforcement agency, which then performs a background check. Maryland also maintains a handgun roster that limits the sale of handguns to those listed, with some exceptions.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Concealed Carry Regulations
 
@@ -34,7 +34,7 @@ Maryland adheres to common law principles resembling Castle Doctrine principles.
 
 Under Maryland Code, individuals are protected from liability for personal injury or death of an intruder in their dwelling or place of business if they reasonably believe force or deadly force is necessary to repel an attack and if the force used is deemed reasonable under the circumstances.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -92,7 +92,7 @@ It is illegal to possess Tasers and stun guns in public schools, State public bu
 
 A Maryland Wear/Carry Handgun Permit is required to possess a stun gun or Taser anywhere other than in your own home in Ocean City.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Carry Locations
 
@@ -485,5 +485,5 @@ Is there a Hunter Harassment Law in Maryland?
 
 Yes. A person may not interfere intentionally with the lawful taking of wildlife by another person on private land that is owned by another person or in a hunting area on land managed by the Department.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

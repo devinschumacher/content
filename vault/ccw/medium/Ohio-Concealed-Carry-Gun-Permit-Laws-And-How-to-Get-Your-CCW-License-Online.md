@@ -20,7 +20,7 @@ No permit, background check, or firearms registration is required when buying a 
 
 Open carry and concealed carry are legal without a permit. Individuals 21 years old or older, who are not prohibited from carrying or possessing a handgun, are no longer required to obtain a license to carry a concealed handgun as of June 12, 2022. Since open carry is not addressed in state statutes, the federal minimum age for possession of a handgun of 18 years old applies. Note: Carrying in vehicles is not specifically addressed in the Constitutional Carry bill. However, according to the Ohio Attorney General, it is legal to possess a loaded firearm in a vehicle.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Concealed Handgun License (CHL)
 
@@ -36,7 +36,7 @@ Ohio Rev. Code §§ 2901.09, 2901.05
 
 Ohio adheres to the Castle Doctrine and, based on the Governor’s signing of SB 175 on January 4, 2021, is now a “stand your ground” state. There is no duty to retreat before using force in self-defense, defense of another, or defense of one’s residence, provided the person is in a place they lawfully have a right to be. You must have a genuine belief that you were in immediate danger of death or great bodily harm and that the use of deadly force was the only way to escape the danger. Deadly force may only be used to protect against serious bodily harm or death.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -98,7 +98,7 @@ No. There is no maximum handgun magazine capacity restriction in Ohio. However, 
 
 No. Ohio has no restrictions on handgun ammo.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -815,5 +815,5 @@ Places off-limits even with a permit/license:
 
  **Answer:** Based on SB 140, which took effect on April 12, 2021, any knife or cutting instrument is defined as a weapon only if it is used as a weapon. The legislation no longer categorizes a concealed knife, razor, or cutting instrument as a “deadly weapon” or “weapon” as long as it’s not used as a weapon. So, Ohio law now allows for the ownership and open carry and concealed carry of any type of knife other than ballistic knives, which are forbidden. Knives are restricted in “School Safety Zones” which include schools, school buildings, school premises, school activities, and school buses; and courthouses or other structures in which a courtroom is located. Ohio municipalities may have additional restrictions. For example, both Akron and Cleveland prohibit the possession in public places of any knife with a blade 2 ½ inches or longer.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

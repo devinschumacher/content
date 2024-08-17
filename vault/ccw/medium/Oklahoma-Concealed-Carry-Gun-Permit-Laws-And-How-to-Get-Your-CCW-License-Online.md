@@ -18,7 +18,7 @@ Oklahoma operates as a shall-issue, permitless carry state where licenses are pr
 
 No permit is required for purchasing firearms from private individuals in Oklahoma. There is no waiting period or firearms registration; however, a background check is mandatory when purchasing a handgun from a Federal Firearms Dealer.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Open Carry Laws
 
@@ -34,7 +34,7 @@ Under Oklahoma law, individuals using justified defensive force are immune from 
 
 For specific definitions and further details, refer to Oklahoma state statutes.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -100,7 +100,7 @@ Without a license, for anyone that can legally own a firearm and is at least 21 
 
 However, handguns larger than .45 caliber are prohibited.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -776,5 +776,5 @@ Yes. A person may not willfully obstruct or impede the participation of any indi
 
 It is legal to own any type of knife in Oklahoma. Knives may be carried for self-defense, hunting, fishing, recreating, for educational purposes, and for live historical reenactments. The possession of any weapon on school grounds is illegal.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

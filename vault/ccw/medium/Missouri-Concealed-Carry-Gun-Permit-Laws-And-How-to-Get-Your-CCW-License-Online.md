@@ -18,7 +18,7 @@ There is no requirement for a permit, background check, or firearms registration
 
 Open carry and concealed carry are legal for individuals 19 years or older who can legally possess a firearm (18 for military members or honorably discharged). Local authorities may restrict concealed carry in buildings they own, lease, or control, and may require a Concealed Carry Permit (CCP) for open carry. The law in Missouri does not explicitly state that a permit is unnecessary for carry; instead, the definition of “unlawful use of a weapon” specifies carrying in off-limits areas.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Obtaining a Missouri Concealed Carry Permit (CCP)
 
@@ -32,7 +32,7 @@ In 2016, the Missouri Court of Appeals clarified that deadly force under the Cas
 
 Missouri law prohibits political subdivisions from restricting the use of firearms to defend people or property.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)K[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)K[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -94,7 +94,7 @@ Is open carry permitted in Missouri?
 
 Yes, without a permit for anyone 19 years or older who can legally possess a firearm. However, local authorities can regulate open carry for those who do not have a concealed carry permit. [§ 21.750, RSMo]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -711,5 +711,5 @@ Places off-limits even with a permit/license:
  **Question:** What are the knife laws in Missouri?  
 **Answer:** It is legal to own and openly carry any type of knife in Missouri. You may concealed carry only a pocketknife with a folding blade less than 4 inches. You may not concealed carry any other knife on your person or in your vehicle. You may not concealed carry a knife into any area where firearms are restricted under section 571.107. (§§ 571.107, 571.030 & 571.010 RSMo)
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

@@ -16,7 +16,7 @@ Idaho is a shall-issue state for concealed carry, with concealed weapon licenses
 
 ![](https://cdn-images-1.medium.com/max/800/1*aCmvRhaa5Xjz4zDZxHzAjg.png)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Open Carry
 
@@ -57,7 +57,7 @@ A person is released from liability when protecting oneself or family by reasona
 
 ![](https://cdn-images-1.medium.com/max/800/1*TMCVgNoKp2NAtvLSAMkaJg.png)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Definitions
 
@@ -123,7 +123,7 @@ Yes, without a license. Any person who is at least 18 years old and legally enti
 
 ![](https://cdn-images-1.medium.com/max/800/1*UmVcdbz7GlGdNVJMx2tkag.png)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Weapons Other Than Handguns Allowed
 
@@ -629,7 +629,7 @@ $15 for renewals. Additional fees may apply for processing and background checks
 
 ![](https://cdn-images-1.medium.com/max/800/1*aCmvRhaa5Xjz4zDZxHzAjg.png)
 
-[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)CCW Gun Laws By State
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)CCW Gun Laws By State
 
 Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming
 

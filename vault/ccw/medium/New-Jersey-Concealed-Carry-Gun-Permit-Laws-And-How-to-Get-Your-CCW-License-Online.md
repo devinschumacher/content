@@ -18,7 +18,7 @@ New Jersey has transitioned to a shall-issue state for concealed weapons permits
 
 A Firearms Purchaser Identification (FPID) card and a National Instant Criminal Background Check System (NICS) conducted through a licensed firearms dealer are required to purchase handguns privately. Handgun purchases in New Jersey must be from a state-licensed dealer or a resident private seller, with records submitted to the State Police Firearms Investigations Unit. An FPID is also necessary to buy handgun ammunition.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Carry Laws
 
@@ -54,7 +54,7 @@ Force or deadly force against an intruder unlawfully in a dwelling is justifiabl
 
 Justifiable when necessary to protect against unlawful force, with deadly force permissible when facing imminent death or serious bodily harm, and retreat is not mandatory if the actor is in their dwelling and not the aggressor.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -116,7 +116,7 @@ Does New Jersey have ammunition restrictions?
 
 Yes. You must have a Firearms Purchaser Identification Card, a permit to purchase a handgun, or a carry permit to buy handgun ammunition. The minimum age to purchase or possess handgun ammunition is 21 years old.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -658,5 +658,5 @@ No.
 
 No. It is unlawful to have both a firearm and bow in possession or under control while hunting. [NJ General Hunting Regulations]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

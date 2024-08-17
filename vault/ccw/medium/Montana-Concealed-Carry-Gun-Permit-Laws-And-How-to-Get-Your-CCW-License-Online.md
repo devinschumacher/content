@@ -20,7 +20,7 @@ No permit is required to purchase a firearm from a private individual, and there
 
 Open carry is legal in Montana without a permit for anyone at least 18 years old who can legally possess a firearm. The federal minimum age is 18, but state law allows 14-year-olds to carry or use a firearm in public under direct supervision of a parent, guardian, qualified firearms safety instructor, or an authorized adult. Some areas, such as federal buildings, are off-limits. Concealed carry is defined as carrying a handgun that is wholly or partially covered by clothing or apparel.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Concealed Carry
 
@@ -51,7 +51,7 @@ A person is justified in using force or threatening to use force against another
 
 [Montana Code Ann. §§ 45–3–102, 45–3–103, and 45–3–104]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -131,7 +131,7 @@ Yes, open carry is allowed without a permit. Any person who is at least 18 years
 
 [Mont. Code Ann. § 45–3–111]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -661,5 +661,5 @@ I can legally carry a concealed firearm in Montana, but can I wear a COVID 19 pr
 
 Can you concealed carry while shotgun/rifle hunting in Montana? Yes. You may carry a concealed weapon without a CWP while lawfully engaged in hunting, fishing, trapping, camping, hiking, backpacking, farming, ranching, or other outdoor activity in which weapons are often carried for recreation or protection. [Dept of Justice FAQ]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

@@ -20,7 +20,7 @@ California is now a shall-issue state since the Supreme Court’s ruling on the 
 
 Any resident of this state who has not previously reported ownership of a firearm or anyone moving into California with a firearm is considered a “personal firearm importer” and must provide a report to the DOJ regarding their firearm or sell or transfer the firearm through a licensed dealer or to a sheriff or police department. The California Department of Justice (DOJ) runs a background check and retains information about the purchaser and seller of all in-state firearms sales and transfers.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 All firearms sales must be completed through a dealer. A permit to purchase, a background check, and a transaction report to the DOJ are required to buy a handgun. No person may sell, loan, or transfer a firearm to a minor, nor sell a handgun to an individual under 21 years of age. All ammunition purchases require a DOJ “point of sale” eligibility check with $1 paid by the consumer.
 
@@ -32,7 +32,9 @@ A U.S. citizen or legal resident at least 18 years old may carry a handgun anywh
 
 The appellate court decision that struck down California’s ban on possessing large-capacity gun magazines has been vacated as a broader panel (en banc) of the court readies to rehear the San Diego-based case. While the ban on owning large-capacity magazines stays in place for now, a lower-court ruling that prohibits enforcement of the ban while the case is being litigated also remains in effect.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)
+
+[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Self-Defense
 
@@ -84,7 +86,7 @@ Any person using force intended or likely to cause death or great bodily injury 
  **Question:** If California requires a license to carry a concealed firearm, how are those licenses issued?  
 **Answer:** California operates under a “Shall Issue” policy for concealed carry licenses.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -650,5 +652,5 @@ Can you concealed carry while bow hunting in California? No. The California Fish
 
 I can legally carry a concealed firearm in California, but can I wear a COVID 19 protective mask while carrying concealed? California is one of just two states with statutes against carrying a concealed firearm while wearing a mask (the other being Illinois). However the law specifies that a person commits criminal possession of a firearm when the person carries a firearm in a public place or on any public street while masked so as to hide the person’s identity (which isn’t generally the intention during the COVID pandemic). However, since there is no exemption for wearing a mask for public health or medical reasons, contact your issuing authority with any questions. [Cal. Penal Code § 25300(a)]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://sndn.to/ccw)[👆 Click to get your CCW permit online in just minutes!](https://sndn.to/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

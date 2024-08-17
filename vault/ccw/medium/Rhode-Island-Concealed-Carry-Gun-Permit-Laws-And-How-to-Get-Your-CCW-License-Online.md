@@ -20,7 +20,7 @@ Local law enforcement must issue licenses to eligible applicants if they are dee
 
 The attorney general may issue licenses to individuals aged 21 or older who demonstrate a specific need and prove their ability to handle a handgun. This license may be issued to undocumented individuals as well.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Handgun Purchase and Background Checks
 
@@ -52,7 +52,7 @@ Rhode Island follows the Castle Doctrine:
 
 These laws afford individuals legal protections when using force in self-defense within their homes or places of lawful occupancy.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -96,7 +96,7 @@ Is open carry permitted in Rhode Island? Yes, with a RI LCCW issued by the attor
 
 Does Rhode Island have ammunition restrictions? Yes. Armor-piercing ammunition is prohibited. [R.I. Gen. Laws § 11–47–20.1]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -643,7 +643,7 @@ Step 7: You will receive notification by mail regarding approval or denial of yo
 
 Yes. No person shall obstruct or interfere with the lawful taking of wildlife by another person at the location where the activity is taking place with intent to prevent the lawful taking.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 By Tyson on July 18, 2024.
 

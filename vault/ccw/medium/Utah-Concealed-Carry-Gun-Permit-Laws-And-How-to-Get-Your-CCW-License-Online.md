@@ -20,7 +20,7 @@ Utah is a shall-issue state, meaning that permits for carrying concealed firearm
 
 On March 24, 2022, Governor Spencer Cox signed SB 115 into law, giving the state greater control over gun laws in Utah. This law allows the state to override policies established by local authorities, such as the policy set by Salt Lake County Mayor Jenny Wilson in 2019. The law took effect on July 1, 2022.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Carrying Firearms
 
@@ -71,7 +71,7 @@ The trespass is made or attempted by force or in a violent and tumultuous manner
 
 The person reasonably believes the trespass is for the purpose of committing violence or a forcible felony that poses imminent peril of death or serious bodily injury to someone on the property.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -133,7 +133,7 @@ No. There are no magazine capacity restrictions for handguns in Utah.
 
 No. Utah does not have ammunition restrictions.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -748,5 +748,5 @@ An applicant may satisfy the general familiarity requirement by one of the follo
 
  **Answer:** It is legal for anyone who has never been convicted of a crime, adjudged delinquent or mentally ill, dishonorably discharged from the military, or who does not possess or use illegal drugs, to own and open or concealed carry any type of knife in Utah. Dangerous weapons are prohibited from school grounds and from public or private elementary through public or private institutions of higher education. [Utah Code Ann. §§ 76–10–501(6), 76–10–503, and 76–10–505.5]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

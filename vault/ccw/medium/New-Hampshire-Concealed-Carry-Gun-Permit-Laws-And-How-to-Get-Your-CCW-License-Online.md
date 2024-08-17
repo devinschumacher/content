@@ -18,7 +18,7 @@ There is no permit, background check, or firearms registration required to purch
 
 Open carry and concealed carry are legal in New Hampshire without a license for individuals at least 18 years old who can legally possess a firearm. While there is no minimum age to carry a firearm under state law, federal law requires individuals to be at least 18 years old. Pistol/Revolver Licenses (PRLs) are issued to residents and non-residents primarily for reciprocity purposes. No fingerprinting or photograph is necessary for a PRL. New Hampshire law does not mandate firearms safety training or proficiency demonstration for license applicants. With permitless carry in place, any person aged 18 and older who can legally possess a firearm may carry concealed without a license or permit.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Self-Defense Laws
 
@@ -52,7 +52,7 @@ These laws apply regardless of whether the individual is physically present.
 
 This revision maintains the information while removing external links and enhancing readability.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -116,7 +116,7 @@ No. A concealed carry license does not allow you to carry weapons other than han
 
 This reformatted FAQ list simplifies the information into a clear and concise format without nested bullet points or unnecessary links.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -628,5 +628,5 @@ Is there a Hunter Harassment Law in New Hampshire?
 
 The law allows for the concealed and open carry of any type of knife by anyone who is not a convicted felon, although they cannot be carried in any courthouse. [RSA § 159:19]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

@@ -18,7 +18,7 @@ There is no license required to purchase a firearm, and firearms do not need to 
 
 Open carry and concealed carry are legal without a permit. As of July 1, 2022, individuals 18 years old or older who are not prohibited from carrying or possessing a handgun are no longer required to obtain a license to carry a handgun.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Self-Defense
 
@@ -40,7 +40,7 @@ No person in Indiana shall be placed in legal jeopardy of any kind for protectin
 
 A person is justified in using reasonable force, including deadly force, and does not have a duty to retreat if they reasonably believe that the force is necessary to prevent or terminate another person’s unlawful entry of or attack on their dwelling, curtilage, or occupied motor vehicle.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Indiana Gun Laws at a Glance
 
@@ -138,7 +138,7 @@ Does Indiana have laws relating to storing firearms in private vehicles in an em
 
 No person may adopt or enforce an ordinance, resolution, policy, or rule that prohibits an employee from possessing a firearm or ammunition that is locked in the trunk of the employee’s vehicle, kept in the glove compartment of the employee’s locked vehicle, or stored out of plain sight in the employee’s locked vehicle. This restriction does not apply in various, specifically named locations including school property and private residences (see section (2)(b) for the list of locations). [Ind. Code § 34–28–7–2.]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -558,5 +558,5 @@ Yes. A person who knowingly or intentionally interferes with the legal taking of
 
 * * *
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

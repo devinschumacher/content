@@ -18,7 +18,7 @@ No license is needed to purchase a firearm from a private individual, there is n
 
 Open carry is legal in Kentucky without a license for anyone at least 18 years of age who is not prohibited from possessing a firearm. Some areas are off-limits, including businesses primarily devoted to the sale of alcohol.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 Kentucky is now a permitless carry state, so concealed carry is legal for anyone at least 21 years old who can legally possess a firearm without a license/permit. Those wanting to conceal carry out-of-state will still need to get a conceal carry license. Kentucky concealed carry licenses are referred to as Concealed Carry of Deadly Weapons (CCDW) licenses, and they apply to not only handguns but also knives, clubs, blackjacks, nunchaku, shuriken, and brass knuckles. Successful completion of a state-approved firearms training course is required to obtain a CCDW license. CCDW licenses are available to residents and military personnel stationed in Kentucky. Licenses are not available for non-residents. In terms of reciprocity, Kentucky recognizes all currently valid concealed carry permits issued by other U.S. jurisdictions.
 
@@ -47,7 +47,7 @@ Committing or attempting to commit a burglary, robbery, or other felony involvin
 
 Committing or attempting to commit arson of a dwelling or other building in his or her possession.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Self-Defense
 
@@ -108,7 +108,7 @@ A person who uses permitted force is justified in using such force and is immune
  **Question:** Does Kentucky have ammunition restrictions?  
 **Answer:** Yes. Armor-piercing ammunition is prohibited.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Carry Locations
 
@@ -585,5 +585,5 @@ There are no banned knife types in Kentucky. It is legal for anyone over the age
 
 There is no known statute in Kentucky making it illegal to wear a COVID mask while carrying concealed.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

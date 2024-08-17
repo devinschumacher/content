@@ -22,7 +22,7 @@ No permit, background check, or firearms registration is required to buy a handg
 
 Open and concealed carry are legal in Maine without a permit. Individuals aged 21 or older, or at least 18 and active duty or honorably discharged military, who can legally possess a firearm, are allowed to carry openly or concealed.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Maine Concealed Handgun Permits (CCHs)
 
@@ -46,7 +46,7 @@ A person may use non-deadly force to defend themselves or others from imminent u
 
 Property owners or those licensed to be on premises are justified in using non-deadly force to prevent criminal trespass and deadly force to prevent arson or in defense against intruders committing crimes inside their dwelling place.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Maine Gun Laws at a Glance
 
@@ -86,7 +86,7 @@ What is the minimum age in Maine to get a concealed carry permit? Any person 21 
 
 Can you concealed carry weapons other than handguns in Maine with a concealed carry permit (or under permitless carry if applicable)? No. You are not allowed to carry concealed weapons that are not handguns.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Carry Locations
 
@@ -527,5 +527,5 @@ It is legal to own any type of knife in Maine, although there may be county ordi
 
 Yes. A person may not intentionally or knowingly interfere with the lawful hunting, fishing or trapping of a wild animal, wild bird or fish. A person may not intentionally or knowingly disturb or attempt to disturb a wild animal, wild bird or fish with the intent to interfere with the hunting, fishing or trapping of a wild animal, wild bird or fish.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

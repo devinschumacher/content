@@ -16,7 +16,7 @@ Massachusetts became a shall-issue state following the Supreme Court’s ruling 
 
 A Firearm Identification (FID) card or LTC is required to purchase a firearm. Background checks are mandatory for buying a handgun from a private individual, as the seller must verify the buyer’s Firearm Identification Card with the Department of Criminal Justice Information Services. An LTC is also required to purchase ammunition. Although handguns do not need to be registered, all firearm sales and transfers must be reported to the Department of Criminal Justice Information Services, which maintains comprehensive records of these transactions.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 The former Class B license allowed for the open carry of non-large capacity firearms. Although some Class B licenses may still be valid, no new Class B licenses are being issued due to revisions in licensure.
 
@@ -28,7 +28,7 @@ Massachusetts follows the Castle Doctrine. According to Massachusetts law, if a 
 
 A “dwelling” is defined as a building that serves as a permanent or temporary residence, which excludes tents, motor homes, and boats. Common areas of buildings, such as hallways, do not fall under the Castle Doctrine.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -88,7 +88,7 @@ Yes. Stun guns may be carried with an LTC. Additionally, an LTC allows the holde
 
 Yes. Any person with a license to carry is permitted to purchase, possess, and carry all types of lawful ammunition. The minimum age to purchase handgun ammunition is 21 years old.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -514,5 +514,5 @@ Answer: Yes. No person shall obstruct, interfere with, or otherwise prevent the 
 
 * * *
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

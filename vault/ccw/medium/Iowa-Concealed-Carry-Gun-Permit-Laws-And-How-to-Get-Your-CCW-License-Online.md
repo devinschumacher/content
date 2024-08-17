@@ -29,7 +29,7 @@ Iowa issues two types of permits:
 
 Since July 1, 2021, unlicensed individuals purchasing pistols or revolvers from federally licensed dealers must possess a valid permit to acquire, a permit to carry, or pass a national instant criminal background check. No waiting periods or firearms registration are required in Iowa.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Permitless Carry
 
@@ -65,7 +65,7 @@ Individuals using reasonable force in defense of self, others, or property are i
 
 Iowa adheres to Castle Doctrine principles, allowing individuals not engaged in illegal activities to use justified force without the duty to retreat from any lawful place they are present.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Iowa Gun Laws at a Glance
 
@@ -165,7 +165,7 @@ Can you carry or possess a firearm on hotel property in Iowa?
 
 A person operating a hotel has the right to refuse or deny the use of a room, accommodations, facilities, or other privileges of the hotel to an individual the hotel operator reasonably believes is bringing in anything which may create an unreasonable danger or risk to other persons, including but not limited to firearms or explosives. The individual hotel should be contacted to inquire about its concealed carry policy. [Iowa Hotel Sanitation Code 137C.25.C(4)]
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -580,5 +580,5 @@ For more details, refer to the specific Iowa Code sections mentioned.
 
 * * *
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

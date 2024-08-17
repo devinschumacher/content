@@ -24,7 +24,7 @@ Texas operates under a shall-issue policy for concealed weapons licenses, manage
 
  **Under 21 Carry** : Following a court ruling, those aged 18 to 20 can obtain an LTC to carry handguns outside their homes as of Jan. 10, 2023.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Self-Defense Laws in Texas
 
@@ -40,7 +40,7 @@ Texas law supports both Castle Doctrine and “stand your ground” principles:
 
 For specific legal references, consult the Texas Penal Code (§§ 9.31, 9.32, 9.33, 9.41, 9.42 & 9.43).
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -84,7 +84,7 @@ Does Texas have ammunition restrictions? Yes. Armor-piercing ammunition is prohi
 
 Does Texas allow permitless carry? Yes. As of Sept. 1, 2021, permitless concealed and open carry is legal for anyone at least 21 years old who is not prohibited from lawfully possessing a handgun under federal law or Texas state law.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -687,5 +687,5 @@ Yes. No person may intentionally interfere with another person lawfully engaged 
 
 [ Tex. Parks & Wildlife Code § 62.0125 ]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

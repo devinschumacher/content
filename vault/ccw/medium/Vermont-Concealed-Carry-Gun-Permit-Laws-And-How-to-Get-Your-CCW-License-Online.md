@@ -18,7 +18,7 @@ Vermont is a does-not-issue, constitutional carry state. All gun sales must be c
 
 Both open carry and concealed carry are legal without a permit in Vermont. Any person 16 or older (although federal law requires the age to be 18) who can legally possess a firearm is allowed to carry openly or concealed. There is no distinction between resident or non-resident; both are allowed to carry without a permit in Vermont. Therefore, the state does not issue permits.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Self-Defense Laws
 
@@ -28,7 +28,7 @@ In the just and necessary defense of his or her own life or the life of his or h
 
 In the suppression of a person attempting to commit murder, sexual assault, aggravated sexual assault, burglary, or robbery with force or violence.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -90,7 +90,7 @@ Does Vermont have magazine capacity restrictions for handguns?
 
 No more than 15 rounds for handguns. On February 19, 2021, the Vermont Supreme Court upheld the constitutionality of the state law banning high-capacity magazines. In 2018, Vermont enacted legislation to generally restrict the sale, purchase, possession, manufacture and importation of large-capacity ammunition-feeding devices. There is a grandfather provision for large-capacity magazines that were lawfully possessed on or before April 11, 2018. Various exemptions apply, including law enforcement, government officials, and shooting competitions. Additional exemptions include attached tubular devices designed for .22 caliber rimfire ammunition and curios or relics. [Source: Vt. Stat. Ann. § 4021(e)(1)] On March 25, 2022, Gov. Phil Scott signed S. 4 into law, which permits a non-resident to transport a high-capacity magazine into the state for the exclusive purpose of use in an organized shooting competition sponsored by an entity registered with the secretary of state. The device must also be lawfully possessed under the laws of another state. It will go into effect on July 1, 2022.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -551,5 +551,5 @@ What are the knife laws in Vermont?
 
 It is legal in Vermont to carry, openly or concealed, any type of legal knife, so long as you have no criminal intent and do not carry it onto school, school buses, or government property. Switchblades with a blade that is 3 inches or longer are illegal. Municipalities may have additional restrictions.
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 

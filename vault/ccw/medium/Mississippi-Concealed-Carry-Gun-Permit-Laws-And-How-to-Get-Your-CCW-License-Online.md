@@ -26,7 +26,7 @@ Open carry is lawful in Mississippi for individuals aged 18 and above who can le
 
 Concealed carry without a permit is permitted for those legally eligible, provided the handgun is carried in a holster or sheath. The state does not specify a minimum age for permitless concealed carry, although the Department of Public Safety generally requires individuals to be 21 years old.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 #### Types of Permits
 
@@ -42,7 +42,7 @@ Homicide is justified under Mississippi law in cases including resisting imminen
 
 For detailed legal advice tailored to your situation, consult with a qualified attorney.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*TMCVgNoKp2NAtvLSAMkaJg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -104,7 +104,7 @@ Yes. Mississippi allows permitless carry with some limitations.
 
 Yes. While no permit is required for purchase, a concealed carry permit is required to carry a stun gun or Taser. The same areas that are off-limits for concealed handguns apply to carrying stun guns.
 
-[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/1200/1*UmVcdbz7GlGdNVJMx2tkag.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
 * * *
 
@@ -653,5 +653,5 @@ It is legal to own any knife in Mississippi, unless you are a minor or have been
 
 [Miss. Code Ann. §§ 97–37–1, 97–37–17]
 
-[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://serp.md/ccw)[👆 Click to get your CCW permit online in just minutes!](https://serp.md/ccw)
+[![](https://cdn-images-1.medium.com/max/2560/1*aCmvRhaa5Xjz4zDZxHzAjg.png)](https://linkoff.to/ccw)[👉 Click to get your CCW permit online in just minutes!](https://linkoff.to/ccw)
 
