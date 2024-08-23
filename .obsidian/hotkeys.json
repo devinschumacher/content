@@ -34,15 +34,6 @@
       "key": "["
     }
   ],
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
   "editor:delete-paragraph": [
     {
       "modifiers": [
@@ -58,6 +49,15 @@
         "Shift"
       ],
       "key": "Backspace"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
     }
   ]
 }

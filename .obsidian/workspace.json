@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "93e89f72d3af44fd",
+        "id": "d3be63c37f077de3",
         "type": "tabs",
         "children": [
           {
-            "id": "417e340415afdf4a",
+            "id": "b7deebea6e376d54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md"
+              }
             }
           },
           {
@@ -128,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,45 +179,45 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "417e340415afdf4a",
+  "active": "43e09908f77c85d5",
   "lastOpenFiles": [
-    "vault/ccw/medium/alaska_concealed_carry.md",
-    "vault/ccw/medium/Delaware-Concealed-Carry-Gun-Permit-Laws-And-How-to-Get-Your-CCW-License-Online.md",
-    "_link hub.md",
-    "vault/merchant_accounts/The Best High Risk Merchant Account Providers (Credit Card Processors).md",
-    "vault/merchant_accounts/The Best Large Digital Goods Merchant Account Providers (Credit Card Processors).md",
-    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for Small Business.md",
-    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for Retail Brands.md",
-    "vault/merchant_accounts/The Best Mobile Merchant Account Providers (Credit Card Processors).md",
-    "vault/merchant_accounts/The Best Low Fee Merchant Account Providers (Credit Card Processors).md",
-    "vault/merchant_accounts/The Best Kratom Merchant Account Providers (Credit Card Processors).md",
-    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for Collection Agencies.md",
-    "vault/merchant_accounts/The Best Firearms Friendly Merchant Account Providers (Credit Card Processors).md",
-    "vault/merchant_accounts/Free No-Fee Merchant Account Providers (Credit Card Processors).md",
-    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for Healthcare Companies.md",
-    "vault/merchant_accounts/The Best Instant Approval Merchant Account Providers (Credit Card Processors).md",
-    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for NonProfits.md",
-    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processors) for Restaurants.md",
-    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processing Companies) for CBD Companies.md",
-    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processing Companies) for Cannabis Businesses.md",
-    "vault/merchant_accounts/The Best Merchant Account Providers (Credit Card Processing Companies) for Bad Credit.md",
-    "vault/merchant_accounts/The Cheapest Merchant Account Providers (Credit Card Processing Companies).md",
-    "vault/merchant_accounts/The Best Ecommerce Merchant Account Providers (Credit Card Processing Companies) for CBD Companies.md",
-    "vault/merchant_accounts/The Best Ecommerce Merchant Account Providers (Credit Card Processing Companies) for Cannabis Businesses.md",
-    "vault/merchant_accounts/The Best Ecommerce Merchant Account Providers (Credit Card Processing Companies) for Bad Credit.md",
-    "vault/merchant_accounts/small business.md",
-    "vault/merchant_accounts/retail.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Wyoming-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Wisconsin-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/West-Virginia-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Washington-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Virginia-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Vermont-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Utah-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/USA-Open-Carry-Firearm-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Texas-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Tennessee-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/South-Dakota-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/South-Carolina-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Rhode-Island-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Pennsylvania-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Oregon-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Oklahoma-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Ohio-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/North-Dakota-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/North-Carolina-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/New-York-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/New-Mexico-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/New-Jersey-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/New-Hampshire-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Nevada-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Nebraska-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md/Montana-Open-Carry-Laws.md",
+    "vault/gun-laws/backups/markdown/OC-51-md",
+    "vault/gun-laws/backups/markdown/GP-md",
+    "vault/gun-laws/backups/markdown/GL-51-md",
+    "vault/gun-laws/backups/markdown/CCW-51-md",
+    "vault/gun-laws/backups/markdown/CC-51-md",
+    "vault/gun-laws/backups/html/OC-51-HTML/Wyoming-Open-Carry-Laws.html",
+    "vault/gun-laws/backups/html/OC-51-HTML/Wisconsin-Open-Carry-Laws.html",
+    "vault/gun-laws/backups/html/OC-51-HTML/West-Virginia-Open-Carry-Laws.html",
+    "vault/gun-laws/backups/html/OC-51-HTML/Washington-Open-Carry-Laws.html",
+    "vault/gun-laws/backups/html/OC-51-HTML/Virginia-Open-Carry-Laws.html",
     "_assets/1 1.jpg",
-    "notes/vue-nuxt/performance_optimization",
-    "vault/constitutional_carry/gists",
-    "vault/constitutional_carry",
-    "vault",
-    "vault/ccw/gists",
-    "vault/ccw/medium/Wyoming-Concealed.md.docx",
-    "gists",
-    "vault/merchant_accounts",
-    "vault/attimo",
-    "posts/untitled folder",
     "_assets/2.png",
     "_assets/1.jpg",
     "_assets/component-diagram.png",
