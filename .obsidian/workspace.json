@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
+                "file": "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md"
+                "file": "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
+                "file": "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
+                "file": "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +179,9 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "43e09908f77c85d5",
+  "active": "b7deebea6e376d54",
   "lastOpenFiles": [
+    "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
     "vault/gun-laws/gun-laws-articles-for-rewriter.csv",
     "vault/gun-laws/backups/markdown/OC-51-md/Wyoming-Open-Carry-Laws.md",
     "vault/gun-laws/backups/markdown/OC-51-md/Wisconsin-Open-Carry-Laws.md",
@@ -216,7 +217,6 @@
     "vault/gun-laws/backups/html/OC-51-HTML/Wisconsin-Open-Carry-Laws.html",
     "vault/gun-laws/backups/html/OC-51-HTML/West-Virginia-Open-Carry-Laws.html",
     "vault/gun-laws/backups/html/OC-51-HTML/Washington-Open-Carry-Laws.html",
-    "vault/gun-laws/backups/html/OC-51-HTML/Virginia-Open-Carry-Laws.html",
     "_assets/1 1.jpg",
     "_assets/2.png",
     "_assets/1.jpg",
