@@ -1,14 +1,16 @@
 ---
 tags:
   - SOP
+  - Nuxt
+  - Supabase
 ---
 # How to connect Supabase to a Nuxt project
 
 ## 1. Create a new Supabase project
 
-Create a new supabase project
+Create a new Supabase project
 
-## 2. Add supabase credentials to .env
+## 2. Add Supabase credentials to .env
 
 ```.env
 SUPABASE_URL=<your-supabase-project-url>

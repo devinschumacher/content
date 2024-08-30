@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3be63c37f077de3",
+        "id": "868cf545e9d41e65",
         "type": "tabs",
         "children": [
           {
-            "id": "b7deebea6e376d54",
+            "id": "1abfd7a3cedf046d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,10 +170,11 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "b7deebea6e376d54",
+  "active": "1abfd7a3cedf046d",
   "lastOpenFiles": [
-    "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
     "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md",
+    "notes/vue-nuxt/How to query & use data from Supabase in Nuxt.md",
+    "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
     "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
     "vault/gun-laws/gun-laws-articles-for-rewriter.csv",
     "vault/gun-laws/backups/markdown/OC-51-md/Wyoming-Open-Carry-Laws.md",
@@ -207,7 +199,6 @@
     "vault/gun-laws/backups/markdown/OC-51-md/New-York-Open-Carry-Laws.md",
     "vault/gun-laws/backups/markdown/OC-51-md/New-Mexico-Open-Carry-Laws.md",
     "vault/gun-laws/backups/markdown/OC-51-md/New-Jersey-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/New-Hampshire-Open-Carry-Laws.md",
     "vault/gun-laws/backups/markdown/OC-51-md",
     "vault/gun-laws/backups/markdown/GP-md",
     "vault/gun-laws/backups/markdown/GL-51-md",
