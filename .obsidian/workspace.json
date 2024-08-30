@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
+                "file": "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md"
+                "file": "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
+                "file": "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
+                "file": "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,8 @@
   },
   "active": "b7deebea6e376d54",
   "lastOpenFiles": [
+    "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
+    "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md",
     "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
     "vault/gun-laws/gun-laws-articles-for-rewriter.csv",
     "vault/gun-laws/backups/markdown/OC-51-md/Wyoming-Open-Carry-Laws.md",
@@ -206,8 +208,6 @@
     "vault/gun-laws/backups/markdown/OC-51-md/New-Mexico-Open-Carry-Laws.md",
     "vault/gun-laws/backups/markdown/OC-51-md/New-Jersey-Open-Carry-Laws.md",
     "vault/gun-laws/backups/markdown/OC-51-md/New-Hampshire-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Nevada-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Nebraska-Open-Carry-Laws.md",
     "vault/gun-laws/backups/markdown/OC-51-md",
     "vault/gun-laws/backups/markdown/GP-md",
     "vault/gun-laws/backups/markdown/GL-51-md",
