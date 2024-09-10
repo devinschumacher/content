@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "868cf545e9d41e65",
+        "id": "e916e2e0d47c88b2",
         "type": "tabs",
         "children": [
           {
-            "id": "1abfd7a3cedf046d",
+            "id": "caf8e0740f29add5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/How to emit an event up to a parent component.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a159597ba44f2e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/How to create a scrollable carousel component--element in Tailwind without using a carousel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ActUp",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -65,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5026054382324
+    "width": 201.50260543823242
   },
   "right": {
     "id": "12156b4b7b24ea9d",
@@ -91,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/How to create a scrollable carousel component--element in Tailwind without using a carousel.md"
+              }
             }
           },
           {
@@ -128,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/How to create a scrollable carousel component--element in Tailwind without using a carousel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/How to create a scrollable carousel component--element in Tailwind without using a carousel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,54 +193,54 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "1abfd7a3cedf046d",
+  "active": "43e09908f77c85d5",
   "lastOpenFiles": [
+    "vault/done",
+    "assets/with overflow-x-auto.png",
+    "assets/without overflow-x-auto.png",
+    "notes/How to emit an event up to a parent component.md",
+    "notes/How to create a scrollable carousel component--element in Tailwind without using a carousel.md",
+    "notes/vue-nuxt/Dynamic Routing in Nuxt.md",
+    "notes/vue-nuxt/useRuntimeConfig.md",
+    "notes/How to fetch data from an API and display it using $fetch (openweathermap).md",
+    "notes/vue-nuxt/app.config.ts file.md",
+    "notes/vue-nuxt/TypeScript + Nuxt.md",
+    "notes/How to customize TailwindCSS defaults.md",
+    "vault/done/research_papers/Enhancing Suno's BARK Text-to-Speech Model - Addressing Limitations through Meta's Encodec and Pretrained HuBert.md",
+    "Runtime Configuration.md",
+    "notes/vue-nuxt/Slots in Vue + Nuxt.md",
+    "notes/vue-nuxt/useAysncData.md",
+    "vault/done/music/gists/Billboard-Year-End-Hot-100-Singles-of-2019.md",
+    "Untitled 1.md",
     "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md",
+    "notes/vue-nuxt/Vue developer tools.md",
+    "_link hub.md",
     "notes/vue-nuxt/How to query & use data from Supabase in Nuxt.md",
-    "vault/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
-    "vault/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
-    "vault/gun-laws/gun-laws-articles-for-rewriter.csv",
-    "vault/gun-laws/backups/markdown/OC-51-md/Wyoming-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Wisconsin-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/West-Virginia-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Washington-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Virginia-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Vermont-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Utah-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/USA-Open-Carry-Firearm-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Texas-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Tennessee-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/South-Dakota-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/South-Carolina-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Rhode-Island-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Pennsylvania-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Oregon-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Oklahoma-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/Ohio-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/North-Dakota-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/North-Carolina-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/New-York-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/New-Mexico-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md/New-Jersey-Open-Carry-Laws.md",
-    "vault/gun-laws/backups/markdown/OC-51-md",
-    "vault/gun-laws/backups/markdown/GP-md",
-    "vault/gun-laws/backups/markdown/GL-51-md",
-    "vault/gun-laws/backups/markdown/CCW-51-md",
-    "vault/gun-laws/backups/markdown/CC-51-md",
-    "vault/gun-laws/backups/html/OC-51-HTML/Wyoming-Open-Carry-Laws.html",
-    "vault/gun-laws/backups/html/OC-51-HTML/Wisconsin-Open-Carry-Laws.html",
-    "vault/gun-laws/backups/html/OC-51-HTML/West-Virginia-Open-Carry-Laws.html",
-    "vault/gun-laws/backups/html/OC-51-HTML/Washington-Open-Carry-Laws.html",
-    "_assets/1 1.jpg",
-    "_assets/2.png",
-    "_assets/1.jpg",
-    "_assets/component-diagram.png",
-    "drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled.png",
-    "drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled 1.png",
-    "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/show_tables._FROM.png",
-    "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_show_databases.png",
-    "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_USE_database.png",
-    "drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_SHOW_TABLES_IN.png",
+    "vault/done/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
+    "vault/done/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
+    "vault/done/gun-laws/gun-laws-articles-for-rewriter.csv",
+    "vault/done/gun-laws/backups/markdown/OC-51-md/Wyoming-Open-Carry-Laws.md",
+    "vault/done/gun-laws/backups/markdown/OC-51-md/Wisconsin-Open-Carry-Laws.md",
+    "vault/done/gun-laws/backups/markdown/OC-51-md/West-Virginia-Open-Carry-Laws.md",
+    "vault/done/gun-laws/backups/markdown/OC-51-md/Washington-Open-Carry-Laws.md",
+    "vault/done/gun-laws/backups/markdown/OC-51-md/Virginia-Open-Carry-Laws.md",
+    "vault/done/gun-laws/backups/markdown/OC-51-md",
+    "vault/done/gun-laws/backups/markdown/GP-md",
+    "vault/done/gun-laws/backups/markdown/GL-51-md",
+    "vault/done/gun-laws/backups/markdown/CCW-51-md",
+    "vault/done/gun-laws/backups/markdown/CC-51-md",
+    "vault/done/gun-laws/backups/html/OC-51-HTML/Wyoming-Open-Carry-Laws.html",
+    "vault/done/gun-laws/backups/html/OC-51-HTML/Wisconsin-Open-Carry-Laws.html",
+    "vault/done/gun-laws/backups/html/OC-51-HTML/West-Virginia-Open-Carry-Laws.html",
+    "vault/done/gun-laws/backups/html/OC-51-HTML/Washington-Open-Carry-Laws.html",
+    "assets/1 1.jpg",
+    "assets/2.png",
+    "assets/1.jpg",
+    "assets/component-diagram.png",
+    "vault/drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled.png",
+    "vault/drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled 1.png",
+    "vault/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/show_tables._FROM.png",
+    "vault/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_show_databases.png",
     "Untitled.canvas"
   ]
 }

@@ -5,7 +5,7 @@
   "showInlineTitle": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "_assets",
+  "attachmentFolderPath": "assets",
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
