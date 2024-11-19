@@ -4,7 +4,7 @@
   "useMarkdownLinks": true,
   "showInlineTitle": true,
   "promptDelete": false,
-  "livePreview": true,
+  "livePreview": false,
   "attachmentFolderPath": "assets",
   "pdfExportSettings": {
     "pageSize": "Letter",
@@ -16,5 +16,6 @@
   "showLineNumber": true,
   "showFrontmatter": true,
   "vimMode": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "propertiesInDocument": "source"
 }

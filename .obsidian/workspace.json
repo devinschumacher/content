@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e916e2e0d47c88b2",
+        "id": "19187142851154a1",
         "type": "tabs",
         "children": [
           {
-            "id": "caf8e0740f29add5",
+            "id": "df1d9fa0d647a556",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/How to emit an event up to a parent component.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a159597ba44f2e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/How to create a scrollable carousel component--element in Tailwind without using a carousel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -63,13 +48,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ActUp",
+                "query": "",
                 "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": true,
-                "extraContext": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,14 +64,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 201.50260543823242
+    "width": 269.5026054382324
   },
   "right": {
     "id": "12156b4b7b24ea9d",
@@ -102,7 +91,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -110,9 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/How to create a scrollable carousel component--element in Tailwind without using a carousel.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -124,7 +115,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -132,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -140,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -149,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/How to create a scrollable carousel component--element in Tailwind without using a carousel.md",
+                "file": "Code & Tutorial Examples for Vue & Nuxt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +154,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Code & Tutorial Examples for Vue & Nuxt"
             }
           },
           {
@@ -166,10 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/How to create a scrollable carousel component--element in Tailwind without using a carousel.md",
+                "file": "Code & Tutorial Examples for Vue & Nuxt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Code & Tutorial Examples for Vue & Nuxt"
             }
           }
         ],
@@ -177,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,44 +195,45 @@
   },
   "active": "43e09908f77c85d5",
   "lastOpenFiles": [
+    "Untitled",
+    "testing",
+    "posts/vue-nuxt/pinia getters.md",
+    "posts/vue-nuxt/Code & Tutorial Examples for Vue & Nuxt.md",
+    "posts/vue-nuxt/_MISC NOTES - vue & nuxt.md",
+    "How to add Drizzle to a Nuxt project.md",
+    "posts/vue-nuxt/Using data stores in Nuxt with useState, and with Pinia.md",
+    "posts/vue-nuxt/How to use .env variables and runtimeConfig in Nuxt.md",
+    "posts/How to emit an event up to a parent component.md",
+    "misc/Rank more than once on Google with the same URL with query parameters.md",
+    "assets/rank-twice-with-query-params.png",
+    "misc",
     "vault/done",
     "assets/with overflow-x-auto.png",
     "assets/without overflow-x-auto.png",
-    "notes/How to emit an event up to a parent component.md",
-    "notes/How to create a scrollable carousel component--element in Tailwind without using a carousel.md",
-    "notes/vue-nuxt/Dynamic Routing in Nuxt.md",
-    "notes/vue-nuxt/useRuntimeConfig.md",
-    "notes/How to fetch data from an API and display it using $fetch (openweathermap).md",
-    "notes/vue-nuxt/app.config.ts file.md",
-    "notes/vue-nuxt/TypeScript + Nuxt.md",
-    "notes/How to customize TailwindCSS defaults.md",
+    "posts/How to create a scrollable carousel component--element in Tailwind without using a carousel.md",
+    "posts/vue-nuxt/Dynamic Routing in Nuxt.md",
+    "posts/vue-nuxt/useRuntimeConfig.md",
+    "posts/How to fetch data from an API and display it using $fetch (openweathermap).md",
+    "posts/vue-nuxt/app.config.ts file.md",
+    "posts/vue-nuxt/TypeScript + Nuxt.md",
+    "posts/How to customize TailwindCSS defaults.md",
     "vault/done/research_papers/Enhancing Suno's BARK Text-to-Speech Model - Addressing Limitations through Meta's Encodec and Pretrained HuBert.md",
     "Runtime Configuration.md",
-    "notes/vue-nuxt/Slots in Vue + Nuxt.md",
-    "notes/vue-nuxt/useAysncData.md",
+    "posts/vue-nuxt/Slots in Vue + Nuxt.md",
+    "posts/vue-nuxt/useAysncData.md",
     "vault/done/music/gists/Billboard-Year-End-Hot-100-Singles-of-2019.md",
     "Untitled 1.md",
-    "notes/vue-nuxt/How to connect Supabase to a Nuxt project.md",
-    "notes/vue-nuxt/Vue developer tools.md",
+    "posts/vue-nuxt/How to connect Supabase to a Nuxt project.md",
+    "posts/vue-nuxt/Vue developer tools.md",
     "_link hub.md",
-    "notes/vue-nuxt/How to query & use data from Supabase in Nuxt.md",
-    "vault/done/gun-laws/backups/markdown/GL-51-md/Alabama-Gun-Laws.md",
-    "vault/done/gun-laws/ccw/gists/Alabama Concealed Carry Laws.md",
+    "posts/vue-nuxt/How to query & use data from Supabase in Nuxt.md",
     "vault/done/gun-laws/gun-laws-articles-for-rewriter.csv",
-    "vault/done/gun-laws/backups/markdown/OC-51-md/Wyoming-Open-Carry-Laws.md",
-    "vault/done/gun-laws/backups/markdown/OC-51-md/Wisconsin-Open-Carry-Laws.md",
-    "vault/done/gun-laws/backups/markdown/OC-51-md/West-Virginia-Open-Carry-Laws.md",
-    "vault/done/gun-laws/backups/markdown/OC-51-md/Washington-Open-Carry-Laws.md",
-    "vault/done/gun-laws/backups/markdown/OC-51-md/Virginia-Open-Carry-Laws.md",
     "vault/done/gun-laws/backups/markdown/OC-51-md",
     "vault/done/gun-laws/backups/markdown/GP-md",
     "vault/done/gun-laws/backups/markdown/GL-51-md",
     "vault/done/gun-laws/backups/markdown/CCW-51-md",
     "vault/done/gun-laws/backups/markdown/CC-51-md",
     "vault/done/gun-laws/backups/html/OC-51-HTML/Wyoming-Open-Carry-Laws.html",
-    "vault/done/gun-laws/backups/html/OC-51-HTML/Wisconsin-Open-Carry-Laws.html",
-    "vault/done/gun-laws/backups/html/OC-51-HTML/West-Virginia-Open-Carry-Laws.html",
-    "vault/done/gun-laws/backups/html/OC-51-HTML/Washington-Open-Carry-Laws.html",
     "assets/1 1.jpg",
     "assets/2.png",
     "assets/1.jpg",
@@ -240,7 +241,6 @@
     "vault/drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled.png",
     "vault/drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled 1.png",
     "vault/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/show_tables._FROM.png",
-    "vault/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/mysql_show_databases.png",
     "Untitled.canvas"
   ]
 }
