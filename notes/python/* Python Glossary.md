@@ -1,1 +1,0 @@
-- Module: A module is a collection of variables (a namespace) written by someone else, that you can import into your python project.

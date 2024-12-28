@@ -1,1 +1,0 @@
-- [Dynamic pagination](https://www.udemy.com/course/vue-masterclass/)
