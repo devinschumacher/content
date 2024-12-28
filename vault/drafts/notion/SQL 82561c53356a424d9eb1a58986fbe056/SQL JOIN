@@ -1,5 +1,0 @@
-# SQL JOIN
-
-A SQL`JOIN` clause is used to combine rows from two or more tables, based on a related column between them. 
-
-SQL provides many kinds of joins such as inner join, [left join](https://www.sqltutorial.org/sql-left-join/), right join, full outer join, etc.

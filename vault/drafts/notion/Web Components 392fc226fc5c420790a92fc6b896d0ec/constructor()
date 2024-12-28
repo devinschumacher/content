@@ -1,7 +1,0 @@
-# constructor()
-
-A constructor in JavaScript is a special method in a class that is automatically called to create and initialize an object when an instance of the class is created.
-
-You need to use a constructor in a custom web component when you want to set up initial state, properties, and methods or to bind event listeners to the component.
-
-you do not need to explicitly use a constructor if your custom element does not require any specific initialization beyond what is provided by the base HTMLElement class, or if your initialization depends on attributes or child elements, which should be handled in the **`connectedCallback`** instead of the constructor.

@@ -1,5 +1,0 @@
-# Python APIs - pagination
-
----
-
-it's typical for API providers to implement **pagination**. This means that the API provider will only return a certain number of records per page. You can specify the page number that you want to access. To access all of the pages, you need to write a loop.

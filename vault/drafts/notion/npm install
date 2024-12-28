@@ -1,7 +1,0 @@
-# npm install
-
-`npm install` installs the local dependencies for the project, listed in the `package.json` file.
-
-`npm install` ”runs” the `package.json` file.
-
-After running `npm install` you will see a `node_modules/` directory in the project.

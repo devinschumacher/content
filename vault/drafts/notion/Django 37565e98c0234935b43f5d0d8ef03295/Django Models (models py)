@@ -1,9 +1,0 @@
-# Django Models (models.py)
-
----
-
-In Django, the data you want to present (usually data from a database) is represented by “models”, located in the `[models.py](http://models.py)` file.
-
-The most common way to extract data from a database is SQL. One problem with SQL is that you have to have a pretty good understanding of the database structure to be able to work with it.
-
-Django’s Object Relational Mapping (ORM), is a technique designed to make it easier to work with databases without having to write complex SQL statements.

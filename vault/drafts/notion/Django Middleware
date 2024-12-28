@@ -1,3 +1,0 @@
-# Django Middleware
-
-Middleware is a way to process requests and responses globally before they reach your view or after they leave your view.
