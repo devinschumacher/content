@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "19187142851154a1",
+        "id": "c167de2d1c7500bf",
         "type": "tabs",
         "children": [
           {
-            "id": "df1d9fa0d647a556",
+            "id": "557865987d988a07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "posts/vue-nuxt/computed properties - computed() - in Vue & Nuxt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "computed properties - computed() - in Vue & Nuxt"
             }
           }
         ]
@@ -49,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -101,9 +106,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "assets/dan ryder review.webp"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of dan ryder review"
             }
           },
           {
@@ -174,11 +181,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +201,27 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "43e09908f77c85d5",
+  "active": "557865987d988a07",
   "lastOpenFiles": [
+    "posts/vue-nuxt/computed properties - computed() - in Vue & Nuxt.md",
+    "assets/Recording 20241219061124.webm",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "posts/javascript/Functions.md",
+    "posts/javascript/The 'new' keyword.md",
+    "posts/javascript/Statements.md",
+    "posts/javascript/Nullish coalescing operator.md",
+    "posts/javascript/Grouping Operators.md",
+    "posts/javascript/Destructuring.md",
+    "posts/javascript/Expression.md",
+    "posts/javascript/Function expression.md",
+    "posts/javascript/Arrow Functions.md",
+    "posts/javascript/Constructor functions.md",
+    "posts/javascript/Callback functions.md",
+    "posts/vue-nuxt/How to connect Supabase to a Nuxt project.md",
+    "assets/dan ryder review.webp",
+    "assets/1 1.jpg",
+    "CSS notes.md",
     "Untitled",
     "testing",
     "posts/vue-nuxt/pinia getters.md",
@@ -214,33 +241,15 @@
     "posts/vue-nuxt/Dynamic Routing in Nuxt.md",
     "posts/vue-nuxt/useRuntimeConfig.md",
     "posts/How to fetch data from an API and display it using $fetch (openweathermap).md",
-    "posts/vue-nuxt/app.config.ts file.md",
-    "posts/vue-nuxt/TypeScript + Nuxt.md",
-    "posts/How to customize TailwindCSS defaults.md",
-    "vault/done/research_papers/Enhancing Suno's BARK Text-to-Speech Model - Addressing Limitations through Meta's Encodec and Pretrained HuBert.md",
-    "Runtime Configuration.md",
-    "posts/vue-nuxt/Slots in Vue + Nuxt.md",
-    "posts/vue-nuxt/useAysncData.md",
-    "vault/done/music/gists/Billboard-Year-End-Hot-100-Singles-of-2019.md",
-    "Untitled 1.md",
-    "posts/vue-nuxt/How to connect Supabase to a Nuxt project.md",
-    "posts/vue-nuxt/Vue developer tools.md",
-    "_link hub.md",
-    "posts/vue-nuxt/How to query & use data from Supabase in Nuxt.md",
     "vault/done/gun-laws/gun-laws-articles-for-rewriter.csv",
     "vault/done/gun-laws/backups/markdown/OC-51-md",
     "vault/done/gun-laws/backups/markdown/GP-md",
     "vault/done/gun-laws/backups/markdown/GL-51-md",
     "vault/done/gun-laws/backups/markdown/CCW-51-md",
-    "vault/done/gun-laws/backups/markdown/CC-51-md",
-    "vault/done/gun-laws/backups/html/OC-51-HTML/Wyoming-Open-Carry-Laws.html",
-    "assets/1 1.jpg",
     "assets/2.png",
     "assets/1.jpg",
     "assets/component-diagram.png",
     "vault/drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled.png",
-    "vault/drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled 1.png",
-    "vault/drafts/notion/SQL 82561c53356a424d9eb1a58986fbe056/SQL SHOW 17e94861b9b14bcf99c9644c8eada702/show_tables._FROM.png",
-    "Untitled.canvas"
+    "vault/drafts/notion/Web Components 392fc226fc5c420790a92fc6b896d0ec/Shadow DOM 20a2a36852e74545940da5c2fa23cce9/Untitled 1.png"
   ]
 }
