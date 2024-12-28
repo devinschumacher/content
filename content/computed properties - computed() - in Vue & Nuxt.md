@@ -11,18 +11,15 @@ myComputedThing.value
 
 
 
-## Example usage
-
-
-
 ## Best practices
-
-Don't put logic in your HTML template syntax areas, instead make a computed() function to handle the logic, and then use that value in your template syntax areas.
+1. Don't put logic in your HTML template syntax areas, instead make a computed() function to handle the logic, and then use that value in your template syntax areas.
 ```
 const useThisInYourTemplateAreas = computed(() => {
 	// do something
 })
 ```
+2. Computed properties are only for transforming data for the presentation layer, they should not change existing data - so make sure that if you're doing some kind of operation that mutates the original data you make a clone of it first and operate on that instead.
+
 
 
 ## Related
