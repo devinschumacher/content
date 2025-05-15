@@ -1,8 +1,7 @@
 # TOC
 
-# GitHub Gist Organization with Links
-
 ## Informational
+
 - [How to clear all service workers in chrome in bulk](https://gist.github.com/devinschumacher/41e7b61847b4d29c2ee175cd7375b7be)
 - [Github Private Forks: How to privately fork a repository](https://gist.github.com/devinschumacher/c0d45bc626999f19df5429c5cd549a8c)
 - [How to find & view/download chrome extensions source code](https://gist.github.com/devinschumacher/19542ff7e6b0cd3ad8273f7871a42531)
@@ -51,7 +50,6 @@
 - [How to make a 10 hour loop .mp4 file for free](https://gist.github.com/devinschumacher/0c5e09e8e815bbfecc7a1601cb832561)
 - [How to check your installed ZSH themes on Mac](https://gist.github.com/devinschumacher/e67e14cdf4b9c0c243976c940fa17ad9)
 - [How to add files to .gitignore after already committing them](https://gist.github.com/devinschumacher/345651e3304800ca204859dadc481d74)
-
 - [normalize.css | CSS Reset | Reset CSS Style Rules | 2024, 2025](https://gist.github.com/devinschumacher/6cbd52c082040f0e4c414836aebdb36f)
 - [CSS Reset | Reset CSS Style Rules | 2024, 2025](https://gist.github.com/devinschumacher/59c2456ec421084a867a9fea8575f763)
 - [eslint Configs for Nuxt Project](https://gist.github.com/devinschumacher/5d5bdaba5c5384b6332b71dd69400ccc)
@@ -90,8 +88,10 @@
 - [SEO Bots List (web crawlers, etc.)](https://gist.github.com/devinschumacher/81285e376295effcf7a2d67bcf8e4184)
 - [How to Use External Api With Dynamic Filterable Search Component](https://gist.github.com/devinschumacher/87e7b62bb4ee7dfe7cf7220c7f0e324f)
 - [An example of how plugins globally enqueue styles & scripts onto sites](https://gist.github.com/devinschumacher/7790f5d85bee207fe7eb913584398609)
+- [tailwind layouts](https://gist.github.com/devinschumacher/95ed32c383a8cc91c0e80e5e502b6afa)
 
 ## Roundup Reviews
+
 - [Bulk AI Image Generator](https://gist.github.com/devinschumacher/ff0dade572672607e9a6e740167b9873)
 - [Cloud GPUs For Deep Learning: The Best Cloud GPU Hosting Providers & Servers](https://gist.github.com/devinschumacher/3e1d4c5292f130d545b156c147b9b77f)
 - [HIPAA Compliant Hosting Providers: The Best Hosting Services](https://gist.github.com/devinschumacher/dba65bc3d81efda3b98b642911e84254)
@@ -106,7 +106,21 @@
 - [AI Sales Assistants: The Best Apps for Boosting Conversions](https://gist.github.com/devinschumacher/2313da8358d00302593c38f07bc053d2)
 - [What to Look for in a Software Testing Agency & Who We Recommend](https://gist.github.com/devinschumacher/9a039d199dce8988c2a45dc1f446bafc)
 - [Cloud GPU Hosting: The Best Servers, Services & Providers [RANKED!]](https://gist.github.com/devinschumacher/87dd5b87234f2d0e5dba56503bfba533)
+- [ai sales assistants](https://gist.github.com/devinschumacher/2313da8358d00302593c38f07bc053d2)
+- [business intelligence tools](https://gist.github.com/devinschumacher/d7dcf8027565948c143d731304a9c40f)
+- [cloud gpus for deep learning](https://gist.github.com/devinschumacher/3e1d4c5292f130d545b156c147b9b77f)
+- [cloud gpus](https://gist.github.com/devinschumacher/87dd5b87234f2d0e5dba56503bfba533)
+- [cloud gpus](https://github.com/devinschumacher/cloud-gpu-servers-services-providers)
+- [component libraries shadcnui](https://gist.github.com/devinschumacher/66c4f6d7680f89211951c27ca5d95bb5)
+- [ctr manipulation](https://gist.github.com/devinschumacher/625918eb482491af16a6db41884bc10b)
+- [email outreach](https://gist.github.com/devinschumacher/13784065c33820dcea704df120cec1e7)
+- [hippa compliant hosting](https://gist.github.com/devinschumacher/dba65bc3d81efda3b98b642911e84254)
+- [pci compliant hosting](https://gist.github.com/mdsbest/d64d64b78f76cbf08ccdf53b5da165f9)
+- [proxy providers](https://gist.github.com/devinschumacher/be1b8d90fa252d0417f2a4802794699b)
 
 ## Single Reviews
+
 - [Instantly.ai Review - Features, Pricing & More](https://gist.github.com/devinschumacher/950ef851ed0f6b56e26a0ec279890a57)
 - [Opus Clip Review: The Best AI Social Media Repurposing App](https://gist.github.com/devinschumacher/95b6f6c268382373cc167df28621d585)
+- - [gohighlevel.com review](https://gist.github.com/mdsbest/fd847ed9fe93c5b68f3a716c1c1acecf)
+- [instantly review](https://gist.github.com/devinschumacher/950ef851ed0f6b56e26a0ec279890a57)
