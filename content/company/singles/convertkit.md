@@ -1,7 +1,7 @@
 ---
 slug: /reviews/convertkit/
 title: "ConvertKit Review"
-date: "2022-10-08"
+date: "2022-10-08T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -72,7 +72,7 @@ Let’s start by navigating to ‘Quick Actions’ on the right panel and click 
 
 Here are some templates that you can choose from to kick off your email marketing fast, without sacrificing any of your brand's sexy good looks & charm.
 
-![](/images/download-10.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-10.gif)
 
 While you can also choose to ‘Create an HTML template,’ the lack of templates to sift through is not promising for an email marketing platform.
 

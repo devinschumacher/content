@@ -1,7 +1,7 @@
 ---
 slug: /reviews/clickfunnels/
 title: "ClickFunnels Review"
-date: "2022-10-08"
+date: "2022-10-08T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -34,7 +34,7 @@ There is no doubt of its huge stature, but does that mean it's truly worth it fo
 
 Top Pick
 
-![](/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
 
 RECOMMENDATION 👍
 
@@ -42,7 +42,7 @@ _ClickFunnels isn't the smooth ride in the world - but it's worked well enough f
 
 [CLICKFUNNELS](https://serp.ly/clickfunnels)
 
-![](/images/devin-schumacher-2-comma-club-awards.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/devin-schumacher-2-comma-club-awards.png)
 
 ## What is ClickFunnels?
 
@@ -58,7 +58,7 @@ Today, we're going to spend a lot of time talking about sales funnels, so it's b
 
 The best way to describe the sales funnel is like in the picture below: a cone flipped upside down that guides the buyer through the process of becoming aware of your business to becoming a customer.
 
-![](/images/click-funnel-1024x548.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/click-funnel-1024x548.png)
 
 But what Clickfunnels does, takes it a step further. The cone above guides the buyer to the point where they initially make a sale with your brand. But what happens after that? This is where Clickfunnels can help you.
 
@@ -94,11 +94,11 @@ BOOM: you got your landing page set up. And if you're not fully convinced, just 
 
 I'm honest here when I said this; it couldn't get much easier.
 
-![](/images/clickfunnels-features.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/clickfunnels-features.png)
 
 Another feature that makes Clickfunnels awesome is the number of things that you can put onto your landing page. For example, Clickfunnels has become renowned for one-click upsells & down sells.
 
-![](/images/clickfunnels-upsell-1024x548.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/clickfunnels-upsell-1024x548.png)
 
 This is useful because it will increase the average order value of your sales and increase your profits.
 
@@ -122,7 +122,7 @@ This is going to help you prevent wasting time and money on lower-performing ele
 
 And as we know, higher conversions = higher sales.
 
-![](/images/clickfunnels-ab-split-testing-1024x551.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/clickfunnels-ab-split-testing-1024x551.gif)
 
 ### Building Email List and Follow up Funnels
 
@@ -146,7 +146,7 @@ With Clickfunnels, the advanced sales analytics features mean you'll be able to 
 
 You will get the most important information about the sales of your phones and how well each aspect of your phone is performing.
 
-![](/images/clickfunnels-sales-analytics.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/clickfunnels-sales-analytics.png)
 
 The stats include but aren't limited to
 
@@ -254,7 +254,7 @@ Like we mentioned earlier, Clickfunnels has 2 different pricing options. Startin
 
 The main difference between the plans is the number of landing pages that you can create. You can check out the table below, which summarises the main difference between all the pricing plans.
 
-![](/images/clickfunnels-pricing-1024x698.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/clickfunnels-pricing-1024x698.png)
 
 On top of that, there is a ‘two comma club’ plan available, but it will set you back more than $2490 per month.
 
@@ -304,7 +304,7 @@ Thanks for reading, and we hope you found this guide useful. We wish you all the
 
 Top Pick
 
-![](/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
 
 RECOMMENDATION 👍
 

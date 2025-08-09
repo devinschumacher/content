@@ -1,6 +1,6 @@
 ---
 title: "keyword research"
-date: "2022-08-26"
+date: "2022-08-26T12:00:00.000Z"
 slug: "keyword-research"
 ---
 
@@ -24,7 +24,7 @@ If you are looking for additional / out-of-the-box ways to do keyword research b
 
 **Related Reading:**
 
-- [SEO Keywords](https://staging-devinschumacher.kinsta.cloud-keywords/)
+- [SEO Keywords](https://devinschumacher.com-keywords/)
 - [Seed Keywords](https://devinschumacher.com/seed-keywords/)
 - [Long Tail Keywords](https://devinschumacher.com/long-tail-keywords/)
 - [LSI Keywords](https://devinschumacher.com/lsi-keywords/)
@@ -40,7 +40,7 @@ For a business looking to sell more products or services, understanding exactly 
 
 It's almost like the "What Women Want" of SEO.
 
-![](/images/download-9-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-9-1.gif)
 
 Remember that movie? Where Mel Gibson knew what women were thinking - he could tailor the "marketing" of himself exactly to what they wanted.
 
@@ -54,11 +54,11 @@ We will go through _our process_ for doing keyword research so you can follow al
 
 Although there is no right or wrong way to do keyword research, it can quickly turn into a bit of a [rabbit hole](https://idioms.thefreedictionary.com/go+down+the+rabbit+hole).
 
-![](/images/download-10-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-10-1.gif)
 
 So, in an effort to save you from countless hours of confusion & seemingly never-ending research, we are going to break down **how** **we do keyword research** that has worked for us to accomplish amazing results for our clients SEO campaigns, like this:
 
-[![](/images/keyword-research-susccess.png)](https://devinschumacher.com/wp-content/uploads/2022/08/keyword-research-susccess.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/keyword-research-susccess.png)
 
 ### Understand Your Consumer
 
@@ -108,7 +108,7 @@ If you get stuck, you can always turn to Google.
 
 Simply search for your industry + the word 'topic'.
 
-[![](/images/use-google-to-start-keyword-research.png)](https://devinschumacher.com/wp-content/uploads/2022/08/use-google-to-start-keyword-research.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/use-google-to-start-keyword-research.png)
 
 - Start your keyword research using your current & existing knowledge.
 - Use Google if you need help expanding your ideas.
@@ -125,13 +125,13 @@ Here is how we did this with our keyword research.
 
 ##### 1\. Pull up your competitor list
 
-[![](/images/using-competitors-for-keyword-research.png)](https://devinschumacher.com/wp-content/uploads/2022/08/using-competitors-for-keyword-research.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-competitors-for-keyword-research.png)
 
 ##### 2\. Navigate to some of their websites and look for topics
 
 **Pro tip**: Good places to look include the menu bar, services page, and blog categories
 
-[![](/images/find-keyword-ideas-from-competitor-blog-categories-1024x751-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/find-keyword-ideas-from-competitor-blog-categories.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/find-keyword-ideas-from-competitor-blog-categories-1024x751-1.png)
 
 ##### 3\. Add them to your Keyword list
 
@@ -141,7 +141,7 @@ You can use a spreadsheet, or an outlining tool like Dynalist, or a mind mapping
 
 Build out your list with topics & sub-topics:
 
-[![](/images/screen-shot-2019-10-07-at-12.58.22-pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-07-at-12.58.22-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-07-at-12.58.22-pm.png)
 
 ### Keyword Tools
 
@@ -159,19 +159,19 @@ Plug your competitors into Ahrefs and look at their Organic Keywords.
 
 Doing this with just one of our competitors I can already see 900+ PAGES of keyword ideas:
 
-![](/images/oct-07-2019-13-36-32.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/oct-07-2019-13-36-32.gif)
 
 #### Ahrefs Top Pages
 
 Use the "Top Pages" report in Ahrefs to see what pages are bringing your competitors their traffic:
 
-[![](/images/screen_shot_2019-10-07_at_1_01_25_pm-1024x795-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen_Shot_2019-10-07_at_1_01_25_PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-07_at_1_01_25_pm-1024x795-1.png)
 
 #### Ahrefs Keyword Explorer
 
 Simply type your main "industry" or topic into "Ahrefs > Keywords Explorer" & use the options in the "Keyword Ideas" sidebar to see an almost endless amount of ideas:
 
-[![](/images/screen_shot_2019-10-07_at_1_05_46_pm-1024x789-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen_Shot_2019-10-07_at_1_05_46_PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-07_at_1_05_46_pm-1024x789-1.png)
 
 Yes, a lot of the keywords won't make any sense but spend a few minutes scrolling through the pages and you will get ideas to work with.
 
@@ -189,7 +189,7 @@ Here are some of the keyword ideas that stuck out in just a few short minutes of
 
 **Pro Tip**: Easily expand off of these primary topics by clicking into one, check what URLs are ranking, and then look at the _other keywords_ those URLs rank for.
 
-![](/images/oct-07-2019-13-16-41.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/oct-07-2019-13-16-41.gif)
 
 ### Analyze & Understand Keywords
 
@@ -201,7 +201,7 @@ Obviously targeting keywords with HIGHER search volume and LOWER difficulty is a
 
 **Pro Tip**: Use a spreadsheet function to automatically color the SV (search volume) and KD (keyword difficulty) columns so you can easily see where the opportunities lie.
 
-[![](/images/screen-shot-2019-10-07-at-1.41.14-pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-07-at-1.41.14-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-07-at-1.41.14-pm.png)
 
 #### Relevance
 
@@ -213,9 +213,9 @@ Make sure you trim out / ignore keywords that are not relevant.
 
 Intent (aka "search intent", "keyword intent", etc.) refers to the state of mind and the desired outcome that the searcher has.
 
-We cover this in detail in a previous lesson about [SEO Keywords](https://staging-devinschumacher.kinsta.cloud-keywords/), so you should already be familiar with this - but the intent of a keyword will have a huge impact on the profitability / ROI you will get by ranking for that term.
+We cover this in detail in a previous lesson about [SEO Keywords](https://devinschumacher.com-keywords/), so you should already be familiar with this - but the intent of a keyword will have a huge impact on the profitability / ROI you will get by ranking for that term.
 
-![](/images/screen-shot-2019-10-07-at-2.20.23-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-07-at-2.20.23-pm.png)
 
 #### Modifiers
 
@@ -227,7 +227,7 @@ For example, in our article "how to choose an SEO company" we also want to rank 
 
 So, we include that in your keyword research + planning.
 
-[![](/images/screen-shot-2019-10-07-at-2.25.28-pm-1-1024x108-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-07-at-2.25.28-PM-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-07-at-2.25.28-pm-1-1024x108-1.png)
 
 #### Variations
 
@@ -241,7 +241,7 @@ The intent is the same.
 
 Google is getting better about understanding this, but it still helps to rank for all the keyword variations by putting them on your webpage - so be sure to keep an eye out for them during your keyword research phase and add them to your list.
 
-[![](/images/screen-shot-2019-10-07-at-2.25.03-pm-1-1024x243-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-07-at-2.25.03-PM-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-07-at-2.25.03-pm-1-1024x243-1.png)
 
 ### Map Keywords
 
@@ -259,15 +259,15 @@ The best way to start mapping keywords to URLs is with SERP App - a free applica
 
 **Step 1**: Sign up for [SERP App](https://serp.app)
 
-![](/images/screen-shot-2019-10-07-at-2.08.13-pm-1024x553-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-07-at-2.08.13-pm-1024x553-1.png)
 
 **Step 2**: Add your "Project"
 
-![](/images/screen-shot-2019-10-07-at-2.07.36-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-07-at-2.07.36-pm.png)
 
 **Step 3**: Add URLs + Keywords
 
-[![](/images/screen_shot_2019-10-07_at_2_08_58_pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen_shot_2019-10-07_at_2_08_58_pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-07_at_2_08_58_pm.png)
 
 **Note**: You can also do this on a spreadsheet, but you won't get the benefit of rank tracking, uptime monitoring, optimization tips, etc.
 

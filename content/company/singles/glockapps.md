@@ -1,7 +1,7 @@
 ---
 slug: /reviews/glockapps/
 title: "GlockApps Review"
-date: "2022-10-08"
+date: "2022-10-08T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -30,7 +30,7 @@ This is essential for the fundamental purpose of maintaining relations with your
 
 ### Importance Of Building Relations
 
-![Ways glockapps could help expand your business](/images/2db8aee0-d6a1-4f57-8baf-ba1da728d028.png)
+![Ways glockapps could help expand your business](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/2db8aee0-d6a1-4f57-8baf-ba1da728d028.png)
 
 When you use a partner like Amazon, the people purchasing your product may not form a relationship with your brand, and they may see you as just an extension of a larger brand.
 
@@ -42,7 +42,7 @@ A much more direct and reliable way of creating a relationship with consumers is
 
 ### Significance Of Email Campaigns
 
-![Significance Of Email Campaigns](/images/393651ab-326a-4eaf-a61b-667ed6b61109.png)
+![Significance Of Email Campaigns](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/393651ab-326a-4eaf-a61b-667ed6b61109.png)
 
 When consumers sign up for newsletters and constant contact, they’re opting into receiving inbox updates from brands they trust–which could include you!
 
@@ -60,7 +60,7 @@ Through this GlockApps review, its features will be tested and placed against it
 
 ## Glock Software Pricing
 
-![Glock software pricing](/images/ef817879-f85b-49c2-ac8a-4a60daf2a957-1-1-1024x775.png)
+![Glock software pricing](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/ef817879-f85b-49c2-ac8a-4a60daf2a957-1-1-1024x775.png)
 
 Before diving into all the features that Glockapps helps your email marketing services, pricing is an important factor to consider. As is customary, all users can sign up for a 14-day free trial on the software vendor, including 3 email spam tests and access Uptime and DMARC monitoring.
 
@@ -81,7 +81,7 @@ In addition, you can create your own custom plan and choose however many DMARC m
 
 ## Features
 
-![features](/images/cea62954-eb6f-4c4b-be4f-8cda5cc3beff-1-1-1024x521.png)
+![features](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/cea62954-eb6f-4c4b-be4f-8cda5cc3beff-1-1-1024x521.png)
 
 Now that you have decided on a paid plan right for you, we can get to the fun part of the review: discussing important features useful for your needs. These include bounce monitor, bounce checker, uptime monitor, and other tools in its deliverability arsenal so you can have your email marketing messages delivered appropriately.
 
@@ -97,7 +97,7 @@ This is because spam filters are not standardized. A smaller website most likely
 
 ### Inbox Placement
 
-![](/images/2b5eabd9-af06-4591-85a1-11459fe73400.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/2b5eabd9-af06-4591-85a1-11459fe73400.png)
 
 Using GlockApps, you’re able to effectively check and ensure no issues arise through its spam tests without filling your brain or a notebook with the heaps of email accounts that you use to carry out spam testing. Also, GlockApps provides you with an inbox placement tool to help send emails.
 
@@ -131,7 +131,7 @@ To use the tool, simply copy and paste your email to test its deliverability and
 
 ### Content Analysis
 
-![content analysis](/images/41931926-15d2-4ee1-9acd-3029ad6443c6.png)
+![content analysis](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/41931926-15d2-4ee1-9acd-3029ad6443c6.png)
 
 [Email marketing](https://devinschumacher.com/) campaigns often utilize several visual components in their email marketing efforts since consumers appreciate seeing pictures integrated into marketing. However, including images opens your email up to other deliverability issues, such as HTML problems.
 
@@ -143,7 +143,7 @@ The GlockApps team has a variety of major and minor services. Their HTML content
 
 ### DMARC
 
-![DMARC](/images/a62f2b49-f347-4e6c-be7d-c02935124f21-1-1-1024x454.png)
+![DMARC](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/a62f2b49-f347-4e6c-be7d-c02935124f21-1-1-1024x454.png)
 
 DMARC stands for Domain-based Message Authentication, Reporting, and Conformance.
 
@@ -190,7 +190,7 @@ Also, you can receive an alert and report when the number of bounce emails excee
 
 ### Gappie
 
-![gappie](/images/a4dc6fef-73be-451b-bb61-b097e82508df.png)
+![gappie](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/a4dc6fef-73be-451b-bb61-b097e82508df.png)
 
 Apart from ensuring that each email does not end up being registered as spam, you may also want even more reassurance that your business messages are always going directly to the customer's inbox. Enter the GlockApps solution: Gappie.
 
@@ -212,7 +212,7 @@ Many of these GlockApps features sound great, but if you find yourself stuck on 
 
 ### Support
 
-![customer support](/images/788acc34-8fc7-48f6-a6b6-de2ac9a943b8.png)
+![customer support](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/788acc34-8fc7-48f6-a6b6-de2ac9a943b8.png)
 
 The support section has four subsections: guides, glossary, help center, and contact us.
 

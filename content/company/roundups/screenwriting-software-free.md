@@ -1,7 +1,7 @@
 ---
 slug: /best/screenwriting-software-free/
 title: "Best Free Screenwriting Software"
-date: "2022-12-15"
+date: "2022-12-15T12:00:00.000Z"
 category: Reviews
 tags: ["Roundups"]
 ---
@@ -12,7 +12,7 @@ In this review, we'll explore the top screenwriting programs on the market (in n
 
 Now, let’s get on with it!
 
-![didsomeonesayfree](/images/did-someone-say-free.png)
+![didsomeonesayfree](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/did-someone-say-free.png)
 
 ## What is Screenwriting Software?
 
@@ -54,13 +54,13 @@ Writing screenplays and scripts requires the use of screenwriting software, whic
 
 And now it’s time to go over the best free screenwriting software for you to use!
 
-![itstime](/images/its-time.png)
+![itstime](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/its-time.png)
 
 ## The Best Free Screenwriting Software
 
 ### Arc Studio Pro
 
-![arcstudio](/images/arc-studio.png)
+![arcstudio](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/arc-studio.png)
 
 There is no scarcity of screenwriting software available, but it can be difficult to choose the best one. If you want a program that is both robust and simple to use, Arc Studio Pro is a great choice.
 
@@ -94,7 +94,7 @@ It's extremely user-friendly and simple to navigate, to start. It also has all t
 
 ### Final Draft
 
-![finaldraft](/images/final-draft.png)
+![finaldraft](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/final-draft.png)
 
 #### Overview
 
@@ -144,7 +144,7 @@ Final Draft can also automatically format scripts according to industry norms, 
 
 ### Celtx
 
-![celtx-image](/images/celtx.png)
+![celtx-image](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/celtx.png)
 
 #### Overview
 
@@ -182,7 +182,7 @@ Celtx will be fantastic if you work with a group also interested in production 
 
 ### Trelby
 
-![trelby](/images/trelby.png)
+![trelby](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/trelby.png)
 
 #### Overview
 
@@ -226,7 +226,7 @@ Trelby should be your first choice if you are a novice screenwriter because it w
 
 ### Writer Duet
 
-![writerduet](/images/writer-duet.png)
+![writerduet](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/writer-duet.png)
 
 #### Overview
 
@@ -266,7 +266,7 @@ It is a straightforward and user-friendly screenwriting tool for groups. It prov
 
 ### Scrivener
 
-![scrivener](/images/scrivener.png)
+![scrivener](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/scrivener.png)
 
 #### Overview
 
@@ -316,7 +316,7 @@ Additionally, Scrivener makes planning and restructuring of screenplay sections
 
 ### Fade In
 
-![fade-in](/images/fade-in.png)
+![fade-in](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/fade-in.png)
 
 #### Overview
 
@@ -380,4 +380,4 @@ The process of creating a clear, formatted, error-free, pitch-ready script can b
 
 Good luck!
 
-![thatsawrap](/images/thats-a-wrap.png)
+![thatsawrap](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/thats-a-wrap.png)

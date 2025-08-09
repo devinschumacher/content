@@ -1,7 +1,7 @@
 ---
 slug: /best/market-research-tools/
 title: "Best Market Research Tools"
-date: "2022-10-23"
+date: "2022-10-23T12:00:00.000Z"
 category: Reviews
 
 tags: 

@@ -16,7 +16,7 @@ They can both magically turn you into a graphic designer without having to downl
 
 Even if you have no idea what you’re doing!
 
-![](https://devinschumacher.com/wp-content/uploads/2022/09/cat-on-computer.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/cat-on-computer.webp)
 
 They make perfect allies for influencers, small business owners, or anyone who needs professional-looking results but lacks the time and experience. 
 
@@ -32,7 +32,7 @@ PicMonkey is aimed at everyday photo-editing. It covers all your basic edits plu
 
 You can also read our full [review on PicMonkey here](https://devinschumacher.com/review/picmonkey/).
 
-![](https://devinschumacher.com/wp-content/uploads/2022/09/the-simpsons-on-website.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/the-simpsons-on-website.webp)
 
 [Canva](https://serp.ly/canva/), on the other hand, focuses on producing graphics that are suitable for a range of digital and print applications. You can create images for social media and blogs, infographics, special document layouts, letterheads, business cards, posters, etc. 
 
@@ -40,7 +40,7 @@ Tough choice here, I know. It will depend on what’s more important to you. 
 
 [Check out our full review on Canva here.](https://devinschumacher.com/review/canva//)
 
-![](https://devinschumacher.com/wp-content/uploads/2022/09/man-weighing-pros-and-cons.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/man-weighing-pros-and-cons.webp)
 
 Let’s dive into the details. We will analyze and compare four different aspects of these tools so that you can choose the one that suits your needs better. 
 
@@ -64,7 +64,7 @@ Well, it is true that Canva’s photo editor is rather limited and only offers t
 
 But at least it’s free! 
 
-![](https://devinschumacher.com/wp-content/uploads/2022/09/helga.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/helga.webp)
 
 Canva’s got your back and deserves some credit for that as well.
 
@@ -78,7 +78,7 @@ This proves that even though PicMonkey’s photo editor is superior, Canva seems
 
 One single tool is never good enough, that’s what integrations are for. They are third-party tools that come in handy when the main platform could use a little support. 
 
-![](https://devinschumacher.com/wp-content/uploads/2022/09/need-a-hand.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/need-a-hand.webp)
 
 PicMonkey features some useful integrations like social media apps and Google Drive. Given the nature of this tool, I would say that is the bare minimum. 
 
@@ -97,7 +97,7 @@ And the list goes on and on. 
 
 When looking for an editing tool, the features are the first thing you need to analyze. Does this tool offer what you’re looking for? Does it suit your needs? If it doesn’t, there’s no reason to consider it. It is just not gonna be worth the investment. 
 
-![](https://devinschumacher.com/wp-content/uploads/2022/09/accept-it-.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/accept-it-.webp)
 
 Canva and PicMonkey offer pretty much the same features. You will, in fact, be able to achieve similar results using both tools. 
 
@@ -145,7 +145,7 @@ Then you also have advanced options like dodge and burn, levels, curves, and col
 
 Let’s not forget the filters here. PicMonkey has a neverending selection of effects and textures that you can apply to the whole photo or to some sections, with a special brush. 
 
-![](https://devinschumacher.com/wp-content/uploads/2022/09/bob-ross-painting.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/bob-ross-painting.webp)
 
 PicMonkey’s photo editor is basically Photoshop for dummies. Of course, it can’t replace a professional editing tool but it is pretty decent and requires zero experience. 
 
@@ -250,4 +250,4 @@ Most people like to use them in tandem because they make great complements. 
 
 [Click here to check out PicMonkey for free.](https://serp.ly/picmonkey)
 
-![](https://devinschumacher.com/wp-content/uploads/2022/09/two-men-talking.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/two-men-talking.webp)

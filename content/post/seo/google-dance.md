@@ -1,6 +1,6 @@
 ---
 title: "google dance"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "google-dance"
 ---
 
@@ -14,7 +14,7 @@ Put another way, the Google Dance is when Google is beginning to notice your pag
 
 I like to think of it like Google coming up to me and saying (in its best [Captain Falcon impression](https://www.youtube.com/watch?v=KlTFADCkNe8)) "Show me your moves!"
 
-![](/images/show-me-your-moves-google-dance-1024x576-1.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/show-me-your-moves-google-dance-1024x576-1.jpg)
 
 What this means practically, is that your newly published page that starts very low in the search engines (maybe like position 100?) will get bumped way up overnight to a higher position so Google can see how its users react.
 
@@ -22,7 +22,7 @@ If Google's algorithm sees that people are clicking on your page, spending time 
 
 Another way to put this, is Google changes the rank of your page (without any other [ranking factors](https://devinschumacher.com/google-ranking-factors/) being affected) just to see what happens.
 
-[![](/images/google-dance-patent-abstract-1024x603-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/Google-dance-patent-abstract.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-dance-patent-abstract-1024x603-1.png)
 
 ### Related Reading
 
@@ -45,7 +45,7 @@ And then it will either stay there or slowly trend up/down depending on what you
 
 **Here is an example of a site we have been tracking for a while that was doing a crazy Google Dance before finally stabilizing:**
 
-[![](/images/example-of-the-google-dance-1024x472-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/example-of-the-google-dance.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/example-of-the-google-dance-1024x472-1.png)
 
 What this means is that at the beginning of any new asset (new site, a new page, new [link building](https://devinschumacher.com/link-building/) campaign, new anything) **volatility is normal**.
 
@@ -79,7 +79,7 @@ Like Google musical chairs.
 
 Or for some reason, I instantly imagine that scene in the Disneyland Haunted Mansion where all the ghosts are dancing.
 
-![](/images/disneyland-ghosts-google-dance-gif.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/disneyland-ghosts-google-dance-gif.gif)
 
 But as the saying goes, out with the old in the with the new.
 
@@ -117,14 +117,14 @@ Similarly, if your page dances for a while and then stabilizes but does not land
 
 Scan through the images below to see the story of a "Google Dance" for the keyword "los angeles marketing company"
 
-- [![](/images/gdance1-1-1024x472-1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/gdance1-1-1024x472-1.png)
-- [![](/images/google-dance-example-1-1-1024x467-1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/google-dance-example-1-1-1024x467-1.png)
-- [![](/images/google-dance-example-2-1-1024x477-1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/google-dance-example-2-1-1024x477-1.png)
-- [![](/images/google-dance-example-3-1-1024x477-1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/google-dance-example-3-1-1024x477-1.png)
-- [![](/images/g-dance-example-4-1-1024x477-1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/g-dance-example-4-1-1024x477-1.png)
-- [![](/images/g-dance-example-5-1-1024x477-1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/g-dance-example-5-1-1024x477-1.png)
-- [![](/images/6-1024x529-1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/6-1024x529-1.png)
-- [![](/images/goog-dance-example-7-1-1024x533-1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/goog-dance-example-7-1-1024x533-1.png)
+- ![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/gdance1-1-1024x472-1.png)
+- ![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-dance-example-1-1-1024x467-1.png)
+- ![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-dance-example-2-1-1024x477-1.png)
+- ![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-dance-example-3-1-1024x477-1.png)
+- ![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/g-dance-example-4-1-1024x477-1.png)
+- ![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/g-dance-example-5-1-1024x477-1.png)
+- ![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/6-1024x529-1.png)
+- ![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/goog-dance-example-7-1-1024x533-1.png)
 
 ## Can I prevent the Google Dance?
 
@@ -144,7 +144,7 @@ To hammer home the notion that the Google dance is **normal**. It is **expected.
 
 So when your website starts Google Dancing, and you inevitably get that sense of "oh sh?t what's happening to my website?!" and you look like this in front of your computer:
 
-![](/images/oh-shit-the-google-dance-is-happening-1024x768-1.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/oh-shit-the-google-dance-is-happening-1024x768-1.jpg)
 
 You can take a deep breath, calm down, and remember all these examples we gave.
 
@@ -152,7 +152,7 @@ Oh, and by the way, these are ALL examples of a website we have ranked (either f
 
 When the Google Dance happens, just continue to do all the normal things you would do according to best SEO practices, and don't panic.
 
-![](/images/download.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download.gif)
 
 **Don't panic.** And [never leave home without your towel](https://www.goodreads.com/quotes/24779-a-towel-the-hitchhiker-s-guide-to-the-galaxy-says-is).
 
@@ -162,7 +162,7 @@ When the Google Dance happens, just continue to do all the normal things you wou
 
 - **Keyword**: ford f150 headlights
 
-[![](/images/screen-shot-2019-09-09-at-10.27.51-am-1024x278-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-09-at-10.27.51-AM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-09-09-at-10.27.51-am-1024x278-1.png)
 
 ### Example 2
 
@@ -170,7 +170,7 @@ When the Google Dance happens, just continue to do all the normal things you wou
 
 - **Keyword**: pasadena seo
 
-[![](/images/google-dance-example-for-tsmc-1024x354-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/google-dance-example-for-tsmc.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-dance-example-for-tsmc-1024x354-1.png)
 
 ### Example 3
 
@@ -178,7 +178,7 @@ When the Google Dance happens, just continue to do all the normal things you wou
 
 - **Keyword**: helo watch
 
-[![](/images/screen-shot-2019-09-09-at-10.33.10-am-1024x274-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-09-at-10.33.10-AM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-09-09-at-10.33.10-am-1024x274-1.png)
 
 ### Example 4
 
@@ -186,7 +186,7 @@ When the Google Dance happens, just continue to do all the normal things you wou
 
 - **Keyword**: divorce in pa
 
-[![](/images/screen-shot-2019-09-09-at-10.34.28-am-1024x282-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-09-at-10.34.28-AM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-09-09-at-10.34.28-am-1024x282-1.png)
 
 ### Example 5
 
@@ -194,7 +194,7 @@ When the Google Dance happens, just continue to do all the normal things you wou
 
 - **Keyword**: chattanooga seo
 
-[![](/images/google-dance-for-chattanooga-seo-1024x282-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/google-dance-for-chattanooga-seo.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-dance-for-chattanooga-seo-1024x282-1.png)
 
 ## Final Thoughts
 
@@ -214,4 +214,4 @@ When the Google Dance happens, just continue to do all the normal things you wou
 
 Now get out there and Google dance like nobody's watching.
 
-![](/images/google-dancing-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-dancing-1.gif)

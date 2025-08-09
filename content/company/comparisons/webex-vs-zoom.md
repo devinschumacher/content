@@ -18,7 +18,7 @@ As said before, video conferences have become the norm in the business world. Pa
 
 In fact, [TrustRadius](https://www.trustradius.com/vendor-blog/web-conferencing-statistics-trends) shows us that **since the Covid19 pandemic began, Webex and Zoom use has gone up by more than 600%!**
 
-![graph showing popularity growth of video conferencing platforms since the pandemic](https://devinschumacher.com/wp-content/uploads/2022/09/graph-showing-popularity-growth-of-video-conferencing-platforms-since-the-pandemic-1024x599-1.webp)
+![graph showing popularity growth of video conferencing platforms since the pandemic](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/graph-showing-popularity-growth-of-video-conferencing-platforms-since-the-pandemic-1024x599-1.webp)
 
 And while Zoom is currently the market leader in both growth and popularity, Webex software is still a very popular choice. But should popularity be the only metric when you're choosing which video conferencing software is best for your company?
 

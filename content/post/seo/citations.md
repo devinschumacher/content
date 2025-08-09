@@ -1,6 +1,6 @@
 ---
 title: "citations"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "citations"
 ---
 
@@ -14,7 +14,7 @@ Then, when you begin to develop your business presence across more & more truste
 
 Think about if Apple never provided the correct signals to search engines that it was, in fact, a business that sells products - and not a literal apple.
 
-![](/images/the-beatles-vs-apple-computer.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/the-beatles-vs-apple-computer.jpg)
 
 Getting a handle on your business directories & citations is how you make sure your business isn't mistaken for a fruit, and in this article, we show you exactly how to plant that seed properly.
 
@@ -22,7 +22,7 @@ Getting a handle on your business directories & citations is how you make sure y
 
 A **local citation** (aka "business citation" or "SEO citation") gets its name from the broader word "citation", for _reference._
 
-[![](/images/what-is-a-citation.png)](https://devinschumacher.com/wp-content/uploads/2022/08/what-is-a-citation.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/what-is-a-citation.png)
 
 In the world of Search Engine Optimization, a citation is a reference to your business.
 
@@ -36,7 +36,7 @@ The primary way to acquire these citations (mentions of your business's Name, Ad
 
 <figure>
 
-![](/images/serp_co_business_citation_example__dexknows_.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/serp_co_business_citation_example__dexknows_.png)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ Having your business listed on the **A**uthoritative, **R**elevant & **T**rusted
 
 Additionally, business directories (the place where you will get most of your citations) command alot of SERP real estate. So when users search something and click on one of those directories you want to be sure you're listed on there and get some of that traffic.
 
-[![](/images/business-directories-on-a-serp-650x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/business-directories-on-a-SERP.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/business-directories-on-a-serp-650x1024-1.png)
 
 Not being on these directories would be similar to not being in the phone book but still expecting people to open it up and call you.
 
@@ -95,7 +95,7 @@ You have to call roadside assistance because now the other gas station is really
 
 Will you ever use that search engine's maps feature again?
 
-![](/images/download-21.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-21.gif)
 
 This is the power of business citations. They provide the consumer with critical information about businesses - and if they are wrong the can create inconvenient (or even catastrophic) situations.
 
@@ -122,7 +122,7 @@ Structured citations are normally created by through:
 
 ##### An example of a structured citation
 
-[![](/images/screen-shot-2019-10-30-at-12.53.56-pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-30-at-12.53.56-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-30-at-12.53.56-pm.png)
 
 #### Unstructured Citations
 
@@ -211,9 +211,9 @@ Ground zero for your NAP is your Google My Business (GMB) listing - all other li
 
 For example, take a look at the NAP on this GMB:
 
-[![](/images/screen-shot-2019-10-30-at-4.27.00-pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-30-at-4.27.00-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-30-at-4.27.00-pm.png)
 
-![](/images/screen_shot_2019-10-30_at_4_24_19_pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-30_at_4_24_19_pm.png)
 
 This is how our NAP needs to be on all other business directories:
 
@@ -241,7 +241,7 @@ PS - _that now counts as a structured citation._
 
 The business details area comes in many forms, but generally includes information such as your business category, email address, store hours, etc.
 
-![](/images/business-details.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/business-details.png)
 
 #### Best Practice:
 
@@ -263,7 +263,7 @@ Citations are a great place to get backlinks coming to your website because the 
 - Point the scheduling/appointment URL to your appointments or contact page.
 - Include links to your other primary business directories & social profiles whenever possible.
 
-[![](/images/screen-shot-2019-10-30-at-4.38.44-pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-30-at-4.38.44-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-30-at-4.38.44-pm.png)
 
 ### Description(s)
 
@@ -272,7 +272,7 @@ Citations are a great place to get backlinks coming to your website because the 
 
 Many business directories have a section where you can write a description of your business.
 
-[![](/images/business_description_on_a_directory_gmb-1024x940-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/business_description_on_a_directory_GMB.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/business_description_on_a_directory_gmb-1024x940-1.png)
 
 Use [keywords](https://devinschumacher.com/seo-keywords/) (niche and local, when relevant) and [keyword variations](https://devinschumacher.com/lsi-keywords/) throughout your content.
 
@@ -282,17 +282,17 @@ Use [keywords](https://devinschumacher.com/seo-keywords/) (niche and local, when
 - Videos
 - Tour
 
-![](/images/using-images-and-multimedia-on-business-directories-and-citations-3-1024x346-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-images-and-multimedia-on-business-directories-and-citations-3-1024x346-1.png)
 
-![](/images/using-images-and-multimedia-on-business-directories-and-citations-2-1024x335-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-images-and-multimedia-on-business-directories-and-citations-2-1024x335-1.png)
 
-![](/images/using-images-and-multimedia-on-business-directories-and-citations-1-1024x698-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-images-and-multimedia-on-business-directories-and-citations-1-1024x698-1.png)
 
-![](/images/using-images-and-multimedia-on-business-directories-and-citations-3-1024x346-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-images-and-multimedia-on-business-directories-and-citations-3-1024x346-1.png)
 
-![](/images/using-images-and-multimedia-on-business-directories-and-citations-2-1024x335-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-images-and-multimedia-on-business-directories-and-citations-2-1024x335-1.png)
 
-![](/images/using-images-and-multimedia-on-business-directories-and-citations-1-1024x698-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-images-and-multimedia-on-business-directories-and-citations-1-1024x698-1.png)
 
 Multimedia is a very under-utilized part of business directories.
 
@@ -304,7 +304,7 @@ The more data Google can "gobble-up" of yours, the happier it gets.
 
 Google is basically like the cookie monster of search engines.
 
-![](/images/download-23.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-23.gif)
 
 ## Citation Quality
 
@@ -326,7 +326,7 @@ The more the better, but at least 1.
 
 We have probably beat this part to death by now, but make sure your citations are consistent across the web - if you aren't sure, CHECK!
 
-![](/images/screen-shot-2019-10-30-at-4.54.34-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-30-at-4.54.34-pm.png)
 
 Check your citation consistency [here](https://www.optimizelocation.com/partner/serpco/diagnostic.html).
 
@@ -364,7 +364,7 @@ They are databases that collect your business's business name, address, and phon
 
 If you've ever received an unsolicited piece of (spam) marketing in your mailbox, a call from a telemarketer, or random piece of junk mail in your email box, chances are the company sending you this stuff got your information from a data aggregator.
 
-![](/images/download-22.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-22.gif)
 
 Much of the internet is public and open to web crawlers that scan websites and catalog data.
 
@@ -450,7 +450,7 @@ If you don't have logins to the site, or the directory doesn't function like tha
 
 If this is the case you will need to submit the change, and then make a note to check the directory in a week or two to see if the changes were pushed live.
 
-[![](/images/submit_a_change_of_business_information_to_a_citation_directory.png)](https://devinschumacher.com/wp-content/uploads/2022/08/submit_a_change_of_business_information_to_a_citation_directory.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/submit_a_change_of_business_information_to_a_citation_directory.png)
 
 #### 3\. Have a service do it for you
 

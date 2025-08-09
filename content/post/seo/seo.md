@@ -1,7 +1,7 @@
 ---
 slug: /seo/
 title: "seo"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 categories: 
   - "marketing"
   - "seo"

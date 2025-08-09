@@ -1,7 +1,7 @@
 ---
 slug: /reviews/blinklist/
 title: "Blinklist Review"
-date: "2023-01-20"
+date: "2023-01-20T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -18,7 +18,7 @@ It's impossible to read everything and most of it's bad. Books repeat concepts.
 
 Choosing a book with no new ideas costs effort and money.
 
-[![Untitled](/images/Untitled.png)](https://serp.ly/blinkist/)
+[![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled.png)](https://serp.ly/blinkist/)
 
 Executive summaries let you decide if a book is worth reading. I tried numerous executive summary services before Blinkist.
 
@@ -88,7 +88,7 @@ The Blinkist app's creators research the best-selling and most popular books in 
 
 They also consult with industry experts and read reviews until they find the best candidates to add to their database.
 
-![Untitled](/images/Untitled-1.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-1.png)
 
 Users can also recommend books for the Blinkist team to include in their next batch of summaries. These ideas are added to the wishlist, where members can vote for their favorites.
 
@@ -96,7 +96,7 @@ The 'Wishlist' feature allows app users to help decide on future content.
 
 Providing book recommendations via Wishlist.
 
-![Untitled](/images/Untitled-2.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-2.png)
 
 ### How are the books summarized?
 
@@ -134,7 +134,7 @@ There is no question that Blinkist provides its users with access to a huge sele
 
 - Sex and Relationships.
 
-![Untitled](/images/Untitled-3.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-3.png)
 
 ### Book Summaries
 
@@ -164,7 +164,7 @@ Your library stores book summaries.
 
 The screenshot that you'll find below depicts what a library may look like on your home computer or portable device. As you can see, navigating it is simple, and it offers a high level of intuitiveness to the person using it.
 
-![Untitled](/images/Untitled-4.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-4.png)
 
 #### Book summary pages
 
@@ -180,7 +180,7 @@ If reading isn't your thing, you can always just listen to the summary.
 
 The use of AI to read each summary is not optimal. Nonetheless, I estimate the speed to be 1.25x, and I hardly detect the robot's voice at that rate.
 
-![Untitled](/images/Untitled-5.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-5.png)
 
 After you've finished reading the overview, there's a handy link to the purchase page.
 
@@ -216,7 +216,7 @@ Users also consider the app's low pricing to be a good deal considering the weal
 
 Costs for premium plans are based on the subscription type and region. Customers can test out the premium package at no cost for a whole week.
 
-![Untitled](/images/Untitled-6.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-6.png)
 
 To help you better understand how Blinkist's pricing varies by area and subscription type, I have produced a table below in which I have examined the costs in some of the most popular regions for Blinkist.
 
@@ -256,7 +256,7 @@ If you don't use it midway through your trial, cancel.
 
 If you're not using it, it's a waste of money. No online review will change that.
 
-![Untitled](/images/Untitled-7.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-7.png)
 
 ## Blinkist Cons
 

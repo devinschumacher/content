@@ -69,4 +69,4 @@ What you're probably looking for is bypassing are changing your permission level
 
 13. Delete the app
 
-![Changing file permissions, so that you can delete applications](https://devinschumacher.com/wp-content/uploads/2023/02/file-permissions-794x1024.webp)
+![Changing file permissions, so that you can delete applications](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/file-permissions-794x1024.webp)

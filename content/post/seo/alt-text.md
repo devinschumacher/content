@@ -1,6 +1,6 @@
 ---
 title: "alt text"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "alt-text"
 ---
 
@@ -17,7 +17,7 @@ Alt text has 2 primary purposes.
 1. Search engines cannot (yet) see an image and _understand_ what it is. One reason is because they can't "see" anything. But another reason is that search engines create meaning primarily by reading words. That's why keywords are so important. Big advances in image recognition is happening everyday, so this wont be true forever, but for now - it's how the game works.
 2. Screen readers. A screen reader is a software program that helps blind (or visually impaired) users to read the text displayed on a computer screen. The technology uses a speech synthesizer, or braille display. Since images aren't text - there is nothing to read. But an image is worth a thousand words - and they really help create the full picture of the content (pun intended). So, without "alt text" there would be nothing for a screen reader to read.
 
-![](/images/image-39-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-39-2.png)
 
 It can also be referred to as the alt attribute, alt description or alt tag.
 
@@ -25,27 +25,27 @@ Here's a visual example to help you understand.
 
 The image.
 
-![](/images/image-44-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-44-2.png)
 
 The alt-text.
 
-![](/images/image-43-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-43-2.png)
 
 You can look at the alt-text for any image on the internet — here's how to do so.
 
 Right click on an image and select **"Inspect."**
 
-![](/images/image-42-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-42-1.png)
 
 An interface will appear — the HTML of the image will be highlighted — the alt tag (**alt=" ... "**) should be there.
 
-![](/images/image-41-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-41-2.png)
 
 ## Why Is The Image Alt-Text Important For SEO?
 
 The alt-text is important because search engines cannot see images — they only see the back-end HTML.
 
-![](/images/image-46-1024x554-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-46-1024x554-1.png)
 
 The image alt-text (along with other image tags) communicates to search engines what an image is about.
 
@@ -53,13 +53,13 @@ This is important because it can help provide search engines more context to wha
 
 It also helps you rank highly for image searches — these are alternative pathways to your webpage/website.
 
-![](/images/image-47-1024x498-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-47-1024x498-1.png)
 
 Some websites rely largely on image searches for website traffic.
 
 Getty Images is a good example.
 
-![](/images/image-1-1024x505-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-1-1024x505-1.png)
 
 In fact, [they sued Google](https://time.com/4307769/google-getty-images/) when they changed its image search interface to encourage piracy of stock images.
 
@@ -84,7 +84,7 @@ You need to ensure that it is descriptive, and specific.
 
 Here's an example — an image of a cat.
 
-![](/images/image-52-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-52-2.png)
 
 The alt-text for this image should be "A black cat eating food."
 
@@ -92,15 +92,15 @@ If you don't trust my example, then how about Google?
 
 In its [image best practice guide](https://support.google.com/webmasters/answer/114016?hl=en), there are good and bad examples.
 
-![](/images/image-51-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-51-2.png)
 
 A simple, one sentence explanation of what the image is about.
 
 In some instances you can provide much more context to an image — look at this alt-text for a bag of Doritos:
 
-![](/images/image-56-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-56-1.png)
 
-![](/images/image-55-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-55-1.png)
 
 **"Doritos Nacho Cheese Flavored Tortilla Chips, 1.75 Ounce (Pack of 64)"**
 
@@ -122,13 +122,13 @@ The tool that does this is called a screen reader.
 
 A screen reader is a computer program that converts images and text into a format visually impaired people can understand.
 
-![](/images/image-53-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-53-1.png)
 
 Screen readers only read up to 125 characters — this is why you need to keep your image alt-text short.
 
 The average word is between 4.5 and 6 characters — according to [this calculator](http://www.unitconversion.org/data-storage/characters-to-words-conversion.html) 125 characters is 62.5 words.
 
-![](/images/image-54-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-54-1.png)
 
 That's really quite a lot of words.
 
@@ -148,13 +148,13 @@ Keywords give them extremely specific context to what your images and webpage is
 
 [Google even recommends](https://support.google.com/webmasters/answer/114016?hl=en) that you use keywords in your image alt-text.
 
-![](/images/image-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-2.png)
 
 Popular WordPress SEO plugin Yoast recommends at least one image with a keyword (keyphrase) featuring alt-text.
 
-![](/images/image-2-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-2-1.png)
 
-![](/images/image-3.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-3.png)
 
 Try not to overuse keywords — as the Google image best practice guide says — use appropriately and in context.
 
@@ -166,13 +166,13 @@ You'll want to avoid putting too many keywords in your image alt-texts.
 
 This practice of overusing keywords is called "keyword stuffing."
 
-![](/images/image-49-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-49-1.png)
 
 Keyword stuffing relates to just about every aspect of on-page SEO — too many keywords will negatively affect your search ranking efforts.
 
 [Google's best practice for images guide](https://support.google.com/webmasters/answer/114016?hl=en) explicitly states to avoid keyword stuffing.
 
-![](/images/image-48-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-48-2.png)
 
 There's really no reason to include more than one keyword, and one that is actually relevant to descibe the image.
 
@@ -186,7 +186,7 @@ You shouldn't do this.
 
 Google (and other search engines) already knows that it is an image — that's what HTML tags do.
 
-![](/images/image-5.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-5.png)
 
 Using the phrases "picture of" and "image of" is a waste of your image alt-text.
 
@@ -194,11 +194,11 @@ Now, you won't hurt your SEO efforts if you do this — it's just not necessary.
 
 If I were to write the alt text for this image below, the alt-text would be "Dog catching a frisbee at the park."
 
-![](/images/image-6.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-6.png)
 
 Not "**Image of** a dog catching a frisbee at the park."
 
-![](/images/image-7.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-7.png)
 
 **Takeaway:** Avoid using the phrases "image of" and "picture of" to start off your image alt-texts.
 
@@ -210,13 +210,13 @@ In these instances where you must exceed 125 characters, you should use the long
 
 The longdesc tag is a HTML attribute designed for extremely lengthy descriptions of images.
 
-![](/images/image-50-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-50-1.png)
 
 It works by providing a URL to a separate webpage uniquely created to describe the image extensively.
 
 It looks like this in the HTML.
 
-![](/images/image-8.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-8.png)
 
 The longdesc tag can be added to support an alt-text, or just by itself (like the above image.)
 
@@ -230,7 +230,7 @@ This is an example — imagine how detailed your description would need to be.
 
 <figure>
 
-![](/images/image-9-1024x621-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-9-1024x621-1.png)
 
 <figcaption>
 

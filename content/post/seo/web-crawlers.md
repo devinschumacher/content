@@ -1,6 +1,6 @@
 ---
 title: "Web Crawlers"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "web-crawlers"
 ---
 
@@ -36,7 +36,7 @@ I really don't think many people call them spiderbots, but it's fun to say.
 
 **Spiderbot**! Your mission, should you choose to accept it, is to never-endingly roam the extraordinarily large (and continuously expanding) internet and collect all its information, and put it into our index. Now go forth, acquire & extract!
 
-![](/images/web-crawler-mission-impossible.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/web-crawler-mission-impossible.gif)
 
 That's pretty much how it works.
 
@@ -44,7 +44,7 @@ Now, who the F in their right mind would want to go through the internet and cat
 
 **Enter**: Googlebot.
 
-![](/images/googlebot.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/googlebot.png)
 
 That's Googlebot: He/she/it is a never-ending robot (piece of software) who runs around the internet and takes all your information (the information from your website, the information you load onto [social media](https://devinschumacher.com/social-media-management-tools/) websites, the information you send in your Gmails, the information you speak into your Google Home, etc.) and sends it into the Google index. This is [how search engines work](https://devinschumacher.com/search-engines/).
 
@@ -74,13 +74,13 @@ Was that definitely 100% technically accurate? I don't know. I'm not a web devel
 
 We aren't trying to be that website where you read something like:
 
-![](/images/wtf-did-i-just-read......jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/wtf-did-i-just-read......jpg)
 
 Anyways – web crawlers send information into Google's database in a way that it can be accessed by you (searchers) very quickly.
 
 When crawlers find a webpage, the search engine's systems render the page content taking note of key elements like [keywords and we keep track](https://devinschumacher.com/keyword-rank-tracking-tools/) everything it the Search index.
 
-![](/images/organizing-information-by-indexing.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/organizing-information-by-indexing.png)
 
 This technology is called "indexing".
 
@@ -88,13 +88,13 @@ Historically, Google's entire search engine index / algorithm ran on using [keyw
 
 That's why when you search for something on Google it can somehow return 4,220,000,000 results of information in less than half a second... Absolute Insanity.
 
-![](/images/googles-index-returns-searches-fast.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/googles-index-returns-searches-fast.png)
 
 **Note**: this process of visiting pages, crawling around all of the links, downloading the information, etc. is all happening on **your website**, which means **your web server (aka web host)** is the one who has to process information and it uses **your** **resources**, which web-hosts will charge you for.
 
 So, not only is Google making you spend money to essentially "steal and organize" your information, they then make you to pay them to advertise if you want your website to show up at the top of the search page. Think about that for a second...
 
-![](/images/download-4-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-4-1.gif)
 
 That's why at my agency SERP, we provide SEO Services with pride - and see it as a battle against the giants. A way for us to help the little guys take back what is theirs – organic search engine real estate, where you don't have to PAY for clicks.
 
@@ -112,7 +112,7 @@ Now, Google understands more about this keyword, the [reasons people search for 
 
 So when you search for nicholas cage you are provided with more information about him, as a person.
 
-![](/images/nicholas-cage-knolwedge-graph.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/nicholas-cage-knolwedge-graph.png)
 
 You can read more about this process our article about [SERP](https://devinschumacher.com/serp/) features.
 
@@ -174,17 +174,17 @@ So, as an SEO specialist, you want to make sure you optimize your website to max
 
 Your robots.txt file is a file on your website that crawlers look at for directives – you can invite the spiders in, or keep them out – the choice is yours.
 
-![](/images/download-5-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-5-1.gif)
 
 We have an article extensively covering robots.txt, but just to recap – you may not want bots visiting certain pages (maximize your crawl budget on your more important website sections) or maybe you just want to block _certain bots_.
 
 What certain bots you ask? The bad kind of bots.
 
-![](/images/download-6-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-6-1.gif)
 
 ## Good Bots vs. Bad Bots
 
-![](/images/bots-vs-.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/bots-vs-.jpg)
 
 So we want our website to be found by Google, Bing, Yahoo, etc. so our business can be found by customers and grow. Great.
 
@@ -214,7 +214,7 @@ Personal information can be scraped in bulk to collect databases of people in a 
 
 Not only is that a staggering amount of bot related activity, it has real implications for you as a website owner. It affects your analytics, your server resources, etc.
 
-![](/images/infographic-good-bots-vs-bad-bots.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/infographic-good-bots-vs-bad-bots.png)
 
 Since this article isn't about malicious bots (we could have an entire series on that) I will stop there with it.
 

@@ -1,6 +1,6 @@
 ---
 title: "url structure"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "url-structure"
 ---
 
@@ -10,7 +10,7 @@ URL is short for Uniform Resource Locator. It is commonly referred to as the _we
 
 It can be found at the top of your web browser.
 
-[![](/images/image-8-3.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image-8-3.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-8-3.png)
 
 The URL is basically the digital street address of a website. The internet is one big city and Google is the street directory. Every website is a house and has its own street address.
 
@@ -20,7 +20,7 @@ Makes sense? Ok.
 
 <figure>
 
-[![url structure for seo](/images/seo-url.jpg)](https://devinschumacher.com/wp-content/uploads/2022/08/seo-url.jpg)
+![url structure for seo](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seo-url.jpg)
 
 <figcaption>
 
@@ -128,7 +128,7 @@ Google has called for HTTPS usage to be universal across the web. This is a part
 
 Google also straight-out recommends HTTPS in its [SEO starter guide](https://support.google.com/webmasters/answer/7451184?hl=en).
 
-[![](/images/image-15-2.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image-15-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-15-2.png)
 
 Google clearly favors HTTPS.
 
@@ -146,7 +146,7 @@ Switching from HTTP to HTTPS is quite technical—this might not be at the top o
 
 When you have a URL with multiple words, you want to use hyphens (-) to break it up.
 
-**EXAMPLE:** staging-devinschumacher.kinsta.cloud/google-ranking-factors
+**EXAMPLE:** devinschumacher.com/google-ranking-factors
 
 If you don't break up the words, Google will process it as /googlerankingfactors ... One long word.
 
@@ -160,11 +160,11 @@ They even mention specifically not to use underscores (\_). In fact Google strai
 
 The hyphen is the universal URL separator [according to Google's Matt Cutts](https://www.youtube.com/watch?v=Q3SFVfDIS5k).
 
-**GOOD ✔** staging-devinschumacher.kinsta.cloud/google-ranking-factors
+**GOOD ✔** devinschumacher.com/google-ranking-factors
 
-**BAD ✖** staging-devinschumacher.kinsta.cloud/google\_ranking\_factors
+**BAD ✖** devinschumacher.com/google\_ranking\_factors
 
-**BAD ✖** staging-devinschumacher.kinsta.cloud/googlerankingfactors
+**BAD ✖** devinschumacher.com/googlerankingfactors
 
 This really does not need to get more complicated
 
@@ -176,11 +176,11 @@ A descriptive URL can entice search engine users to click through.
 
 Which URL would you be more likely to click?
 
-**staging-devinschumacher.kinsta.cloud/34569010/p=v2ha780sdf32**
+**devinschumacher.com/34569010/p=v2ha780sdf32**
 
 or
 
-**staging-devinschumacher.kinsta.cloud/google-ranking-factors**
+**devinschumacher.com/google-ranking-factors**
 
 Exactly.
 
@@ -194,9 +194,9 @@ Essentially, organic click-through rate is a ranking factor.
 
 Creating a descriptive URL is not hard or complicated. If you adhere to the other best practice guidelines—such as featuring a keyword and keeping it short, it should be enough.
 
-**GOOD ✔** staging-devinschumacher.kinsta.cloud/google-ranking-factors
+**GOOD ✔** devinschumacher.com/google-ranking-factors
 
-**BAD ✖** staging-devinschumacher.kinsta.cloud/ 34569010/p=v2ha780sdf32
+**BAD ✖** devinschumacher.com/ 34569010/p=v2ha780sdf32
 
 **BOTTOM LINE:** Create "descriptive" URLs to increase click-through rate.
 
@@ -212,9 +212,9 @@ Linux is case sensitive. It will consider those two pages entirely different. Ha
 
 To avoid server case sensitivity problems altogether, just avoid capitalization—use lowercase.
 
-**GOOD ✔** staging-devinschumacher.kinsta.cloud/google-ranking-factors
+**GOOD ✔** devinschumacher.com/google-ranking-factors
 
-**BAD ✖** staging-devinschumacher.kinsta.cloud/Google-ranking-factors
+**BAD ✖** devinschumacher.com/Google-ranking-factors
 
 **BOTTOM LINE:** Avoid URL capitalization for web server optimization
 
@@ -246,19 +246,19 @@ Here's how we do it at SERP Co.
 
 Our learning hub starts with the "University" subfolder.
 
-[![](/images/image-17-1024x443-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/image-17.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-17-1024x443-1.png)
 
 From here the learning hub splits into two sections "Content" and "SEO."
 
-[![](/images/image-18-2.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image-18-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-18-2.png)
 
 Here hosted are the individual webpages.
 
-[![](/images/image-20-1024x339-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/image-20.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-20-1024x339-1.png)
 
 The URL path is **“University” → “SEO” → “Intro” → “What Is SEO”**
 
-[![](/images/image-22-2.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image-22-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-22-2.png)
 
 Clean, smooth. Easy for Googlebot to crawl.
 
@@ -268,7 +268,7 @@ This post would be **“University” → “SEO” → “On-Page” → “URL
 
 Notice how we have so many levels, but when you look at the actual URL of the page you don't see all those sub-folders in the final URL, you see something different...
 
-[![](/images/screen-shot-2019-10-25-at-2.09.43-pm-1024x30-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-25-at-2.09.43-PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-25-at-2.09.43-pm-1024x30-1.png)
 
 Why is that?
 
@@ -287,11 +287,11 @@ This is how it looks on the server-side:
 
 **Option 1:**
 
-[![](/images/url-depth-as-a-ranking-factor.png)](https://devinschumacher.com/wp-content/uploads/2022/08/url-depth-as-a-ranking-factor.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/url-depth-as-a-ranking-factor.png)
 
 **Option 2:**
 
-[![](/images/url-depth-as-a-ranking-factor-2-1024x37-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/url-depth-as-a-ranking-factor-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/url-depth-as-a-ranking-factor-2-1024x37-1.png)
 
 If you look at our website, we actually go against our own advice here - but not because we don't believe in it. We do it out of necessity.
 
@@ -299,7 +299,7 @@ We just have way too many "local landing pages" to have all these short URL stru
 
 We needed to use sub-folders for organizational purposes, or things would have _gotten_ **_a little too crazy_** for us to manage.
 
-[![](/images/download-19.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/download-19.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-19.gif)
 
 **BOTTOM LINE:** Keep URL subfolders simple and text-based.
 

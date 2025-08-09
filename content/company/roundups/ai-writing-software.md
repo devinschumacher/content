@@ -1,7 +1,7 @@
 ---
 slug: /best/ai-writing-software/
 title: "Best AI Content Writing Tools"
-date: "2022-09-27"
+date: "2022-09-27T12:00:00.000Z"
 categories: 
   - "artificial-intelligence"
   - "blogging"

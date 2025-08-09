@@ -1,7 +1,7 @@
 ---
 slug: /best/animation-software/
 title: "Best Animation Software"
-date: "2022-10-21"
+date: "2022-10-21T12:00:00.000Z"
 categories: 
   - "marketing"
   - "reviews"

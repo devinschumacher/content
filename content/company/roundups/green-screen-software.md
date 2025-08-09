@@ -1,7 +1,7 @@
 ---
 slug: /best/green-screen-software/
 title: "Best Green Screen Software"
-date: "2022-10-21"
+date: "2022-10-21T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -28,7 +28,7 @@ In today's article, we'll go over the most popular and best professional green s
 
 ### [Adobe Premiere Pro CC](https://serp.ly/adobe-premiere-pro/)
 
-![Adobe Premiere Pro CC Homepage](/images/Adobe-Premiere-Pro-CC-Homepage-1024x488.png)
+![Adobe Premiere Pro CC Homepage](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Adobe-Premiere-Pro-CC-Homepage-1024x488.png)
 
 A green screen editor must have plenty of features, as well as the chroma key functionality, in order to be worthwhile. That's exactly where [Adobe Premiere Pro CC](https://serp.ly/adobe-premiere-pro/) excels - loads of features and a powerful chroma key feature.
 
@@ -76,7 +76,7 @@ Overall though, this is one of the best green screen software out there; one wit
 
 ### [Camtasia](https://serp.ly/camtasia)
 
-![Camtasia homescreen](/images/Camtasia-homescreen-1024x431.png)
+![Camtasia homescreen](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Camtasia-homescreen-1024x431.png)
 
 **[Camtasia](https://serp.ly/camtasia) is the perfect green screen video editor for beginners and editing enthusiasts**. It features all the basics that you'll need to start your video editing career. Camtasia is a pretty popular choice among novice video content creators and up-and-coming Youtube channels.
 
@@ -119,7 +119,7 @@ Its library of effects and transitions also isn't as large as what you'd expect 
 
 ### [iMovie](https://serp.ly/imovie/)
 
-![iMovie homepage](/images/iMovie-homepage-1024x429.png)
+![iMovie homepage](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/iMovie-homepage-1024x429.png)
 
 Apple users rejoice! iMovie is the best free green screen software that you can get. Editing videos has never been easier on a Mac thanks to the iMovie green screen editor. **Even though it's mostly used as a traditional video editor, it's still very capable when it comes to manipulating the green screen**.
 
@@ -163,7 +163,7 @@ Nonetheless, iMovie is a free green screen software - something that cannot be o
 
 ### [Adobe After Effects](https://serp.ly/adobe-after-effects/)
 
-![Adobe After Effects homepage](/images/Adobe-After-Effects-homepage-1024x430.png)
+![Adobe After Effects homepage](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Adobe-After-Effects-homepage-1024x430.png)
 
 The thing about Adobe software is that, you usually don't want to use only one (except in isolated circumstances where others are not needed). **[Adobe After Effects](https://serp.ly/adobe-after-effects/) works great with [Adobe Premier Pro](https://serp.ly/adobe-premiere-pro/) and as such, it can get expensive very quickly**.
 
@@ -204,7 +204,7 @@ Nonetheless, applying a green screen effect is as simple as with other video edi
 
 ### [OBS Studio](https://serp.ly/obs/)
 
-![OBS Studio homepage](/images/OBS-Studio-homepage-1024x500.png)
+![OBS Studio homepage](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/OBS-Studio-homepage-1024x500.png)
 
 **[OBS](https://serp.ly/obs/) might not be a dedicated piece of chroma key software but it's definitely a capable video editor**. It does come with some basic chroma key capabilities but it's more oriented towards live streaming than editing recorded videos (although this is possible as well).
 

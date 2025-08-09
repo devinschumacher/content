@@ -1,7 +1,7 @@
 ---
 slug: /reviews/leadpages/
 title: "LeadPages Review"
-date: "2022-10-08"
+date: "2022-10-08T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -20,7 +20,7 @@ Chances are, that you've probably heard of Leadpages before. If you sell product
 
 Top Pick
 
-![](/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
 
 RECOMMENDATION 👎
 
@@ -34,7 +34,7 @@ Click below to learn more!_
 
 ## What Can I Expect In This Review Of Leadpages?
 
-![](/images/leadpages.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/leadpages.png)
 
 But today we're going to go more in-depth with it. We're going to analyze the following:
 
@@ -90,7 +90,7 @@ You can easily add more elements as well. Drag and drop from the options on the 
 
 Overall, it's a pretty intuitive platform to use.
 
-![](/images/leadpages-dashboard-1024x537.jpeg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/leadpages-dashboard-1024x537.jpeg)
 
 Also, Leadpages has a preview feature that offers users an accurate idea of how their page will look whenever it goes live. This comes with previews on all landing pages' pop-ups
 
@@ -106,7 +106,7 @@ Now, these templates don't only look beautiful, but they've been fully optimized
 
 What makes it so smart is that Leadpages can optimize these landing pages based on the data that the users have provided them. You're even able to sort the landing pages templates by the conversion rate to find the perfect template for you.
 
-![](/images/leadpages-software-1024x596.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/leadpages-software-1024x596.png)
 
 The available templates vary for a range of purposes. So regardless of whether you're selling a physical product, info product, or looking to get new leads, Leadpages will have the best landing page template or set up for you.
 
@@ -224,7 +224,7 @@ Leadpages has three pricing plans. Based on the paid monthly plans, they are:
 
 - **Advanced** – $321 per month
 
-![](/images/leadpages-pricing-1024x324.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/leadpages-pricing-1024x324.png)
 
 With every plan, you have the option to take out an annual plan at a discounted rate or pay monthly.
 
@@ -310,7 +310,7 @@ You have 14 days without paying a single cent to try out all the Leadpages tools
 
 Top Pick
 
-![](/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
 
 RECOMMENDATION 👎
 

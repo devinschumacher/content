@@ -1,6 +1,6 @@
 ---
 title: "search queries"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "search-query"
 ---
 
@@ -30,7 +30,7 @@ Not all searches are created equal. People will search different things dependin
 
 The buyer's journey refers to the series of stages a consumer goes through from the beginning of the research phase to the time when they make a purchase.
 
-[![](/images/buyer-journey-funel-889x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2020/04/buyer-journey-funel.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/buyer-journey-funel-889x1024-1.png)
 
 In the beginning, you will typically start with identifying a problem that you have – for example, let's say you are a dentist and you need more patients. You have identified a problem – more patients.
 
@@ -54,7 +54,7 @@ Now let's talk about Google search queries – because Google rules the search g
 
 Up to this point we have discussed basic [types of search queries](#Types-of-Search-Queries), but what about the advanced stuff?
 
-![](/images/download-12.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-12.gif)
 
 Enter Google Advanced Search Operators.
 
@@ -62,9 +62,9 @@ We have an entire article dedicated to these, but for now let's give you the qui
 
 Google advanced search engine operators are ways to type search queries into Google using "extra stuff". Extra stuff like + signs, search query modifiers, etc.
 
-For example – let's say you wanted to see how competitive it would be to rank for "[the best digital marketing agency](http://staging-devinschumacher.kinsta.cloud)", so you Google it:
+For example – let's say you wanted to see how competitive it would be to rank for "[the best digital marketing agency](https://devinschumacher.com)", so you Google it:
 
-![](/images/advanced-google-search-operator-one.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/advanced-google-search-operator-one.png)
 
 Wow... 541 MILLION results. Do you really want to compete against that? No, you don't.
 
@@ -74,7 +74,7 @@ So you want to know "how many of these pages who [rank for that search actually 
 
 No, your search query looks like this: allintitle the best digital marketing agency
 
-![](/images/all-in-title-advanced-google-search-operator.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/all-in-title-advanced-google-search-operator.png)
 
 This particular search query is only going to show you results who have this combination of words somewhere in their page title. In this case, that is 4,140 results – much better to try and compete with that than 541,000,000 – wouldn't you say?
 
@@ -84,7 +84,7 @@ Now can even go one step further because we are advanced SEOs here. We know that
 
 Like so:
 
-![](/images/all-entitle-phrase-match-advanced-google-search-engine-operator.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/all-entitle-phrase-match-advanced-google-search-engine-operator.png)
 
 Check it out, only 2,030 results! That's more like it.
 

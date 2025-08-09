@@ -1,7 +1,7 @@
 ---
 slug: /reviews/hostmonster/
 title: "HostMonster Review"
-date: "2022-10-07"
+date: "2022-10-07T12:00:00.000Z"
 category: Reviews
 tags: ["Hosting"]
 ---
@@ -16,7 +16,7 @@ tags: ["Hosting"]
 
 ## Logo
 
-![](/images/pasted-image-0.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/pasted-image-0.png)
 
 ## Contact Information
 
@@ -71,18 +71,18 @@ reliable alternatives and supported by excellent customer service.
 
 To get started, head to the[HostMonster](https://serp.ly/hostmonster/)site.
 
-![](/images/a4d23b54-fd56-45be-93b9-a9f83d150cc8.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/a4d23b54-fd56-45be-93b9-a9f83d150cc8.png)
 
 First impression? Minimalist design. On HostMonster's homepage, you will be greeted with their cheapest hosting plan  
 starting at $4.95 a month.
 
-![](/images/39f6dfde-70ce-4c01-bb48-1076c8bf1b86.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/39f6dfde-70ce-4c01-bb48-1076c8bf1b86.png)
 
 Take note that this is only shared hosting. However, if you have a specific hosting plan in mind, you can simply  
 scroll down, and you'll find the other hosting services HostMonster offers. Shared Web Hosting - a cPanel shared  
 hosting plan
 
-![](/images/dea17884-1c7e-411d-adb2-71a4d478fa53.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/dea17884-1c7e-411d-adb2-71a4d478fa53.png)
 
 VPS  
 Hosting - a high-performance VPS hostingDedicated Hosting - a fully-managed dedicated server hostingFor this  
@@ -90,27 +90,27 @@ HostMonster review, we always go for their cheapest hosting service - the Basic 
 you get one website, 50GB of website space, unlimited bandwidth, standard performance, a free SSL certificate, a  
 free domain name, five parked domains, 25 subdomains, five email accounts, and 100MB of email storage.
 
-![](/images/af1299a3-1559-4797-b9f1-fe59d47063f1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/af1299a3-1559-4797-b9f1-fe59d47063f1.png)
 
-![](/images/7447be2c-dd67-4f0b-b88a-3215cf16a329.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/7447be2c-dd67-4f0b-b88a-3215cf16a329.png)
 
 If you've already chosen a plan to subscribe to, simply click Select. Doing this will redirect you to the[Sign Up](https://serp.ly/hostmonster/)page.Here,  
 you need to set up your domain, or if you already have an existing one, you can simply type it in here as well.  
 Afterward, click Next.
 
-![](/images/b18c3b6f-09fc-4c33-9963-ed707bb17fe5.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/b18c3b6f-09fc-4c33-9963-ed707bb17fe5.png)
 
 Doing this will take you to the next step, where you create your actual HostMonster account. Here, you need to  
 provide your name, phone number, address, and email address.
 
-![](/images/d334bc35-1667-491b-be6e-6e54afd41570.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/d334bc35-1667-491b-be6e-6e54afd41570.png)
 
 As you scroll down this page, you will see the Package Information tab and the Package Extras tab. Here, you can  
 choose your billing cycle - Annually, Biannually, and Triannually. Moreover, the Package Extras is where you can  
 purchase additional security and plugins for your website to operate efficiently, such as Domain Privacy, CodeGuard,  
 SEO tools, SiteBackup Pro, and SiteLock Security.
 
-![](/images/f72f4722-480f-4f98-8de4-7f89f6467f3c.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/f72f4722-480f-4f98-8de4-7f89f6467f3c.png)
 
 Next would be  
 the Payment Information tab, where, as the name implies, you settle your payment for the specific plan you chose.  
@@ -125,12 +125,12 @@ website. Then you're all set!
 
 ## Using and Managing Your Website on HostMonster
 
-![](/images/a6ff3003-0033-447a-b338-ee116edb9348.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/a6ff3003-0033-447a-b338-ee116edb9348.png)
 
 Here, as usual, you need to type in the login credentials that HostMonster has sent you via email. You have two  
 options when logging in - Hosting Login and Webmail Login.
 
-![](/images/6754ab54-5dc9-4590-bc52-917543f182a7.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/6754ab54-5dc9-4590-bc52-917543f182a7.png)
 
 Once you have successfully logged in, you will instantly see your account dashboard. Here, you will be provided with  
 a range of sections in managing your accounts, such as helpful resources, emails, websites, and much more.
@@ -145,7 +145,7 @@ cPanel provides a number of simple wizards that can help you set up new pages or
 you to manage email, your account, your domain, and other complex capabilities. To access cPanel on your account,  
 log in to your HostMonster account, then click the Advanced tab from the side navigation menu to the left.
 
-![](/images/33251682-e99c-42eb-a6f7-87f421818b5c.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/33251682-e99c-42eb-a6f7-87f421818b5c.png)
 
 Imagine cPanel to be the “control tower” of your web hosting platform, as that is where you would go to do tasks such  
 as:
@@ -168,7 +168,7 @@ cPanel.
 One of the benefits of hosting your domain name with a cPanel-enabled web host is the ability to create bespoke email  
 accounts for that domain. All of this takes place in the Email area of cPanel.
 
-![](/images/2116aa4b-5090-48c2-b0b6-9334cbbfa36f.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/2116aa4b-5090-48c2-b0b6-9334cbbfa36f.png)
 
 As you can see, there are numerous tools available, including those for creating new emails, configuring forwarders  
 and autoresponders, dealing with spam, and more. Your HostMonster hosting plan includes access to an email server.
@@ -191,7 +191,7 @@ evaluate your disk consumption, and create and manage FTP accounts.
 The cPanel File Manager, instead of an FTP client, allows you to control your website via HTTP, precisely like an  
 internet browser.
 
-![](/images/d4beaf10-35e9-4111-ad3f-c8f4907ddf35.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/d4beaf10-35e9-4111-ad3f-c8f4907ddf35.png)
 
 This is a relatively simple task. As the name says, the File Manager is where you may handle your files. You can use  
 this page to transfer, edit, upload, alter, remove, and restore your documents.
@@ -203,7 +203,7 @@ are unfamiliar with cPanel or file backups, you should instead use the Backup Wi
 
 ## Disk Usage
 
-![](/images/4bfbf1aa-2053-4ec0-8577-817d48ff38d0.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/4bfbf1aa-2053-4ec0-8577-817d48ff38d0.png)
 
 Your account's total disk space usage comprises all data, including website files, MySQL databases, and email  
 messages. When you log into cPanel, you'll see a summary of your disk space usage on the right side.
@@ -219,7 +219,7 @@ they can consume.
 If you wish to add a new domain name - the one you just purchased to your hosting account, modify your existing  
 domains, or set up subdomains, go to the Domains area of cPanel.
 
-![](/images/a3ff7a08-9725-4a73-9dcd-8ff6b8af4a39.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/a3ff7a08-9725-4a73-9dcd-8ff6b8af4a39.png)
 
 To add a domain name to your cPanel and, therefore, your hosting package, go to the Domains section and click on  
 “Addon Domains.” An addon domain is a fancy word for an ordinary domain name that can be used to establish a fully  
@@ -232,7 +232,7 @@ Many modern websites hardly survive without a database, which operates discreetl
 website's content. In simpler terms, the database stores all of your website's data, including all pages, posts, and  
 user information.
 
-![](/images/97233f6a-b988-4907-a24e-87e86418fe4a.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/97233f6a-b988-4907-a24e-87e86418fe4a.png)
 
 As you may imagine by now, cPanel includes a quite comprehensive tool for creating and managing databases.
 
@@ -256,7 +256,7 @@ to help you configure PHP on your website. MultiPHP Manager lets you specify whi
 site. The MultiPHP INI Editor lets you make more detailed changes, such as enabling certain PHP options and  
 modifying variables.
 
-![](/images/a8b5a6ed-d628-4d95-935c-5ef311ac9122.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/a8b5a6ed-d628-4d95-935c-5ef311ac9122.png)
 
 Softaculous simplifies the installation of popular website software such as WordPress and Drupal. Softaculous can be  
 used to try numerous types of software and to get started constructing WordPress sites.
@@ -268,7 +268,7 @@ Jobs tool will allow you to create unique Error Pages and schedule actions.
 
 ## Preferences
 
-![](/images/f6d36996-710b-46af-9258-fb09906783ce.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/f6d36996-710b-46af-9258-fb09906783ce.png)
 
 When you first log in to cPanel, go to the Preferences section and update your contact information and password.  
 Various aspects of cPanel can be customized in the Preferences area. Under Change Language, for instance, you can  
@@ -288,7 +288,7 @@ Additionally, Concrete5 is search engine optimized so that it will improve the p
 
 ## Weebly
 
-![](/images/9421d82d-6cf3-473f-af27-0e7b4a3bfb5f.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/9421d82d-6cf3-473f-af27-0e7b4a3bfb5f.png)
 
 The Weebly site builder is also accessible; however, users would have to pay an extra fee to access it if they want  
 anything beyond the basic version. Weebly, similar to Concrete5, is search engine friendly. It has a drag-and-drop  
@@ -302,7 +302,7 @@ site. With its free plan, Weebly provides various adaptive and professional busi
 
 ## Softaculous Apps Installer
 
-![](/images/68e496a9-ea58-4922-8605-c0ccdab06480.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/68e496a9-ea58-4922-8605-c0ccdab06480.png)
 
 HostMonster includes the Softaculous Apps Installer, which allows you to easily install, update, and uninstall  
 programs, saving you time from individually uploading installation files and setting databases in cPanel. You can  
@@ -329,7 +329,7 @@ a valued client.
 Worse, when this occurs, the support personnel is unavailable to assist you. What a shame. Given the extremely  
 negative customer feedback on HostMonster's customer service, I was hesitant to take the plunge.
 
-![](/images/97c66127-e4e8-4b8d-b2a7-509ecd4d1c3d.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/97c66127-e4e8-4b8d-b2a7-509ecd4d1c3d.png)
 
 Furthermore, HostMonster has its own help center, which comprises articles and tutorials with solutions to potential  
 difficulties. There are over 500 searchable articles to assist you in obtaining any information you seek.
@@ -338,7 +338,7 @@ Honestly, I didn't find the answers to my questions here, several links are prov
 only be redirected to a blank page. And if you are a visual learner, their tutorials do not have pictures on them,  
 so that's a disadvantage.
 
-![](/images/51d7086f-25a6-45ea-b820-a297e5c57753.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/51d7086f-25a6-45ea-b820-a297e5c57753.png)
 
 The HostMonster support available to its customers comprises a telephone support line to the tech support that is  
 open 24 hours a day, seven days a week. More phone lines are available for invoicing, sales, terms of service  
@@ -373,7 +373,7 @@ utilize Validation token technology, although it is uncommon to see it as part o
 
 Shared Web Hosting plans start at $4.95/month.
 
-![](/images/dea17884-1c7e-411d-adb2-71a4d478fa53.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/dea17884-1c7e-411d-adb2-71a4d478fa53.png)
 
 HostMonster's shared web hosting plans are mostly focused on here. Options for VPS (Virtual Private Server) and  
 dedicated server hosting are tucked away in the site's footer. These are hosting solutions for large websites,  
@@ -392,7 +392,7 @@ option to host 50 domains, 100 email accounts, and spam prevention. With a dedic
 and unlimited site hosting and email, the Prime package, which starts at $14.99 per month with a one-year contract,  
 outperforms all of HostMonster's shared hosting plans. VPS Hosting plans start at $19.99/month.
 
-![](/images/39f6dfde-70ce-4c01-bb48-1076c8bf1b86.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/39f6dfde-70ce-4c01-bb48-1076c8bf1b86.png)
 
 VPS web  
 hosting is available in four distinct packages, with dual-core, triple-core, and quad-core CPUs and scalable RAM,  
@@ -415,7 +415,7 @@ registering, your VPS server is available to be used.
 
 - Dedicated Hosting plans start at $79.99/month.
 
-![](/images/af1299a3-1559-4797-b9f1-fe59d47063f1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/af1299a3-1559-4797-b9f1-fe59d47063f1.png)
 
 HostMonster's  
 premium hosting option is dedicated server hosting. There are three plans, each of which includes one server  
@@ -439,7 +439,7 @@ on UKWebHostReview's uptime tests, which they conducted over six months, they we
 uptime of 99.96 percent. This is just over the industry average; therefore, HostMonster squeaked by a hair's  
 breadth.
 
-![](/images/hosting.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hosting.png)
 
 HostMonster, on the other hand, posed some pretty troubling response times on their website. There were moments when  
 the reaction time exceeded 3 seconds, which is really concerning. However, the average response time did settle down  

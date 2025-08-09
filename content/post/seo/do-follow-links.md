@@ -1,6 +1,6 @@
 ---
 title: "do follow links"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "do-follow-links"
 ---
 
@@ -15,7 +15,7 @@ slug: "do-follow-links"
 
 Strap in and do follow along with us. #punintended
 
-![](/images/download-13.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-13.gif)
 
 ## What Are Do-Follow Links?
 
@@ -51,21 +51,21 @@ Google's algorithm relies heavily on the "opinion" of other websites, and this i
 
 When you’re on a website, simply right-click and choose “Inspect”
 
-![](/images/screen_shot_2019-10-16_at_11_09_38_pm-1024x499-1-1024x499-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-16_at_11_09_38_pm-1024x499-1-1024x499-1.png)
 
 Then, you can click on an element and look down at the code. In this example on our post about [SEO Keyword Research](https://devinschumacher.com/keyword-research/), you will see us “inspecting” a link and in the screenshot, you will see inside the HTML of the link it says rel=”nofollow”
 
-![](/images/screen_shot_2019-10-16_at_11_07_06_pm-1024x604-1-1024x604-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-16_at_11_07_06_pm-1024x604-1-1024x604-1.png)
 
 If the link was dofollow, you would NOT see "nofollow" inside the link HTML.
 
 Here is an example of one that IS dofollow:
 
-![](/images/screen_shot_2019-10-17_at_12_46_05_pm-1024x576-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-17_at_12_46_05_pm-1024x576-1.png)
 
 Notice when we zoom in on the HTML you do NOT see any indication that the link has been set to NOFOLLOW:
 
-![](/images/screen-shot-2019-10-17-at-12.46.32-pm-1024x79-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-17-at-12.46.32-pm-1024x79-1.png)
 
 ## Final Thoughts
 

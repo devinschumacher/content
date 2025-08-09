@@ -1,7 +1,7 @@
 ---
 slug: /reviews/teachery/
 title: "Teachery Review"
-date: "2022-10-08"
+date: "2022-10-08T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -14,7 +14,7 @@ Thankfully, you do not need to find a space in your local area or spend a ridicu
 
 But what is the best one? Well, you can't go wrong with [Teachery](https://serp.ly/teachery/), a by-the-numbers online course-building platform.
 
-![](/images/apples-101-about-1440x810-1-1024x576.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/apples-101-about-1440x810-1-1024x576.jpg)
 
 ## What is Teachery?
 
@@ -24,7 +24,7 @@ With Teachery, complete control over the educational experience you wish to cura
 
 As such, Teachery keeps beginners in mind with its simplistic online course design and straightforward course builders. Moreover, the service makes it easy to design and sell courses and make them your own.
 
-![](https://devinschumacher.com/wp-content/uploads/2022/10/teachery-plans-1.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/teachery-plans-1.webp)
 
 ## How Much is Teachery?
 
@@ -54,7 +54,7 @@ But are the features listed in each plan worthwhile, or do some need some more t
 
 [Click here to check for Teachery's pricing & current deals](https://serp.ly/teachery/).
 
-![](/images/teacher-site-1-1024x482.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/teacher-site-1-1024x482.png)
 
 ## Course Content Tools
 
@@ -66,7 +66,7 @@ Teachery's course outlining process occurs after you sign up for an account, and
 
 For your first online course, Teachery will ask a series of questions to learn more about what kind of course you want. As you answer each question, Teachery builds a high-level outline for your first online course, which you can easily accomplish as per the free plan.
 
-![The Unlimited GIFs - Get the best GIF on GIPHY](/images/200.gif)
+![The Unlimited GIFs - Get the best GIF on GIPHY](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/200.gif)
 
 ### Unlimited Courses
 
@@ -82,7 +82,7 @@ As Teachery does not host videos, it does permit the use of embed codes from You
 
 If you want to use a slideshow presentation, then you can embed your Prezi, [Canva](https://devinschumacher.com/review/canva/), Google Slides, and Slideshare on your lessons for your student's benefit.
 
-![](/images/teachery-family-matters-1-1024x712.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/teachery-family-matters-1-1024x712.png)
 
 ### Course Editor
 
@@ -130,7 +130,7 @@ Also, you can collect emails and leads with landing pages through an email servi
 
 Another useful feature of eCommerce platforms such as Teachery is its affiliate program. An affiliate program can help promote your product and for their services, you can give them a flat fee or a certain percentage of their commission. It is what so-called [affiliate marketing](https://devinschumacher.com/affiliate-marketing/).
 
-![](https://devinschumacher.com/wp-content/uploads/2022/10/your-course-1.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/your-course-1.webp)
 
 **Important Takeaways**
 
@@ -176,7 +176,7 @@ Running your new course platform is an exciting opportunity, but unfortunately, 
 
 Teachery provides flexible payment plans that may be better than other platforms, depending on your preference.
 
-![](/images/teachery-options-1-1024x481.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/teachery-options-1-1024x481.png)
 
 ### Flexible Payment Plans
 
@@ -206,7 +206,7 @@ Also, there are no membership site payments that you can start selling at a paid
 
 One more thing is that there is a lack of community building options. There is no social proof for integrating Facebook or Slack groups with Teachery without the use of third-party software.
 
-![](/images/statue.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/statue.jpg)
 
 ### We Recommend Teachery 👍
 

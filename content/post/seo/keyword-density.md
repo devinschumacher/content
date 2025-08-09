@@ -1,6 +1,6 @@
 ---
 title: "keyword density"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "keyword-density"
 ---
 
@@ -10,7 +10,7 @@ Keyword density is a term to describe how frequently a keyword is used on a page
 
 If you miss your Keyword Density on the low end (under optimizing), you'll have trouble ranking. If you overshoot Keyword Density on the high end (over optimizing) - you risk getting your URL/site actively penalized by Google and disappearing from the SERPs entirely. Don't mess this up.
 
-![](/images/image-87.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-87.png)
 
 Look at this equation ⁠— it should help you understand the concept.
 
@@ -20,7 +20,7 @@ If I wrote a 100 word blog post and used a particular keyword twice, the keyword
 
 It's also important to note that a keyword can be one word, or many in a "phrase."
 
-![](/images/image-86.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-86.png)
 
 A keyword that is 10 words long, used 5 times in a 100 word article, is still 5% keyword density.
 
@@ -40,7 +40,7 @@ This is called "**keyword stuffing**".
 
 Google caught on, and introduced "Panda" - a huge change to their algorithm that began to categorize these keyword stuffed / low quality, "spammy" websites/webpages that prioritized keywords over content quality.
 
-![](/images/image-88.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-88.png)
 
 > "Hummingbird" places greater emphasis on natural language queries, considering context and meaning over individual keywords.
 
@@ -69,19 +69,19 @@ However, if you want to take a more advanced (and frankly better approach) you w
 
 [Popular WordPress SEO plugin Yoast](https://en-au.wordpress.org/plugins/wordpress-seo/) recommends 0.5% to 3%.
 
-![](/images/image-91.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-91.png)
 
-![](/images/image-92.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-92.png)
 
 [RankMath](https://wordpress.org/plugins/seo-by-rank-math/) (another plugin) says 1% to 2.5%.
 
-![](/images/image-94.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-94.png)
 
-![](/images/image-93.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-93.png)
 
 [The Wikipedia article on keyword density](https://en.wikipedia.org/wiki/Keyword_density) suggests 1-3%.
 
-![](/images/image-95-1024x510-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-95-1024x510-1.png)
 
 The key really, is to not focus on keyword density. You should be prioritizing writing useful content that helps your readers.
 
@@ -117,7 +117,7 @@ The page title — also known as title tags — is the most important place to h
 
 In case you didn't know, the page title is the title of your webpage on SERPs (search engine results pages.)
 
-![](/images/image-96.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-96.png)
 
 It's what tells search engine users exactly what your webpage is about — just like a headline of an article.
 
@@ -127,7 +127,7 @@ Google (and other search engines) will look at the title tags and see if you hav
 
 You'll also want to put a keyword within your h1 header — this is your actual page headline.
 
-![](/images/image-99-1024x480-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-99-1024x480-1.png)
 
 The h1 header is often confused with the [page title](https://devinschumacher.com/title-tags/) — it's important to know the difference.
 
@@ -149,11 +149,11 @@ Headings & subheadings carry more weight to telling search engines what a page i
 
 This article is a great example of this.
 
-![](/images/image-101-1024x474-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-101-1024x474-1.png)
 
 #### Meta Description (Meta Tags)
 
-![](/images/image-97.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-97.png)
 
 A good meta description can increase click-through rates, indirectly impacting SEO.
 
@@ -169,7 +169,7 @@ Google (and other search engines) don't see images visually — only the HTML.
 
 For this reason, you'll want to throw a keyword in at least one image alt-text.
 
-![](/images/image-103.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-103.png)
 
 That being said ... technology is getting much better everyday with image recognition.
 
@@ -177,7 +177,7 @@ That being said ... technology is getting much better everyday with image recogn
 
 You'll want to do the same with your [image filenames](https://devinschumacher.com/image-filenames/).
 
-![](/images/image-104.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-104.png)
 
 Putting keywords in your [image HTML](https://devinschumacher.com/seo-html-elements/) is going to help [search engines](https://devinschumacher.com/search-engines/) better understand and rank your content.
 
@@ -185,7 +185,7 @@ Putting keywords in your [image HTML](https://devinschumacher.com/seo-html-eleme
 
 Putting a relevant keyword in your URL slug is good practice.
 
-![](/images/image-102.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-102.png)
 
 URLs pack a punch when it comes to SEO. In fact, it's one of the top on page seo factors.
 
@@ -201,7 +201,7 @@ These keyword variations are known as **[LSI keywords](https://devinschumacher.c
 
 LSI (latent semantic indexing) keywords are words or phrases that are semantically similar, or highly correlated to your main keywords.
 
-![](/images/image-105.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-105.png)
 
 Search engines (such as Google) are intelligent — they look for these related LSI keywords.
 
@@ -209,9 +209,9 @@ This gives them a better understanding, a better idea of what your webpage is ab
 
 Google even states so in this [2016 research paper](https://research.google/pubs/pub45569/).
 
-![](/images/image-107.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-107.png)
 
-![](/images/image-106-1024x618-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-106-1024x618-1.png)
 
 It's also important to note that **LSI keywords are not synonyms**.
 
@@ -227,21 +227,21 @@ There are many strategies you can use to find [LSI keywords](https://devinschuma
 
 The easiest way is to use the **Google "autocomplete" feature**.
 
-![](/images/image-108-1024x504-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-108-1024x504-1.png)
 
 The words suggested — these are [LSI keywords](https://devinschumacher.com/lsi-keywords/).
 
-![](/images/image-109.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-109.png)
 
 Another strategy you can use is **LSIKeywords.com**.
 
-![](/images/image-110-1024x504-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-110-1024x504-1.png)
 
 Simply type your keywords into the tool — a list of LSI keywords will appear.
 
-![](/images/image-112-1024x343-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-112-1024x343-1.png)
 
-![](/images/download-3-2.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-3-2.gif)
 
 Let's bump the brakes here for a second... why are we talking about LSI Keywords? Did we just get off topic? No.
 

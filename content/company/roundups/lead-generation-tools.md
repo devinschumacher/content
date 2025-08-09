@@ -1,7 +1,7 @@
 ---
 slug: /best/lead-generation-tools/
 title: "Best Lead Generation Tools"
-date: "2022-10-21"
+date: "2022-10-21T12:00:00.000Z"
 categories: 
   - "marketing"
   - "reviews"
@@ -27,7 +27,7 @@ And to do this, you're gonna want to arm yourself with only the finest, top-notc
 
 Top Pick
 
-![](/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
 
 RECOMMENDATION:
 

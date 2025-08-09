@@ -1,6 +1,6 @@
 ---
 title: "seed keywords"
-date: "2022-08-26"
+date: "2022-08-26T12:00:00.000Z"
 slug: "seed-keywords"
 ---
 
@@ -18,19 +18,19 @@ Let's say your site is about health, and one thing you sell is vitamins. You can
 
 1\. Start with "Vitamins"
 
-![](/images/seed-kw-example-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seed-kw-example-1.png)
 
 2\. Expand on that
 
-![](/images/seed-kw-example-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seed-kw-example-2.png)
 
 3\. Add a modifier word "for"
 
-![](/images/seed-kw-example-3.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seed-kw-example-3.png)
 
 4\. Pick a direction, in this case, "women"
 
-![](/images/seed-kw-example-4.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seed-kw-example-4.png)
 
 You can see we now already have a TON of topics, and we only went down ONE rabbit hole.
 
@@ -89,17 +89,17 @@ Because we know our industry I can break down the _topic_ of SEO into further to
 
 **An example of seed keyword/topic planning using a mind map:**
 
-[![](/images/screen-shot-2019-10-04-at-10.30.53-am-1024x535-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-04-at-10.30.53-AM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-04-at-10.30.53-am-1024x535-1.png)
 
 In fact, we actually recommend you use a mind map, or a spreadsheet, or Dynalist.
 
 **An example of seed keyword/topic planning using Dynalist:**
 
-[![](/images/crop-19-92-565-2773-0-an-example-of-building-a-keyword-list-by-breaking-out-topics.png)](https://devinschumacher.com/wp-content/uploads/2019/10/an-example-of-building-a-keyword-list-by-breaking-out-topics.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/crop-19-92-565-2773-0-an-example-of-building-a-keyword-list-by-breaking-out-topics.png)
 
 **An example of seed keyword/topic planning using a spreadsheet:**
 
-![](/images/screen-shot-2019-10-04-at-10.38.40-am.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-04-at-10.38.40-am.png)
 
 We normally will use a spreadsheet, or Dynalist - depending on how many layers the topic can break broken down to, how many keywords there are, etc.
 
@@ -146,7 +146,7 @@ If you are a little less familiar with the industry and need to get some ideas, 
 
 Use a tool like Ahrefs to see what keywords the site is already showing up for and that will begin to guide your seed keyword creation.
 
-[![](/images/oct-04-2019-10-47-39.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/oct-04-2019-10-47-39.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/oct-04-2019-10-47-39.gif)
 
 ### Competitor Keywords
 
@@ -154,13 +154,13 @@ If your website is new, or just doesn't have any current rankings, you can look 
 
 **Use Ahrefs to look at the competitor's keywords:**
 
-[![](/images/seed-keywords-1-1024x638-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/seed-keywords-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seed-keywords-1-1024x638-1.png)
 
-[![](/images/seed-keywords-2-1024x957-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/seed-keywords-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seed-keywords-2-1024x957-1.png)
 
 Once you run out of ideas from your competitor, you can actually use Ahrefs to find MORE competitors, and then look at their keywords.
 
-[![](/images/seed-keywords-3-1024x856-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/seed-keywords-3.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seed-keywords-3-1024x856-1.png)
 
 ### Create a Seed Keywords List (Thinking Outside The Box Methods)
 

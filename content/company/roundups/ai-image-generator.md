@@ -1,7 +1,7 @@
 ---
 slug: /best/ai-image-generator/
 title: "Best AI Image Generator"
-date: "2022-12-28"
+date: "2022-12-28T12:00:00.000Z"
 category: Reviews
 
 tags: 

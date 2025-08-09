@@ -1,7 +1,7 @@
 ---
 slug: /best/review-management-software/
 title: "Best Review Management Software"
-date: "2022-09-27"
+date: "2022-09-27T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -23,7 +23,7 @@ Reviews provide you with the ability to interact with your customers. They tell 
 
 ### [Sybrware](https://serp.ly/sybrware)
 
-![sybrware review managament platform tools](/images/sybrware-review-managament-platform-tools.png)
+![sybrware review managament platform tools](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/sybrware-review-managament-platform-tools.png)
 
 An "all in one" marketing platform, with a focus on review generation & management to help professional service businesses thrive.
 
@@ -31,7 +31,7 @@ Sybrware was created with three aims in mind: save time, simplify difficult acti
 
 ### [Okendo](https://serp.ly/okendo/)
 
-![okendo logo 300x300 1](/images/okendo-logo-300x300.png)
+![okendo logo 300x300 1](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/okendo-logo-300x300.png)
 
 The New Standard in Customer Reviews.
 

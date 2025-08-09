@@ -1,7 +1,7 @@
 ---
 slug: /best/data-visualization-tools/
 title: "Best Data Visualization Tools"
-date: "2022-10-21"
+date: "2022-10-21T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -33,7 +33,7 @@ Before we start, I'd just like to say that all of these data visualization tools
 
 ### [Tableau](https://serp.ly/tableau/)
 
-![Tableau Home Page](/images/Tableau-Home-Page-1024x443.png)
+![Tableau Home Page](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Tableau-Home-Page-1024x443.png)
 
 [Tableau](https://serp.ly/tableau/) is an absolutely stunning piece of software, I'll tell you that much. It's one of the fastest-growing and most powerful data visualization tools out there. Of course, due to how complex and exceptional it is, the price follows suit.
 
@@ -41,7 +41,7 @@ Although you can get the free version dubbed Tableau Public, it generally isn't 
 
 And if you aren't going for the free version, then you've got a couple of choices - **the Viewer plan that lets you access existing dashboards ($15/month, billed annually), the Explorer plan which lets you edit existing dashboards ($42/month, billed annually), and the most powerful one - the Creator plan that comes with all Tableau features ($70/month, billed annually)**.
 
-![Tableau Plans and Pricing](/images/Tableau-Plans-and-Pricing.png)
+![Tableau Plans and Pricing](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Tableau-Plans-and-Pricing.png)
 
 The cheaper plans are good but not very inviting considering you don't get all the features and with them, you lack the ability to create your own charts and analytics. Even so, they're great to get started with Tableau.
 
@@ -49,7 +49,7 @@ Speaking about the software itself, it's exceptional. Tableau gives users a mult
 
 The most impressive part of this software is the **interactive charts feature which massively improves the business intelligence visualizations**.
 
-![Tableau Desktop](/images/Tableau-Desktop.png)
+![Tableau Desktop](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Tableau-Desktop.png)
 
 But don't expect to learn and use it to its maximum extent right away; **Tableau is a fairly difficult program to use** and as such requires plenty of time to understand and utilize completely.
 
@@ -79,19 +79,19 @@ But don't expect to learn and use it to its maximum extent right away; **Tableau
 
 ### [Microsoft Power BI](https://serp.ly/microsoft-power-bi/)
 
-![Microsoft Power BI Desktop variant](/images/Microsoft-Power-BI-Desktop-variant-1024x504.png)
+![Microsoft Power BI Desktop variant](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Microsoft-Power-BI-Desktop-variant-1024x504.png)
 
 The [Microsoft Power BI](https://serp.ly/microsoft-power-bi/) is the complete package for data analytics. This data visualization tool is very powerful but also unusually user-friendly. I say unusually because most complex tools of this nature are tough to learn and master. But not this one.
 
 Additionally, due to it being a Microsoft product, it has great integration with most Microsoft Office products. **This makes Microsoft Power BI a top-of-the-line choice for data scientists that use Microsoft Excel or Word for data entry.**
 
-![Dashboard example](/images/Dashboard-example-1024x547.png)
+![Dashboard example](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Dashboard-example-1024x547.png)
 
 One recommendation from our side would be to first use the free version of Microsoft Power BI. It comes with most features that you'd otherwise pay for; **the biggest downsides are the storage limit (1GB) and refresh cycles, of which there aren't many**.
 
 And for **just $9.99 per user per month, you can get the Pro version which allows for 10GB of storage, hourly refresh cycles, increased consumption of streaming data (1,000,000 rows/hour)**. Essentially, you're getting 10 times more than what you'd get in the free version.
 
-![Plans and Pricing](/images/Plans-and-Pricing-1024x768.png)
+![Plans and Pricing](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Plans-and-Pricing-1024x768.png)
 
 Lastly, let's talk about data connectors. Microsoft Power BI comes with a **staggering 74 of them**. What this means is that you don't have to use just one data source; you can use multiple, ie. combining your Email data with CRM information.
 
@@ -123,13 +123,13 @@ Overall, Microsoft Power BI doesn't have a lot of negatives going for it which i
 
 ### [Sisense](https://serp.ly/sisense/)
 
-![Sisense Home Page](/images/Sisense-Home-Page-1024x505.png)
+![Sisense Home Page](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Sisense-Home-Page-1024x505.png)
 
 Whilst [Sisense](https://serp.ly/sisense/) does a **tremendous job of offering incredible data visualization solutions, exceptional data charts, and various other graphics**, they still haven't reached the level of Microsoft Power BI. Having said that, they're definitely on par with Tableau.
 
 The funny thing about both of these is that they are both relatively expensive with Sisense even more so. However, even with the higher price, Sisense has some amazing stuff for analysts can use efficiently.
 
-![Sisense Blog Section](/images/Sisense-Blog-Section-1024x468.png)
+![Sisense Blog Section](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Sisense-Blog-Section-1024x468.png)
 
 Truth be told, Sisense doesn't really sit well in terms of its self-service capabilities. Just a tad too complex for our taste but - they've done a great job countering indecisiveness and the difficulty of use by offering **free tutorials and blog posts.**
 
@@ -137,7 +137,7 @@ So users can easily find out whatever they want regarding the software, or they 
 
 The conclusion about this data visualization tool is that it **feels great to use, comes with loads of visualization choices, and is very quick**.
 
-![Sisense Pricing Screen](/images/Sisense-Pricing-Screen-1024x316.png)
+![Sisense Pricing Screen](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Sisense-Pricing-Screen-1024x316.png)
 
 You won't encounter bottlenecks thanks to in-chip processing which automatically puts it above Tableau by a very slim margin. All in all, **advanced data analysts should find themselves right at home with this tool.**
 
@@ -168,13 +168,13 @@ You won't encounter bottlenecks thanks to in-chip processing which automatically
 
 ### [Domo](https://serp.ly/domo/)
 
-![Domo Home Page](/images/Domo-Home-Page-1024x414.png)
+![Domo Home Page](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Domo-Home-Page-1024x414.png)
 
 [Domo](https://serp.ly/domo/) employs the same payment method as Sisense - you need to ask them for a personalized quote based on what you need.
 
 **This essentially guarantees you'll get exactly what you need; no more, no less**. Still, the average price comes out to around $85/user/month which makes Domo an expensive data visualization choice.
 
-![Domo Pricing Screen](/images/f2320e7d-2064-4399-bfdf-c68e6aab761c.png)
+![Domo Pricing Screen](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/f2320e7d-2064-4399-bfdf-c68e6aab761c.png)
 
 Unfortunately, **Domo does not have machine learning nor natural language support**. Sisense and other competitors have both of these whereas Domo is lacking in these areas.
 
@@ -186,7 +186,7 @@ Another inviting aspect of Domo is that their visualization method tries to pres
 
 Overall, [Domo](https://serp.ly/domo/) does a pretty good job visualizing data and providing graphical representations of data analytics. You also get the option to try out their software for free which I definitely recommend considering everything previously mentioned.
 
-![Screenshot of the Domo BI & Analytics section](/images/Screenshot-of-the-Domo-BI-Analytics-section-1024x775.png)
+![Screenshot of the Domo BI & Analytics section](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Screenshot-of-the-Domo-BI-Analytics-section-1024x775.png)
 
 Lastly, it's worth noting that Domo doesn't yet have the capabilities nor power to support large businesses. This might change in the future, and if they improve in areas that are lacking, Domo will rise in both popularity and effectiveness.
 
@@ -219,13 +219,13 @@ Lastly, it's worth noting that Domo doesn't yet have the capabilities nor power 
 
 ### [Google Data Studio](https://serp.ly/data-studio/)
 
-![Google Data Studio Dashboard](/images/Google-Data-Studio-Dashboard-1024x491.png)
+![Google Data Studio Dashboard](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Google-Data-Studio-Dashboard-1024x491.png)
 
 For all intents and purposes, **[Google Data Studio](https://serp.ly/data-studio/) feels like a tool completely oriented towards data analysis beginners.** It doesn't come with any advanced visualization options, isn't as complex or powerful as other data visualization tools, and lacks versatility with third-party apps and data entry systems.
 
 But considering the entire tool is free - what you get is actually impressive. Of course, large businesses would probably not use the Google Data Studio, even if they use Google's Analytics system, but small businesses should have a great time with it.
 
-![Google Ads template](/images/Google-Ads-template.png)
+![Google Ads template](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Google-Ads-template.png)
 
 **The data analysis process is simple - Paste data, choose how to display it, and that's about it**. You could also create infographics but you'd be better off with some other data visualization tool.
 
@@ -256,13 +256,13 @@ All in all, the **Google Data Studio acts as a stepping stone to more advanced d
 
 ### [Zoho Analytics](https://serp.ly/zoho-analytics/)
 
-![Zoho Home Page](/images/Zoho-Home-Page-1024x502.png)
+![Zoho Home Page](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Zoho-Home-Page-1024x502.png)
 
 The final piece of data visualization software we'll look at today is [Zoho Analytics](https://serp.ly/zoho-analytics/). **I want to start off by saying that out of all the data visualization tools I've covered in this article, Zoho Analytics offers the best representation of data**. Their charts for all your data are **neat, compact, and gorgeous**.
 
 An exceptionally designed user interface guarantees ease of use and enjoyment while using the tool. And that's saying quite a lot compared to some of the heavy hitters we've talked about.
 
-![Zoho user interface](/images/Zoho-user-interface-1024x601.png)
+![Zoho user interface](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Zoho-user-interface-1024x601.png)
 
 Zoho Analytics also enables you to **import data from multiple different sources, after which it gets presented in many ways, including multidimensional data visualization**.
 
@@ -272,7 +272,7 @@ Zoho Analytics comes with a virtual AI assistant called Zia as well. **Zia is th
 
 The downsides aren't too bad but they do exist. For starters, the **tool has a fairly steep learning curve**, albeit still being generally easy to use. However, it'll take a while until you're able to utilize it completely. Their largest plans are somewhat expensive for most businesses apart from large ones.
 
-![Zoho Analytics Pricing and Plans](/images/Zoho-Analytics-Pricing-and-Plans.png)
+![Zoho Analytics Pricing and Plans](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Zoho-Analytics-Pricing-and-Plans.png)
 
 Lastly, the Zoho Analytics support system and staff are exceptional. They aren't pushy either, so you can **expect the utmost respect and professionalism from their team**.
 

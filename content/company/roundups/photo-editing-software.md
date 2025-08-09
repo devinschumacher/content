@@ -1,7 +1,7 @@
 ---
 slug: /best/photo-editing-software/
 title: "Best Photo Editing Software"
-date: "2022-10-21"
+date: "2022-10-21T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -44,7 +44,7 @@ In fact, not too long ago, we started using ‘photoshop’ as a verb. Just like
 
 And let’s not forget about those ‘Photoshop fails’ compilations that would go viral now and then. Celebrities and magazines would abuse Photoshop all the time, often with catastrophic results.
 
-![beiber-photoshop](/images/justin-beiber-photoshop-fail.png)
+![beiber-photoshop](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/justin-beiber-photoshop-fail.png)
 
 There’s no denying that Adobe Photoshop was a pioneer, although it gained a lot of strong competitors in the past decade.
 
@@ -64,7 +64,7 @@ Illustrator has always been linked with Adobe Photoshop in a way. Professional
 
 These two programs have a lot in common but serve different purposes. Photoshop is used to create and edit photos or raster-based art and Illustrator is more commonly used for designing.
 
-![adobe](/images/adobe-illustrator.png)
+![adobe](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/adobe-illustrator.png)
 
 But the main difference between them is that Adobe Photoshop works with pixels, while Adobe Illustrator works using vectors.
 
@@ -74,7 +74,7 @@ This program’s interface is consistent with that of the other products in the 
 
 It is ideal for creating all kinds of graphics, art, logos, and images.
 
-![adobeillustrator](/images/adobe-illustrator.png)
+![adobeillustrator](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/adobe-illustrator.png)
 
 Illustrator is typically used in advertising, web developing, and printing, but you don’t really have to be an actual professional to use it.
 
@@ -124,7 +124,7 @@ This is a user-friendly online graphic tool, ideal for non-designers. It’s ver
 
 PicMonkey is extremely easy to use and intuitive. It requires no experience whatsoever, although it might take you a bit to get familiar with all its capabilities.
 
-![Picmonkey](/images/PicMonkey.png)
+![Picmonkey](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/PicMonkey.png)
 
 It doesn’t have a free version, which is not great news for absolute beginners who are not yet willing to spend money. However, it does offer a free trial.
 
@@ -136,7 +136,7 @@ PicMonkey is a great ally if you want to edit photos online instead of download
 
 One big plus about PicMonkey is that it has a mobile version. Not all editors can offer mobile solutions that are pretty much as efficient as their desktop counterparts.
 
-![picmonkey-alt](/images/picmonkey.png)
+![picmonkey-alt](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/picmonkey.png)
 
 Its drag-and-drop interface is pretty straightforward. All the tools are visible at first glance, and you can access them from the toolbar on the left. It reminds me a bit of good old Paint and how easy it was to choose the colors and shapes.
 
@@ -190,7 +190,7 @@ In a few words, it allows you to apply corrections to Raw files in order to rest
 
 DxO Photolab features two different interfaces. First, we have the editor, which is where the magic happens.
 
-![dxophotolab1](/images/DXO-photolab.png)
+![dxophotolab1](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/DXO-photolab.png)
 
 The second interface is the library, which compared to its competitors seems to be quite limited.
 
@@ -200,7 +200,7 @@ You can browse folders on your computer and collect elements for a project, but 
 
 Honestly, it is barely good enough to browse through your photos if you already know where to find them.
 
-![dxophotolab2](/images/DXO-photolab.png)
+![dxophotolab2](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/DXO-photolab.png)
 
 It supports modern gear like touch screens, pens, and high-resolution displays. It is capable of providing outstanding quality, lots of details, and vibrant colors. With this photo editing software, you can truly bring your artistic vision to reality.
 
@@ -246,7 +246,7 @@ Want to use DXO Photolab as your photo editing software? Then click here!
 
 Lightroom has always been a favorite among artists and photographers. Its phenomenal free mobile app became a top choice for influencers and social media characters as well.
 
-![adobelightroom](/images/adobe-lightroom.png)
+![adobelightroom](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/adobe-lightroom.png)
 
 It has incredible capabilities and an impressive set of digital photography tools. From 1-click adjustments to cut-edge advanced editing.
 
@@ -254,7 +254,7 @@ You can remove distracting objects, enhance the colors of your photos, and strai
 
 Lightroom is cloud-based, which means that all of your files are stored on a network of remote servers and are available on demand. Your material will be safe and easily accessible for you to resume your work whenever and wherever you need it.
 
-![adobecloud](/images/adobe-cloud.png)
+![adobecloud](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/adobe-cloud.png)
 
 My favorite thing about this tool is that it launched two versions: Lightroom, and Lightroom Classic. One for amateurs and one for professionals.
 
@@ -310,7 +310,7 @@ Its photo editor allows you to soften the noise, correct and adjust the colors o
 
 We can also mention its open-source code as a big plus. This means you can view and edit everything online and use already created code to come up with new versions of other programs.
 
-![gimp-alt](/images/GIMP.png)
+![gimp-alt](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/GIMP.png)
 
 Something pretty cool that GIMP has that others tool don’t is a selection of four different themes. Dark (default theme), Gray, Light, and System. You can choose the one that suits you best!
 
@@ -360,7 +360,7 @@ Whether you are an artist, a photographer, a designer, or merely an amateur, ima
 
 Any expert can tell if an image has been edited. There’s a big difference between raw files and their final version. Good photo editing software has the potential to turn a dull picture into an absolute masterpiece.
 
-![photoshopbeforeafter](/images/photoshop-before-after.png)
+![photoshopbeforeafter](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/photoshop-before-after.png)
 
 However, achieving professional-looking results is never easy. Only after spending hours wracking your brain in front of a screen will you realize that having a reliable photo editing tool is a game-changer.
 
@@ -382,7 +382,7 @@ Normally, the most powerful tools require special training and a fair amount of 
 
 There are also simpler options that are much more user-friendly and suitable for beginners and people with zero knowledge.
 
-![youcandoit](/images/you-can-do-it.png)
+![youcandoit](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/you-can-do-it.png)
 
 The photo editing capabilities are, of course, much more limited. But if you are not a professional, you’re not likely to aspire to professional results anyways.
 

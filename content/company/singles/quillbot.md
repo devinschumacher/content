@@ -1,7 +1,7 @@
 ---
 slug: /reviews/quillbot/
 title: "QuillBot Review"
-date: "2022-12-06"
+date: "2022-12-06T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -26,7 +26,7 @@ https://youtu.be/YF8AZsWmR7g
 
 Top Pick
 
-![](/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
 
 MY RECOMMENDATION
 

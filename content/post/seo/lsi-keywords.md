@@ -1,6 +1,6 @@
 ---
 title: "LSI Keywords"
-date: "2022-08-26"
+date: "2022-08-26T12:00:00.000Z"
 slug: "lsi-keywords"
 ---
 
@@ -10,7 +10,7 @@ As Google's algorithm "evolves", and gets more intelligent, it is better able to
 
 LSI, an acronym for Latent Semantic Indexing, is an **indexing** and retrieval method that uses a mathematical technique called singular value decomposition (SVD) to identify patterns in the relationships between the terms and concepts contained in an unstructured collection of text. ([source](https://en.wikipedia.org/wiki/Latent_semantic_analysis))
 
-![](/images/download-7-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-7-1.gif)
 
 Great... Another definition that doesn't make any sense unless I have 4 PhDs.
 
@@ -20,7 +20,7 @@ So, let me put it another way that's easier to grasp:
 
 Still a bit confusing, but probably starting to make a little more sense, yes?
 
-![](/images/download-6-2.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-6-2.gif)
 
 Keep reading and you will be the LSI master by the end of this.
 
@@ -34,7 +34,7 @@ The simplest definition for **LSI keywords I can give is that they are just word
 
 Almost like...complementary words.
 
-[![](/images/crop-0-0-633-174-0-lsi-keywords-are-complementary.png)](https://devinschumacher.com/wp-content/uploads/2019/10/lsi-keywords-are-complementary.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/crop-0-0-633-174-0-lsi-keywords-are-complementary.png)
 
 It is a way for search engines to fully understand what a page is about when there might otherwise be confusing.
 
@@ -44,7 +44,7 @@ Well, Latent Semantic Indexing helps solve that problem.
 
 **Here is a great example:**
 
-[![](/images/lsi-keywords-example.png)](https://devinschumacher.com/wp-content/uploads/2022/08/lsi-keywords-example.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/lsi-keywords-example.png)
 
 ## How Does Google Use Latent Semantic Indexing?
 
@@ -56,11 +56,11 @@ This might have worked back in 2011, but since the release of 2 major algorithm 
 
 Here is an example of keywords stuffing.
 
-[![](/images/example-of-keyword-stuffing.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/example-of-keyword-stuffing.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/example-of-keyword-stuffing.gif)
 
 A page about "chiropractic treatment" that uses the word chiropractic 57 times, and treatment 39 times (in a fairly short article I might add).
 
-[![](/images/just-repeating-keywords-used-to-be-effective-1024x570-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/just-repeating-keywords-used-to-be-effective.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/just-repeating-keywords-used-to-be-effective-1024x570-1.png)
 
 If Google saw a keyword used over and over again it thought "well this page is clearly super relevant to this term it talks about is _soooo much_".
 
@@ -70,7 +70,7 @@ Now, with LSI technology, Google can read a page's content and understand the ov
 
 <figure>
 
-[![](/images/how-lsi-keywords-work-to-understand-the-pages-overall-topic-1024x570-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/how-LSI-keywords-work-to-understand-the-pages-overall-topic.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-lsi-keywords-work-to-understand-the-pages-overall-topic-1024x570-1.png)
 
 <figcaption>
 
@@ -80,7 +80,7 @@ image source: backlinko
 
 </figure>
 
-[![](/images/lsi-keywords-add-up-to-let-google-determine-the-topic-1024x692-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/lsi-keywords-add-up-to-let-google-determine-the-topic.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/lsi-keywords-add-up-to-let-google-determine-the-topic-1024x692-1.png)
 
 ## Why Are LSI Keywords Important for SEO?
 
@@ -96,7 +96,7 @@ This allows Google to improve the match between the search query (what someone s
 
 Starting to sound like robots can think like humans.
 
-![](/images/download-8-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-8-1.gif)
 
 ### The Benefits of Using LSI Keywords for SEO
 
@@ -125,11 +125,11 @@ For example, let's say you are writing about asthma. Some of the things you migh
 
 How do you know to use all these? Well, just Google your and look through the SERP!
 
-[![](/images/example-of-finding-lsi-keywords-1024x839-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/example-of-finding-lsi-keywords.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/example-of-finding-lsi-keywords-1024x839-1.png)
 
 You can also scroll down the bottom and use the "Searches related to" area:
 
-[![](/images/screen-shot-2019-10-05-at-10.59.32-am.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-05-at-10.59.32-am.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-05-at-10.59.32-am.png)
 
 Remember, we are trying to find things that people _generally associate with_ and _search for information about_ when understanding how we can comprehensively cover a topic (and get our LSI keywords into our content).
 
@@ -143,15 +143,15 @@ It works like magic in SEO (and most things digital marketing as well).
 
 **1\. Enter your** [**seed keyword**](https://devinschumacher.com/seed-keywords/) **into Ahrefs keywords explorer**:
 
-[![](/images/using-competitors-to-find-lsi-keywords-1-1024x501-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-competitors-to-find-LSI-keywords-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-competitors-to-find-lsi-keywords-1-1024x501-1.png)
 
 **2\. Scroll down to see the "SERP Overview" (aka who is ranking at the top) & click on the keywords (its a number) to see all the keywords that their article is showing up for**:
 
-[![](/images/using-competitors-to-find-lsi-keywords-2-1024x457-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-competitors-to-find-LSI-keywords-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-competitors-to-find-lsi-keywords-2-1024x457-1.png)
 
 **3\. Scroll through their keywords to get ideas of more keywords that you should include in your article (or larger content strategy):**
 
-[![](/images/using-competitors-to-find-lsi-keywords-3-568x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-competitors-to-find-LSI-keywords-3.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-competitors-to-find-lsi-keywords-3-568x1024-1.png)
 
 You can see from the screenshot above that this ONE article that is ranking for "asthma" is also ranking for 1,595 other related keywords in the USA alone!
 
@@ -159,11 +159,11 @@ That is the power of the LSI.
 
 ### LSI Graph
 
-![](/images/lsi-graph-tool-1024x452-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/lsi-graph-tool-1024x452-1.png)
 
 Simple to use, just enter your keyword into the search box, and the comb through the results!
 
-![](/images/using-lsi-graph-to-find-lantent-semantic-keywords-4.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-lsi-graph-to-find-lantent-semantic-keywords-4.png)
 
 ### Twin Word
 
@@ -171,17 +171,17 @@ Simple to use, just enter your keyword into the search box, and the comb through
 
 **1\. Search your keyword:**
 
-[![](/images/twinwod.com-to-find-lsis-1-1024x107-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/twinwod.com-to-find-lsis-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/twinwod.com-to-find-lsis-1-1024x107-1.png)
 
 **2\. Get results**
 
-[![](/images/twinwod.com-to-find-lsis-2-1024x746-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/twinwod.com-to-find-lsis-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/twinwod.com-to-find-lsis-2-1024x746-1.png)
 
 ### Semantic Link
 
 [Semantic Link](http://semantic-link.com/) is another great tool for finding LSIs.
 
-![](/images/using-semantic-link-to-search-for-lsi-keywords-689x1024-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-semantic-link-to-search-for-lsi-keywords-689x1024-1.png)
 
 ## How to Use LSI Keywords
 

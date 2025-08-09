@@ -1,6 +1,6 @@
 ---
 title: "black hat seo"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "black-hat-seo"
 ---
 
@@ -42,7 +42,7 @@ It's all the same.
 
 **Here's a screenshot straight outta Google's Webmaster Guidelines:**
 
-[![](/images/googles-websmaster-gudeliness-1024x619-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/googles-websmaster-gudeliness.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/googles-websmaster-gudeliness-1024x619-1.png)
 
 **It basically says:**
 
@@ -54,7 +54,7 @@ So according to Google, all SEO is the same thing.
 
 **Black Hat SEO is**: The Dark Side of SEO
 
-![](/images/darth-vader-black-hat-seogif.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/darth-vader-black-hat-seogif.gif)
 
 But seriously have we learned nothing from Star Wars?
 
@@ -70,7 +70,7 @@ It is the **person (or business) using the power for BAD** that makes them part 
 
 The Dark-side of the force can be used for good too:
 
-![](/images/download-8.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-8.gif)
 
 So the next logical question would be - why do people even use black hat seo then, if it's so risky?
 
@@ -78,7 +78,7 @@ Well, the results are super powerful.
 
 **Black Hat SEO is**: high risk, high reward.
 
-![](/images/roulette-gif-that-black-hat-seo-is-risky.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/roulette-gif-that-black-hat-seo-is-risky.gif)
 
 So calling something "black hat" or "white hat" is more like a level of severity of a crime - like stealing a stick of gum vs. stealing a car.
 
@@ -94,7 +94,7 @@ For example, using PBNs to rank a website is normally considered a "black hat se
 
 But who doesn't like a little risky business?
 
-![](/images/black-hat-seo-risky-business-gif.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/black-hat-seo-risky-business-gif.gif)
 
 And one last final rant on why I don't like the term Black Hat SEO or White Hat SEO is because of where the names come from.
 
@@ -102,7 +102,7 @@ The term "black hat" and "white hat" come from old spaghetti western films, wher
 
 Classic good vs. evil.
 
-![](/images/black-hat-vs-white-hat.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/black-hat-vs-white-hat.jpg)
 
 But in [SEO the "techniques"](https://devinschumacher.com/seo-techniques/) or "tactics" you use have nothing to do with good & evil.
 
@@ -112,7 +112,7 @@ So, in my opinion it's just one big giant poop of a misnomer for the reasons we 
 
 And let's be honest - most of ya'll prolly be skimming this article like:
 
-![](/images/lol-did-not-read-gif.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/lol-did-not-read-gif.gif)
 
 **Why "Black Hat SEO" is a ?y term:**
 
@@ -128,13 +128,13 @@ So, if you look at other people's definitions of black hat seo, they actually in
 
 Here are some examples:
 
-![](/images/a_definition_of_black_hat_search_engine_optimization-1024x158-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/a_definition_of_black_hat_search_engine_optimization-1024x158-1.png)
 
-![](/images/a_definition_of_black_hat_seo-1024x258-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/a_definition_of_black_hat_seo-1024x258-1.png)
 
-![](/images/recommendation_to_avoid_black_hat_seo-1024x97-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/recommendation_to_avoid_black_hat_seo-1024x97-1.png)
 
-![](/images/what_is_black_hat_seo-1024x314-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/what_is_black_hat_seo-1024x314-1.png)
 
 For a beginner that is probably sound advice.
 
@@ -154,7 +154,7 @@ Most people would say "no way thats too risky!"
 
 But we say:
 
-![](/images/nascar-bar-mark-e1567810208920.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/nascar-bar-mark-e1567810208920.jpg)
 
 It's all relative. It's all about capability & risk tolerance.
 
@@ -214,7 +214,7 @@ I see these types of sites alot around PPV events.
 
 They rank for terms like "Floyd Mayweather PPV free stream" (usually using parasite SEO) full well knowing that site isn't gonna be around for very long.
 
-![](/images/black-hat-seos-parasite-seo-to-stream-1024x801-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/black-hat-seos-parasite-seo-to-stream-1024x801-1.png)
 
 They use "parasite SEO" to piggyback on the trust and authority of bigger websites like reddit & twitter to capture people looking to illegally stream PPV events. And then make money off all the traffic because of Google Adsense, collecting emails, etc.
 
@@ -236,7 +236,7 @@ We do things carefully. But we also offer penalty recovery services, so if somet
 
 We have dealt extensively with penalized websites and we know how to bring them back from the dead.
 
-![](/images/frankenstein-gif.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/frankenstein-gif.gif)
 
 ## 7\. You are doing SEO outside of the USA
 
@@ -386,7 +386,7 @@ Some of these methods are NOT AT ALL Black hat. Some are.
 
 - [Google My Maps](https://devinschumacher.com/google-maps-marketing-strategies/) Spamming
 
-[![](/images/black-hat-seo-tefchnique-on-google-my-maps-1024x581-1.jpg)](https://devinschumacher.com/wp-content/uploads/2019/09/black-hat-seo-tefchnique-on-google-my-maps.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/black-hat-seo-tefchnique-on-google-my-maps-1024x581-1.jpg)
 
 ## Black Hat SEO Tools
 

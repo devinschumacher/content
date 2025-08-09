@@ -1,6 +1,6 @@
 ---
 title: "Search Engines"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "search-engines"
 ---
 
@@ -26,7 +26,7 @@ They cannot be found using a search engine. You have to know the exact website a
 
 **Fun fact**: It is estimated that 96-99% of the entire internet is "Deep Web"
 
-[![](/images/search-engines-deep-web.png)](https://devinschumacher.com/wp-content/uploads/2022/08/search-engines-deep-web.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/search-engines-deep-web.png)
 
 _In this article we are going to talk about what a search engine actually is, how it works, and we will even cover the most popular search engine types & search engine companies._
 
@@ -64,7 +64,7 @@ To make things even more complex - these companies are always innovating. They u
 
 ## An Example of How A Search Engine Works
 
-![](/images/how-google-search-works.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-google-search-works.png)
 
 Let me give you an example to illustrate how a search engine works, but also give you a little diatribe about why the thing that powers my entire agency (it is named [SERP Co](http://serp.co), after all) is actually one giant extortion machine.
 
@@ -80,17 +80,17 @@ They read the HTML, the CSS, Javascript, etc.
 
 So, when you see this:
 
-[![](/images/what-do-we-see-vs.-what-a-search-engine-sees-pt.1-1024x658-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/what-do-we-see-vs.-what-a-search-engine-sees-pt.1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/what-do-we-see-vs.-what-a-search-engine-sees-pt.1-1024x658-1.png)
 
 They see this:
 
-[![](/images/what-do-we-see-vs.-what-a-search-engine-sees-pt.2-1024x574-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/what-do-we-see-vs.-what-a-search-engine-sees-pt.2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/what-do-we-see-vs.-what-a-search-engine-sees-pt.2-1024x574-1.png)
 
 As they are reading the page they begin to form an "understanding" about what the website as a whole (and the specific pages on it) are about.
 
 When they crawl around & read our website, they can understand they we are a [digital marketing company (it says it prominently in the HTML of our home page title tag, and also as the main heading (called an](https://devinschumacher.com/category/marketing/)
 
-[![](/images/what-search-engines-see-1024x643-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/what-search-engines-see.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/what-search-engines-see-1024x643-1.png)
 
 After the search engine forms an understanding about your website it will "file it away" in a large database, called an Index, that acts like a digital library of all the websites on the internet (that it has crawled).
 
@@ -402,7 +402,7 @@ They are based off of their own algorithms, product uploads, user reviews, etc.
 
 #### Google
 
-![](/images/google_logo-1024x314-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google_logo-1024x314-1.png)
 
 Google is a multinational tech company that specializes in Internet-related products & services, including: online advertising, search engine technologies, cloud computing, software & hardware.
 
@@ -410,7 +410,7 @@ Google is the largest search engine on the internet, with over 90% market share.
 
 #### YouTube
 
-![](/images/youtube-logo.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/youtube-logo.png)
 
 YouTube is an video-sharing platform, originally founded by 3 former PayPal employees - Steve Chen, Jawed Karim & Chad Hurley in February 2005.
 
@@ -420,7 +420,7 @@ YouTube is now owned by Google, and is the 2nd largest search on the internet.
 
 #### Bing
 
-![](/images/bing-logo-1024x415-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/bing-logo-1024x415-1.png)
 
 In 2009, Bing replaced "MSN Search" as Microsoft’s primary search engine, and their attempt to gain market share back from Google.
 
@@ -428,7 +428,7 @@ Bing ships on many PCs and is the default search engine for all machines running
 
 #### Yahoo
 
-![](/images/screen-shot-2019-09-29-at-2.16.08-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-09-29-at-2.16.08-pm.png)
 
 Founded in 1994, by Jerry Yang, and currently owned by Verizon Yahoo was one of the earliest search engines on the internet.
 
@@ -436,7 +436,7 @@ It's popularity has continued to decline.
 
 #### Amazon
 
-![](/images/amazon-logo-1024x318-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/amazon-logo-1024x318-1.png)
 
 Amazon is an [online shopping platform](https://devinschumacher.com/online-learning-platforms/), founded by Jeff Bezos in 1995.
 
@@ -446,7 +446,7 @@ More than half of ALL online shopping searches start on Amazon.
 
 #### Baidu
 
-![](/images/daidu-logo-1024x350-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/daidu-logo-1024x350-1.png)
 
 Baidu is a Chinese search engine / internet technology company, headquartered in Shanghai.
 
@@ -454,13 +454,13 @@ It's basically the Chinese equivalent of Google.
 
 #### Ask
 
-![](/images/ask-logo-1024x780-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/ask-logo-1024x780-1.png)
 
 Ask.com, originally called "Ask Jeeves", was created as a website search-engine that could get answered to everyday questions, and return those answers back in natural language - as if you were actually asking someone an answer to your question.
 
 #### Facebook
 
-![](/images/facebook-logo.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/facebook-logo.jpg)
 
 Facebook is an online [social media](https://devinschumacher.com/social-media-management-tools/) & social networking company.
 
@@ -468,7 +468,7 @@ As of June 2019, there are more than 2,410,000,000 world-wide active monthly use
 
 #### AOL
 
-![](/images/aol-logo.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/aol-logo.jpg)
 
 Also acquired by Verizon, AOL is one of the original web based services.
 
@@ -476,7 +476,7 @@ Who still uses AOL as a search engine? I don't personally know anyone - but my p
 
 #### Duck Duck Go
 
-![](/images/duck-duck-go-logo.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/duck-duck-go-logo.png)
 
 DuckDuckGo is an internet search engine that emphasizes protecting searchers' privacy and distinguishes itself by showing all users the same search results for a given search term - emphasizing returning the best search results, rather than the most results, from over 400 individual sources, including crowdsourced sites such as Wikipedia, and other search engines like Bing, Yahoo!, and Yandex. As of August 2019, it had 44,196,092 daily direct searches on average. ([source](https://en.wikipedia.org/wiki/DuckDuckGo))
 
@@ -488,7 +488,7 @@ Companies can pay the search engine to "show up" on Page 1 by paying money to be
 
 They also make money by putting affiliate links inside of search results.
 
-[![](/images/how-search-engines-make-money-903x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/how-search-engines-make-money.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-search-engines-make-money-903x1024-1.png)
 
 ## Final Thoughts
 

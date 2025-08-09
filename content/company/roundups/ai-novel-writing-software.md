@@ -1,7 +1,7 @@
 ---
 slug: /best/ai-novel-writing-software/
 title: "Best Ai Novel Writing Software"
-date: "2023-02-07"
+date: "2023-02-07T12:00:00.000Z"
 categories: 
   - "artificial-intelligence"
   - "blogging"
@@ -31,7 +31,7 @@ Something you probably don't want your teachers (or Google) finding out about.
 
 ## [1\. Sudowrite](http://serp.ly/sudowrite)
 
-![](/images/sudowrite-1-1024x400.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/sudowrite-1-1024x400.jpg)
 
 When the words just won't come out, Write can help!
 
@@ -71,7 +71,7 @@ It has the best algorithms for assisting you in writing a novel if you need to w
 
 ## 2\. [Rytr.ai](http://serp.ly/rytr)
 
-![](/images/rytr.ai-tool-for-novels-1024x544.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/rytr.ai-tool-for-novels-1024x544.jpg)
 
 Ryter.ai is a piece of AI writing software that can help you write novels and more. Even though I find the spelling repulsive, the tool is useful! It has a free edition, which I enjoy, and it includes a fully functional document editor.
 
@@ -86,7 +86,7 @@ By producing material from our enormous library of over 2,000 ideas, you may dis
 
 From blogs to emails to ad copy, auto-generate snappy, creative, and high-converting pieces in popular tones and languages in just a few seconds. Simply select a use case, insert some context, and your copy is ready!
 
-![](/images/rytrai-awards-1024x480.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/rytrai-awards-1024x480.png)
 
 Use a powerful, rich-text editor to quickly transform your thoughts into a finished post — it only takes about 15 minutes to compose a 1,000-word piece! Before hitting the submit button, reword, shorten, and do much more to improve the content quality.
 
@@ -94,7 +94,7 @@ Use a powerful, rich-text editor to quickly transform your thoughts into a finis
 
 ## 3\. [Jasper AI](http://serp.ly/jasper)
 
-![](/images/jasper-ai.01-1024x581.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/jasper-ai.01-1024x581.jpg)
 
 There's alot that Jasper aka Jarvis aka Jefferson can do - after all its been around the longest and is super funded. Let's take a look:
 

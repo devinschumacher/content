@@ -1,7 +1,7 @@
 ---
 slug: /reviews/ever-webinar/
 title: "Ever Webinar Review"
-date: "2022-11-01"
+date: "2022-11-01T12:00:00.000Z"
 category: Reviews
 
 tags: 

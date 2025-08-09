@@ -1,7 +1,7 @@
 ---
 slug: /pr-seo/
 title: "PR & SEO"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 categories: 
   - "marketing"
   - "seo"
@@ -41,7 +41,7 @@ In the digital marketing world, we like these benefits as well.
 
 However, there is something even more powerful PR can be used for. That something is SEO, specifically link building, to increase website authority (domain rating). 
 
-[![](/images/seo-screenshot-for-domain-rating-1024x383.png)](https://devinschumacher.com/wp-content/uploads/2019/08/SEO-screenshot-for-domain-rating.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seo-screenshot-for-domain-rating-1024x383.png)
 
 ## How PR Helps Generate Maximum SEO Impact
 
@@ -53,7 +53,7 @@ Public relation agencies work very hard to get their clients mentioned in the pr
 
 Popular publications will write about your business whenever you send a press release. They will link it to your website, which automatically gives a free backlink to your website.
 
-![](/images/how-outbound-linking-works-to-help-seo-1024x664.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-outbound-linking-works-to-help-seo-1024x664.png)
 
 Aside from that, you will also get the chance to receive brand recognition, which in turn, will boost your brand authority. You can even dedicate an exclusive “As Seen On” section in your website to feature all the publications who wrote a story about you.
 
@@ -97,7 +97,7 @@ To have a successful PR strategy, you must understand your market and position y
 
 **The biggest takeaway for all of marketing (and of course your PR and SEO strategy) is this**: _Understand your buyer, find out where what channels/platforms they are giving their attention to & become omnipresent on those channels/platforms._
 
-![](/images/digital-marketing-allows-you-to-target-your-perfect-audience-1018x1024.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/digital-marketing-allows-you-to-target-your-perfect-audience-1018x1024.png)
 
 If you do this, you will succeed in growing your brand authority in the eyes of the consumer (the traditional goal of PR).
 
@@ -109,7 +109,7 @@ Once you find these websites, you can implement these four tactics to an effecti
 
 **Warning**: This is where the article starts to deviate a bit. You are now crossing over from using REAL PR for SEO, to using SEO PR for SEO (not the same as hiring a publicist or PR company)
 
-[![](/images/twilight-zone.jpg)](https://devinschumacher.com/wp-content/uploads/2022/08/twilight-zone.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/twilight-zone.jpg)
 
 There are several PR websites you can join that will connect you with blogs and journalists. The benefit is additional exposure for cheap, and you don't even have to write content – starting to sound like "SEO" now huh? "SEO" aka little hacks for lazy people who want results.
 
@@ -141,7 +141,7 @@ It is a win-win scenario. The blog gets a free quality content written for them,
 
 There are websites who may write about your brand without you even knowing it. You can take this opportunity to build more links to your website. Be notified whenever you are mentioned by setting up a Google Alert.
 
-[![](/images/screen-shot-2019-08-10-at-12.57.42-pm-1024x303.png)](https://devinschumacher.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-10-at-12.57.42-PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-08-10-at-12.57.42-pm-1024x303.png)
 
 Reach out to the publications who mentioned you and send a thank you email. In this thank you email, also ask them to link the article back to your website. They will most likely appreciate you reaching out to them.
 
@@ -153,11 +153,11 @@ Ever heard the saying "build a better mousetrap"? Kind of the same thing.
 
 1. **Find the content that your competitors are getting their traffic from:**
 
-[![](/images/skyscraper-content-for-seo-and-backlinks-1024x643.png)](https://devinschumacher.com/wp-content/uploads/2019/08/skyscraper-content-for-seo-and-backlinks.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/skyscraper-content-for-seo-and-backlinks-1024x643.png)
 
 2\. Find out who is linking to that type of content already (let's say for this example we are talking about a piece of content about "search engine optimization for lawyers"
 
-[![](/images/how-to-seo-and-pr-1024x592.png)](https://devinschumacher.com/wp-content/uploads/2019/08/how-to-seo-and-pr-.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-to-seo-and-pr-1024x592.png)
 
 3\. Read all of their content and make a more comprehensive & authoritative piece.
 

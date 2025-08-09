@@ -1,7 +1,7 @@
 ---
 slug: /reviews/startlogic/
 title: "StartLogic Review"
-date: "2022-10-07"
+date: "2022-10-07T12:00:00.000Z"
 category: Reviews
 tags: ["Hosting"]
 ---
@@ -87,13 +87,13 @@ Here's a markdown table outlining the various plans and pricing available from S
 
 They previously offered several hosting packages like shared, Virtual Private Server or VPS hosting, and dedicated hosting. Right now, they focus on one hosting plan and pack it with features ranging from website building, SEO, security, and many more.
 
-![](/images/This image has an empty alt attribute; its file name is 19615d6d-1f89-4431-84f4-699d452187c2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 19615d6d-1f89-4431-84f4-699d452187c2.png)
 
 ## Getting Started with StartLogic
 
 Opening the StartLogic page for the first time, I was greeted by a page where you can see the features of their web hosting plan, a domain name registration box, and features of their site builder.
 
-![](/images/This image has an empty alt attribute; its file name is 901cfc5b-cd0f-45f8-b287-d2a5e8e5b825.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 901cfc5b-cd0f-45f8-b287-d2a5e8e5b825.png)
 
 While browsing the StartLogic page, I noticed that they only offer a single shared web hosting plan called StartLogic Pro. Many other hosting companies offer more hosting options than StartLogic is currently offering. Startlogic Pro costs $59.88 for one year, $83.76 for two years, and $99 for three years of hosting package. The regular rate is $5.50 per month. For this StartLogic review, I have no other choice but to try the Pro plan.
 
@@ -101,21 +101,21 @@ This plan comes with a free domain name, free email address, free marketing tool
 
 To get started, I clicked the button that said: "Build Your Website Now!".
 
-![](/images/This image has an empty alt attribute; its file name is bd1d64e1-5912-4b94-b593-61e71e37a628.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is bd1d64e1-5912-4b94-b593-61e71e37a628.png)
 
 I chose to register a new domain name, but an option to transfer an existing domain name from other domain registrars is also available. After checking my domain name's availability, I fill in the registration page asking for the contact information, payment information, and purchase information. Payment method options are credit cards or PayPal. For credit cards, input the card number, security code, expiration month, and year.
 
-![](/images/This image has an empty alt attribute; its file name is 4cf2e522-9499-440b-8647-9f8a15cffdd0.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 4cf2e522-9499-440b-8647-9f8a15cffdd0.png)
 
 I selected my preferred billing cycle in the purchase information box and added a Domain Privacy + Protection that costs $9.99 per year. This add-on will protect the customers' identity from unwanted exposures that could lead to identity theft, spam, stalkers, etc.
 
 Choosing a more extended billing period could save you a lot since the monthly cost is cheaper. Instant activation is already included in your plan with no setup fee. This plan also comes with a free SSL certificate from Let's Encrypt SSL.
 
-![](/images/This image has an empty alt attribute; its file name is 43de877d-fd40-4c4e-b777-0a65da0b108c.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 43de877d-fd40-4c4e-b777-0a65da0b108c.png)
 
 Another essential part of the sign-up process is the add-ons that StartLogic offers. It is dubbed as website essentials and includes WordPress Optimization, Website Builder, Website Security, Google Workspace, and SiteBackup and Restore.
 
-![](/images/This image has an empty alt attribute; its file name is 6fe012a9-5ea7-4531-ae4e-5b3ba337807c.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 6fe012a9-5ea7-4531-ae4e-5b3ba337807c.png)
 
 Overall, my total cost amounts to $233.65 for a three-year hosting duration—quite a leap from the $2.75 that the [StartLogic](https://serp.ly/startlogic) page advertized. A welcome message was sent to my email address after the confirmation and validation of my payment.
 
@@ -123,7 +123,7 @@ Overall, my total cost amounts to $233.65 for a three-year hosting duration—qu
 
 To manage your website and hosting account, you need to log into your StartLogic dashboard.
 
-![](/images/This image has an empty alt attribute; its file name is a49ec228-f5a2-43fe-aa4b-51bd29f27a82.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is a49ec228-f5a2-43fe-aa4b-51bd29f27a82.png)
 
 The StartLogic dashboard has a pretty clean and straightforward interface. It has the following tabs:
 
@@ -131,7 +131,7 @@ Domain Tab
 
 This tab displays all active and expired domains. It shows the name, expiration date, privacy, renewal status, webmail access, and setting. On this page, buttons to purchase domain and import domain are also available. Clicking the Manage button of the domain name will open the page that shows the domain settings, information, privacy and information, email accounts, and many more.
 
-![](/images/This image has an empty alt attribute; its file name is 233d17e0-b719-428a-95be-720f389907d2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 233d17e0-b719-428a-95be-720f389907d2.png)
 
 Hosting Tab
 
@@ -143,7 +143,7 @@ Business Tab
 
 The tab can be used to manage the website summary, logo maker, business phone, Google Workspace, and SEO Solutions.
 
-![](/images/This image has an empty alt attribute; its file name is 6db28bad-815c-4e0a-94c6-06a494366943.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 6db28bad-815c-4e0a-94c6-06a494366943.png)
 
 ## StartLogic Control Panel
 
@@ -155,25 +155,25 @@ Account Settings Tab
 
 The page lets you edit your contact information, personal site profile, current plan, notification settings, and many more.
 
-![](/images/This image has an empty alt attribute; its file name is 635c0c33-2697-4b14-96bc-1d2cfdbfe37a.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 635c0c33-2697-4b14-96bc-1d2cfdbfe37a.png)
 
 Billings Tab
 
 The page displays your billing information, invoices, receipts, payment methods, upcoming payments, and many more.
 
-![](/images/This image has an empty alt attribute; its file name is 5895b691-81ad-4b9b-bd0e-dd30886722aa.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 5895b691-81ad-4b9b-bd0e-dd30886722aa.png)
 
 File Manager
 
 The page is where you can organize and manage website files. It can be accessed through the hosting tab from the foundation dashboard.
 
-![](/images/This image has an empty alt attribute; its file name is 6206bde9-8839-4788-a381-a01dd3897815.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 6206bde9-8839-4788-a381-a01dd3897815.png)
 
 WordPress
 
 The page is where you can build and manage your WordPress site. You can access this by clicking the domain of your website from the Startlogic dashboard.
 
-![](/images/This image has an empty alt attribute; its file name is 7905375f-be5f-4fdc-b205-0b2b52b29a1e.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 7905375f-be5f-4fdc-b205-0b2b52b29a1e.png)
 
 MojoMarketplace
 
@@ -183,13 +183,13 @@ MySQL Database
 
 This page is where you can manage your database. You can create, edit, delete, import, or restore the database using MyPHPAdmin.
 
-![](/images/This image has an empty alt attribute; its file name is a9a7300b-aa9c-40ca-b336-c14d0151b7fa.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is a9a7300b-aa9c-40ca-b336-c14d0151b7fa.png)
 
 SEO Solutions
 
 This tab contains tools that can help you manage and monitor your SEO ranking. It can be used to scan the SEO content score to check whether the changes made are effective or not.
 
-![](/images/This image has an empty alt attribute; its file name is 826210e9-935a-4f80-ba36-de363d69224b.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 826210e9-935a-4f80-ba36-de363d69224b.png)
 
 Spam Filter
 
@@ -199,7 +199,7 @@ Google My Business
 
 The tab is for managing the Google Ads account associated with the website.
 
-![](/images/This image has an empty alt attribute; its file name is 490a7d02-916d-4f3a-9b27-e737f48a7a4a.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 490a7d02-916d-4f3a-9b27-e737f48a7a4a.png)
 
 Microsoft Advertising - for managing the Microsoft Advertising account associated with the website
 
@@ -247,19 +247,19 @@ Features include the following:
 
 StartLogic WebsiteBuilder can be accessed through the Domain's Tab. The first thing you need to do is to select a category and name your site.
 
-![](/images/This image has an empty alt attribute; its file name is 3205352b-ff7d-4d1b-8860-916f2260dbf7.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 3205352b-ff7d-4d1b-8860-916f2260dbf7.png)
 
 Next is to select a cover image from hundreds of Stock photos or upload your own.
 
-![](/images/This image has an empty alt attribute; its file name is eeebcbb7-3b9b-4994-8f00-71d2aa740c31.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is eeebcbb7-3b9b-4994-8f00-71d2aa740c31.png)
 
 Once done, you can then pick a theme and color palette. The next task will be choosing a navigation style and fonts, then inputting the contact information and location.
 
-![](/images/This image has an empty alt attribute; its file name is 0f12385b-94a7-4c4f-bd66-b987a16968c7.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 0f12385b-94a7-4c4f-bd66-b987a16968c7.png)
 
 That's it! Your website is almost finished. No coding is needed! The good thing is, you can still edit and customize it the way you want before publishing it online. You can add images, videos, and blogs, change themes, layouts, and many more. Many tools and features are available to help you build a site that resonates with your goal. It could be for a personal blog, online store, organization, and many more.
 
-![](/images/This image has an empty alt attribute; its file name is fc7b3490-bd1c-40f9-8ddd-c1e29fdb3397.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is fc7b3490-bd1c-40f9-8ddd-c1e29fdb3397.png)
 
 ## StartLogic WordPress Themes
 
@@ -269,25 +269,25 @@ The WordPress themes and plugins determine the website functions and how site vi
 
 Highend
 
-![](/images/This image has an empty alt attribute; its file name is ef4f37fa-574f-482d-acd8-8594e6de1011.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is ef4f37fa-574f-482d-acd8-8594e6de1011.png)
 
 Creativo
 
-![](/images/This image has an empty alt attribute; its file name is 83464ff3-fd14-461e-ac4b-7d66da7d9275.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 83464ff3-fd14-461e-ac4b-7d66da7d9275.png)
 
 Ashe
 
-![](/images/This image has an empty alt attribute; its file name is 21f6d3c1-f07a-4ae7-b0e3-c88f4505581f.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 21f6d3c1-f07a-4ae7-b0e3-c88f4505581f.png)
 
 Astra
 
-![](/images/This image has an empty alt attribute; its file name is 1ceb6e2f-67ea-4a7b-b79d-3504e83f0d63.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 1ceb6e2f-67ea-4a7b-b79d-3504e83f0d63.png)
 
 You can also find StartLogic's [recommended plugins](https://www.serp.ly/startlogic/) from their knowledge base.
 
 ## StartLogic Apps Installer
 
-![](/images/This image has an empty alt attribute; its file name is ea262878-6b12-4b7e-a23a-289bbe0daf57.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is ea262878-6b12-4b7e-a23a-289bbe0daf57.png)
 
 StartLogic uses Mojo Marketplace as its official app installer. It offers easy and quick app installation and is compatible with any browser. Apps include WordPress, Drupal, AgoraCart, Joomla, and many more. It has apps intended for the following categories:
 
@@ -327,11 +327,11 @@ While browsing the StartLogic website, I encountered problems finding some infor
 
 The response to the first question was pretty quick, but they never answered my other questions until such time that the chat closed due to inactivity. I opened another chat to ask the same question, and the same thing happened. Some of the answers I got from the live chat are inconsistent with what is on their website.
 
-![](/images/This image has an empty alt attribute; its file name is e13fa098-7d33-4f0b-a5dc-2b404941daed.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is e13fa098-7d33-4f0b-a5dc-2b404941daed.png)
 
 Aside from the live chat support, they also support phone and email help. I also checked the articles from their knowledge base to see if I could find answers to my queries, but it turned out to be just as confusing. Some of the articles are not updated, while others lack enough information to explain things, especially on the list of hosting services that they offered.
 
-![](/images/This image has an empty alt attribute; its file name is 399e9156-ac02-4dd4-a76d-25d35a0f865b.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 399e9156-ac02-4dd4-a76d-25d35a0f865b.png)
 
 In conclusion, my experience with the Startlogic support is not as good as my experience with other hosting providers.
 
@@ -455,7 +455,7 @@ Toll-Free Phone Line
 
 WebsiteBuilder Express helps you create amazing websites with lots of free themes and plugins.
 
-![](/images/This image has an empty alt attribute; its file name is 17a415e4-38ee-4ded-a41f-2815105f13a2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 17a415e4-38ee-4ded-a41f-2815105f13a2.png)
 
 Business
 
@@ -503,7 +503,7 @@ WP Essentials
 
 SEO SOLUTIONS is a tool that helps business owners grow their online business. It will help optimize the website and provide personalized reports to increase site traffic and enhance your Google ranking.
 
-![](/images/This image has an empty alt attribute; its file name is d20a2fca-fda6-40b8-b41a-d0c6d67c1345.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is d20a2fca-fda6-40b8-b41a-d0c6d67c1345.png)
 
 ## Security and Backups
 

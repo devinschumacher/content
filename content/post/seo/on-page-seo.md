@@ -1,6 +1,6 @@
 ---
 title: "on page seo"
-date: "2022-09-07"
+date: "2022-09-07T12:00:00.000Z"
 slug: "on-page-seo"
 ---
 
@@ -282,7 +282,7 @@ When you geotag an image or video, you are giving search engines very specific i
 
 "Pet stores in Manhattan" for example.
 
-[![](/images/image-9.png)](https://devinschumacher.com/wp-content/uploads/2022/09/image-9.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-9.png)
 
 When you geotag webpages and content, you are giving search engines more and more information. The more information you give them, the better.
 
@@ -428,7 +428,7 @@ In recent times however, search engines have evolved to reward websites with res
 
 The infamous 2015 "[Mobilegeddon](https://webmasters.googleblog.com/2015/04/rolling-out-mobile-friendly-update.html)" Google update prioritized webpages with optimal mobile design, giving them priority positioning on mobile SERPs.
 
-[![](/images/word-image-83.png)](https://devinschumacher.com/wp-content/uploads/2022/09/word-image-83.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/word-image-83.png)
 
 The focus on mobile has only gotten more dramatic since then.
 
@@ -442,13 +442,13 @@ Responsive design is commonplace, a necessity going into the future. It is essen
 
 URL stands for Uniform Resource Locator. It is also known as the website address. It is located in the top left corner of internet browsers.
 
-[![](/images/image-8.png)](https://devinschumacher.com/wp-content/uploads/2022/09/image-8.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-8.png)
 
 **There are 4 main parts to a URL.**
 
 <figure>
 
-[![url structure for seo](/images/seo-url.jpg)](https://devinschumacher.com/wp-content/uploads/2022/09/seo-url.jpg)
+![url structure for seo](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seo-url.jpg)
 
 <figcaption>
 
@@ -524,7 +524,7 @@ Duplicate content is content that is a copy, or similar to other content on the 
 
 <figure>
 
-[![Image result for duplicate content](/images/duplicate-content-1.png)](https://devinschumacher.com/wp-content/uploads/2022/09/duplicate-content-1.png)
+![Image result for duplicate content](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/duplicate-content-1.png)
 
 <figcaption>
 

@@ -1,7 +1,7 @@
 ---
 slug: /reviews/freehostia/
 title: "Freehostia Review"
-date: "2022-10-07"
+date: "2022-10-07T12:00:00.000Z"
 category: Reviews
 tags: ["Hosting"]
 ---
@@ -14,7 +14,7 @@ It promises to make website hosting accessible to each and every one with its in
 
 ## Overview
 
-![](/images/image-5.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-5.png)
 
 Freehostia is a web hosting firm that provides individuals and small businesses with hosting services for no cost or at significantly reduced rates. Freehostia is a web hosting company that was established in 2005 and offers a variety of hosting services, such as shared hosting, VPS hosting, and dedicated servers.
 
@@ -98,35 +98,35 @@ In general, Freehostia is an excellent choice for everyone looking for an econom
 
 5. Simply select the "Sign Up Now for Free" option from the drop-down menu.
 
-![](/images/image-12-1024x480.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-12-1024x480.png)
 
 4. Make your selections for your plan, plan term, data center, script, and hosted domain (if there is an existing one from an external source). 
 
 Pick the "Chocolate" plan if you want the free one.
 
-![](/images/image-9-1024x480.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-9-1024x480.png)
 
 5. If you want to get a new domain, you should input one, and then click the "Search Domain" button. Choose one from the options presented in the list. After everything is finished, click the "Continue" button.
 
-![](/images/image-7-1024x450.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-7-1024x450.png)
 
 6. Enter the details about your nation, company, name, email address, phone number, and address.
 
-![](/images/image-8-1024x545.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-8-1024x545.png)
 
 7. Please scroll down to the bottom of the page and indicate by checking one of the boxes that you agree to the terms and conditions. In the end, you need to click the "Continue" button.
 
-![](/images/image-10-1024x557.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-10-1024x557.png)
 
 8. After entering your password, make sure to click the "Set Password" button.
 
-![](/images/image-6.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-6.png)
 
 9. Launch your Gmail client and validate your email address by clicking the verification link that was emailed to you by FreeHostia.
 
 11. FreeHostia is now able to provide you with website hosting in addition to customization options.
 
-![](/images/image-11-1024x464.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-11-1024x464.png)
 
 ## Domain Names
 

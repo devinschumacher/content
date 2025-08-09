@@ -1,6 +1,6 @@
 ---
 title: "off page seo"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "off-page-seo"
 ---
 
@@ -32,11 +32,11 @@ Backlinks are hyperlinks that are not located on your website, but that do point
 
 For example, if another website is talking about your brand and puts those clickable words that take a user to your website, that would be a backlink.
 
-![](/images/backlinks.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/backlinks.png)
 
 If the link is located on a website and goes to another page on that same website, [like this one pointing to our homepage](https://devinschumacher.com/home), that would be an interlink.
 
-![](/images/internallink.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/internallink.png)
 
 #### Backlink Properties
 
@@ -57,7 +57,7 @@ The more links you have from other unique websites (aka, number of referring dom
 
 There is a direct correlation between number of referring domains & how well your website performs in search.
 
-[![](/images/referring-domains-vs-keyword-rankings-ahrefs-content-explorer.png)](https://devinschumacher.com/wp-content/uploads/2022/08/referring-domains-vs-keyword-rankings-ahrefs-content-explorer.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/referring-domains-vs-keyword-rankings-ahrefs-content-explorer.png)
 
 ##### Authority
 
@@ -65,7 +65,7 @@ Authority is sometimes called "power" or "link juice", and not all links pack th
 
 Backlinks from websites with a higher overall domain authority (DR), and pages with a higher page authority (UR) will push more power/authority to your website than backlinks from weaker domains and/or weaker pages.
 
-[![](/images/how-pagerank-works.png)](https://devinschumacher.com/wp-content/uploads/2022/08/how-pagerank-works.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-pagerank-works.png)
 
 A common misconception I see all the time (seriously almost daily) in SEO is people preaching to avoid links from websites with Low DR. This is terrible advice.
 
@@ -91,7 +91,7 @@ Incoming relevance can be found in the Anchor Text, Page Title, Root Domain, and
 
 Take a look at this example. We are a website about Marketing & SEO - which backlink do you think is giving us more SEO power, based on its RELEVANCE?
 
-[![](/images/screen_shot_2019-10-09_at_3_11_32_pm-1024x90-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen_Shot_2019-10-09_at_3_11_32_PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-09_at_3_11_32_pm-1024x90-1.png)
 
 Definitely #2. Why? Because we have topically relevant keywords in the Referring Domain's: Root Domain, Page Title & Anchor Text.
 
@@ -101,13 +101,13 @@ The anchor text of a link is simply that "clickable" part of the text that when 
 
 For the user, its the clickable words.
 
-[SERP Co](https://staging-devinschumacher.kinsta.cloud)
+[SERP Co](https://devinschumacher.com)
 
 For a search engine, its the part below between the > < signs. I also made it **bold** for you to see more easily:
 
-<a href="https://staging-devinschumacher.kinsta.cloud">**SERP Co**</a>
+<a href="https://devinschumacher.com">**SERP Co**</a>
 
-![](/images/links-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/links-1.png)
 
 Knowing how to control & plan your links by Anchor Text is one of the most powerful ways to outrank competitors, and should be a primary focus of yours for off-page seo.
 
@@ -143,7 +143,7 @@ You can use Ahrefs to see how much traffic a website is getting to help you dete
 
 **Pro Tip**: If you are prospecting specific websites for links, look at their "Top Pages" to see what is getting alot of traffic, and focus your efforts on getting links there
 
-[![](/images/traffic-to-links-is-a-good-off-page-seo-factor-1024x542-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/traffic-to-links-is-a-good-off-page-seo-factor.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/traffic-to-links-is-a-good-off-page-seo-factor-1024x542-1.png)
 
 ### Mentions
 
@@ -156,7 +156,7 @@ Unlinked mentions are quite literally "mentions" of your website or brand name o
 
 Here is an example of a paragraph I pulled off a Forbes article with a bunch of unlinked brand mentions, can you spot them all?
 
-[![](/images/unlinked_brand_mentions_are_an_off_page_seo_factor.png)](https://devinschumacher.com/wp-content/uploads/2022/08/unlinked_brand_mentions_are_an_off_page_seo_factor.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/unlinked_brand_mentions_are_an_off_page_seo_factor.png)
 
 Technically, for personal brands, all of those people could be considered brand mentions as well.
 
@@ -199,7 +199,7 @@ Not just the stars/rating - but also the review text. Google reads the keywords 
 
 In this image you can see Google pulling reviews from Facebook & Foursquare and putting them into their knowledge panel.
 
-[![](/images/screen-shot-2019-10-09-at-4.26.41-pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-09-at-4.26.41-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-09-at-4.26.41-pm.png)
 
 **Pro Tip**: Get reviews with local & industry based keywords in them.
 
@@ -218,7 +218,7 @@ If people are actually searching for your brand name - that is a huge trust fact
 
 In fact, a lot of major companies get a majority of their search volume from people looking up their brand term.
 
-[![](/images/brand-terms-help-off-page-seo-optimization-1024x976-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/brand-terms-help-off-page-seo-optimization.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/brand-terms-help-off-page-seo-optimization-1024x976-1.png)
 
 #### Social Signals
 

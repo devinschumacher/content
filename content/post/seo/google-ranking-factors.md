@@ -1,6 +1,6 @@
 ---
 title: "google ranking factors"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "google-ranking-factors"
 ---
 
@@ -12,9 +12,9 @@ However, it's not that simple.
 
 Google doesn't just give away the recipe to their secret sauce - you have to know where & how to find them.
 
-So, to save you years of trouble, we have compiled a list of Google's top ranking factors - the things you'll want to focus on during your search engine optimization journey to the Holy Grail of SEO - #1 in the [SERP](https://staging-devinschumacher.kinsta.cloud)s (Search Engine Results Page).
+So, to save you years of trouble, we have compiled a list of Google's top ranking factors - the things you'll want to focus on during your search engine optimization journey to the Holy Grail of SEO - #1 in the [SERP](https://devinschumacher.com)s (Search Engine Results Page).
 
-[![](/images/download-11.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/download-11.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-11.gif)
 
 **These ranking factors come from:**
 
@@ -63,7 +63,7 @@ These factors, the top 10 things to focus on for maximum SEO impact with limited
 
 Years of testing, experimentation, and research.
 
-[![](/images/download-10.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/download-10.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-10.gif)
 
 If you have ever heard of [the Pareto Principle (aka the 80/20 rule)](https://en.wikipedia.org/wiki/Pareto_principle) you will understand that focusing on these top ranking factors will yield the biggest bang for your buck in SEO.
 
@@ -71,7 +71,7 @@ If you have ever heard of [the Pareto Principle (aka the 80/20 rule)](https://en
 
 The quantity & quality of referring domains (aka other websites) that link to your domain (aka website) without rel="nofollow", rel="ugc", rel="sponsored".
 
-[![](/images/rdd-definition-1024x205-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/RDD-definition.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/rdd-definition-1024x205-1.png)
 
 ### 2\. Referring Domains to your Page (RDP)
 
@@ -79,7 +79,7 @@ The quantity & quality of referring domains (aka other websites) that link to yo
 
 Getting links directly to a specific URL/page is an excellent way to boost the [keyword rankings](https://devinschumacher.com/keyword-rank-tracking-tools/) that page is indexing for.
 
-[![](/images/referring_domains_to_page-url-1024x306-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/referring_domains_to_page-url.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/referring_domains_to_page-url-1024x306-1.png)
 
 ### 3\. Keyword in Domain
 
@@ -100,7 +100,7 @@ If you can't get the keyword in your domain name (understandable) then having it
 
 For example, if your business name is SERP Co but you want to rank for "[digital marketing for dummies](https://devinschumacher.com/digital-marketing-for-dummies/)" it would be best to create an inner page on your website that is all about that topic:
 
-[![](/images/digital_marketing_for_dummies-1024x611-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/digital_marketing_for_dummies.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/digital_marketing_for_dummies-1024x611-1.png)
 
 ### 5\. Keyword in Title
 
@@ -114,7 +114,7 @@ Get your keyword(s) in the Title of your page.
 
 For example, our article about [branding for lawyers](https://devinschumacher.com/law-firm-branding/):
 
-[![](/images/branding-for-lawyers-screenshot.png)](https://devinschumacher.com/wp-content/uploads/2022/08/branding-for-lawyers-screenshot.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/branding-for-lawyers-screenshot.png)
 
 We like to lead with the title, and then add additional terms that are either designed to make the page title more enticing to click on, or we use keyword variations to give additional assurance to Googlebot that it is, in fact, in the right place.
 
@@ -124,13 +124,13 @@ One of the major ways Google understand & establishes relevance/credibility of a
 
 Getting links to a page about Topic A from other **domains** that are all about Topic A help solidify that you are in fact relevant for that Topic.
 
-[![](/images/referring-domains-example-1024x444-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/referring-domains-example.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/referring-domains-example-1024x444-1.png)
 
 ### 7\. Topical / Keyword Relevance of Entire Site (Page Relevance Matching)
 
 Now that you understand that getting links from **domains** that are all about Topic A to your page about Topic A is important, it is also important to get links from **pages** that are all about Topic A.
 
-[![](/images/relevance-matching-1024x539-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/relevance-matching.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/relevance-matching-1024x539-1.png)
 
 Your goal should be to match the relevance from incoming link to link destination.
 
@@ -146,7 +146,7 @@ At our agency, we plan all our content beforehand - finding keyword variations (
 
 It looks a bit like this:
 
-[![](/images/serp-co-seo-content-strategy-1024x417-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/serp-co-seo-content-strategy.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/serp-co-seo-content-strategy-1024x417-1.png)
 
 ### 7\. Content Quality & Length
 
@@ -182,7 +182,7 @@ An important factor that people miss.
 4. The length of time other websites have been competing for that term.
 5. etc.
 
-![](/images/google-ranking-factors-featured-image-1.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-ranking-factors-featured-image-1.jpg)
 
 ## The Full List Google Ranking Factors
 
@@ -190,7 +190,7 @@ Google's ranking algorithm is gigantic. And over the years has only continue to 
 
 If you search for "google ranking factors" you will see articles with 200+ factors, 500+ factors, and even a software that claims to track over 880 factors:
 
-[![](/images/cora-seo-software-ranking-factors-1024x579-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/cora-seo-software-ranking-factors.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/cora-seo-software-ranking-factors-1024x579-1.png)
 
 So, as the algorithm grows & as we continue to uncover additional ranking factors we will continue to add/update this list.
 
@@ -220,7 +220,7 @@ https://www.youtube.com/watch?v=C-EdhaMDXho
 
 - **Domain Registration Length**: According to [Google Patent Application #60507617](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.html&r=1&f=G&l=50&s1=%2220050071741%22.PGNR.&OS=DN/20050071741&RS=DN/20050071741) states the following:
 
-[![](/images/google-ranking-favtor-domain-registration-length-1024x57-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/google-ranking-favtor-domain-registration-length.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-ranking-favtor-domain-registration-length-1024x57-1.png)
 
 - **Keyword in Domain**: This is a huge benefit to ranking for that keyword. Covered above [here](#keyword-in-domain).
 
@@ -240,13 +240,13 @@ https://www.youtube.com/watch?v=C-EdhaMDXho
 
 - **Affiliate Links**: Affiliate links are fine. Sites built entirely around affiliate commissions are subject to being suspect by Google. Why? Because the entire purpose is to make money - so it stands to reason that the site owner potentially doesn't have the users best interest in mind.
 
-[![](/images/affiliate-links-as-a-ranking-favctor-1024x821-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/affiliate-links-as-a-ranking-favctor.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/affiliate-links-as-a-ranking-favctor-1024x821-1.png)
 
 - **AMP**: AMP (Accelerated Mobile Pages) load faster & are easier to access via mobile devices than non AMP pages. A clear signal that AMP would be preferred over non-AMP pages, considering Google's interest in mobile.
 
 - **Broken Links**: Broken links on a page, or throughout a website, can be a sign that the webmaster has neglected, or abandoned, a website; and that it may no longer be trustworthy.
 
-[![](/images/screen-shot-2019-09-13-at-9.22.20-pm-1024x159-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-13-at-9.22.20-PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-09-13-at-9.22.20-pm-1024x159-1.png)
 
 - **Bullets and Numbered Lists**: Bullet & numbered (aka ordered & un-ordered lists) help with readability. If not a direct ranking factor, it is an indirect one because people will stay on your page longer (which definitely helps).
 
@@ -254,7 +254,7 @@ https://www.youtube.com/watch?v=C-EdhaMDXho
 
 <figure>
 
-![](/images/02_content-total-word-count_line-1024x705-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/02_content-total-word-count_line-1024x705-1.png)
 
 <figcaption>
 
@@ -294,11 +294,11 @@ https://www.youtube.com/watch?v=C-EdhaMDXho
 
 - **Keyword in Meta Description**: When you google something you will see keywords in the meta description being bolded, so we take that as a legitimate signal that Google is reading meta descriptions and placing importance. Another sign, is that Google sometimes re-writes meta descriptions (meaning that they want to exert control) thus showing their hand a little that meta description carries some weight. We prefer to use it for sales copy to get the user to click on the results more-so than as a place to put keywords for Googlebot.
 
-[![](/images/meta-description-as-a-ranking-factor.png)](https://devinschumacher.com/wp-content/uploads/2022/08/meta-description-as-a-ranking-factor.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/meta-description-as-a-ranking-factor.png)
 
 - **Keyword in Meta Content**: This used to be a place for [SEOs to stuff keywords](https://devinschumacher.com/seo-keywords/) in and snatch up rankings, but as of 2009 Google's official stance on the meta description area is that it no longer affects rankings. [Source](https://webmasters.googleblog.com/2009/09/google-does-not-use-keywords-meta-tag.html):
 
-[![](/images/is-meta-description-a-ranking-factor-300x147-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/is-meta-description-a-ranking-factor.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/is-meta-description-a-ranking-factor-300x147-1.png)
 
 - **Keyword in Title**: This is one of our Top 10 ranking factors.. Keyword in Title is a huge signal to Google. Utilize it.
 
@@ -312,7 +312,7 @@ https://www.youtube.com/watch?v=C-EdhaMDXho
 
 - **Keyword Prominence (Title)**: Keyword prominence in the Title means that it is the first word(s) of the h1 tag. This is a strategy you will probably notice that we use when publishing content. For example, our article about [digital marketing certifications](https://devinschumacher.com/digital-marketing-certifications/).
 
-[![](/images/digital-marketing-ideas-article-showing-article-title-strategies.png)](https://devinschumacher.com/wp-content/uploads/2022/08/digital-marketing-ideas-article-showing-article-title-strategies.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/digital-marketing-ideas-article-showing-article-title-strategies.png)
 
 - **Keyword in Outbound Link Anchor Text**: For a long time SEOs have believed (and practiced) that outbound links to authoritative domains helped your SEO. This is the next step of that thought process, that the outbound links anchor text will add additional relevance.
 
@@ -344,7 +344,7 @@ https://www.youtube.com/watch?v=C-EdhaMDXho
 
 <figure>
 
-[![](/images/content-in-depth-1418x976-1024x705-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/content-in-depth-1418x976.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/content-in-depth-1418x976-1024x705-1.png)
 
 <figcaption>
 
@@ -354,11 +354,11 @@ https://www.youtube.com/watch?v=C-EdhaMDXho
 
 </figure>
 
-- **Page Load Speed**: Page Load speed drastically affects user satisfaction with a website, and so Google places a high importance on this ranking factor. So much so, that they even created a [PageSpeed Tool](https://developers.google.com/speed/pagespeed/insights/?url=staging-devinschumacher.kinsta.cloud) that will help you understand & optimize your page speed.
+- **Page Load Speed**: Page Load speed drastically affects user satisfaction with a website, and so Google places a high importance on this ranking factor. So much so, that they even created a [PageSpeed Tool](https://developers.google.com/speed/pagespeed/insights/?url=devinschumacher.com) that will help you understand & optimize your page speed.
 
 <figure>
 
-[![](/images/screen-shot-2019-09-14-at-4.46.41-pm-1024x521-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-14-at-4.46.41-PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-09-14-at-4.46.41-pm-1024x521-1.png)
 
 <figcaption>
 
@@ -380,7 +380,7 @@ https://youtu.be/PvNnPd76xSU?t=1123
 
 - **Readability Score**: In addition to reading level, there is readability score. This effectively determines the amount of energy needed to read a post, and could very well be a ranking factor. For example, it would not be too difficult for Google to know that a medical journal should have a higher readability score than a post about ant farms.
 
-[![](/images/readability-as-a-ranking-factor.png)](https://devinschumacher.com/wp-content/uploads/2022/08/readability-as-a-ranking-factor.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/readability-as-a-ranking-factor.png)
 
 - **References and Source**: Citing your work with references/sources is a great way to show that the information you are quoting is credible. Good does this quite alot, so does Wikipedia. That should say something about its legitimacy.
 
@@ -394,7 +394,7 @@ https://youtu.be/PvNnPd76xSU?t=1123
 
 <figure>
 
-![](/images/tabbed-content-example.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/tabbed-content-example.gif)
 
 <figcaption>
 
@@ -408,7 +408,7 @@ An example of tabbed content
 
 - **TF-\*IDF**: TF\*IDF is a math equation made into an acronym. It's a way for search engines to tell what is on your page based on the frequency of other related terms. If you can cater to the TF\*IDF equation you can help your pages create relevance and improve your search rankings.
 
-![](/images/the-hangover-equation-gif.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/the-hangover-equation-gif.gif)
 
 - **Unique Content**: Google wants content that is unique, and brings a fresh perspective (or research/information) to its index. It doesn't need multiple websites all saying the same things - that's just clutter.
 
@@ -416,11 +416,11 @@ An example of tabbed content
 
 - **URL Length**: An Ahrefs study has confirmed that shorter URLs rank more easily. Enough said.
 
-[![](/images/ahrefs-url-length-study-1024x667-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/ahrefs-url-length-study.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/ahrefs-url-length-study-1024x667-1.png)
 
 - **URL String**: URL strings come from breadcrumbs. Google likes breadcrumbs. Google displays URL strings in SERPs. I think that is indication enough that they could be considered a legitimate ranking factor.
 
-[![](/images/an_example_of_a_url_string_in_the_serp.png)](https://devinschumacher.com/wp-content/uploads/2022/08/an_example_of_a_url_string_in_the_serp.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/an_example_of_a_url_string_in_the_serp.png)
 
 - **Ads Appearing Above the Fold**: Google does not like this. They have stated it many times. Try to avoid if possible.
 
@@ -452,7 +452,7 @@ An example of tabbed content
 
 - **SSL**: An SSL (Secure Sockets Layer) certificate is a digital certification that authenticates the identity of a website & encrypts the information that is sent to the server. Aka - an SSL certificate helps information stay safely encrypted when people interact with your website.
 
-[![](/images/ssl-as-a-ranking-factor.png)](https://devinschumacher.com/wp-content/uploads/2022/08/ssl-as-a-ranking-factor.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/ssl-as-a-ranking-factor.png)
 
 - **Website Freshness**: How often (or not often) your website is updated, or how recently it has been updated, is believed to show Google that the site is being actively cared for and helps with the freshness. This has been denied by Google.
 
@@ -504,7 +504,7 @@ https://twitter.com/JohnMu/status/971098008644407297
 
 - **Links from “Hub” Pages**: Another speculation on the Hilltop Algorithm, but one that makes sense to us. Getting a link from a page on a domain that is all about one type of resource, could "batch" you in with (or "associate you" to) other "like minded" or "relevant" websites and give you a relevance boost.
 
-[![](/images/resources-pages-as-a-google-ranking-signal-1024x722-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/resources-pages-as-a-google-ranking-signal.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/resources-pages-as-a-google-ranking-signal-1024x722-1.png)
 
 - **Links from 301**: a domain that is 301d carries all the weight of all its backlinks. If 301 a website to your website, it has alot of power - but be careful with this strategy it is easy to mess up. ProTip: make sure you match relevance everywhere.
 
@@ -560,7 +560,7 @@ https://twitter.com/JohnMu/status/971098008644407297
 
 <figure>
 
-[![](/images/pogosticking-image-1024x608-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/pogosticking-image.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/pogosticking-image-1024x608-1.png)
 
 <figcaption>
 
@@ -584,21 +584,21 @@ https://twitter.com/JohnMu/status/971098008644407297
 
 - **Authorship**: Authorship ties content to an entity (person). This creates trust. If there is a notable or known, author we humans trust that person more (usually). Google works the same way:
 
-[![](/images/authorship_as_a_google_ranking_signal.png)](https://devinschumacher.com/wp-content/uploads/2022/08/authorship_as_a_google_ranking_signal.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/authorship_as_a_google_ranking_signal.png)
 
 - **Branded Searches**: Google captures & catalogs all searches. If a brand is getting [search volume](https://devinschumacher.com/search-volume/) for its brand name, then Google sees this as a trust signal - because the brand is notable enough that people are actively searching for it by name. The more, the better.
 
-[![](/images/brand-search.png)](https://devinschumacher.com/wp-content/uploads/2022/08/brand-search.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/brand-search.png)
 
 - **Brand + KW Searches**: The next logical evolution after a brand name search is brand + keyword search. From our personal testing, we have seen this helps build the trust of a website/brand.
 
-[![](/images/brand-kw-search.png)](https://devinschumacher.com/wp-content/uploads/2022/08/brand-kw-search.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/brand-kw-search.png)
 
 - **Brand Mentions:** Brand mentions are anytime a website writes your brand name somewhere in their article. Maybe it was mentioned on Twitter, or maybe within the content of a post. For example, we just brand mentioned "Twitter" right there in the last sentence. Did you pick up on that?
 
 - **Branded Anchor Text**: Branded anchor text is normal. Big brands get alot of links pointing to them with their brand name as the clickable anchor text. For example, here is the anchor text profile for a large brand called Best Buy. Look how many links they have with branded anchors:
 
-[![](/images/branded-anchor-text-as-a-ranking-signal-1024x622-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/branded-anchor-text-as-a-ranking-signal.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/branded-anchor-text-as-a-ranking-signal-1024x622-1.png)
 
 - [**Social Foundations**: Having well established, completely filled out, and legitimately followed social media](https://devinschumacher.com/social-media-marketing-tools/) accounts is a natural part of any brand building. These are key signs to Google that your website should be trusted.
 
@@ -616,13 +616,13 @@ https://twitter.com/JohnMu/status/971098008644407297
 
 - **Google My Business Categories**: Google something local related, look at the categories that show up, and you will see how much weight categories carry. Fill them outright, and fully.
 
-[![](/images/gmb-categories-as-a-ranking-factor-1024x424-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/GMB-categories-as-a-ranking-factor.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/gmb-categories-as-a-ranking-factor-1024x424-1.png)
 
 - **Links from Local sites**: There are a lot of websites that are geo-specific. For example, if you are a business in Los Angeles, it would be very beneficial to get a link from the West LA Chamber of Commerce. Get those types of links, and your local rankings will love you for it.
 
 - **Local Searches**: For geo-related searches (ex: "dentist near me", "dentist in los angeles") Google will display a map pack. Make sure you have a verified Google My Business if you want the option of showing up there.
 
-[![](/images/law-firm-marketing-company-shows-staging-devinschumacher.kinsta.cloud-in-the-map-pack.png)](https://devinschumacher.com/wp-content/uploads/2022/08/law-firm-marketing-company-shows-staging-devinschumacher.kinsta.cloud-in-the-map-pack.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/law-firm-marketing-company-shows-devinschumacher.com-in-the-map-pack.png)
 
 - **Physical Location**: Having a physical location is not a requirement, but it does show that your business is less likely to be a spammer than a real, trusted business.
 
@@ -648,7 +648,7 @@ https://twitter.com/JohnMu/status/971098008644407297
 
 - **Autogenerated Content**: This just screams spam. Google hates spam. Enough said.
 
-[![](/images/screen-shot-2019-09-15-at-12.58.59-pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-09-15-at-12.58.59-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-09-15-at-12.58.59-pm.png)
 
 - **Cloaking**: Cloaking is when you show a user one thing, but show a search engine another thing. This is intentionally and obviously deceptive. If you get caught by Google you will be penalized/de-indexed.
 
@@ -656,7 +656,7 @@ https://www.youtube.com/watch?v=QHtnfOgp65Q
 
 - **Doorway Pages**: Doorway pages are looked on as a kind of [black hat seo](https://devinschumacher.com/black-hat-seo/) trick, and Google does not like them. Full article [here](https://support.google.com/webmasters/answer/2721311?hl=en).
 
-[![](/images/doorway-pages-definition.png)](https://devinschumacher.com/google-ranking-factors/doorway-pages-definition/)
+[![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/doorway-pages-definition.png)](https://devinschumacher.com/google-ranking-factors/doorway-pages-definition/)
 
 - **PageRank Sculpting**: Page rank sculpting is defined as no-following all (or most) of your outbound links with the intention of keeping all your link power on the page, and not letting it flow out anywhere. Some SEOs think that Google picks up on this and will look unfavorably on it.
 
@@ -676,7 +676,7 @@ https://www.youtube.com/watch?v=QHtnfOgp65Q
 
 <figure>
 
-[![](/images/pop_up_ads.jpg)](https://devinschumacher.com/wp-content/uploads/2022/08/pop_up_ads.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/pop_up_ads.jpg)
 
 <figcaption>
 
@@ -710,13 +710,13 @@ A day in the life of going on the internet not too many years ago
 
 - **Selling Links**: If you are caught selling links Google will penalize or de-index your website. It happens all the time.
 
-[![](/images/screen-shot-2019-09-15-at-2.22.06-pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-09-15-at-2.22.06-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-09-15-at-2.22.06-pm.png)
 
 - **Sudden Influx of Links (without other signals)**: As you probably know by now, anything unnatural that pops up on Google's radar is usually not a good thing. This applies to links as well. Sometimes websites naturally get a lot of links (breaking news, viral videos, etc.) but those are accompanied by a ton of other social signals. If you just get a bunch of links without traffic, shares, likes, etc. it looks very suspicious.
 
 - **Toxic Links**: Some links are toxic. Make sure that the links your website has acquired are quality. And if they aren't good, disavow them.
 
-[![](/images/lrt-toxic-links-1024x577-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/LRT-toxic-links.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/lrt-toxic-links-1024x577-1.png)
 
 - **Widget Links**: Some developers use plugins to build links to their site. When you install a theme or plugin, it will automatically put a link back to their site. Google does not like this (but it works extremely well to build rankings).
 
@@ -736,7 +736,7 @@ A day in the life of going on the internet not too many years ago
 
 - **Payday Loans Update**: The "PayDay Loans" update affects the rankings of spammy queries.
 
-[![](/images/payday-loans-update-as-a-google-ranking-factor-1024x419-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/payday-loans-update-as-a-google-ranking-factor.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/payday-loans-update-as-a-google-ranking-factor-1024x419-1.png)
 
 - **Query Deserves Freshness (QDF)**: For certain search types, Google will boost the rankings of pages if they need (or "deserve") freshness. Think news, weather updates, etc.
 
@@ -754,4 +754,4 @@ A day in the life of going on the internet not too many years ago
 
 - **YMYL Keywords**: YMYL = Your Money Your Life. This refers to searches that can significantly impact the health, wealth, or wellbeing of a person if they were to read the wrong (or right) information. Businesses in the YMYL niche are having all sorts of problems ranking for things as of right now (late 2019) as Google is making gigantic changes to their algorithm. Many businesses (even very large trusted websites are getting destroyed in the [SERPs)](https://devinschumacher.com/serp/).
 
-[![](/images/dr-axe-got-destroyed-by-eat-and-ymyl-updates-1024x741-1.png)](https://devinschumacher.com/wp-content/uploads/2019/09/dr-axe-got-destroyed-by-EAT-and-YMYL-updates.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/dr-axe-got-destroyed-by-eat-and-ymyl-updates-1024x741-1.png)

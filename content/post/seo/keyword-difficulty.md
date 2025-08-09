@@ -1,6 +1,6 @@
 ---
 title: "Keyword Difficulty"
-date: "2022-08-26"
+date: "2022-08-26T12:00:00.000Z"
 slug: "keyword-difficulty"
 ---
 
@@ -51,7 +51,7 @@ Each SEO Tool has its own proprietary way of calculating the difficulty of a key
 
 ### Ahrefs
 
-[![](/images/ahrefs-homepage-1024x547-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/ahrefs-homepage.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/ahrefs-homepage-1024x547-1.png)
 
 Ahrefs is a very popular SEO tool that helps SEOs effectively craft an SEO strategy, providing a ton of data on your website, your competitors' websites, the SERP features, etc.
 
@@ -61,17 +61,17 @@ Keyword Difficulty (KD) is the term Ahrefs uses for its metrics to help you unde
 
 Keyword Difficulty measures the competitiveness of a keyword on a scale of 1-100.
 
-[![](/images/ahrefs-keyword-difficultry-1024x838-1.jpg)](https://devinschumacher.com/wp-content/uploads/2019/10/ahrefs-keyword-difficultry.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/ahrefs-keyword-difficultry-1024x838-1.jpg)
 
 Keyword difficulty essentially tells you how many **referring domains you need** to your page to rank for the keyword you want.
 
-[![](/images/ahrefs-keyword-diffiicuty-1024x311-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/ahrefs-keyword-diffiicuty.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/ahrefs-keyword-diffiicuty-1024x311-1.png)
 
 #### Examples
 
-[![](/images/keyword-difficulty-kd-sv-on-ahrefs.png)](https://devinschumacher.com/wp-content/uploads/2022/08/keyword-difficulty-kd-sv-on-ahrefs.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/keyword-difficulty-kd-sv-on-ahrefs.png)
 
-[![](/images/seo-company-keyword-kd-sv-on-ahrefs.png)](https://devinschumacher.com/wp-content/uploads/2022/08/seo-company-keyword-kd-sv-on-ahrefs.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seo-company-keyword-kd-sv-on-ahrefs.png)
 
 #### Pros
 
@@ -86,25 +86,25 @@ Keyword difficulty essentially tells you how many **referring domains you need**
 
 ### SEMRush
 
-[![](/images/sem-rush-homepage-1024x497-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/sem-rush-homepage.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/sem-rush-homepage-1024x497-1.png)
 
 Keyword Difficulty, on SEMrush, gives you an estimate of how hard it will be to rank for your keyword from a new page on your website.
 
 Like Ahrefs, their score is on a scale of 1-100.
 
-[![](/images/using-semrush-for-understanding-keyword-competitiveness.png)](https://devinschumacher.com/wp-content/uploads/2022/08/using-semrush-for-understanding-keyword-competitiveness.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-semrush-for-understanding-keyword-competitiveness.png)
 
 The way they calculate KD must be very different though because the numbers they pull are drastically different.
 
 #### Examples
 
-[![](/images/keyword-difficulty-kd-sv-on-sem-rush.png)](https://devinschumacher.com/wp-content/uploads/2022/08/keyword-difficulty-kd-sv-on-sem-rush.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/keyword-difficulty-kd-sv-on-sem-rush.png)
 
-[![](/images/seo-company-keyword-kd-sv-on-semrush.png)](https://devinschumacher.com/wp-content/uploads/2022/08/seo-company-keyword-kd-sv-on-semrush.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seo-company-keyword-kd-sv-on-semrush.png)
 
 ### Moz
 
-[![](/images/using-moz-to-evaluate-keyword-difficulty-and-competition-1024x609-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-moz-to-evaluate-keyword-difficulty-and-competition.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-moz-to-evaluate-keyword-difficulty-and-competition-1024x609-1.png)
 
 Moz was a very popular SEO tool, but these days I don't personally know many people using it, simply because their crawler is not that fast and they usually have way less websites in their database.
 
@@ -114,9 +114,9 @@ They also have a nice browser extension called the Moz Bar which allows you to s
 
 #### Examples
 
-[![](/images/keyword-difficulty-kd-sv-on-moz.png)](https://devinschumacher.com/wp-content/uploads/2022/08/keyword-difficulty-kd-sv-on-moz.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/keyword-difficulty-kd-sv-on-moz.png)
 
-[![](/images/seo-company-keyword-kd-sv-on-moz.png)](https://devinschumacher.com/wp-content/uploads/2022/08/seo-company-keyword-kd-sv-on-moz.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seo-company-keyword-kd-sv-on-moz.png)
 
 #### Pros
 
@@ -143,7 +143,7 @@ Just for the sake of being comprehensive, I wanted to include a list of some oth
 
 If we compare the findings from above, you can see, each tool gives a drastically different readout of how competitive a search term is (and even how much search volume there is).
 
-[![](/images/screen-shot-2019-10-06-at-11.10.40-am.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-06-at-11.10.40-am.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-06-at-11.10.40-am.png)
 
 So, to combat this huge disparity of tools, we like to _start_ our keyword competitiveness evaluation process by looking at metrics (truthfully we only look at Ahrefs), and then we have some manual checks we can do to really get a better understanding of the term.
 
@@ -167,31 +167,31 @@ The full process involves looking at a variety of data, rather than just one met
 
 Use the tool of your choice to look at the actual "KD" number.
 
-[![](/images/screen-shot-2019-10-06-at-11.23.50-am.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-06-at-11.23.50-am.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-06-at-11.23.50-am.png)
 
 The more you do this (with the _same_ tool), the more you will start to understand relative difficulties.
 
 The numbers on their own might not necessarily have any pragmatic meaning to you at first, but the more you do it the more you will begin to get a sense of what it takes.
 
-[![](/images/screen-shot-2019-10-06-at-11.19.23-am.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-06-at-11.19.23-am.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-06-at-11.19.23-am.png)
 
 #### Step 2: Look at Domain Rating (DR)
 
 **Domain Rating (DR)** is an Ahrefs measure of relative "backlink popularity" of your website (or your competitors' website) compared to all other websites in their database. DR is based on a scale of 1-100 and is a logarithmic scale (higher = stronger). It is calculated based on the # of websites linking to the domain, and the strength of the website's backlink profile.
 
-[![](/images/crop-0-0-212-164-0-screen-shot-2019-10-06-at-11.23.01-am.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-06-at-11.23.01-AM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/crop-0-0-212-164-0-screen-shot-2019-10-06-at-11.23.01-am.png)
 
 If the websites ranking for a certain term have a high DR, compare that to your website to get a sense of if you are "in the same league" as them.
 
 Use the SERP Overview report to quickly compare the DR of the websites ranking for your desired term.
 
-[![](/images/serp-overview-to-understand-kd-1024x392-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/serp-overview-to-understand-kd.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/serp-overview-to-understand-kd-1024x392-1.png)
 
 #### Step 3: Look at the URL Rating (UR)
 
 **URL Rating (UR)** shows the strength of the target URL's backlink profile on a 100-point logarithmic scale. Both internal and external links influence this metric.
 
-[![](/images/screen-shot-2019-10-06-at-11.23.24-am.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-06-at-11.23.24-am.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-06-at-11.23.24-am.png)
 
 URL rating is an excellent way to understand how many referring domains (unique backlinks) you will need to send to your article to have a chance to rank on Page 1.
 
@@ -199,7 +199,7 @@ Links are one of the most expensive parts of doing SEO, so understand this is a 
 
 Use the SERP Overview to see the UR (and RDs) of each URL that is ranking.
 
-[![](/images/using-ur-and-rd-to-evaluate-keyword-competition-1024x482-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-UR-and-RD-to-evaluate-keyword-competition.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-ur-and-rd-to-evaluate-keyword-competition-1024x482-1.png)
 
 #### Step 4: Check the # of SERP Results for the keyword
 
@@ -207,7 +207,7 @@ Understanding just how may other websites are trying to rank for a keyword is a 
 
 **Use Google to search the keyword and see how many results show up:**
 
-![](/images/screen_shot_2019-10-06_at_12_02_51_pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-06_at_12_02_51_pm.png)
 
 As of the time writing this there are 23,900,000 search results in Google's index that are "relevant" for the keyword "keyword difficulty".
 
@@ -223,13 +223,13 @@ And, Google is not actually going to show all of them.
 
 So, the next thing you can do is scroll to the bottom of the page and click through the "more pages" area to see actually how many pages of results there are (giving you a more true/accurate idea of how many results you are competing against).
 
-![](/images/oct-06-2019-12-07-09.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/oct-06-2019-12-07-09.gif)
 
 Looks like we only made it to Page 19 before Google gave up trying to give us results.
 
 And for good reason - look at the results on the last page, do they really look like they would be a good resource to answer our search intent?
 
-[![](/images/screen_shot_2019-10-06_at_12_08_26_pm-779x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen_Shot_2019-10-06_at_12_08_26_PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-06_at_12_08_26_pm-779x1024-1.png)
 
 #### Step 5: Check the # of SERP Results for "All in Title"
 
@@ -243,7 +243,7 @@ The allintitle operator brings back only results that have the keywords we are u
 
 **Use Google to search the keyword and see how many results show up:**
 
-![](/images/screen_shot_2019-10-06_at_12_17_15_pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-06_at_12_17_15_pm.png)
 
 1,830 results.
 
@@ -259,7 +259,7 @@ The allinurl operator brings back only results that have the keywords we are usi
 
 **Use Google to search the keyword and see how many results show up:**
 
-![](/images/allinurl.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/allinurl.png)
 
 Okay, similar to allintitle.
 
@@ -297,11 +297,11 @@ If we see the SERP has been changing a lot, that is a clear indication that Goog
 
 If we look up the term "fidget spinners" we can see that Google is still trying to figure out who has the best resource for that term:
 
-[![](/images/screen_shot_2019-10-06_at_12_33_53_pm-1024x326-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen_Shot_2019-10-06_at_12_33_53_PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-06_at_12_33_53_pm-1024x326-1.png)
 
 However, if we look up "outreach link building" it seems Google is quite happy with who is ranking there - and has not changed that SERP much at all for a very long time:
 
-[![](/images/screen_shot_2019-10-06_at_12_34_32_pm-1024x287-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen_Shot_2019-10-06_at_12_34_32_PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-06_at_12_34_32_pm-1024x287-1.png)
 
 This search is "solidified".
 
@@ -321,7 +321,7 @@ For this example, let's give credit where credit is due, and use the website of 
 
 **1\. Put your website into "Ahrefs > Site Explorer**"
 
-![](/images/screen-shot-2019-10-06-at-12.52.49-pm-1024x271-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-06-at-12.52.49-pm-1024x271-1.png)
 
 **2\. Navigate to Organic Keywords > Sort by only the keywords on positions 1-10**
 
@@ -329,29 +329,29 @@ For this example, let's give credit where credit is due, and use the website of 
 
 _For example, if you want to know "what keywords can I rank in the Top 3 spots" you would want to sort positions 1-3, but if you want to know "what keywords can I get close to Page 1 pretty easily, and then maybe send a couple links to pop onto page 1" then you might want to filter by positions 1-15 or 1-20._
 
-[![](/images/how-to-find-your-keyword-difficulty-baseline-2-1024x657-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/how-to-find-your-keyword-difficulty-baseline-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-to-find-your-keyword-difficulty-baseline-2-1024x657-1.png)
 
 **3\. Export your keywords**
 
-[![](/images/how-to-find-your-keyword-difficulty-baseline-3-1024x380-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/how-to-find-your-keyword-difficulty-baseline-3.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-to-find-your-keyword-difficulty-baseline-3-1024x380-1.png)
 
 **4\. Navigate to the OLD "Ahrefs > Keywords Explorer**"
 
-[![](/images/how-to-find-your-keyword-difficulty-baseline-4-1024x271-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/how-to-find-your-keyword-difficulty-baseline-4.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-to-find-your-keyword-difficulty-baseline-4-1024x271-1.png)
 
 **5\. Add the keywords from your CSV Export back into "Ahrefs > Keywords Explorer"**
 
-[![](/images/how-to-find-your-keyword-difficulty-baseline-5-1024x577-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/how-to-find-your-keyword-difficulty-baseline-5.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-to-find-your-keyword-difficulty-baseline-5-1024x577-1.png)
 
 **6\. Check the "Difficulty Distribution"**
 
-[![](/images/how-to-find-your-keyword-difficulty-baseline-6-1024x261-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/how-to-find-your-keyword-difficulty-baseline-6.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-to-find-your-keyword-difficulty-baseline-6-1024x261-1.png)
 
 Voila!
 
 You can now see all of the keywords on robbierichards.com ranking on Page 1 (aka Positions 1-10).
 
-[![](/images/screen-shot-2019-10-06-at-1.01.48-pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-06-at-1.01.48-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-06-at-1.01.48-pm.png)
 
 This tells us that if he uncovers a new keyword he wants to rank for (assuming its relevant to his website's theme/industry) that he could reasonably expect to be competitive for this keyword as long as it was somewhere in the KD range of the terms that he already ranks on Page 1 for.
 

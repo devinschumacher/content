@@ -1,7 +1,7 @@
 ---
 slug: /reviews/godaddy/
 title: "Godaddy Hosting Review"
-date: "2022-10-07"
+date: "2022-10-07T12:00:00.000Z"
 category: Reviews
 tags: 
   - "affiliate-marketing"
@@ -1110,7 +1110,7 @@ Overall, I could say that [Go](https://serp.ly/godaddy)[d](https://serp.ly/godad
 
 I hope this GoDaddy review helped you in your web hosting journey!
 
-![](/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
 
 **RECOMMENDATION** 👍
 

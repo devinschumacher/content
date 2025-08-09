@@ -145,7 +145,7 @@ Your brand guidelines should be a document that can be given to anyone in your o
 
 They should support & reflect the goals of your organization and differentiate you from competitors.
 
-[![](/images/brand-style-guide-examples-1024x458.png)](https://devinschumacher.com/wp-content/uploads/2020/03/brand-style-guide-examples.png)
+![](/images/brand-style-guide-examples-1024x458.png)
 
 ### Logo
 
@@ -272,7 +272,7 @@ When you have a consistent product & experience, you will create customers for l
 
 One of my personal favorite brands is almost perfect when it comes to quality & consistency, in fact only 1 time in my life have I ever seen then make a mistake (on one of my orders).
 
-Can you guess who it is? [Click here](https://devinschumacher.com/wp-content/uploads/2020/03/in-n-out.jpeg) to reveal.
+Can you guess who it is? [Click here](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/in-n-out.jpeg) to reveal.
 
 Presenting your brand consistently across all platforms can increase revenue up to 23%. 
 

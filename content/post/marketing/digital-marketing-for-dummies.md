@@ -53,7 +53,7 @@ Are they going to search for your business by name? No. Because they don't know 
 
 Using some nifty SEO Tools, we can see that this "keyword" has a "search volume" of 300 - that means this phrase is typed into Google 300 times a month - that's alot of people needing marketing!
 
-[![](/images/Screen-Shot-2019-07-31-at-9.07.04-PM-1024x222.png)](https://devinschumacher.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-31-at-9.07.04-PM.png)
+![](/images/Screen-Shot-2019-07-31-at-9.07.04-PM-1024x222.png)
 
 If you want those 300 searchers a month to consider your business as a potential provider of the solution to their problems - then you need to have good SEO.
 
@@ -84,7 +84,7 @@ You start by heading to one of the big boys where everyone hangs out (Google, Fa
 
 The amount you have to spend to accomplish this varies on competition. You can see the results of SEM on the search engine result page with the “Ad” or “Ads” icon next to it.
 
-[![](/images/pay-per-click-advertising-example-1024x611.png)](https://devinschumacher.com/wp-content/uploads/2019/08/pay-per-click-advertising-example.png)
+![](/images/pay-per-click-advertising-example-1024x611.png)
 
 Paid advertising is typically more expensive than other types of digital marketing – but it gets results FAST. If you need new sales ASAP, paid ads is the way to go.
 
@@ -121,7 +121,7 @@ A smart content marketing move can be publishing an article titled “10 Common 
 
 A blog post like this can drive a significant amount of people (potential clients) to your website without having to pay for ads.
 
-[![](/images/driving-traffic-with-content-marketing-1024x704.png)](https://devinschumacher.com/wp-content/uploads/2019/08/driving-traffic-with-content-marketing.png)
+![](/images/driving-traffic-with-content-marketing-1024x704.png)
 
 Creating content that is valuable to your audience is an amazing way to get started in digital marketing
 

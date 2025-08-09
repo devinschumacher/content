@@ -1,7 +1,7 @@
 ---
 slug: /best/web-scraping-tools/
 title: "Best Web Scraping Tools"
-date: "2022-12-13"
+date: "2022-12-13T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -20,7 +20,7 @@ People and businesses who want to use the huge quantity of publicly available we
 
 If you've ever manually copied and pasted content from a website, you've already performed the same task as a web scraper. Web scraping uses intelligent automation to gather hundreds, millions, or even billions of data points from the internet's seemingly limitless frontier, as opposed to the tedious, mindless process of manually extracting data.
 
-![](/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Award-Top-Rated-Best-Overall-devinschumacher.com_.png)
 
 **RECOMMENDATION** 👍
 
@@ -40,13 +40,13 @@ And check this out...
 
 They have a constantly growing library of pre-built "scraping recipes" for popular sites:
 
-![](/images/hexomatic-scraping-recipes-1024x556.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hexomatic-scraping-recipes-1024x556.png)
 
 And on top of that - they have _automations_ - which aren't even really SCRAPING, but it comes with the tool.
 
 Cant beat that! Here's a sneak peek at some:
 
-![](/images/hexomatic-scraping-automations-1024x578.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hexomatic-scraping-automations-1024x578.png)
 
 Create your own web scraping recipes to extract data from any website and convert it to a spreadsheet or JSON API. With a simple point-and-click interface, Hexomatic makes it simple to scrape products, directories, prospects, and listings at scale.
 
@@ -470,15 +470,15 @@ Send data from your workflow to 1000's of compatible apps
 
 Hexomatic also has a ton of tool integrations:
 
-![](/images/hexomatic-native-tool-integrations-1024x517.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hexomatic-native-tool-integrations-1024x517.png)
 
 And a killer "training" / "tutorials" section - here's a few:
 
-![](/images/hexomatic-training-area-1-1024x580.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hexomatic-training-area-1-1024x580.png)
 
-![](/images/hexomatic-training-area-2-1024x823.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hexomatic-training-area-2-1024x823.png)
 
-![](/images/hexomatic-training-area-3-1024x886.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hexomatic-training-area-3-1024x886.png)
 
 Pretty awesome right??
 

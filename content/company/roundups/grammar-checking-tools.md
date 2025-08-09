@@ -1,7 +1,7 @@
 ---
 slug: /best/grammar-checking-tools/
 title: "Best Grammar Checking Tools"
-date: "2022-10-21"
+date: "2022-10-21T12:00:00.000Z"
 categories: 
   - "marketing"
   - "reviews"
@@ -463,7 +463,7 @@ My personal experience with grammar checkers is that by using them, I can focus 
 
 Not at all! In fact, it speeds it up. The reason behind this is that you would have to manually go over the entire text and find the mistakes yourself. It's even tougher if you're looking for stylistic errors or incorrect localization issues.
 
-![](/images/giphy-3.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/giphy-3.gif)
 
 Grammar tools speed up writing because all of this is done while you're writing so you'll waste no time on finding errors.
 

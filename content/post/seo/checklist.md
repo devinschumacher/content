@@ -1,6 +1,6 @@
 ---
 title: "seo checklist"
-date: "2022-08-26"
+date: "2022-08-26T12:00:00.000Z"
 slug: "seo-checklist"
 ---
 

@@ -1,7 +1,7 @@
 ---
 slug: /reviews/apex-hosting/
 title: "Apex Hosting Review"
-date: "2022-10-02"
+date: "2022-10-02T12:00:00.000Z"
 category: Reviews
 tags: ["Hosting"]
 ---

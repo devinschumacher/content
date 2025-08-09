@@ -1,6 +1,6 @@
 ---
 title: "seo tags"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "seo-tags"
 ---
 
@@ -12,17 +12,17 @@ HTML along with the other coding languages make up your web source code — the 
 
 Here's what it looks like:
 
-![](/images/crop-0-0-936-624-0-image.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/crop-0-0-936-624-0-image.png)
 
 You can see the HTML of any website or individual webpage — here's how.
 
 Right click **"View page source."**
 
-![](/images/image-1-1024x490-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-1-1024x490-1.png)
 
 The HTML of that individual webpage should come up.
 
-![](/images/image-2-1024x525-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-2-1024x525-1.png)
 
 ## Why Is HTML Important For SEO?
 
@@ -49,21 +49,21 @@ The page title (or title tag) is the most important HTML tag for SEO — it is t
 
 Here's how it looks on the SERPs (search engine results page.)
 
-![](/images/image-4-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-4-1.png)
 
 It tells search engines exactly what your individual webpage is about, just like the headline would for an article.
 
 The page title also appears on internet browser tabs.
 
-![](/images/image-5-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-5-1.png)
 
-![](/images/image-7-1024x551-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-7-1024x551-1.png)
 
 The page title is shown if the webpage is shared on social media too.
 
 <figure>
 
-![](/images/image-9-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-9-1.png)
 
 <figcaption>
 
@@ -75,11 +75,11 @@ source: semrush
 
 The page title is also referred to as the title tags because the actual HTML tags are **<title> ... </title>**.
 
-![](/images/image-8-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-8-1.png)
 
 To find the title tags in the HTML, search **Ctrl + F "<title>"**
 
-![](/images/image-10-1024x353-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-10-1024x353-1.png)
 
 **Related Reading**: Check out our full article on [Title Tags](https://devinschumacher.com/title-tags/).
 
@@ -87,7 +87,7 @@ To find the title tags in the HTML, search **Ctrl + F "<title>"**
 
 The meta description is the short little blurb under the page title on SERPs.
 
-![](/images/image-11-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-11-2.png)
 
 It is like the summarizing subheading of an article under the headline.
 
@@ -101,7 +101,7 @@ So in a way... A meta description does impact SEO, just not directly.
 
 Compare these two search results with different meta descriptions.
 
-![](/images/image-12-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-12-1.png)
 
 Which one would you be more inclined to click?
 
@@ -117,15 +117,15 @@ Look at this example.
 
 The image.
 
-![](/images/image-17-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-17-2.png)
 
 The alt-text.
 
-![](/images/image-16-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-16-1.png)
 
 [Straight from Google's mouth](https://support.google.com/webmasters/answer/114016?hl=en), the image alt-text is "text that describes an image." They even layout examples of best practice.
 
-![](/images/image-18-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-18-1.png)
 
 The alt-text is basically a long-tail keyword for images. It gives search engines more context to help crawl, index and rank webpages.
 
@@ -135,11 +135,11 @@ You can view the alt-text of any image — here's how.
 
 Right click **"Inspect."**
 
-![](/images/image-14-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-14-2.png)
 
 The image HTML should come up, highlighted on the side of the browser — look for **alt=" ... "**
 
-![](/images/image-15-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-15-1.png)
 
 **Related Reading**: Check out our full article on Image Alt-Text.
 
@@ -149,7 +149,7 @@ The image title is like the image equivalent of the meta description — it has 
 
 It helps provide additional image information in a user experience sense... You know that little text pop-up that comes up when you put the cursor on an image?
 
-![](/images/image-20.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-20.png)
 
 That's the image title.
 
@@ -157,11 +157,11 @@ Because search engines (such as Google) don't look at the image title, it isn't 
 
 You can find the image title the same way as alt-text — look for **title=" ... "**
 
-![](/images/image-21-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-21-1.png)
 
 You will find that often, the image title and image alt-text are exactly the same.
 
-![](/images/image-22-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-22-1.png)
 
 This is because the best way to describe an image for search engines (alt-text) is the best for user experience (image title.)
 
@@ -169,9 +169,9 @@ This is because the best way to describe an image for search engines (alt-text) 
 
 The image filename is pretty straightforward — it is the unique name given to an image when saved, created or edited.
 
-![](/images/image-23-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-23-1.png)
 
-![](/images/image-24-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-24-1.png)
 
 It does impact SEO — where the alt-text is like a long-tail keyword, the filename is a short-tail keyword.
 
@@ -188,7 +188,7 @@ The image filename is a little trickier to find when looking at the image HTML �
 
 Look for the file format.
 
-![](/images/image-25-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-25-1.png)
 
 **Related Reading**: Check out our full article on Image Filenames.
 
@@ -196,7 +196,7 @@ Look for the file format.
 
 Geotagging is the process of adding a geographical location to a webpage or specific content on that webpage.
 
-![](/images/image-27-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-27-1.png)
 
 **Some of those specific webpage content/assets that you can geotag include:**
 
@@ -209,7 +209,7 @@ When you geotag something, you are giving search engines (like Google) very spec
 
 This is very powerful for local related search queries — helping you get on the 1st page of Google.
 
-![](/images/image-28-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-28-2.png)
 
 With the advancement of search engine algorithms, geotagging has become less important.
 
@@ -217,7 +217,7 @@ With the advancement of search engine algorithms, geotagging has become less imp
 
 Structured data are special HTML tags that you can add to your webpage.
 
-![](/images/image-30-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-30-2.png)
 
 These tags make it easier for search engines to crawl, rank and index.
 
@@ -229,7 +229,7 @@ The biggest benefit of structured data is having your webpages/website shown as 
 
 SERP features are the different, larger and more detailed results you see at the top and side of SERPs.
 
-![](/images/image-29-1024x629-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-29-1024x629-1.png)
 
 They make your search results look more enticing — it's basically better advertising — it enhances click-through rate (user signal.)
 
@@ -242,29 +242,29 @@ They make your search results look more enticing — it's basically better adver
 
 Paid results are the paid Google Adwords and shopping results you see on SERPs.
 
-![](/images/image-31-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-31-2.png)
 
 Rich snippets are small additions to regular search results — such as ratings or site-links.
 
-![](/images/image-32.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-32.png)
 
-![](/images/image-33-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-33-1.png)
 
 Universal results are a variety of different things — including the "People also ask" box, image packs and news boxes.
 
-![](/images/image-34-1024x403-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-34-1024x403-1.png)
 
 Knowledge graphs are rather large, intrusive SERP features that take a lot of attention away from regular search results.
 
-![](/images/image-35-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-35-1.png)
 
-![](/images/image-36-1024x218-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-36-1024x218-1.png)
 
 ### Keyword Density
 
 Keyword density is how often a keyword is used on an individual webpage.
 
-![](/images/image-37.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-37.png)
 
 It's the frequency, not the total volume.
 
@@ -278,7 +278,7 @@ Keyword density used to be very important for SEO — that was until search engi
 
 Now, an unnaturally high keyword density (keyword stuffing) will negatively impact your SEO.
 
-![](/images/image-38-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-38-1.png)
 
 Still, keyword density is relevant today — keywords will always be.
 

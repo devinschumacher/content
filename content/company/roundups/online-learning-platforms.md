@@ -1,7 +1,7 @@
 ---
 slug: /best/online-learning-platforms/
 title: "Best Online Learning Platforms"
-date: "2022-10-21"
+date: "2022-10-21T12:00:00.000Z"
 category: Reviews
 
 tags: 

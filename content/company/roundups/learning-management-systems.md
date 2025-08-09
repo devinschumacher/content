@@ -1,7 +1,7 @@
 ---
 slug: /best/learning-management-systems/
 title: "Best Learning Management Systems"
-date: "2022-10-21"
+date: "2022-10-21T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -288,7 +288,7 @@ That means you can create whatever you want and at whatever volume you want in o
 
 This personal freedom is something that seems to be harder and harder to come across organically in the modern workplace, so participating in an online course platform is certainly a unique way to bring home some extra cash.
 
-![](/images/Captain-with-Money.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Captain-with-Money.gif)
 
 ## Final Thoughts
 

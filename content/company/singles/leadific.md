@@ -1,7 +1,7 @@
 ---
 slug: /reviews/leadific/
 title: "Leadific Review"
-date: "2023-01-12"
+date: "2023-01-12T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -11,7 +11,7 @@ tags:
 
 # Leadific: The World's Best Review on Leadific CRM Software (TheMMSaaS.com)
 
-![](https://devinschumacher.com/wp-content/uploads/2023/01/leadific-software-platform-1024x593.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/leadific-software-platform-1024x593.webp)
 
 Turn more leads into revenue with a high-performance CRM - built for ambitious digital marketers
 

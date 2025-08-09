@@ -1,6 +1,6 @@
 ---
 title: "white hat seo"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "white-hat-seo"
 ---
 
@@ -24,7 +24,7 @@ That's really it!
 
 **White Hat SEO is**: The Light Side of The Force
 
-![](/images/download-9.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-9.gif)
 
 It has a good connotation because "White Hat SEO" practices are typically more sustainable and less short lived than black hat seo.
 
@@ -36,7 +36,7 @@ A better name for it would be "Hypocrite SEO"
 
 #shotsfired
 
-![](/images/download-5.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-5.gif)
 
 Guys, I know we joke alot about bad vs. good in these Black Hat & White Hat debates, **but the bottom line is this**:
 
@@ -46,13 +46,13 @@ I hope thats obvious.
 
 Be safe out there, for the internet is dark and full of terrors (and GIFs, apparently).
 
-![](/images/tumblr_m3b94urt1c1rtvp2io6_250.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/tumblr_m3b94urt1c1rtvp2io6_250.gif)
 
 So for the rest of the article, we will leave this philosophical debate and focus on giving you some actionable tips about White hat SEO.
 
 **White Hat SEO is**: Safety First.
 
-![](/images/download-7.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-7.gif)
 
 ## White Hat SEO, Explained
 
@@ -68,13 +68,13 @@ Google publishes their list of guidelines of what they WANT you to do (notice I 
 
 - [Google Webmaster Guidelines](http://Webmaster Guidelines)
 
-- [Google Search Quality Raters Guidelines](https://devinschumacher.com/wp-content/uploads/2019/09/Google-Search-Quality-Rater-Guidelines.pdf)
+- Google Search Quality Raters Guidelines
 
 Okay so thats like 200+ pages of super boring dry reading.
 
 I know you're not here for that. #TLDR (Too Long, Didn't Read)
 
-![](/images/too-long-didnt-read-gif.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/too-long-didnt-read-gif.gif)
 
 The key takeaway here is that Google is not going to give out its secret formula to ranking on its [search engine](https://devinschumacher.com/search-engines/).
 
@@ -86,7 +86,7 @@ My prediction, is that one day Google SERP clicks are going to go so low, becaus
 
 **For example**: no need to go to NFL.com anymore for the scores
 
-![](/images/google-serp-screenshot-of-nfl-1024x587-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-serp-screenshot-of-nfl-1024x587-1.png)
 
 So that is why "White Hat SEO" is a misnomer, just like [black hat seo](https://devinschumacher.com/black-hat-seo/).
 
@@ -94,7 +94,7 @@ We SEOs use it to say "what kind of SEO tactics and tricks can we do that Google
 
 **White Hat SEO** is: slower, but safer
 
-![](/images/slow-moving-white-hat-seo-turlte.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/slow-moving-white-hat-seo-turlte.gif)
 
 .ugb-7f675af .ugb-blockquote\_\_quote{width:70px !important;height:70px !important}
 

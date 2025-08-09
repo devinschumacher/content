@@ -1,7 +1,7 @@
 ---
 slug: /reviews/vidiq/
 title: "VidIQ Review"
-date: "2023-02-16"
+date: "2023-02-16T12:00:00.000Z"
 category: Reviews
   - "seo"
 ---

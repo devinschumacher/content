@@ -1,7 +1,7 @@
 ---
 slug: /best/scheduling-software/
 title: "Best Scheduling Software"
-date: "2022-10-22"
+date: "2022-10-22T12:00:00.000Z"
 category: Reviews
 
 tags: 

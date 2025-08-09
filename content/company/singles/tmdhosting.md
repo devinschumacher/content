@@ -1,7 +1,7 @@
 ---
 slug: /reviews/tmdhosting/
 title: "TMDHosting Review"
-date: "2022-10-07"
+date: "2022-10-07T12:00:00.000Z"
 category: Reviews
 tags: ["Hosting"]
 ---

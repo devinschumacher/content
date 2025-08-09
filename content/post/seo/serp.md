@@ -1,6 +1,6 @@
 ---
 title: "serps"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "serp"
 ---
 
@@ -40,7 +40,7 @@ But the amount of people who have seen and interacted with a SERP is staggering.
 
 That's pretty much everyone who has ever used the internet.
 
-![](/images/download-16-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-16-1.gif)
 
 **People Numbers**:
 
@@ -76,9 +76,9 @@ When you input a search query into a search engine its algorithm will look into 
 
 See how that works?
 
-Your friends at [SERP](http://staging-devinschumacher.kinsta.cloud) Co help businesses grow by improving their SERP visibility & positioning, in both the paid & organic areas. Hopefully the name makes sense now!
+Your friends at [SERP](https://devinschumacher.com) Co help businesses grow by improving their SERP visibility & positioning, in both the paid & organic areas. Hopefully the name makes sense now!
 
-![](/images/download-15.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-15.gif)
 
 Let's break down your traditional SERP and explain what's really going on here.
 
@@ -86,7 +86,7 @@ When an individual performs a [search query](https://devinschumacher.com/search-
 
 ### Google SERP
 
-[![](/images/breaking-down-a-serp-372x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2020/03/breaking-down-a-SERP.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/breaking-down-a-serp-372x1024-1.png)
 
 There is quite a lot going on here but what we are looking at is the Google SERP result for the query "treadmills".
 
@@ -120,11 +120,11 @@ Let's discuss some of the more common SERP features below, and save the full lis
 
 A traditional organic result refers to what people are normally used to seeing – just a simple informational, organic result showing a [page title](https://devinschumacher.com/title-tags/) with a meta description and a URL hyperlink.
 
-![](/images/organic-search-results-snippet-example-640x320-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/organic-search-results-snippet-example-640x320-1.png)
 
 In real life it will typically look something like this:
 
-[![](/images/organic-serp-result-feature.png)](staging-devinschumacher.kinsta.cloud)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/organic-serp-result-feature.png)
 
 SERP Features take many forms, with more coming out everyday, so we created an article dedicated to all the different types of [serp features](https://devinschumacher.com/serp-features/) – please comment on it if you have discovered a SERP feature that we haven't yet included.
 
@@ -132,31 +132,31 @@ SERP Features take many forms, with more coming out everyday, so we created an a
 
 Results with site links are typically a sign of trust, or that you searched directly for a brand name. For example when searching for the brand "[serp co](https://serp.co)" we see:
 
-![](/images/screen-shot-2020-03-30-at-3.46.21-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2020-03-30-at-3.46.21-pm.png)
 
 ### Featured Snippet
 
 A featured snippet is typically what people refer to when they say they rank "position zero". It is a summary at the top of the SERP that pulls a snippet from an article that is typically ranking somewhere on Page 1 for the searched term.
 
-![](/images/featured-snippet-serp-feature-example.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/featured-snippet-serp-feature-example.png)
 
 ### Direct Answers
 
 Direct answers are questions that Google can answer without needing to link someone to a more thorough resource.
 
-![direct answer SERP features](/images/screen-shot-2020-03-30-at-3.51.36-pm.png)
+![direct answer SERP features](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2020-03-30-at-3.51.36-pm.png)
 
 ### People Also Ask
 
 Google is smart enough to know that if someone asks a question, they typically will want to know more after they get their answer. For this reason, they have a SERP feature for questions that people also ask.
 
-![](/images/people-also-ask-serp-feature.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/people-also-ask-serp-feature.png)
 
 ### Top Stories
 
 Top stories apply to news. They are typically small cards that highlight very recent news articles around the topic you're searching. To get here, you pretty much need to make sure your news articles are optimized for AMP.
 
-![](/images/top-stories-serp-features.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/top-stories-serp-features.png)
 
 ### Knowledge Panel
 
@@ -166,7 +166,7 @@ It is the aggregated information on the side of the SERP that takes place when y
 
 The knowledge panel will typically provide other associated information that someone would want to understand the full picture of your search – like organizations they were associated with, etc. In the case of our example it is movies and personal information:
 
-![](/images/knowledge-panel-card.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/knowledge-panel-card.png)
 
 Those are the most common SERP Features, but there are many, many, many more.
 
@@ -203,7 +203,7 @@ Yes you read that right.
 
 This is not the Lord of the Rings _internet edition_ with one SERP to rule them all.
 
-![](/images/download-17.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-17.gif)
 
 There are multiple SERPs, so let's get into it the different **types of SERPs**.
 

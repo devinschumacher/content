@@ -132,43 +132,43 @@ If you can power through all of the Google certifications you will end up with a
 
 #### Google Badges
 
-[![](/images/Copy-of-1adwords_fundamentals.png)](https://devinschumacher.com/wp-content/uploads/Copy-of-1adwords_fundamentals.png)
+![](/images/Copy-of-1adwords_fundamentals.png)
 
-[![](/images/Copy-of-2adwords_search_basics.png)](https://devinschumacher.com/wp-content/uploads/Copy-of-2adwords_search_basics.png)
+![](/images/Copy-of-2adwords_search_basics.png)
 
-[![](/images/Copy-of-3analytics.png)](https://devinschumacher.com/wp-content/uploads/Copy-of-3analytics.png)
+![](/images/Copy-of-3analytics.png)
 
-[![](/images/Copy-of-4digital_sales.png)](https://devinschumacher.com/wp-content/uploads/Copy-of-4digital_sales.png)
+![](/images/Copy-of-4digital_sales.png)
 
-[![](/images/Copy-of-5display_remarketing.png)](https://devinschumacher.com/wp-content/uploads/Copy-of-5display_remarketing.png)
+![](/images/Copy-of-5display_remarketing.png)
 
-[![](/images/Copy-of-6mobile.png)](https://devinschumacher.com/wp-content/uploads/Copy-of-6mobile.png)
+![](/images/Copy-of-6mobile.png)
 
-[![](/images/Copy-of-7Mobile_Sites.png)](https://devinschumacher.com/wp-content/uploads/Copy-of-7Mobile_Sites.png)
+![](/images/Copy-of-7Mobile_Sites.png)
 
-[![](/images/Copy-of-8shopping.png)](https://devinschumacher.com/wp-content/uploads/Copy-of-8shopping.png)
+![](/images/Copy-of-8shopping.png)
 
-[![](/images/Copy-of-9video.png)](https://devinschumacher.com/wp-content/uploads/Copy-of-9video.png)
+![](/images/Copy-of-9video.png)
 
 #### Google Certifications
 
-[![](/images/1Devin-Schumacher-AdWords-Fundamentals-page-001-1024x791.jpg)](https://devinschumacher.com/wp-content/uploads/1Devin-Schumacher-AdWords-Fundamentals-page-001-1024x791.jpg)
+![](/images/1Devin-Schumacher-AdWords-Fundamentals-page-001-1024x791.jpg)
 
-[![](/images/2Devin-Schumacher-Adwords-Search-Certification-page-001-1024x791.jpg)](https://devinschumacher.com/wp-content/uploads/2Devin-Schumacher-Adwords-Search-Certification-page-001-1024x791.jpg)
+![](/images/2Devin-Schumacher-Adwords-Search-Certification-page-001-1024x791.jpg)
 
-[![](/images/3Devin-Schumacher-Google-Analytics-Individual-Qualification-page-001-1024x791.jpg)](https://devinschumacher.com/wp-content/uploads/3Devin-Schumacher-Google-Analytics-Individual-Qualification-page-001-1024x791.jpg)
+![](/images/3Devin-Schumacher-Google-Analytics-Individual-Qualification-page-001-1024x791.jpg)
 
-[![](/images/4Devin-Schumacher-Digital-Sales-Certification-page-001-1024x791.jpg)](https://devinschumacher.com/wp-content/uploads/4Devin-Schumacher-Digital-Sales-Certification-page-001-1024x791.jpg)
+![](/images/4Devin-Schumacher-Digital-Sales-Certification-page-001-1024x791.jpg)
 
-[![](/images/5Devin-Schumacher-AdWords-Display-Certification-page-001-1024x791.jpg)](https://devinschumacher.com/wp-content/uploads/5Devin-Schumacher-AdWords-Display-Certification-page-001-1024x791.jpg)
+![](/images/5Devin-Schumacher-AdWords-Display-Certification-page-001-1024x791.jpg)
 
-[![](/images/6Devin-Schumacher-AdWords-Mobile-Certification-page-001-1024x791.jpg)](https://devinschumacher.com/wp-content/uploads/6Devin-Schumacher-AdWords-Mobile-Certification-page-001-1024x791.jpg)
+![](/images/6Devin-Schumacher-AdWords-Mobile-Certification-page-001-1024x791.jpg)
 
-[![](/images/7Devin-Schumacher-Mobile-Sites-Certification-page-001-1024x791.jpg)](https://devinschumacher.com/wp-content/uploads/7Devin-Schumacher-Mobile-Sites-Certification-page-001-1024x791.jpg)
+![](/images/7Devin-Schumacher-Mobile-Sites-Certification-page-001-1024x791.jpg)
 
-[![](/images/8Devin-Schumacher-Google-Shopping-Certification-page-001-1024x791.jpg)](https://devinschumacher.com/wp-content/uploads/8Devin-Schumacher-Google-Shopping-Certification-page-001-1024x791.jpg)
+![](/images/8Devin-Schumacher-Google-Shopping-Certification-page-001-1024x791.jpg)
 
-[![](/images/9Devin-Schumacher-AdWords-Video-Certification-page-001-1024x791.jpg)](https://devinschumacher.com/wp-content/uploads/9Devin-Schumacher-AdWords-Video-Certification-page-001-1024x791.jpg)
+![](/images/9Devin-Schumacher-AdWords-Video-Certification-page-001-1024x791.jpg)
 
 .ugb-844371e hr.ugb-divider\_\_hr{background-color:#dddddd !important;height:1px !important;width:100% !important;margin-left:auto !important;margin-right:auto !important}.ugb-844371e .ugb-inner-block{text-align:center}
 
@@ -216,15 +216,15 @@ I have personally taken a lot of HubSpot courses, and am friends with (can I cal
 
 **Here are some examples of the certifications you can get from HubSpot:**
 
-[![](/images/inbound-marketing-certification-1024x803.jpg)](https://devinschumacher.com/wp-content/uploads/inbound-marketing-certification-1024x803.jpg)
+![](/images/inbound-marketing-certification-1024x803.jpg)
 
-[![](/images/email-marketing-certification-1024x803.jpg)](https://devinschumacher.com/wp-content/uploads/email-marketing-certification-1024x803.jpg)
+![](/images/email-marketing-certification-1024x803.jpg)
 
-[![](/images/inbound-sales-certification-1024x803.jpg)](https://devinschumacher.com/wp-content/uploads/inbound-sales-certification-1024x803.jpg)
+![](/images/inbound-sales-certification-1024x803.jpg)
 
-[![](/images/content.png)](https://devinschumacher.com/wp-content/uploads/content.png)
+![](/images/content.png)
 
-[![](/images/growth.png)](https://devinschumacher.com/wp-content/uploads/growth.png)
+![](/images/growth.png)
 
 ### Enrollment
 
@@ -246,7 +246,7 @@ If you do sign up though, you'll definitely get provided with quality informatio
 
 **It looks like this:**
 
-[![](/images/cmi-university-2016-completed-certificate-1-638.jpg)](https://devinschumacher.com/wp-content/uploads/cmi-university-2016-completed-certificate-1-638.jpg)
+![](/images/cmi-university-2016-completed-certificate-1-638.jpg)
 
 Congrats Brooke!
 
@@ -286,7 +286,7 @@ The certification is totally free and is valid for 18 months.
 
 **Here what it looks like:**
 
-[![](/images/Youtube-Creator-Academy-20.jpg)](https://devinschumacher.com/wp-content/uploads/Youtube-Creator-Academy-20.jpg)
+![](/images/Youtube-Creator-Academy-20.jpg)
 
 Great job Andrew!
 
@@ -434,7 +434,7 @@ Copyblogger offers strategic content marketing courses that are taught the found
 
 ## Hootsuite Academy
 
-[![](/images/hootsuite-certification-1024x742.png)](https://devinschumacher.com/wp-content/uploads/2019/09/hootsuite-certification.png)
+![](/images/hootsuite-certification-1024x742.png)
 
 Hootsuite Academy is among the most recognized [social media management platforms](https://devinschumacher.com/social-media-management-tools/) in the world today. There are various courses offered in the field of social media marketing, starting from beginners, all the way to advanced.
 

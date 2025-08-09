@@ -1,6 +1,6 @@
 ---
 title: "robots.txt"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "robots-txt"
 ---
 
@@ -145,7 +145,7 @@ Here's an example of how sitemaps are used in a robots.txt file.
 
 User-agent: \*  
 Disallow: /images  
-Sitemap: https://www.staging-devinschumacher.kinsta.cloud/sitemap1.xml
+Sitemap: https://www.devinschumacher.com/sitemap1.xml
 
 This would lead all crawlers to your XML sitemap. Make sure that enter a full URL, like in the example above.
 
@@ -157,8 +157,8 @@ Here's how it would look.
 
 User-agent: \*  
 Allow: /images  
-Sitemap: https://www.staging-devinschumacher.kinsta.cloud/sitemap1.xml  
-Sitemap: https://www.staging-devinschumacher.kinsta.cloud/sitemap2.xml 
+Sitemap: https://www.devinschumacher.com/sitemap1.xml  
+Sitemap: https://www.devinschumacher.com/sitemap2.xml 
 
 This robots.txt file would instruct all search engine crawlers directions to both sitemaps.
 
@@ -184,7 +184,7 @@ Make sure that the crawl-delay directives comes after the disallow/allow directi
 
 Google does not support it — instead they have their own crawl delay settings, accessible through Google Search Console.
 
-![](/images/image-59.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-59.png)
 
 Bing and Yahoo do support it, but have their own unique instructions.
 
@@ -336,9 +336,9 @@ User-agent: \* Disallow: /images Allow: /images/image01.jpg
 
 If you have multiple subdomains, you will need a robots.txt file for each one.
 
-For example, **https://staging-devinschumacher.kinsta.cloud** would have a robots.txt file URL of **https://devinschumacher.com/robots.txt**.
+For example, **https://devinschumacher.com** would have a robots.txt file URL of **https://devinschumacher.com/robots.txt**.
 
-**http://staging-devinschumacher.kinsta.cloud** would have a different one — **https://devinschumacher.com/robots.txt**.
+**https://devinschumacher.com** would have a different one — **https://devinschumacher.com/robots.txt**.
 
 This applies for all different variations of your website, ccTLDs included.
 
@@ -374,9 +374,9 @@ The byte order mark (UTF-8 BOM) is a unicode character that indicates the byte o
 
 Because it has no bearing on SEO, it's not surprising [Google straight-out ignores it](https://developers.google.com/search/reference/robots_txt#file-format).
 
-![](/images/image-61.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-61.png)
 
-![](/images/image-62-1024x504-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-62-1024x504-1.png)
 
 If Google ignores it, then why should you even do anything about it?
 
@@ -384,23 +384,23 @@ Because not every search engine is like Google, and it (UTF-8 BOM) has shown to 
 
 Sometimes, the byte order mark will "choke" the user-agent, causing it to error. When the user-agent stuffs up, everything else does too.
 
-![](/images/image-64.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-64.png)
 
 If you have Notepad++ (it's free) you can select to "Encode in UTF-8 without BOM."
 
-![](/images/image-63.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-63.png)
 
 Textpad (another similar program) has a box you can "un-tick."
 
-![Checking for UTF-8 BOM in text editor](/images/utf-bom-text-editor-option.jpg)
+![Checking for UTF-8 BOM in text editor](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/utf-bom-text-editor-option.jpg)
 
 If you have a robots.txt that you're not sure has UTF-8 BOM, use [W3C Internalization Checker](http://validator.w3.org/i18n-checker/#validate-by-upload+) to find out.
 
-![How to check robots.txt using W3C checker](/images/utf-bom-w3c-checker.jpg)
+![How to check robots.txt using W3C checker](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/utf-bom-w3c-checker.jpg)
 
 It will give you an answer.
 
-![W3C Checker Results for UTF-8 BOM](/images/utf-bom-result-top.jpg)
+![W3C Checker Results for UTF-8 BOM](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/utf-bom-result-top.jpg)
 
 ### Don't use the noindex directive
 
@@ -408,7 +408,7 @@ Did you know there is a "noindex" for the robots.txt file? It's technically unof
 
 Google begrudgingly supported it for a long time, even when they said not to use it. But [as of September of 2019 they officially stopped supporting it](https://webmasters.googleblog.com/2019/07/a-note-on-unsupported-rules-in-robotstxt.html).
 
-![](/images/image-65.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-65.png)
 
 > We're retiring all code that handles unsupported and unpublished rules (such as noindex) on September 1, 2019.
 
@@ -422,11 +422,11 @@ Leave noindex for meta tags.
 
 One of the most important things you can do is test your robots.txt file. You can do this with [Google Search Console](https://search.google.com/search-console/welcome).
 
-![](/images/image-66.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-66.png)
 
 If your robots.txt has errors, it will let you know.
 
-![](/images/image-67.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-67.png)
 
 ## Final Thoughts
 

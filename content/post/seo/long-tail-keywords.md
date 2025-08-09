@@ -1,6 +1,6 @@
 ---
 title: "long tail keywords"
-date: "2022-08-26"
+date: "2022-08-26T12:00:00.000Z"
 slug: "long-tail-keywords"
 ---
 
@@ -39,7 +39,7 @@ But, if that same person searches "blue american apparel t-shirts" the _intent_ 
 
 <figure>
 
-[![](/images/long-tail-keywords-graph-1024x926-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/long-tail-keywords-graph.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/long-tail-keywords-graph-1024x926-1.png)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ source: backlinko
 
 Because long-tails are more specific they usually have less search volume:
 
-[![](/images/sv-of-long-tails-vs-short-tails.png)](https://devinschumacher.com/wp-content/uploads/2022/08/sv-of-long-tails-vs-short-tails.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/sv-of-long-tails-vs-short-tails.png)
 
 However, there are **way more long tail keywords** than short ones.
 
@@ -64,13 +64,13 @@ But how many ways can you search for t-shirts when adding more words (aka how ma
 
 **The answer is 513,934 more keywords**:
 
-[![](/images/t_shirts_long_tail_searches-875x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/t_shirts_long_tail_searches.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/t_shirts_long_tail_searches-875x1024-1.png)
 
 Now do you see why your keyword research strategy & content plan need to incorporate long-tail keywords?!
 
 <figure>
 
-[![](/images/long-tail-keywords-make-up-majority-of-searches-929x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/long-tail-keywords-make-up-majority-of-searches.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/long-tail-keywords-make-up-majority-of-searches-929x1024-1.png)
 
 <figcaption>
 
@@ -122,7 +122,7 @@ Ahrefs phrase match is the easiest way to turn a [seed keyword](https://devinsch
 
 1\. Go to Ahrefs > Keyword Explorer > Enter your seed keyword > Select "phrase match"
 
-[![](/images/long-tail-kewyords-using-ahrefs-phrase-match-1024x866-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/long-tail-kewyords-using-ahrefs-phrase-match.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/long-tail-kewyords-using-ahrefs-phrase-match-1024x866-1.png)
 
 Scroll through to your hearts content!
 
@@ -132,7 +132,7 @@ Google autocomplete is one of our top ways to get ideas for keywords.
 
 1\. Go to Google > Enter your seed keyword
 
-[![](/images/screen-shot-2019-10-04-at-6.46.55-pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2019-10-04-at-6.46.55-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-04-at-6.46.55-pm.png)
 
 One thing to notice about Google auto-complete is that you will get different results every time you modify your search.
 
@@ -140,23 +140,23 @@ So, if you start with "vitamins " you will get the list shown above.
 
 But, if you start typing the letter a next, as in "vitamins a" you will get an autocomplete list of terms people use that begin with "vitamins a". And that works for other letters as well.
 
-![](/images/longtail-search-using-google-autocomplete-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail-search-using-google-autocomplete-1.png)
 
-![](/images/longtail-search-using-google-autocomplete-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail-search-using-google-autocomplete-2.png)
 
-![](/images/longtail-search-using-google-autocomplete-3.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail-search-using-google-autocomplete-3.png)
 
-![](/images/longtail-search-using-google-autocomplete-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail-search-using-google-autocomplete-1.png)
 
-![](/images/longtail-search-using-google-autocomplete-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail-search-using-google-autocomplete-2.png)
 
-![](/images/longtail-search-using-google-autocomplete-3.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail-search-using-google-autocomplete-3.png)
 
 And if by this time the ideas still aren't flowing, I recommend trying some obvious words.
 
 **For example, "vitamins for ":**
 
-[![](/images/longtail-search-using-google-autocomplete-4.png)](https://devinschumacher.com/wp-content/uploads/2022/08/longtail-search-using-google-autocomplete-4.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail-search-using-google-autocomplete-4.png)
 
 The more combinations of words / letters that you try the more ideas you will get for long tail keywords.
 
@@ -168,7 +168,7 @@ This method simply involves being able to see all the URLs on your competitor's 
 
 1\. Choose a competitor > Enter their URL into [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) > Filter by HTML (or export to CSV) > Look through the URLs (and Page Titles)
 
-[![](/images/longtail-keywords-by-competitors.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/longtail-keywords-by-competitors.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail-keywords-by-competitors.gif)
 
 ### Google "Searches Related To"
 
@@ -176,11 +176,11 @@ Google will give you other ideas for searches based on similar things that peopl
 
 So, if you start with vitamins (or any other search) and scroll down to the bottom of the SERP, you will see this box:
 
-[![](/images/longtail_keyword_research_using_searches_related_to_1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/longtail_keyword_research_using_searches_related_to_1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail_keyword_research_using_searches_related_to_1.png)
 
 And if those aren't enough ideas, just click on one and then scroll down to the bottom of the next SERP:
 
-[![](/images/longtail_keyword_research_using_searches_related_to_2.png)](https://devinschumacher.com/wp-content/uploads/2022/08/longtail_keyword_research_using_searches_related_to_2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail_keyword_research_using_searches_related_to_2.png)
 
 ### Answer The Public
 
@@ -188,11 +188,11 @@ Answer the Public is a cool website (that helps you get ideas for longtail keywo
 
 What could be better than that?
 
-[![](/images/using-answer-the-public-for-longtail-kw-research-1024x509-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-answer-the-public-for-longtail-KW-research.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-answer-the-public-for-longtail-kw-research-1024x509-1.png)
 
 Let's search "vitamins" again:
 
-[![](/images/using-answer-the-public-for-longtail-kw-research-2-1024x121-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-answer-the-public-for-longtail-KW-research-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-answer-the-public-for-longtail-kw-research-2-1024x121-1.png)
 
 And Answer The Public pulls back:
 
@@ -202,11 +202,11 @@ And Answer The Public pulls back:
 - 520 Alphabeticals
 - 20 Relateds
 
-[![](/images/using-answer-the-public-for-longtail-kw-research-4-1024x55-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-answer-the-public-for-longtail-KW-research-4.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-answer-the-public-for-longtail-kw-research-4-1024x55-1.png)
 
 And check out all these keywords!
 
-[![](/images/using-answer-the-public-to-get-longtail-keyword-ideas.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/using-answer-the-public-to-get-longtail-keyword-ideas.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-answer-the-public-to-get-longtail-keyword-ideas.gif)
 
 ### Keywords Everywhere
 
@@ -214,11 +214,11 @@ One cool way to "amplify" the Google "searches related to" method is using a chr
 
 When enabled, it will give you a ton more ideas of keywords based on the one you searched.
 
-[![](/images/long-tail-keyword-research-using-keywords-everywhere-859x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/long-tail-keyword-research-using-keywords-everywhere.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/long-tail-keyword-research-using-keywords-everywhere-859x1024-1.png)
 
 It used to be free, but it looks like they are moving it to a paid tool now. #SadDay
 
-[![](/images/download-5-2.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/download-5-2.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-5-2.gif)
 
 ### Google "People also ask"
 
@@ -230,17 +230,17 @@ They are questions that other searches that people also use related to the keywo
 
 For example, if you search "vitamins" and scroll down just a bit you will see this "people also ask" area - giving you even more long-tail keyword search ideas:
 
-[![](/images/longtail-kw-search-ideas-using-googles-people-also-ask-1024x916-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/longtail-KW-search-ideas-using-googles-people-also-ask.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail-kw-search-ideas-using-googles-people-also-ask-1024x916-1.png)
 
 If you start clicking on them, you get an essentially infinite number of new ideas:
 
-[![](/images/longtail-keyword-searches-using-people-also-ask.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/longtail-keyword-searches-using-people-also-ask.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/longtail-keyword-searches-using-people-also-ask.gif)
 
 ### Wonder Search
 
 Wonder Search is a free keyword tool that collects keyword terms that are semantically related to your seed keyword.
 
-[![](/images/wonder-search-ch-1024x653-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/wonder-search-ch.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/wonder-search-ch-1024x653-1.png)
 
 Basically, you enter a keyword and get a big list of those "People also ask" type keywords.
 
@@ -252,21 +252,21 @@ However, at the time of writing this, it seems they are having problems so I can
 
 Google Search Console "Performance report" shows you keywords that your website is showing up for somewhere on Google's index.
 
-![](/images/using-google-search-concsole-to-find-long-tail-keywords.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-google-search-concsole-to-find-long-tail-keywords.gif)
 
 ### Google Trends
 
 Google Trends is a tool that allows you to see interest related to a search term over time, so you know if the topic you are researching is growing or shrinking in consumer interest.
 
-[![](/images/using-google-trends-to-do-longtail-keyword-research-1024x536-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-google-trends-to-do-longtail-keyword-research.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-google-trends-to-do-longtail-keyword-research-1024x536-1.png)
 
 It looks like the interest for "long tail keywords" is on the rise .. kinda.
 
-[![](/images/using-google-trends-to-do-longtail-keyword-research-2-1024x495-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-google-trends-to-do-longtail-keyword-research-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-google-trends-to-do-longtail-keyword-research-2-1024x495-1.png)
 
 At the bottom of the page you can get more ideas:
 
-[![](/images/using-google-trends-to-do-longtail-keyword-research-3-1024x548-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-google-trends-to-do-longtail-keyword-research-3.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-google-trends-to-do-longtail-keyword-research-3-1024x548-1.png)
 
 ### Forums
 
@@ -286,11 +286,11 @@ A perfect opportunity for you to slide in to help people and make some sales: wi
 
 **Start by searching for forums:**
 
-[![](/images/using-long-tail-keywords-to-find-fprums-1024x912-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-long-tail-keywords-to-find-fprums.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-long-tail-keywords-to-find-fprums-1024x912-1.png)
 
 Scroll through the topics and get instant ideas for content (and also people you can contact to start engaging & potentially drum up some interest in your products/services)
 
-[![](/images/using-long-tail-keywords-to-find-fprums-2-1024x916-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-long-tail-keywords-to-find-fprums-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-long-tail-keywords-to-find-fprums-2-1024x916-1.png)
 
 ### Online Q&A Sites
 
@@ -333,11 +333,11 @@ Use social groups like you use Forums and Q&A sites.
 
 Soovle is a website that gives you search suggestions & auto0completions from the top providers on the internet.
 
-![](/images/using-soovle-for-longtail-keyword-research-1024x366-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-soovle-for-longtail-keyword-research-1024x366-1.png)
 
 As soon as I run my search (sticking with the example of "vitamins") you start seing the autocomplete information from all the different search engines pictured above:
 
-[![](/images/using-soovle-for-longtail-keyword-research-2-1024x528-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/using-soovle-for-longtail-keyword-research-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/using-soovle-for-longtail-keyword-research-2-1024x528-1.png)
 
 ### Longtail Keyword Tools
 
@@ -357,7 +357,7 @@ And if you are even more pedantic than that, just want the world's biggest list 
 
 We deployed this strategy for one of our clients and you can see that the long tail keyword pieces of content we created are actually their Top Pages!
 
-[![](/images/how-to-use-long-tail-keywords-1-1024x638-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/how-to-use-long-tail-keywords-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-to-use-long-tail-keywords-1-1024x638-1.png)
 
 **2\. Add longtail keywords into your articles (if they are semantic keywords, LSI keywords, or supporting keywords)**
 
@@ -369,7 +369,7 @@ Here is an example from one of our clients where we created a big article around
 
 You can see from the screenshot that by deploying this correctly, you can turn an article that was built around one seed term (essential oils guide) into an article that ranks for 160+ keywords!
 
-[![](/images/how-to-use-long-tail-keywords-2-1024x235-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/how-to-use-long-tail-keywords-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-to-use-long-tail-keywords-2-1024x235-1.png)
 
 3\. Use long-tail keywords as your "cluster content" pieces that bolster & link back to your pillar pieces of content
 

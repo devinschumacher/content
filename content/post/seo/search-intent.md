@@ -1,6 +1,6 @@
 ---
 title: "search intent"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "search-intent"
 ---
 
@@ -8,7 +8,7 @@ slug: "search-intent"
 
 Search intent is what someone is looking for when they use a [search engine](https://devinschumacher.com/search-engines/) (like Google.)
 
-![](/images/image-160.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-160.png)
 
 It is also referred to as user intent, or [keyword](https://devinschumacher.com/seo-keywords) intent.
 
@@ -37,7 +37,7 @@ These two things don't always line up. Ideally they should, which is what Google
 
 <figure>
 
-![](/images/image.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image.png)
 
 <figcaption>
 
@@ -92,7 +92,7 @@ A consumer is already educated about their PROBLEM, and fairly knowledgable abou
 
 Many times these are even "Bottom of the funnel" keywords - because the people searching them are actually quite close to making a purchase decision. For example - if you are searching for "Best chinese food in los angeles" you might be in your car, hungry, ready to eat and just waiting for the first 4 star reviewed place to pop up so you can click "get directions".
 
-![](/images/download-6.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-6.gif)
 
 ### Transactional
 
@@ -114,7 +114,7 @@ Search intent is important because Google (and other search engines) value it wh
 
 [Google's own mission statement](https://about.google/intl/en/) confirms this.
 
-![](/images/image-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-1.png)
 
 > Our mission is to organize the world's information and make it universally accessible and useful.
 
@@ -124,11 +124,11 @@ Google wants its search results to be useful, to actually be what people are loo
 
 They even have an entire section about search intent in their [search quality evaluator guidelines](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf).
 
-![](/images/image-2-1024x494-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-2-1024x494-1.png)
 
 Google also released this report — [How Intent Is Redefining The Marketing Funnel](https://www.thinkwithgoogle.com/feature/search-intent-marketing-funnel/#/).
 
-![](/images/image-3-1024x599-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-3-1024x599-1.png)
 
 It's an interesting read. It really shows you how much Google values what search users are looking for.
 
@@ -159,7 +159,7 @@ Here's a graph of keyword "modifiers" that'll help you identify search intent.
 
 <figure>
 
-![](/images/image-4.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-4.png)
 
 <figcaption>
 
@@ -177,7 +177,7 @@ Now, obviously, the top results for your keyword are going to satisfy search int
 
 Type your keyword into Google and observe the results — we'll use "best seo tool" as an example.
 
-![](/images/image-5-1024x504-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-5-1024x504-1.png)
 
 Each top result is a piece of content about the best [seo](https://devinschumacher.com/what-is-seo) tools. People who type this search query into google are researching. They want to find out what the best option is.
 
@@ -185,7 +185,7 @@ Each top result is a piece of content about the best [seo](https://devinschumach
 
 But if we look at the results for "backlink checker" we get different results.
 
-![](/images/image-7-1024x504-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-7-1024x504-1.png)
 
 The results are all actual tools, not content write-ups about "what is the best tool."
 
@@ -193,7 +193,7 @@ The results are all actual tools, not content write-ups about "what is the best 
 
 Another thing to look out for on results pages are **SERP Features**.
 
-![](/images/image-8-1024x491-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-8-1024x491-1.png)
 
 SERP features are special results that appear on results pages — usually at the top or side of the page.
 
@@ -203,19 +203,19 @@ They act as a way for search results to be more in-depth, and enticing to click 
 
 - Rich Snippets
 
-![](/images/image-12.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-12.png)
 
 - Paid Results
 
-![](/images/image-13.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-13.png)
 
 - Universal Results
 
-![](/images/image-14.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-14.png)
 
 - Knowledge Graphs
 
-![](/images/image-15.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-15.png)
 
 The [on-page SEO](https://devinschumacher.com/on-page-seo/#17-serp-features) post covers SERP features in-depth, you can read more there.
 
@@ -223,7 +223,7 @@ Use this graph to help you match the SERP feature with keyword intent.
 
 <figure>
 
-![](/images/image-9.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-9.png)
 
 <figcaption>
 
@@ -235,7 +235,7 @@ source: ahrefs
 
 The Beats headphones example from above clearly has a transactional intent.
 
-![](/images/image-11.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-11.png)
 
 Using these methods (observation, modifiers, SERP analysis) should be enough to discover search intent.
 
@@ -249,17 +249,17 @@ The reality is that SERPs are always changing. You can analyze it to uncover use
 
 To do this, we'll use [Ahrefs' Keyword Explorer tool](https://ahrefs.com/keywords-explorer).
 
-![](/images/image-17.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-17.png)
 
 Enter your keyword into the tool, and scroll down to the "SERP position history" section.
 
-![](/images/image-19.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-19.png)
 
 The example in the image (how to write a resume) show extremely consistent results. This tells us that the current SERP ranking is authentic. Search intent is clear.
 
 Compare that to the results for "mercury."
 
-![](/images/image-21.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-21.png)
 
 The ranking history is highly variable, always changing. It's hard to gauge keyword intent from this.
 
@@ -269,7 +269,7 @@ Most results are going to be somewhere in-between the two examples above.
 
 Take "notre dame" for example.
 
-![](/images/image-22.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-22.png)
 
 In these instances, you'll want to focus on the consistent results. In the above example, it's the green and purple lines.
 
@@ -283,7 +283,7 @@ User experience is extremely important when it comes to your content. How do you
 
 User signals.
 
-![](/images/image-23.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-23.png)
 
 Google watches what search users do — when they click on a result, do they stay there? Or do they leave instantly?
 
@@ -302,17 +302,17 @@ If your content is not optimized for user experience, you're bounce rate is goin
 
 Popups can be extremely intrusive, absolutely ruining the user experience of your content.
 
-![](/images/image-26.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-26.png)
 
 It's best to just avoid them altogether.
 
 **However, exit-intent popups are fine.**
 
-![](/images/image-24.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-24.png)
 
 Exit-intent popups are popups that appear when you move your cursor to exit the page.
 
-![](/images/image-25-1024x525-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-25-1024x525-1.png)
 
 They are naturally less intrusive than all other forms of popups.
 
@@ -320,15 +320,15 @@ They are naturally less intrusive than all other forms of popups.
 
 Really small font size can absolutely ruin user experience. How can you expect someone to read something they can't see?
 
-![](/images/image-27.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-27.png)
 
 No but seriously — look at how hard this is to read.
 
-![](/images/image-30.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-30.png)
 
 Now compare it to this — a much larger font size.
 
-![](/images/image-31.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-31.png)
 
 Much easier to read.
 
@@ -336,9 +336,9 @@ So what size do you want to use?
 
 According to a [2016 study](https://www.researchgate.net/publication/301935601_Make_It_Big_The_Effect_of_Font_Size_and_Line_Spacing_on_Online_Readability), 18 points font size. In pixels that's 24.
 
-![](/images/image-28.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-28.png)
 
-![](/images/image-29.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-29.png)
 
 The truth is, there are lots of studies/research saying all sorts of font sizes. The main constant however, is avoiding a size that's too small.
 
@@ -348,13 +348,13 @@ Test out your font size yourself. Ask yourself, "is this hard to read?" Show it 
 
 Subheadings make your content easy to navigate, easy to understand.
 
-![](/images/image-54-1024x532-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-54-1024x532-1.png)
 
 Like chapters in a book, the content is sliced and diced into different sections.
 
 **Pro tip: combine subheadings with a table of contents for maximum content navigation.**
 
-![](/images/image-32-1024x343-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-32-1024x343-1.png)
 
 #### Don't Forget Videos & Images
 
@@ -367,7 +367,7 @@ Videos and images are a great way to increase your contents readability.
 
 Long walls of text are very hard to read — images and videos act as a way to break them up.
 
-![](/images/image-35-1024x567-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-35-1024x567-1.png)
 
 Images are also highly effective as a way to show information.
 
@@ -388,7 +388,7 @@ And as far as videos go, they're a whole bunch of images. They work even better.
 
 The "People Also Ask" box SERP feature is a goldmine for content ideas.
 
-![](/images/image-36-1024x563-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-36-1024x563-1.png)
 
 These are actual questions people want answers to when they type your keyword into Google. This is more than just analyzing the SERP results to uncover user intent — these are SPECIFIC questions.
 
@@ -396,27 +396,27 @@ Adding these questions to our content will help satisfy search intent greatly, s
 
 Look at how I've covered some of these questions for "search intent" in this post.
 
-![](/images/image-38.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-38.png)
 
-![](/images/image-37-1024x559-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-37-1024x559-1.png)
 
-![](/images/image-39.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-39.png)
 
-![](/images/image-40-1024x567-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-40-1024x567-1.png)
 
-![](/images/image-41.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-41.png)
 
-![](/images/image-42-1024x567-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-42-1024x567-1.png)
 
 **NOTE: Not all questions (from the box) should be used.**
 
 When you click on the questions, more and more will appear. They tend to become more random and irrelevant as the list goes on.
 
-![](/images/image-43.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-43.png)
 
 Focus on the questions at the top.
 
-![](/images/image-44.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-44.png)
 
 **Takeaway:** Insert questions and answers from the "people also ask" box into your content.
 
@@ -428,7 +428,7 @@ Google tends to want a very specific type of content when it comes to keywords.
 
 Check out this example — "on-page seo."
 
-![](/images/image-45-1024x504-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-45-1024x504-1.png)
 
 Notice anything? All the top-results are actionable guides. This is the specific type of content to make for this keyword — this is the content that satisfies search intent.
 
@@ -436,19 +436,19 @@ Notice anything? All the top-results are actionable guides. This is the specific
 
 They had originally created a study for their on-page seo post.
 
-![](/images/image-46-1024x504-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-46-1024x504-1.png)
 
 It didn't rank well. What was wrong?
 
 They didn't satisfy search intent. All the top-results were actionable guides, so they redid the post.
 
-![](/images/image-47-1024x504-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-47-1024x504-1.png)
 
 Doing this resulted in a 3,100% increase in traffic.
 
 <figure>
 
-![](/images/image-48.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-48.png)
 
 <figcaption>
 
@@ -472,11 +472,11 @@ Lots of Google searches are looking for these commercial pages. Someone might be
 
 Here's an example — "nike roshe."
 
-![](/images/image-49-1024x531-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-49-1024x531-1.png)
 
 No content results, all commercial pages.
 
-![](/images/image-53.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-53.png)
 
 If you want to rank for this keyword, don't make a blog post. Make an e-commerce product page.
 
@@ -488,9 +488,9 @@ True — a product name google search is most likely going to result in pages to
 
 Take "air fryer" for example.
 
-![](/images/image-51.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-51.png)
 
-![](/images/image-52.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-52.png)
 
 See that? Content results.
 

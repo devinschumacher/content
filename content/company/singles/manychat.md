@@ -1,7 +1,7 @@
 ---
 slug: /reviews/manychat/
 title: "ManyChat Review"
-date: "2023-01-20"
+date: "2023-01-20T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -16,7 +16,7 @@ One of the most well-known and widely used chatbot software platforms that are c
 
 The interface of ManyChat's dashboard is very straightforward, consisting of a menu on the left side containing a variety of options and the content of each area on the right side. It is a very simple dashboard that can be grasped in a short amount of time:
 
-![Untitled](/images/Untitled-9.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-9.png)
 
 When it comes to the process of constructing a chatbot, the interface that ManyChat provides is one of the nicest that I have ever seen in a chatbot platform. This is due to the fact that ManyChat offers two distinct kinds of user interfaces, which are referred to respectively as The Basic Builder and The Flow Builder.
 
@@ -24,7 +24,7 @@ When it comes to the process of constructing a chatbot, the interface that ManyC
 
 When you use the Basic Builder, the content of your chatbot will be more ordered, and all of the messages that belong to a certain flow will be delivered in the correct sequence. This interface may be simple, as its name suggests, but it ensures that you will be able to maintain order within your chatbot.
 
-![Untitled](/images/Untitled-10.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-10.png)
 
 ## The Flow Builder
 
@@ -36,7 +36,7 @@ When you have a lot of content in your chatbot, one of the typical drawbacks of 
 
 However, if you use ManyChat, you will always have the option to switch to the Basic Builder, which will allow you to maintain everything in its place.
 
-![Untitled](/images/Untitled-11.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-11.png)
 
 ## Component of a Chatbot
 
@@ -50,7 +50,7 @@ The process of assigning user-specific custom fields and tags is made exceptiona
 
 You need just provide questions to users, and their responses can either be saved in a user-defined field or tagged with a specific label. You'll be able to send broadcasts to specified user segments if you make use of those custom fields and tags.
 
-![Untitled](/images/Untitled-12.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-12.png)
 
 In addition, users have the ability to communicate their location to a ManyChat chatbot. This may provide you with more information regarding the geographical location of your audience.
 
@@ -58,7 +58,7 @@ Under the "Audience" page of ManyChat, you will be able to see a list of everyon
 
 It is quite helpful because you are able to click on any individual user in this overview and obtain all of the information pertaining to that user:
 
-![Untitled](/images/Untitled-13.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-13.png)
 
 ## Messages
 
@@ -68,7 +68,7 @@ The fact that the sequences in ManyChat are very well arranged is one of the asp
 
 You are able to see the entire sequence in one convenient overview, and you can also see which message is sent at which time, which is a very helpful tool.
 
-![Untitled](/images/Untitled-14.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-14.png)
 
 You can also make advantage of a feature in ManyChat known as "Conditions," which allows you to employ logic in order to direct users through a particular flow.
 
@@ -80,7 +80,7 @@ The AI and NLP capabilities of ManyChat are extremely user-friendly. Within Many
 
 On the other hand, neither intents nor automatically generated synonyms are supported. The way it appears within ManyChat:
 
-![Untitled](/images/Untitled-15.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-15.png)
 
 They do, however, offer the choice of how the keyword is matched within the context of their keywords feature. This is a function that is not present in all chatbot software. It's possible to argue that:
 
@@ -136,7 +136,7 @@ In addition, ManyChat has its very own app store, where third-party developers c
 
 The App Store currently has 38 applications available for download, but I anticipate this number will steadily increase over the coming years:
 
-![Untitled](/images/Untitled-16.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-16.png)
 
 ## Marketing
 
@@ -148,7 +148,7 @@ When you create a post on Facebook, other users will remark on it, and then you 
 
 However, ManyChat takes things a step further. In addition to sending a message through Facebook Messenger, you also have the option to automatically like the comment and respond to it with your own comment:
 
-![Untitled](/images/Untitled-17.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-17.png)
 
 ## Pricing
 
@@ -156,7 +156,7 @@ Pricing is potentially the most crucial aspect. ManyChat offers a free plan that
 
 You can subscribe to the Pro plan if you want extra features, which costs only fifteen dollars per month, which is a fairly affordable price:
 
-![Untitled](/images/Untitled-18.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-18.png)
 
 The cost of the Pro plan increases proportionately with the number of users who subscribe to your chatbot. The cost of maintaining 1k subscribers is $25 per month while maintaining 5k subscribers costs $45 per month.
 
@@ -166,15 +166,15 @@ This package also includes a free trial of ManyChat's Pro features that you can 
 
 ManyChat's dashboard includes several fundamental analytics for users. The first thing that you will see when you access the dashboard is a comprehensive summary of all of your subscribers, including:
 
-![Untitled](/images/Untitled-19.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-19.png)
 
 In addition to that, they offer metrics tailored to each individual block in your chatbot. They provide the number of people the message is delivered to, the percentage of people who open the message, and the percentage of people who click on the message for each block.
 
-![Untitled](/images/Untitled-20.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-20.png)
 
 The same is true for sequential events. The following information is supplied for each sequence: the number of subscribers, the open rate, and the click rate:
 
-![Untitled](/images/Untitled-21.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-21.png)
 
 There are just two limitations to the analytics that can be found in ManyChat, and they are as follows:
 
@@ -238,4 +238,4 @@ My recommendation for creating a chatbot for Facebook Messenger is ManyChat. It 
 
 ManyChat is a really high-quality piece of software that you can use to construct your chatbot, and in light of recent developments, I believe that they will expand their platform even more.
 
-![Untitled](/images/Untitled-22.png)
+![Untitled](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Untitled-22.png)

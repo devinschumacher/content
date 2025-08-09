@@ -1,7 +1,7 @@
 ---
 slug: /reviews/podia/
 title: "Podia Review"
-date: "2022-10-08"
+date: "2022-10-08T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -16,7 +16,7 @@ So how do you choose?
 
 [Podia](https://serp.ly/podia/) is an up-and-coming online content creation course, but as it is a recent addition to the world of online course business, does it stack up to the competition? Or will it bore your students and force you to look elsewhere for your course creation needs?
 
-### ![Batman Arkham City Riddler Trophy Full-Scale Prop Replica](/images/54a465c29d22438d99aec0bbfe456c0elg.png)
+### ![Batman Arkham City Riddler Trophy Full-Scale Prop Replica](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/54a465c29d22438d99aec0bbfe456c0elg.png)
 
 ## Who Should Use Podia?
 
@@ -26,7 +26,7 @@ The digital storefront also possesses the infrastructure to retain student data 
 
 In addition, you can sell digital products on a one-off basis to customers who are not interested in online courses memberships.
 
-![Image of What Did It Cost_Everything Know Your Meme](/images/What-Did-It-Cost_Everything-Know-Your-Meme.jpg)
+![Image of What Did It Cost_Everything Know Your Meme](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/What-Did-It-Cost_Everything-Know-Your-Meme.jpg)
 
 ### The Simplicity of Online Courses at a Cost
 
@@ -60,7 +60,7 @@ The cost for Podia or any platform is often the biggest deciding factor for peop
 
 There are three plans altogether, and they each come with a 14-day free trial and do not require a credit card. The Mover plan is $39 per month, the Shaker plan is $79 per month, and Earthquaker is $179 per month.
 
-![Screenshot of Podia Plans & Pricing](/images/podia-pricing-plans.png)
+![Screenshot of Podia Plans & Pricing](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/podia-pricing-plans.png)
 
 There are no high transaction fees for the Mover, Shaker, or Earthquaker plans. Each plan offers unlimited courses, along with other benefits. The Shaker plan and above are the only ways to get memberships, Zoom integration, and Affiliate marketing features, to name a few.
 
@@ -81,7 +81,7 @@ There are benefits as well as shortcomings to each feature.
 
 Let's begin with the feature that you may have come to this review for specifically, content creation.
 
-![Image of How to create a better online course experience with drip content | Podia](/images/How-to-create-a-better-online-course-experience-with-drip-content_Podia.png)
+![Image of How to create a better online course experience with drip content | Podia](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/How-to-create-a-better-online-course-experience-with-drip-content_Podia.png)
 
 ## Podia Content Creation and Engagement
 
@@ -107,7 +107,7 @@ You can choose to vary not only the delivery methods but the content itself to k
 
 You could change it up by using videos, workbooks, tutorials, or other means to academically challenge your students.
 
-![Image of 5+ best software to create quizzes](/images/5-best-software-to-create-quizzes.jpg)
+![Image of 5+ best software to create quizzes](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/5-best-software-to-create-quizzes.jpg)
 
 **Quizzes**
 
@@ -120,7 +120,7 @@ A simple way of testing your students' knowledge is with Podia's built-in quizze
 
 Once the student is done with their quiz, they will see their final results before moving on to their next lesson. You can also check your customers' quiz completion individually by checking their course progress.
 
-![Image of 31 Pictures That Will Restore Your Faith In Cats](/images/31-Pictures-That-Will-Restore-Your-Faith-In-Cats.jpeg)
+![Image of 31 Pictures That Will Restore Your Faith In Cats](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/31-Pictures-That-Will-Restore-Your-Faith-In-Cats.jpeg)
 
 **Bundling Courses**
 
@@ -133,7 +133,7 @@ You may consider bundling products or digital downloads so that your students ca
 5. Bundles can be offered for free, set as a one-time payment, or request a monthly payment, depending on your preference.
 6. Bundle prices are sold at a lower price than if each object was purchased on its own, incentivizing customers to purchase bundles that can boost your average order value.
 
-### ![](/images/ezgif.com-gif-maker.gif)
+### ![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/ezgif.com-gif-maker.gif)
 
 ### Uploading Content
 
@@ -141,7 +141,7 @@ After learning what kind of content you want to produce, your next step is findi
 
 You can transfer your content to your Podia account either one by one or in bulk. Podia can then automatically create lessons from them.
 
-![Image of Final Fantasy 7 Remake trailer: Our 5 favorite details - Polygon](/images/Final-Fantasy-7-Remake-trailer-Our-5-favorite-details-Polygon-1024x683.jpg)
+![Image of Final Fantasy 7 Remake trailer: Our 5 favorite details - Polygon](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Final-Fantasy-7-Remake-trailer-Our-5-favorite-details-Polygon-1024x683.jpg)
 
 **Cloud Limitations**
 
@@ -155,19 +155,19 @@ Once your content is all on Podia, you can separate them into lessons and sectio
 
 Uploading content is convenient, but there are a few downsides.
 
-### ![Death Stranding tips for becoming the most efficient delivery man in the  post-apocalypse - VG247](/images/DEATH-STRANDINGE284A2_20191017112125-e1573125615944.png)
+### ![Death Stranding tips for becoming the most efficient delivery man in the  post-apocalypse - VG247](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/DEATH-STRANDINGE284A2_20191017112125-e1573125615944.png)
 
 ### Online Course Player and Content Delivery
 
 Podia's course player is a smooth user interface with an attractive aesthetic split into two halves. Students use the bigger half on the right to watch the course and they can use the left half to select a specific section or navigate the course.
 
-![Podia Review [Feb 2021]: Is It Worth Your Money?](https://devinschumacher.com/wp-content/uploads/2022/10/Podia-course-comments.webp)
+![Podia Review [Feb 2021]: Is It Worth Your Money?](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Podia-course-comments.webp)
 
 **Comment Section**
 
 The comment area at the bottom appears if you have that feature turned on. Here, students can ask questions or leave a comment without leaving the exiting the course player.
 
-![Screenshot of Gutsy Boss Club](/images/feature-memberships-branding-1024x1024.png)
+![Screenshot of Gutsy Boss Club](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/feature-memberships-branding-1024x1024.png)
 
 **Membership Site**
 
@@ -195,7 +195,7 @@ Thankfully, you don't have to worry about buying website hosting separately when
 
 In addition to supporting a custom domain, security, updates, and maintenance will come at no additional cost to you, as Podia will do all the heavy lifting for you. Now you can focus on what truly matters: designing a website that will bring in the customers.
 
-![Sales Page Builder for Selling Digital Downloads, Memberships, & Courses |  Podia](/images/feature-custom_website-branding-1024x1019.png)
+![Sales Page Builder for Selling Digital Downloads, Memberships, & Courses |  Podia](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/feature-custom_website-branding-1024x1019.png)
 
 ### One-and-Done Template
 
@@ -207,7 +207,7 @@ While having a predetermined built-in sales page, online store, checkout pages, 
 
 Although you can't change the layout of your courses, you can alter other features via the online learning platform editor. The sidebar only appears while you are editing, allowing you to see the whole page to see if any other changes are needed.
 
-![](/images/sidebar-change-fonts.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/sidebar-change-fonts.gif)
 
 Next, change your text and headings by choosing from a wide selection of fonts and changing the font spacing, height, and weight. You can choose different colors to represent different parts of the site.
 
@@ -227,7 +227,7 @@ Not every flaw within Podia's site editor was solved with the quality of life op
 
 You cannot reach your site's database or implement CSS code and change the design. Podia sacrifices customization options in favor of a simple, elegant look. Its minimalistic design philosophy extends to how Podia handles its payments as well.
 
-![Image of Online payment processing for internet businesses - Stripe](/images/Stripe-1-1024x512.png)
+![Image of Online payment processing for internet businesses - Stripe](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Stripe-1-1024x512.png)
 
 ## Podia Payments and Marketing Services to Sell Online Courses
 
@@ -251,7 +251,7 @@ This is good for customers who don't want to invest in memberships but do want t
 
 To sell online memberships, you have the option to create multiple pricing plans and choose which products fall under the plans for your online business. You could also put in posts under a higher tier membership plan as well.
 
-![Image of oracle-digital-training-discount](/images/oracle-digital-training-discount-1024x500.png)
+![Image of oracle-digital-training-discount](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/oracle-digital-training-discount-1024x500.png)
 
 ### Discounts
 
@@ -269,7 +269,7 @@ Podi accepts credit cards, along with Stripe and PayPal, but as mentioned previo
 
 Also, to capitalize on your discounts, you may want to add upsells to your products. Upsells let you recommend other products, potentially with a discount, to the customer while they are purchasing something else.
 
-![Screenshot of Podia Review 2021: Is It Worth Using? - Online Course How](/images/Podia-Email-Marketing.jpg)
+![Screenshot of Podia Review 2021: Is It Worth Using? - Online Course How](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Podia-Email-Marketing.jpg)
 
 ### Podia's Email Marketing Features
 
@@ -291,7 +291,7 @@ However, [email marketing](https://devinschumacher.com/) is not the only way y
 
 [Affiliate marketing](https://devinschumacher.com/affiliate-marketing/) is a wonderful tool that can help you drive customers to an online course by paying a third party to market your content to their audience.
 
-![Image of Raid: Shadow Legends Official Trailer - YouTube](/images/Raid-Shadow-Legends-Official-Trailer-YouTube-1024x576.jpg)
+![Image of Raid: Shadow Legends Official Trailer - YouTube](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Raid-Shadow-Legends-Official-Trailer-YouTube-1024x576.jpg)
 
 One of the most popular affiliate marketing adverts on YouTube is Raid: Shadow Legends. In fact, reading the game's title might feel instantly familiar because Raid: Shadow Legends constantly sends out a call to dozens of content creators to market the game. It typically works well, so give it a try.
 
@@ -305,11 +305,11 @@ Affiliate tools are a cool way to make passive income within the course.
 
 [Podia](https://serp.ly/podia/) supports a variety of third-party apps for use on your website. You can make use of various email service providers, such as [MailChimp](https://serp.ly/mailchimp/) and [Drip](https://serp.ly/drip/), to build more compelling email marketing strategies.
 
-![Image of Google Analytics Review | PCMag](/images/Google-Analytics-Review-PCMag.jpg)
+![Image of Google Analytics Review | PCMag](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Google-Analytics-Review-PCMag.jpg)
 
 If you want to see how visitors interact with your website, use third-party code applications like [Google Analytics](https://serp.ly/google-analytics-2/), to learn who your website visitors are and what they are doing on your site. [HotJar](https://serp.ly/hotjar/) can help you collect user feedback and turn more visitors into part of your audience.
 
-![Image of Zoom Logo](/images/zoom.jpg)
+![Image of Zoom Logo](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/zoom.jpg)
 
 You can even link apps like [Zoom](https://serp.ly/zoom/) into your digital marketing efforts, but that will require you to have at least a Shaker plan.
 
@@ -327,7 +327,7 @@ One more thing with affiliate marketing is that you cannot easily collect and ma
 
 Podia provides multiple ways to help you check on students' progress and excellent customer service.
 
-![Screenshot of Podia Products Page](/images/Podia-Design-School-1024x908.png)
+![Screenshot of Podia Products Page](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Podia-Design-School-1024x908.png)
 
 ### People Management
 
@@ -335,7 +335,7 @@ In the Audience section of the app, you can see a list of your students and filt
 
 For each specific student, you check their progress on courses or tests, but there are no course completion certificates so you can know which courses they excel in.
 
-![](/images/podia-customer-support-podia-vs-thinkific.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/podia-customer-support-podia-vs-thinkific.jpg)
 
 ### Customer Support
 
@@ -355,7 +355,7 @@ Also, the filter options on the Audience section are lackluster. You cannot filt
 
 Lastly, Podia's customer support could be improved by adding ways to interact with other users via social media. Other competitors have established Facebook Groups so that users can ask questions from other content creators and network with others.
 
-![The End Love GIF by Molang - Find & Share on GIPHY](/images/giphy-1-3.gif)
+![The End Love GIF by Molang - Find & Share on GIPHY](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/giphy-1-3.gif)
 
 ## Final Thoughts
 

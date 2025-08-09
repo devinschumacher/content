@@ -1,7 +1,7 @@
 ---
 slug: /reviews/mailshake/
 title: "MailShake Review"
-date: "2022-10-08"
+date: "2022-10-08T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -14,7 +14,7 @@ tags:
 
 Mailshake integrates with your email account to help you schedule, organize, and personalize your email campaigns in just a few steps.
 
-![Screenshot of Mailshake Dashboard](/images/Mailshake-Dashboard.png)
+![Screenshot of Mailshake Dashboard](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Mailshake-Dashboard.png)
 
 Since it is merely an outreach software, you need to have your own lists of prospects and contacts ready before you start using it. But trust me, you don't need a separate tool for that.
 
@@ -24,7 +24,7 @@ What I love about Mailshake is that it is extremely easy to use, and it gives yo
 
 Without a tool like this, sending personalized cold emails can be extremely time-consuming and frustrating, especially if you're sending hundreds of emails regularly.
 
-![](/images/giphy-4.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/giphy-4.gif)
 
 And don't even get me started on follow-ups and how manually tracking your responses will become a real-life nightmare. Once you're done with your cold emailing, it is impossible to tell who took some sort of action. Who opened your email, read it, and clicked on the links.
 
@@ -36,7 +36,7 @@ If you're not sure what message to write, Mailshake provides a bunch of fully cu
 
 ### Step 1: Create a New Campaign
 
-![Screenshot of Step 1: Create a New Campaign](/images/Step-1-Create-a-New-Campaign.png)
+![Screenshot of Step 1: Create a New Campaign](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Step-1-Create-a-New-Campaign.png)
 
 The first thing you need to do before clicking on the 'plus' button to create your new campaign is to download your spreadsheet with all your information in google sheets.
 
@@ -56,13 +56,13 @@ If you also struggle with this, this tool's got your back. Mailshake offers a pr
 
 Click on the 'insert button' to access the text replacements that you need. You can also just remember the name of the column and insert it between curly brackets.
 
-![Acreenshot of Step 2: Compose Your Emails](/images/Step-2-Compose-Your-Emails-1024x576.png)
+![Acreenshot of Step 2: Compose Your Emails](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Step-2-Compose-Your-Emails-1024x576.png)
 
 You can also include as many links as you want and go over each contact to personalize emails even further.
 
 Let's not forget about the replies. Select how many days you want to wait after the initial email and under what conditions (like if you haven't heard back from the recipient).
 
-![Screenshot of Mailshake Replies Tab](/images/Mailshake-Replies-Tab-1024x410.png)
+![Screenshot of Mailshake Replies Tab](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Mailshake-Replies-Tab-1024x410.png)
 
 You can add as many replies as you want. Usually, two replies are enough.
 
@@ -80,7 +80,7 @@ Say you know some of your contacts in real life, and you want to include additio
 
 You can schedule your campaign to be sent at a specific time and date or send it right away. You can also select if you want to track the opens or the link clicks.
 
-![Screenshot of Mailshake's Step 4: Send Your Campaign](/images/Step-4-Send-Your-Campaign.png)
+![Screenshot of Mailshake's Step 4: Send Your Campaign](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Step-4-Send-Your-Campaign.png)
 
 With the advanced options, you can choose to send your campaign in smaller batches.
 
@@ -90,7 +90,7 @@ Once you click next, Mailshake is going to show you one last preview to make sur
 
 From the overview tab, you will be able to easily visualize how your cold outreach campaign is doing. This is one of the reasons why so many email marketers love Mailshake.
 
-![Screenshot of Mailshake's Overview tab](/images/Overview-tab-1024x300.png)
+![Screenshot of Mailshake's Overview tab](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Overview-tab-1024x300.png)
 
 Scrolling down a bit you will be able to check out the recent activity, which is a line-by-line display of the actions that have been taken.
 
@@ -114,7 +114,7 @@ They are only meant to stop if the recipient replies to one of them, but you can
 
 You can assign a date, time, and conditions to each step of your drip campaigns. A few days should go by between drips so that you don't seem too insistent.
 
-![](/images/giphy-1-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/giphy-1-1.gif)
 
 Mailshake allows you to add as many drips as you want and fully customize each one individually.
 
@@ -132,7 +132,7 @@ If we're talking about outreach email campaigns, we must talk about A/B testing 
 
 It consists of sending two different variations of a single campaign to two different groups of subscribers to figure out which one has the best results.
 
-![](/images/file-AThRwcue7l.gif) [Mailshake](https://serp.ly/mailshake/) allows you to create up to five different variations. It will track the results of each one, analyzing aspects such as clicks, opens, replies, and bounces.
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/file-AThRwcue7l.gif) [Mailshake](https://serp.ly/mailshake/) allows you to create up to five different variations. It will track the results of each one, analyzing aspects such as clicks, opens, replies, and bounces.
 
 With this tool, you will be able to improve your open and click-through rates, which will help you enhance your campaign performance greatly.
 
@@ -140,7 +140,7 @@ With this tool, you will be able to improve your open and click-through rates, w
 
 Who doesn't hate spam emails? They are not only useless but also annoying and sometimes even dangerous.
 
-![](/images/giphy-5.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/giphy-5.gif)
 
 If you want your automated emails to be as far away as possible from the junk folder, you will have to personalize them. Naming the recipient at the beginning is a good start.
 
@@ -194,7 +194,7 @@ It offers two subscription plans starting at $59. Each user can link one email a
 
 Choosing one plan or the other will depend on how big you need your campaigns to be. The Email Outreach plan allows you to include up to 5,000 recipients per campaign, while the Sales Engagement plan supports 10,000.
 
-![](/images/836d4348-65a1-44ab-8b71-6d73be7fd623.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/836d4348-65a1-44ab-8b71-6d73be7fd623.png)
 
 Additionally, depending on your email provider, your number of emails per day will be limited. Gmail allows 500 emails a day, while Microsoft allows 1,000.
 

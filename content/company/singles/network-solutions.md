@@ -1,7 +1,7 @@
 ---
 slug: /reviews/network-solutions/
 title: "Network Solutions Review"
-date: "2022-10-07"
+date: "2022-10-07T12:00:00.000Z"
 category: Reviews
 tags: 
   - "affiliate-marketing"
@@ -25,11 +25,11 @@ Network Solutions is known for its reliable service and top-notch customer suppo
 
 It all begins with a domain. That is the first thing you can see on the Network Solutions page. It all comes down to Network Solutions being the world's first domain registrar and a technology consulting company with 25 years of experience. 
 
-![](/images/This image has an empty alt attribute; its file name is 61902565-4a70-4f75-85d5-7305ee6e7fb7.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 61902565-4a70-4f75-85d5-7305ee6e7fb7.png)
 
 And now it grows to offer everything you need to make your online business a success. Products and services offered are domain, web hosting, site builder, SSL certificate, professional email, and WordPress hosting.
 
-![](/images/This image has an empty alt attribute; its file name is 1e47d0c9-148d-490d-9353-2a202e092b52.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 1e47d0c9-148d-490d-9353-2a202e092b52.png)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3450.5210583389844!2d-81.53214120000001!3d30.136515499999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e5ccc72afca70d%3A0xe7f6359d2db9c25c!2s12808%20Gran%20Bay%20Pkwy%2C%20Jacksonville%2C%20FL%2032258%2C%20USA!5e0!3m2!1sen!2sph!4v1681703363193!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -76,11 +76,11 @@ For this review, I will look at its cloud web hosting plan, notably the Starter 
 
 This plan comes with 15 GB of disk space, one website, five email boxes, and a business tax-saving analysis. It cost $5.69 per month and includes a free domain if you choose the annual terms billing cycle.
 
-![](/images/This image has an empty alt attribute; its file name is 0612fe36-6592-4bc9-9444-c7e644cad181.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 0612fe36-6592-4bc9-9444-c7e644cad181.png)
 
 After I clicked the Add to Cart button, I was redirected to a domain registration page where I could choose to register a new domain or use an already existing one.
 
-![](/images/This image has an empty alt attribute; its file name is 6d0209ca-ff37-4635-b5db-29a21cad6b85.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 6d0209ca-ff37-4635-b5db-29a21cad6b85.png)
 
 The domain name I registered was luckily available. I was then confronted with a choice to include domain protection or not. 
 
@@ -88,13 +88,13 @@ When my domain is unprotected, it will be searchable on the WHOIS database, a pu
 
 Network Solutions offers one month of free domain protection. It will be renewed for only $1.99 per month.
 
-![](/images/This image has an empty alt attribute; its file name is b39613e9-e2a6-4fbb-a309-2b4dca6cbd12.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is b39613e9-e2a6-4fbb-a309-2b4dca6cbd12.png)
 
 When I clicked continue, I was brought to my shopping cart. I noticed that domain registration was not for free and cost $15 per year. 
 
 After I reviewed everything, I clicked Secure Checkout. Payment methods include credit cards and Paypal.
 
-![](/images/This image has an empty alt attribute; its file name is e2b09290-dce0-452f-aeb5-0d314c6edcc5.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is e2b09290-dce0-452f-aeb5-0d314c6edcc5.png)
 
 Next, you can secure your site by adding an SSL certificate for only $1.99 for the first month and renewing at $7.99 per month. 
 
@@ -102,11 +102,11 @@ Getting an SSL certificate can boost your Google SEO ranking, keeps your visitor
 
 After, I was redirected to a page where I had to create an account as a new customer. Included are the following information: name, address, contact number, email add, user id, and password.
 
-![](/images/This image has an empty alt attribute; its file name is 74f547d6-ec47-4a98-a96c-1037b6a8e1cc.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 74f547d6-ec47-4a98-a96c-1037b6a8e1cc.png)
 
 The next part of the sign-up process is to input my credit card information and billing address.
 
-![](/images/This image has an empty alt attribute; its file name is 2533eafb-4b01-4963-bf72-8ea120eca4e0.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 2533eafb-4b01-4963-bf72-8ea120eca4e0.png)
 
 Once my payment was confirmed, I received a welcome message from Network solutions to verify my account.
 
@@ -116,11 +116,11 @@ In the next section, I will show you how to manage your website using Network so
 
 To manage your website using Network Solutions, you have to log in to its Account Manager using your registered web hosting login details.
 
-![](/images/This image has an empty alt attribute; its file name is 945a8cd1-0c3c-49d3-92fb-b2eac1ccac71.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 945a8cd1-0c3c-49d3-92fb-b2eac1ccac71.png)
 
 You will be greeted by this homepage.
 
-![](/images/This image has an empty alt attribute; its file name is 102851ac-19a9-41c0-9aa1-80095b9a0f54.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 102851ac-19a9-41c0-9aa1-80095b9a0f54.png)
 
 **It has tabs on the following:**
 
@@ -138,7 +138,7 @@ You will be greeted by this homepage.
 
 ### Network Solutions Control Panel
 
-![](/images/This image has an empty alt attribute; its file name is 326022f7-939b-469d-b17a-42da01001101.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 326022f7-939b-469d-b17a-42da01001101.png)
 
 A control panel is used to manage your website and your servers. There's a lot of control panels available in the market today. If you have been in web development long enough, perhaps you are familiar with cPanel or Plesk.
 
@@ -158,7 +158,7 @@ From there, you can manage the following:
 
 ### Network Solutions Website Builder
 
-![](/images/This image has an empty alt attribute; its file name is 6ec77b73-20e8-4668-a326-4b4ca8656605.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 6ec77b73-20e8-4668-a326-4b4ca8656605.png)
 
 Network Solutions offers a DIY Website Builder for both novice and advanced users. It is an easy way to create your own website without being an expert in web building. It comes with intuitive, user-friendly tools that can be used to customize to fit your website needs.
 
@@ -176,21 +176,21 @@ To start using this site builder, you need to sign up to get a free domain name.
 
 There are three packages to choose from: Website Builder; Website and Online Marketing; Website, Marketing, and Store.
 
-![](/images/This image has an empty alt attribute; its file name is fdaa5197-b6be-476b-8104-fde6ce10c071.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is fdaa5197-b6be-476b-8104-fde6ce10c071.png)
 
 The cheapest package has an introductory price of $2.95 per month.
 
-![](/images/This image has an empty alt attribute; its file name is f9567f6a-c25b-4978-9e8d-9ffa12f59dae.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is f9567f6a-c25b-4978-9e8d-9ffa12f59dae.png)
 
 It comes with free custom domain name registration, professional design layouts, the Do-It-Yourself site builder, and many more.
 
-![](/images/This image has an empty alt attribute; its file name is e7840b92-7675-476e-9f05-2a7f8cb1b5f2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is e7840b92-7675-476e-9f05-2a7f8cb1b5f2.png)
 
 Upon purchase, an email confirmation and verification will be sent to your account containing login details and including access to Network Solution's library and resource center.
 
 If you are an online business owner, content creator, or blogger who wants to build an online presence, Network Solutions also offers a professional site for you. It is for a fee, of course, but this means you don't have to worry about the building process.
 
-![](/images/This image has an empty alt attribute; its file name is c05ed5ad-94de-43ec-b153-62ad35bd4eb2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is c05ed5ad-94de-43ec-b153-62ad35bd4eb2.png)
 
 ### Network Solutions App Installer
 
@@ -200,7 +200,7 @@ I was pointed to the knowledge base to read about the process of installing an a
 
 From the Site Enhancement section, click Open Source Applications. You will see a list of open source applications that are available for a one-click installation. Click Add New, then Set-Up and Installation.
 
-![](/images/This image has an empty alt attribute; its file name is 583906d8-8220-474d-94aa-b2110eb26e28.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 583906d8-8220-474d-94aa-b2110eb26e28.png)
 
 ### Network Solutions Customer Support
 
@@ -208,15 +208,15 @@ Customer and technical support should be one of the factors you need to consider
 
 For this review, I used the live chat feature to asked about Network Solution's control panel. You can also choose the telephone support option. I made a mistake because I did not choose a category of the query first. I went back and chose Domain, Hosting, and Website as a category because that is where my question falls under.
 
-![](/images/This image has an empty alt attribute; its file name is f7ae8c77-ca10-4fc3-856a-4cac78229330.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is f7ae8c77-ca10-4fc3-856a-4cac78229330.png)
 
 I asked about the dashboard or control panel that they used. Ray was accommodating in pointing me in the right direction until I could find what I was looking for. He sent me links and guides I could read. I also asked about free site migration, but unfortunately, they do not have that offer.
 
-![](/images/This image has an empty alt attribute; its file name is fd002451-6897-4a3e-ba5f-6af77c2c29bd.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is fd002451-6897-4a3e-ba5f-6af77c2c29bd.png)
 
 Included in their support is a list of knowledgebase. I like that it is categorized according to its services.
 
-![](/images/This image has an empty alt attribute; its file name is 8b46fc7f-29dd-4ad8-b8d5-3f4d411e1f94.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 8b46fc7f-29dd-4ad8-b8d5-3f4d411e1f94.png)
 
 ## Buyer's Guide for Network Solutions
 
@@ -228,7 +228,7 @@ Included in their support is a list of knowledgebase. I like that it is categori
 
 This hosting service comes in four different hosting plans:
 
-![](/images/This image has an empty alt attribute; its file name is a361839f-f23c-438a-8783-438bdecb01da.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is a361839f-f23c-438a-8783-438bdecb01da.png)
 
 #### Starter
 
@@ -306,7 +306,7 @@ More than 40 percent of the websites that are created are using WordPress. It is
 
 Network Solutions hosting package includes WordPress for entrepreneurs, businesses, enterprises, and professionals.
 
-![](/images/This image has an empty alt attribute; its file name is d2039ff4-5a97-4733-99f9-533ffc85d53b.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is d2039ff4-5a97-4733-99f9-533ffc85d53b.png)
 
 #### WordPress for Entrepreneurs
 
@@ -360,7 +360,7 @@ It starts at $18. 98 per month and has the following inclusions:
 
 ### Webstie Builder
 
-![](/images/This image has an empty alt attribute; its file name is fdaa5197-b6be-476b-8104-fde6ce10c071.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is fdaa5197-b6be-476b-8104-fde6ce10c071.png)
 
 #### Website Builder
 
@@ -396,7 +396,7 @@ The introductory price is $4.95 per month and comes with:
 
 ### E-Commerce Website Builder
 
-![](/images/This image has an empty alt attribute; its file name is 24c6fd3c-a475-4bb6-837d-a65e19d300b3.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 24c6fd3c-a475-4bb6-837d-a65e19d300b3.png)
 
 #### Starter
 
@@ -438,7 +438,7 @@ Price starts at $19.95 per month and comes the following features:
 
 ### Email and Office
 
-![](/images/This image has an empty alt attribute; its file name is 35f70d53-18da-45dd-bad7-2ce84504f247.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 35f70d53-18da-45dd-bad7-2ce84504f247.png)
 
 #### Professional Email
 
@@ -472,7 +472,7 @@ Price starts at $4.99 per user per month and comes with:
 
 #### Mobile Emails
 
-![](/images/This image has an empty alt attribute; its file name is d8a2e7c3-862b-4be2-a620-a7e240c3315f.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is d8a2e7c3-862b-4be2-a620-a7e240c3315f.png)
 
 This plan provides you with seamless access to your email and collaboration tools using your smartphones and tablets.
 
@@ -512,7 +512,7 @@ Network Solutions offers the following security features to its customers:
 
 - Domain, subdomain, and organizational
 
-![](/images/This image has an empty alt attribute; its file name is faad7b53-4e35-450d-b95c-a029de978a6d.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is faad7b53-4e35-450d-b95c-a029de978a6d.png)
 
 \*Pricing only applies when a 2-year billing term is selected in the cart. The prices reflected are the monthly cost only.
 
@@ -592,11 +592,11 @@ Network Solutions offers the following security features to its customers:
 
 - Improves user activity by increasing visitor trust and confidence
 
-![](/images/This image has an empty alt attribute; its file name is c493592b-98cb-4461-bc46-4c249da2ce80.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is c493592b-98cb-4461-bc46-4c249da2ce80.png)
 
 ## Website Security By Sitelock
 
-![](/images/This image has an empty alt attribute; its file name is 9aa5ef85-1aa5-43f8-8c70-ce12d9097fb8.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is 9aa5ef85-1aa5-43f8-8c70-ce12d9097fb8.png)
 
 ### Sitelock Premium - scan and remove malware
 
@@ -690,7 +690,7 @@ Network Solutions offers the following security features to its customers:
 
 Network Solutions offers an automatic backups feature that comes with the following inclusions:
 
-![](/images/This image has an empty alt attribute; its file name is ad500450-463b-4356-bc65-2889ad87e326.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/This image has an empty alt attribute; its file name is ad500450-463b-4356-bc65-2889ad87e326.png)
 
 ### Basic
 

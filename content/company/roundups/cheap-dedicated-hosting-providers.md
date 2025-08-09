@@ -1,7 +1,7 @@
 ---
 slug: /best/cheap-dedicated-hosting-providers/
 title: "Best Cheap Dedicated Hosting Providers"
-date: "2022-11-03"
+date: "2022-11-03T12:00:00.000Z"
 category: Reviews
 tags: 
   - "reviews"

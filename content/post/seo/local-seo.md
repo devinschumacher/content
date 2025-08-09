@@ -1,6 +1,6 @@
 ---
 title: "local seo strategies"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "local-seo"
 ---
 
@@ -18,11 +18,11 @@ There are different "rules" and different search results for "local search queri
 
 According to a study by Forbes, 95% of smartphone users have used their phone to perform local searches. 61% of those people ended up calling the business and 59% actually visited it.
 
-[![](https://devinschumacher.com/local-seo/)](https://devinschumacher.com/wp-content/uploads/2020/01/local-seo-4.jpg)
+![](https://devinschumacher.com/local-seo/)
 
 And here are some jaw-dropping stats from @ThinkWithGoogle:
 
-[![](https://devinschumacher.com/local-seo/)](https://devinschumacher.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-02-at-10.02.53-AM.png)
+![](https://devinschumacher.com/local-seo/)
 
 Tweet that. So you never forget it:
 
@@ -32,7 +32,7 @@ Tweet that. So you never forget it:
 
 ## What is a Local Search?
 
-A "local search" or "local search query" is a search query that produces a search engine results page ([SERP](http://staging-devinschumacher.kinsta.cloud)) that caters to a locality, or geographic area.
+A "local search" or "local search query" is a search query that produces a search engine results page ([SERP](https://devinschumacher.com)) that caters to a locality, or geographic area.
 
 A local search can either be a search query with a "local modifier" on it, for example, adding a city name, or zip code, or "near me" to the end of your search query.
 
@@ -52,7 +52,7 @@ For example, if I search "plastic surgeon pasadena, ca" I, the searcher, am clea
 
 Like so:
 
-[![](https://devinschumacher.com/local-seo/)](https://devinschumacher.com/wp-content/uploads/2020/01/local-serp-for-plastic-surgeon-pasadena-ca.png)
+![](https://devinschumacher.com/local-seo/)
 
 In this SERP we see maps (business listings in the location being searched).
 
@@ -68,7 +68,7 @@ To do this we will need to do a "non-local search query" - something that is not
 
 How about "how to learn to snowboard"
 
-[![](https://devinschumacher.com/local-seo/)](https://devinschumacher.com/wp-content/uploads/2020/01/non-local-serp-1.png)
+![](https://devinschumacher.com/local-seo/)
 
 Above is a screenshot of the first part of the SERP. We see informational content (not local-based content) about learning how to snowboard - because this is something Google has determined people are not looking for a local business to help them with.
 
@@ -76,7 +76,7 @@ We see Videos. Why? Because Google knows that the best way to learn how to snowb
 
 If we scroll down, we will see Organic Results:
 
-[![](https://devinschumacher.com/local-seo/)](https://devinschumacher.com/wp-content/uploads/2020/01/2non-local-serp-2.png)
+![](https://devinschumacher.com/local-seo/)
 
 Lots of great information & websites all about helping the searcher learn how to snowboard.
 
@@ -167,7 +167,7 @@ So, when I search for "motorcycle accident lawyer new york" I see results that G
 
 We see it in the maps and in the Organic listings below the maps.
 
-[![](https://devinschumacher.com/local-seo/)](https://devinschumacher.com/wp-content/uploads/2020/01/Screen_Shot_2020-01-12_at_1_18_12_PM.png)
+![](https://devinschumacher.com/local-seo/)
 
 ### Business Prominence
 
@@ -375,7 +375,7 @@ For this example, we will use a Dentist in Sacramento.
 
 **Step 3** - Use ahrefs to find who is linking to each website, and make a list of those URLs (these are your "potential linkers")
 
-[![](https://devinschumacher.com/local-seo/)](https://devinschumacher.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-12-at-2.53.18-PM.png)
+![](https://devinschumacher.com/local-seo/)
 
 Repeat for each website on your Competitor Spreadsheet
 

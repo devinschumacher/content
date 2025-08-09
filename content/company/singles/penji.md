@@ -1,7 +1,7 @@
 ---
 slug: /reviews/penji/
 title: "Penji Review"
-date: "2022-10-08"
+date: "2022-10-08T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -56,7 +56,7 @@ How do you get started with their portal and getting a graphic done?
 
 One of the best things about Penji is its easy-to-use portal that is highlighted by its simple dashboard.
 
-![Screenshot of Penji Dashboard](/images/Penji-Dashboard-1024x420.png)
+![Screenshot of Penji Dashboard](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Penji-Dashboard-1024x420.png)
 
 Upon logging in, you can see that there are few pages to click on and go to as evidenced by their minimal top navigation. This is done by design (no pun intended) as Penji is trying to make using their service as frictionless and clear as possible.
 
@@ -72,7 +72,7 @@ Let's go ahead and click on the Project Board tab and see what that brings up.
 
 Upon clicking into the Projects tab, you will see a few tabs to the right of the Projects name. They should be Active, Complete, and Drafts. If you have requested Penji designers to pause a certain project, you will also see an 'On Hold' tab here.
 
-![Screenshot of Penji Active Tab](https://devinschumacher.com/wp-content/uploads/2022/10/Penji-Active-Tab-1024x529-1.webp)
+![Screenshot of Penji Active Tab](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Penji-Active-Tab-1024x529-1.webp)
 
 In the Active tab, you will see a queue of all your active design requests that are currently being worked on. This is an important tab because some Penji users have been confused by this.
 
@@ -94,7 +94,7 @@ If, after reviewing the work, you're satisfied with the work, you can mark that 
 
 All of your completed projects will be displayed in the complete tab under Projects. Each project will be marked by its completion date.
 
-![Screenshot of Penji Complete Tab](/images/penji-storing-completed-projects.jpg)
+![Screenshot of Penji Complete Tab](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/penji-storing-completed-projects.jpg)
 
 Even though design projects may be complete, you can reopen any completed design project if you feel that further edits are required.
 
@@ -106,7 +106,7 @@ This is slightly misleading because if you place 10 graphic design requests, you
 
 During the design process, you can also communicate with your designer via Penji's internal chat function.
 
-![](/images/bfa6f752b817b937eb899d63e9347a85.Penji-designers.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/bfa6f752b817b937eb899d63e9347a85.Penji-designers.jpg)
 
 In this chat, you can message your designer anything regarding that specific project. For example, you can chat about revisions, ask for an estimated timeline on that project, and tell them they are doing a great job.
 
@@ -124,7 +124,7 @@ To mark your project as on hold, just navigate to the project you want to put on
 
 The next tab in the top navigation is Brands. This is where agencies or any company that works with distinct products will really benefit from using Penji.
 
-![Screenshot of Penji's Brands Tab](/images/Penjis-Brands-Tab-1024x319.png)
+![Screenshot of Penji's Brands Tab](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Penjis-Brands-Tab-1024x319.png)
 
 Under Brands, you'll be able to list the different brands in your portfolio. For example, an agency might work with 10 different clients and each client will have their own unique brand, which can include their own logo, colors, fonts, and more.
 
@@ -140,7 +140,7 @@ This also helps you, the user, because it will save you precious time from detai
 
 The last tab in your top navigation is People and this one is also very self-explanatory.
 
-![Screenshot of Penji's People Tab](/images/Penjis-People-Tab-1024x219.png)
+![Screenshot of Penji's People Tab](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Penjis-People-Tab-1024x219.png)
 
 Here, you will find all of the users associated with the current Penji plan you're paying for. Each Penji plan comes with a different number of users you are allowed to have, so be sure to purchase the plan that makes the most sense for your purposes.
 
@@ -160,7 +160,7 @@ A quick tip: the more information and direction you provide in your project requ
 
 To begin using Penji, navigate to Projects and click on the 'Create new project' button on the right.
 
-![Screenshot of Penji's Create New Project Page](/images/Penji-creating-new-project.jpg)
+![Screenshot of Penji's Create New Project Page](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Penji-creating-new-project.jpg)
 
 No matter how many requests you put in, this is the place you want to go to put your request in.
 
@@ -168,7 +168,7 @@ No matter how many requests you put in, this is the place you want to go to put 
 
 Once you click on the button, you'll then be taken to the brief. The brief is where you'll supply the Penji designer with all the details of your graphics request. Here, we've requested blog graphics which will then require us to fill in most of these fields.
 
-![Screenshot of Penji's Fill Out Graphics Request](/images/Penjis-Fill-Out-Graphics-Request.jpg)
+![Screenshot of Penji's Fill Out Graphics Request](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Penjis-Fill-Out-Graphics-Request.jpg)
 
 Within any given project, you'll want to give it a unique project title so that you can identify it from all the other requests. The more specific you give a project title, the easier you and your team members will be able to recognize it.
 
@@ -178,7 +178,7 @@ The other thing you'll want to note is the output of the graphic file you want. 
 
 If you have already uploaded your brands, you'll see the option to select which brand you want to apply for this design request. As an unlimited design service, Penji allows you to select from any of the brands you have uploaded and allows for multiple requests for revisions.
 
-![Screenshot of Penji's Penji-request-form](/images/Penji-request-form.png)
+![Screenshot of Penji's Penji-request-form](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Penji-request-form.png)
 
 There will be some graphic requests that may already have their own category like in the image above. Here, the request is for a Facebook cover photo and it would be classified as 'Social Media Posts' under the Design Category.
 
@@ -186,7 +186,7 @@ Since 'Social Media Posts' is a built-in category, Penji will automatically popu
 
 ### Built-In Revision Tool
 
-![Image of Redesign entire project meme](/images/Redesign-entire-ptoject-meme.jpg)
+![Image of Redesign entire project meme](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Redesign-entire-ptoject-meme.jpg)
 
 Communicating design edits can be a challenge, especially when you're trying to convey your feedback to someone who doesn't sit next to you!
 
@@ -196,7 +196,7 @@ When your designer has finished a draft for you to review, you'll be able to sub
 
 This tool will present the draft design and you will be able to use the point-and-click tool to mark up what part of the graphic you want to be edited. You'll be able to then leave a note for your designer saying exactly what you want to be changed.
 
-![Screenshot of Penji's When your designer has finished a draft for you to review, you'll be able to submit your feedback using their built-in revision tool](/images/Very-cool-revision-tool-final.jpg)
+![Screenshot of Penji's When your designer has finished a draft for you to review, you'll be able to submit your feedback using their built-in revision tool](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Very-cool-revision-tool-final.jpg)
 
 If your designer submits a second draft and it's still not to your satisfaction, you can use this tool once again to illustrate what you want to be changed. Once again, there are unlimited revisions with Penji so you could go through this process as many times until your designer gets it to your liking.
 
@@ -204,7 +204,7 @@ If your designer submits a second draft and it's still not to your satisfaction,
 
 After you're satisfied with the revisions your designer has made, you are then free to download your files!
 
-![Screenshot of Download-Penji-design-files](/images/Download-Penji-design-files.png)
+![Screenshot of Download-Penji-design-files](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Download-Penji-design-files.png)
 
 To do so, click the project where your designer has finished creating the graphics and select the Download button. When clicking this button, it may present you with different options to download different elements of your design and it's up to you whether you need to download all of the files or just what you need.
 
@@ -226,7 +226,7 @@ One thing that is not necessarily a drawback but can easily become one is usage 
 
 Furthermore, if you're only making a handful of requests on a monthly basis, you might be better off hiring freelancers to take on the limited number of tasks. This will help to keep your costs down while ensuring the work is completed.
 
-![Image of cost savings meme](/images/cost-savings.jpg)
+![Image of cost savings meme](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/cost-savings.jpg)
 
 To find out if you're getting good value from Penji, first, figure out how much you would be comfortable paying a freelance graphic designer. For example, if that figure is $20 per hour and you're currently on the Team Plan with Penji ($499 per month), you would take the Penji plan and divide it by the $20 hourly rate. This would give you roughly 25 hours. If you feel like you're getting 25 hours' worth of work from Penji, then it's worth it to keep it. But, if you're not close to 25 hours, you might want to explore other options.
 
@@ -236,7 +236,7 @@ As great as a graphic service with unlimited design projects sounds, there are s
 
 And if you're looking for a graphic to be completed on the same day, well, that's likely not going to happen. This can one of the biggest limitations of Penji's graphic design services.
 
-![at the hospital but want some urgent changes meme](/images/at-the-hospital-but-want-some-urgent-changes.jpg)
+![at the hospital but want some urgent changes meme](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/at-the-hospital-but-want-some-urgent-changes.jpg)
 
 It's important to note that Penji's account manager and a designer will try and get your request completed as quickly as possible if you communicate that to them.
 
@@ -254,7 +254,7 @@ If you have a reasonable deadline of one week to produce a graphic, you might th
 
 [Penji](https://serp.ly/penji/) offers three different pricing plans for their services. It's ultimately up to you, the user, to determine which package suits your needs.
 
-![Screenshot of Penji Pricing](/images/Penji-Pricing-1024x675.png)
+![Screenshot of Penji Pricing](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Penji-Pricing-1024x675.png)
 
 With the three options, you are free to pay for Penji on a monthly, quarterly, or yearly basis. Just know that you will receive a discount if you choose to pay quarterly or yearly.
 
@@ -271,7 +271,7 @@ If you think you will likely use Penji's services a lot, paying for your Penji p
 
 For example, you would have to pay $899 for an Agency plan if you were paying monthly but that figure drops to $674.25 if you pay annually.
 
-![Screenshot of Penji Pricing Yearly](/images/Penji-Pricing-Yearly-1024x696.png)
+![Screenshot of Penji Pricing Yearly](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Penji-Pricing-Yearly-1024x696.png)
 
 Even if your marketing team already has a designated designer, having a service like Penji to be able to help with bandwidth issues may be a worthwhile expense.
 

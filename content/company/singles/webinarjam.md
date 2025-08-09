@@ -1,7 +1,7 @@
 ---
 slug: /reviews/webinarjam/
 title: "WebinarJam Review"
-date: "2022-09-30"
+date: "2022-09-30T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -24,7 +24,7 @@ We’ll also talk about other pros and some cons of choosing WebinarJam and the 
 
 ## What is WebinarJam?
 
-![](/images/webinar-jam-review-image-1024x520.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/webinar-jam-review-image-1024x520.png)
 
 **WebinarJam<** is a web-based platform where you can create live webinars. They have been working for seven years on creating one of the most powerful webinar platforms for live webinars. 
 
@@ -126,7 +126,7 @@ With this, they’ll just have to go to a URL that you have set up and can be ea
 
 ## WebinarJam Pros & Top Features
 
-![](/images/webinar-jam-features-1024x438.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/webinar-jam-features-1024x438.png)
 
 Here are just some other benefits of choosing [WebinarJam](https://serp.ly/webinarjam/) as your webinar platform that we couldn’t fit in here. 
 
@@ -233,7 +233,7 @@ Yes, WebinarJam webinars are recorded. The webinars can be played at any time du
 
 Yes, it does.
 
-![](/images/Screen-Shot-2021-07-24-at-9.06.24-AM-1024x445.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Screen-Shot-2021-07-24-at-9.06.24-AM-1024x445.png)
 
 ## WebinarJam Alternatives
 

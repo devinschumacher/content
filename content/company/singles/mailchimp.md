@@ -1,7 +1,7 @@
 ---
 slug: /reviews/mailchimp/
 title: "Mailchimp Review"
-date: "2022-10-20"
+date: "2022-10-20T12:00:00.000Z"
 category: Reviews
 
 tags: 

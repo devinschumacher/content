@@ -1,6 +1,6 @@
 ---
 title: "image filenames"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "image-filenames"
 ---
 
@@ -10,17 +10,17 @@ Every image on the internet has a unique name given to it — this is called the
 
 Here is what it looks like as HTML.
 
-![](/images/image-16.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-16.png)
 
 You can also see the filename of an image when saved offline, on your computer.
 
-![](/images/image-17-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-17-1.png)
 
-![](/images/image-18.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-18.png)
 
 When you create, edit or save an image, you give it a filename.
 
-![](/images/image-14-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-14-1.png)
 
 Images come in various different file formats (such as PNG above.) This has no bearing on the name.
 
@@ -36,11 +36,11 @@ You can view the filename of any image on the internet — here's how.
 
 **Right click on the image and select "Inspect."**
 
-![](/images/image-11-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-11-1.png)
 
 The image HTML should come up — look for the src tag — focus on the unique end slug (highlighted below.)
 
-![](/images/image-13-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-13-1.png)
 
 **"online-advertising"**
 
@@ -52,11 +52,11 @@ Because Google (and other [search engines](https://devinschumacher.com/search-en
 
 We see the image.
 
-![](/images/image-29-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-29-1.png)
 
 They see the image HTML — search engines see only the web source code in the back-end.
 
-![](/images/image-28-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-28-1.png)
 
 So when it comes to SEO for images, the HTML is all you've got to communicate to Google.
 
@@ -75,15 +75,15 @@ The image filename and alt-text can help add to other HTML elements (like the pa
 
 Here's a good example — an article about how to shave your dog.
 
-![](/images/image-23-1024x505-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-23-1024x505-1.png)
 
 Look at this image.
 
-![](/images/image-24-1024x505-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-24-1024x505-1.png)
 
 Look at the image filename and alt-text.
 
-![](/images/image-25.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-25.png)
 
 The more information you can give search engines — like Google — the better your SEO efforts will be.
 
@@ -91,7 +91,7 @@ Ranking for image searches is also important because they provide more pathways 
 
 Look what happens when I image search "How to shave your dog."
 
-![](/images/image-26-1024x505-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-26-1024x505-1.png)
 
 5 of the first 10 images are from that article — these are all pathways to your webpage/website.
 
@@ -99,9 +99,9 @@ Some websites generate majority of their traffic (and revenue/sales) from image 
 
 Stock image websites — such as Shutterstock — is a good example of this.
 
-![](/images/image-20-1024x505-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-20-1024x505-1.png)
 
-![](/images/image-19-1024x489-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-19-1024x489-1.png)
 
 ## Best Practice
 
@@ -120,7 +120,7 @@ What is considered generic?
 
 Here are some examples of generic filenames.
 
-![](/images/image-30-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-30-1.png)
 
 - **Image01.png**
 - **Joe.jpg**
@@ -143,7 +143,7 @@ Your image filename needs to tell search engines exactly what the image is about
 
 Here are some good examples.
 
-![](/images/image-31-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-31-1.png)
 
 - **City of London skyline from London City Hall - Oct 2008.jpg**
 - **KDE Kicker config screenshot.png**
@@ -152,7 +152,7 @@ Here are some good examples.
 
 Google even highlights the importance of a "descriptive" image filename in its [best practice guide](https://support.google.com/webmasters/answer/114016?hl=en).
 
-![](/images/image-33.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-33.png)
 
 > The filename can give Google clues about the subject matter of the image. For example, **my-new-black-kitten.jpg** is better than **IMG00023.JPG**
 
@@ -164,11 +164,11 @@ Here's an example.
 
 An image of the London skyline.
 
-![](/images/image-34.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-34.png)
 
 The image filename is **City of London skyline from London City Hall - Oct 2008.jpg**
 
-![](/images/image-35.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-35.png)
 
 This provides some additional information:
 
@@ -185,7 +185,7 @@ Like most other HTML tags, the image filename is a good place to put a keyword.
 
 When Googlebot comes to crawl your webpage, it's going to be looking at your images. It's only good things SEO-wise if it finds a keyword there.
 
-![](/images/image-36.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-36.png)
 
 This largely relates to the "accurately describing your image" point listed earlier.
 
@@ -193,13 +193,13 @@ The images you use should have high relevance to the topic of your webpage, and 
 
 Look at this example — How to Wash a Dog.
 
-![](/images/image-37-1024x505-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-37-1024x505-1.png)
 
 Look at the filename for the first image.
 
-![](/images/image-39-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-39-1.png)
 
-![](/images/image-38-1024x505-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-38-1024x505-1.png)
 
 A keyword has been featured — you can bet this will help Google better crawl, rank and index this webpage.
 
@@ -211,13 +211,13 @@ So, you'll want to use a keyword in your filename — if it fits — but you nee
 
 When you overuse keywords, it's called "keyword stuffing."
 
-![](/images/image-40.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-40.png)
 
 When search engines (like Google) notice you have used a keyword too frequently, they will penalize you.
 
 You can even get de-indexed (completely removed.)
 
-![](/images/image-41-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-41-1.png)
 
 Search engines (like Google) over time have become more and more "semantic."
 
@@ -235,15 +235,15 @@ The truth is, there isn't one.
 
 Some image filenames are only 1 word.
 
-![](/images/image-44-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-44-1.png)
 
-![](/images/image-45.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-45.png)
 
 While some can be over 50+ characters.
 
-![](/images/image-43-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-43-1.png)
 
-![](/images/image-42.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-42.png)
 
 Naturally, some images (like the 1863 one above) require more words to be accurately described.
 
@@ -269,25 +269,25 @@ Regarding your image filenames, It's important to remember use hyphens to separa
 
 You want it to look like this.
 
-![](/images/image-46.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-46.png)
 
 Not this.
 
-![](/images/image-47.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-47.png)
 
 Or this.
 
-![](/images/image-48-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-48-1.png)
 
 When it comes to HTML, hyphens (-) signal a break in words to search engines. They are considered a "word separator."
 
 [Google's own filename and file types guide](https://developers.google.com/style/filenames) recommends using hyphens, not underscores.
 
-![](/images/image-49.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-49.png)
 
 They even outline some examples similar to the ones I gave you earlier.
 
-![](/images/image-50.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-50.png)
 
 Using underscores won't ruin your image filename, but it's best to just use hyphens.
 

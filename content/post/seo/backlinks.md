@@ -1,6 +1,6 @@
 ---
 title: "backlinks"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "backlinks"
 ---
 
@@ -18,7 +18,7 @@ This guide on backlinks will discuss, in detail, all the different types of back
 
 Backlinks (aka "back links", "back-links", "links", “inbound links”, etc.) are hyperlinks that point to your website but come _from_ other websites.
 
-[![](/images/what-are-backlinks.jpg)](https://devinschumacher.com/wp-content/uploads/2022/08/what-are-backlinks.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/what-are-backlinks.jpg)
 
 When a Website A hyperlinks to Website B, you can say that Website B just acquired a "backlink" from Website A.
 
@@ -135,11 +135,11 @@ Although there may be the occasional quality link provider on Fiverr - for the m
 
 Do you really think this is worth this dude's time to build you 500,000 links for $5? And do you really think it would be natural for Google to see 500,000 links come to your site all of a sudden?
 
-[![](/images/backlinks-from-fiverr-1024x541-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/backlinks-from-fiverr.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/backlinks-from-fiverr-1024x541-1.png)
 
 The answer is **Duck No.**
 
-[![](/images/download-20.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/download-20.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-20.gif)
 
 Avoid Fiverr for backlinks.
 
@@ -187,7 +187,7 @@ In fact, there are some social profiles that are so commonly used that Google ex
 
 They even list them in their guidelines found [here](https://developers.google.com/search/docs/data-types/social-profile).
 
-[![](/images/screen-shot-2019-10-28-at-3.44.13-pm-1024x573-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-28-at-3.44.13-PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-28-at-3.44.13-pm-1024x573-1.png)
 
 Start your backlink building by building business profiles on these foundational profiles.
 
@@ -217,7 +217,7 @@ Make sure you create a presence on all of the properties - and just like social 
 
 ### General Business Directories
 
-[![](/images/online_directories-1024x436-1.jpg)](https://devinschumacher.com/wp-content/uploads/2019/10/online_directories.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/online_directories-1024x436-1.jpg)
 
 General business directories come next.
 
@@ -239,7 +239,7 @@ Having a consistent NAP (name, address, phone number) on all the popular busines
 
 ### Niche Business Directories
 
-[![](/images/healthcare-review-sites.png)](https://devinschumacher.com/wp-content/uploads/2022/08/healthcare-review-sites.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/healthcare-review-sites.png)
 
 Niche business directories are the web directories that are specific to your niche, or at least to your broad industry.
 
@@ -295,7 +295,7 @@ Make a list of relevant GEO directories (use Google search or ask us for a pre-v
 
 ### General Business Authority links
 
-[![](/images/dtv_installation_bbb_accredited_a-1024x495-1.jpg)](https://devinschumacher.com/wp-content/uploads/2019/10/dtv_installation_bbb_accredited_a.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/dtv_installation_bbb_accredited_a-1024x495-1.jpg)
 
 Business authority links are places similar to business directories but are actually paid.
 
@@ -323,7 +323,7 @@ For example, an attorney might want to have a profile on the California State Ba
 
 ### Extra Social Profiles
 
-[![](/images/social-network-backlinks.jpg)](https://devinschumacher.com/wp-content/uploads/2022/08/social-network-backlinks.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/social-network-backlinks.jpg)
 
 Getting additional links from High DR properties is never really a bad idea - unless they are questionable websites like adult-themes, gambling, etc. or there is something glaringly weird about it.
 
@@ -339,7 +339,7 @@ We have a service that will build around 100 social profiles for you on high aut
 
 The term "Web 2.0" refers to websites that emphasize user-generated content.
 
-[![](/images/web-2.0-definition.png)](https://devinschumacher.com/wp-content/uploads/2022/08/web-2.0-definition.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/web-2.0-definition.png)
 
 ### Press Release
 
@@ -391,13 +391,13 @@ This is the beauty of SEO - everyone's cards are on the table so to speak.
 
 Type in a keyword (say "dentist in los angeles") and look at who is ranking:
 
-[![](/images/screen_shot_2019-10-28_at_5_15_53_pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen_shot_2019-10-28_at_5_15_53_pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-28_at_5_15_53_pm.png)
 
 Look for the businesses ranking (you can skip directories)
 
 Put those URLs into Ahrefs and check out their backlinks:
 
-[![](/images/backlinks-from-competitors.png)](https://devinschumacher.com/wp-content/uploads/2022/08/backlinks-from-competitors.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/backlinks-from-competitors.png)
 
 Voilá!
 

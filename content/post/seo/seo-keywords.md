@@ -1,6 +1,6 @@
 ---
 title: "seo keywords"
-date: "2022-08-26"
+date: "2022-08-26T12:00:00.000Z"
 slug: "seo-keywords"
 ---
 
@@ -28,7 +28,7 @@ If we know, for example, that we want to sell more [digital marketing services i
 
 Then, we can create a page on our website on that topic & optimize our content around those keywords - giving ourselves the best chance to rank well for it.
 
-[![](/images/keywords-and-search-volumes-for-digital-marketing-company-in-los-angeles.png)](https://devinschumacher.com/wp-content/uploads/2022/08/keywords-and-search-volumes-for-digital-marketing-company-in-los-angeles.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/keywords-and-search-volumes-for-digital-marketing-company-in-los-angeles.png)
 
 Once you figure out the "keywords" that you want to target to bring "targeted traffic" to your website you can start planning the rest of your SEO campaign, including:
 
@@ -41,7 +41,7 @@ We do this by mapping a group of similar/semantic keywords (like you can see abo
 
 <figure>
 
-[![](/images/use-your-target-keyword-in-your-content-1-1024x983-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/use-your-target-keyword-in-your-content-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/use-your-target-keyword-in-your-content-1-1024x983-1.png)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ Keyword difficulty (KD) refers to how hard it will be for you to rank well for a
 
 The exact definition from Ahrefs on KD is:
 
-[![](/images/definition-of-keyword-difficulty.png)](https://devinschumacher.com/wp-content/uploads/2022/08/definition-of-keyword-difficulty.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/definition-of-keyword-difficulty.png)
 
 Before you start spending time, money, resources on creating content & acquiring links (can be very expensive) you want to make sure that you even have a chance to rank for a keyword.
 
@@ -95,7 +95,7 @@ If you had to choose between ranking for a keyword that actually gets searched 1
 
 Of course you would choose the one with more search volume (assuming they are both relevant to your business, and have similar intent, etc.)
 
-[![](/images/saerch-volume-definition.png)](https://devinschumacher.com/wp-content/uploads/2022/08/saerch-volume-definition.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/saerch-volume-definition.png)
 
 ### Keyword Density
 
@@ -158,7 +158,7 @@ Example, if someone is searching for "emergency dentist near me" they probably h
 
 Maybe they just did this and need some serious teeth fixing:
 
-[![](/images/download-4-3.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/download-4-3.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-4-3.gif)
 
 Commercial intent keywords usually have "modifiers" (like a prefix, or a suffix) that people commonly use when they are close to buying, like:
 
@@ -176,7 +176,7 @@ Informational intent keywords are almost the opposite of commercial intent - ins
 
 Maybe they know their problem but want more information before deciding if they are going to spend money - for example "cost to fix tooth" or "home remedy for headaches".
 
-[![](/images/informational-intent-keywords.png)](https://devinschumacher.com/wp-content/uploads/2022/08/informational-intent-keywords.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/informational-intent-keywords.png)
 
 This is an informational keyword that still holds some buyer intent - if the person likes the content they read they may end up purchasing (which is basically your marketing funnel / content marketing at work!)
 
@@ -194,17 +194,17 @@ They are keywords that "trigger" a "Local SERP", that is a Search Engine Results
 
 They can have "geo-modifiers" on them, like the name of a city:
 
-[![](/images/local_seo_intent_based_keywords.png)](https://devinschumacher.com/wp-content/uploads/2022/08/local_seo_intent_based_keywords.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/local_seo_intent_based_keywords.png)
 
 or just "near me":
 
-[![](/images/local-intent-keyword-geo-modifier-near-me.png)](https://devinschumacher.com/wp-content/uploads/2022/08/local-intent-keyword-geo-modifier-near-me.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/local-intent-keyword-geo-modifier-near-me.png)
 
 But, they don't HAVE to.
 
 Google pretty much always knows where you are (because of GPS and IP addresses when connected via Wifi) so even if you type a search that Google _normally associates someone needing a local provider with_ you can still end up with a Local SERP.
 
-[![](/images/no_local_modifier__still_get_maps.png)](https://devinschumacher.com/wp-content/uploads/2022/08/no_local_modifier__still_get_maps.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/no_local_modifier__still_get_maps.png)
 
 ### Seed Keywords
 
@@ -216,7 +216,7 @@ Seed keywords are what you start with when you plan a new page or piece of conte
 
 For example, when writing this article we identified our seed keyword to be "seo keywords"
 
-[![](/images/primary-seed-keyword-1024x257-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/primary-seed-keyword.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/primary-seed-keyword-1024x257-1.png)
 
 - **Related Reading**: Check out the full article on [Seed Keywords](https://devinschumacher.com/seed-keywords/).
 
@@ -251,7 +251,7 @@ Essentially they are the "supporting" or "sub" topics that _should_ be covered i
 
 For us, all of our secondary keywords can be found in our articles as H2, H3, H4s, etc.
 
-[![](/images/supporting-secondary-keywords-1024x243-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/supporting-secondary-keywords.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/supporting-secondary-keywords-1024x243-1.png)
 
 ### LSI Keywords
 
@@ -267,7 +267,7 @@ They usually have the most search volume, and they also usually have alot of key
 
 For example, if you are writing an article about "vitamins", then your primary keyword might be "vitamins".
 
-[![](/images/short-tail-keywords.png)](https://devinschumacher.com/wp-content/uploads/2022/08/short-tail-keywords.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/short-tail-keywords.png)
 
 This is also the shortest possible version of this search query (you can't search less than one word).
 
@@ -285,7 +285,7 @@ But, other longer keywords called "medium tail" or "long tail" keywords could al
 - best vitamins for women
 - best vitamins for skin
 
-[![](/images/medium-tail-keywords.png)](https://devinschumacher.com/wp-content/uploads/2022/08/medium-tail-keywords.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/medium-tail-keywords.png)
 
 ### Long-tail Keywords
 
@@ -295,13 +295,13 @@ Once again staying on the vitamin train, some examples of Long-Tail Keywords cou
 - best vitamins for women's hair growth
 - best vitamins for diabetics type 2
 
-[![](/images/long-tail-keywords.png)](https://devinschumacher.com/wp-content/uploads/2022/08/long-tail-keywords.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/long-tail-keywords.png)
 
 You can see that as keywords get longer, the search intent gets more and more specific.
 
 <figure>
 
-[![](/images/long-tail-keywords-1-1024x926-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/long-tail-keywords-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/long-tail-keywords-1-1024x926-1.png)
 
 <figcaption>
 
@@ -328,7 +328,7 @@ Branded keywords are keywords that are your Brand name, or a variation of it.
 - A brand name of a product you sell
 - The name of someone in your company
 
-[![](/images/branded-keywords.png)](https://devinschumacher.com/wp-content/uploads/2022/08/branded-keywords.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/branded-keywords.png)
 
 ### Exact Match Keywords
 

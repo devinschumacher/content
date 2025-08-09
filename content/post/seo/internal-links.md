@@ -1,6 +1,6 @@
 ---
 title: "internal links"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "internal-links"
 ---
 
@@ -8,7 +8,7 @@ slug: "internal-links"
 
 Internal links are hyperlinks that link to another page on the same website.
 
-![](/images/image-124.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-124.png)
 
 This is typically a link to another webpage on your website. It can however, be a link to other media files such as images or documents.
 
@@ -18,7 +18,7 @@ The simple answer ⁠— **Internal links help create a better website architect
 
 Website architecture is how well all the webpages of a website are structured (linked) together.
 
-![](/images/image-129.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-129.png)
 
 It's important for [SEO](https://devinschumacher.com/what-is-seo) because [search engine crawlers](https://devinschumacher.com/search-engines/) (like Googlebot) have to navigate your website.
 
@@ -28,7 +28,7 @@ They start at your homepage, and work their way down through the category pages 
 
 It also makes it easy for link juice (link equity) to be passed all throughout your website.
 
-![](/images/image-130.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-130.png)
 
 Link juice helps your individual webpages achieve [higher rankings on Google](https://devinschumacher.com/google-ranking-factors/) (and other search engines.)
 
@@ -40,9 +40,9 @@ This isn't just theory either — internal links are proven to improve SEO.
 
 [One case study from Ninja Outreach](https://ninjaoutreach.com/internal-linking-case-study/) showed a 41.86% increase in organic traffic (site-wide.)
 
-![](/images/image-127.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-127.png)
 
-![](/images/image-126.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-126.png)
 
 ## Best Practices
 
@@ -63,19 +63,19 @@ You'll want to feature a [keyword](https://devinschumacher.com/seo-keywords/) in
 
 FYI — The [anchor text](https://devinschumacher.com/anchor-text/) of a hyperlink is the text the link is attached to.
 
-![](/images/image-134-1024x517-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-134-1024x517-1.png)
 
 Keyword anchor texts can help give [search engines](https://devinschumacher.com/search-engines) a better idea about what the linked page is about.
 
 Google even recommends keyword anchor texts in its [SEO starter guide](https://support.google.com/webmasters/answer/7451184?hl=en).
 
-![](/images/image-132-1024x125-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-132-1024x125-1.png)
 
-![](/images/image-133-1024x649-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-133-1024x649-1.png)
 
 You'll notice a lot of our internal links have keywords linking back to posts.
 
-![](/images/image-135-1024x407-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-135-1024x407-1.png)
 
 Only use keyword anchor texts if it's relevant — it's perfectly fine having internal links without keywords as anchors.
 
@@ -87,13 +87,13 @@ You need to make sure that all your internal links have **"[dofollow](https://de
 
 The dofollow attribute is something you can add to your hyperlink HTML.
 
-![](/images/image-137.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-137.png)
 
 A dofollow attribute says to Google (and other search engines) "please follow this link and pass link equity."
 
 Conversely, a **"nofollow" attribute** does the opposite.
 
-![](/images/image-136.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-136.png)
 
 99.99% of the time you'll always want internal links to be dofollow.
 
@@ -103,7 +103,7 @@ Conversely, a **"nofollow" attribute** does the opposite.
 
 You'll want to make sure you avoid using plugins or automation software for your internal links.
 
-![](/images/image-147.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-147.png)
 
 **Do them manually.**
 
@@ -121,17 +121,17 @@ Internal links aren't just for transferring PageRank (link equity) — user expe
 
 Never use the same anchor text for different pages you are internally linking.
 
-![](/images/image-138.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-138.png)
 
 It sends mixed signals to Google (and other search engines.)
 
-![](/images/image-140.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-140.png)
 
 It'll make them think the two pages are the same topic — this is not good.
 
 Ideally, you want to use anchor texts that are unique, even when the pages are similar.
 
-![](/images/image-141.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-141.png)
 
 **Takeaway:** Don't use the same anchor text for two separate pages.
 
@@ -143,13 +143,13 @@ To do this, you'll want to use [Google Search Console](https://search.google.com
 
 It has a links feature — you can audit your internal links with it.
 
-![](/images/image-143.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-143.png)
 
-![](/images/image-144-1024x636-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-144-1024x636-1.png)
 
 You'll be able to see which pages the majority of your internal links are pointed at.
 
-![](/images/image-145.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-145.png)
 
 Naturally your homepage and main category pages (about, blog, contact, etc...) will have the most.
 
@@ -159,7 +159,7 @@ Aside from those pages, you'll want to make certain your best and highest-priori
 
 Look at how Brian Dean of Backlinko prioritizes his top content with a horde of internal links.
 
-![](/images/image-146.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-146.png)
 
 Remember — internal links act as roads for link equity to boost your pages in content.
 
@@ -173,13 +173,13 @@ When you make new content, it creates internal link opportunities for old conten
 
 You'll want to go back and look at old posts — you should be able to find spots to insert new internal links.
 
-![](/images/image-149.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-149.png)
 
 This'll bring more link equity ranking power to your newer pages, helping them rank well.
 
 The [On-Page SEO](https://devinschumacher.com/on-page-seo) post mentions internal links — this is a good opportunity.
 
-![](/images/image-148-1024x397-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-148-1024x397-1.png)
 
 You will want to continually scan your old content as you make new content. There will be plenty of internal link opportunities arising.
 
@@ -191,7 +191,7 @@ You should make sure that all your links — internal or external — open in a 
 
 This is what we do at SERP Co — every link I create in these posts open in a new window.
 
-![](/images/image-150.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-150.png)
 
 **We do this because it creates a better user experience.**
 
@@ -203,9 +203,9 @@ Now it needs to be said — **this does not apply for ALL links on your website.
 
 For example, you wouldn't want your homepage and category pages opening new windows.
 
-![](/images/image-152.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-152.png)
 
-![](/images/image-151-1024x480-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-151-1024x480-1.png)
 
 Navigation is their purpose — we are more talking about links in your content.
 
@@ -215,17 +215,17 @@ Navigation is their purpose — we are more talking about links in your content.
 
 A good strategy to make your internal links more effective, is to put them in your intro.
 
-![](/images/image-154-1024x358-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-154-1024x358-1.png)
 
 This is a method that Brian Dean of Backlinko came up with.
 
 He says it has helped increased dwell time and decreased bounce rate.
 
-![](/images/image-153.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-153.png)
 
 Here's an example of how he uses it.
 
-![](/images/image-155.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-155.png)
 
 It seems to be an effective way of keeping people on your website, and not back to Google.
 
@@ -235,7 +235,7 @@ It seems to be an effective way of keeping people on your website, and not back 
 
 Another good strategy is to link from your homepage.
 
-![](/images/image-156-1024x480-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-156-1024x480-1.png)
 
 Your homepage is the gateway for search engine crawlers (such as Googlebot) to your website.
 
@@ -243,7 +243,7 @@ It's the page that gets the most ranking power — a few internal links funnelin
 
 Look at how we do it here at SERP Co.
 
-![](/images/image-157-1024x480-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-157-1024x480-1.png)
 
 Make sure its important, high-priority content you are linking.
 
@@ -265,13 +265,13 @@ Matt Cutts (Google's former head of web spam) made a [blog post](https://www.mat
 
 He said the reason (to keep links under 100 per page) is user experience.
 
-![](/images/image-158-1024x159-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-158-1024x159-1.png)
 
 > If you're showing well over 100 links per page, you could be overwhelming your users and giving them a bad experience.
 
 He also goes over how too many links spreads your ranking power (being passed through links) thin.
 
-![](/images/image-159-1024x203-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-159-1024x203-1.png)
 
 > If you end up with hundreds of links on a page, Google might choose not to follow or to index all those links. At any rate, you’re dividing the PageRank of that page between hundreds of links, so each link is only going to pass along a minuscule amount of PageRank anyway.
 

@@ -1,7 +1,7 @@
 ---
 slug: /reviews/codero-hosting/
 title: "Codero Hosting Review"
-date: "2022-10-03"
+date: "2022-10-03T12:00:00.000Z"
 category: Reviews
 tags: ["Hosting"]
 ---
@@ -460,4 +460,4 @@ I would never recommend Codero as an option for individual users. They do offer 
 
 It has a great partner program, and depending on how many sales you can make; you may enjoy lots of benefits in the form of commissions and discounts.
 
-![](/images/long-white-bg.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/long-white-bg.png)

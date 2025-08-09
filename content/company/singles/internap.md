@@ -2,7 +2,7 @@
 slug: /reviews/internap/
 title: "Internap"
 seoTitle: "Internap Holding LLC (INAP) Cloud Solutions Review"
-date: "2022-09-09"
+date: "2022-09-09T12:00:00.000Z"
 category: Reviews
 tags: ["Hosting"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "seo techniques"
-date: "2022-08-26"
+date: "2022-08-26T12:00:00.000Z"
 slug: "seo-techniques"
 ---
 
@@ -18,7 +18,7 @@ After you read this article you will understand exactly what goes into a success
 
 Master each of these "sub-divisions" of SEO and you will be able to harness the power of Google.
 
-[![](/images/download-24.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/download-24.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-24.gif)
 
 ### Black Hat SEO
 
@@ -89,7 +89,7 @@ We can't recommend it enough.
 
 Competitor research, in SEO, means finding out exactly what your competitors are doing that is bringing them organic success - and then using that information as a starting point to craft your strategy.
 
-Here at [SERP Co](http://staging-devinschumacher.kinsta.cloud), we like to start by Googling our main keyword goals and seeing who is ranking.
+Here at [SERP Co](https://devinschumacher.com), we like to start by Googling our main keyword goals and seeing who is ranking.
 
 We then put them into a tool, like Ahrefs, that shows us what [keywords they are ranking](https://devinschumacher.com/keyword-rank-tracking-tools/) for, where they are getting their links, and how much traffic they are getting.
 
@@ -118,7 +118,7 @@ Most of the time they don't know about YOU, but they know what their issue is.
 
 **Enter keyword research**:
 
-[![](/images/download-1-2.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/download-1-2.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-1-2.gif)
 
 We can use tools to find the keywords people are searching for, and then write content specifically designed to solve those problems, answer those questions, and provide solutions to the issues the searches have.
 
@@ -126,7 +126,7 @@ For example, we didn't pull the keyword "SEO Techniques" out of thin air when de
 
 We first found out how many people are searching for this per month (more than 7,000 searches per month globally, and close to 2,000 per month in the USA)
 
-[![](/images/seo-techniques-keyword-stats-1024x281-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/seo-techniques-keyword-stats.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/seo-techniques-keyword-stats-1024x281-1.png)
 
 ### Local SEO
 
@@ -152,9 +152,9 @@ Showing up in maps is a huge driver of traffic for many businesses.
 
 We have been able to help one of our [Landscape Marketing](https://devinschumacher.com/landscape-marketing-ideas/) clients in New York with the Local SEO portion of their digital marketing, and it's driving a good portion of leads to her business each month:
 
-[![](/images/local-seo-techniques-results-1024x464-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/local-seo-techniques-results.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/local-seo-techniques-results-1024x464-1.png)
 
-![](/images/screen_shot_2019-10-01_at_1_38_21_pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-01_at_1_38_21_pm.png)
 
 [Click here to see the full case study of how we were able to help grow this New York Landscapers business and get her a 990% ROI on her SEO spend.](https://devinschumacher.com/case-studies/amber-freda/)
 
@@ -290,7 +290,7 @@ Why? Because typing takes time and energy - so when we type searches we usually 
 
 But talking is easy, and most of us talk too much anyway - so we don't mind asking questions if we can speak it!
 
-![](/images/voice-optimization2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/voice-optimization2.png)
 
 **Some Examples of Voice Search SEO Optimization Techniques:**
 
@@ -300,7 +300,7 @@ But talking is easy, and most of us talk too much anyway - so we don't mind aski
 
 - Create [topical clusters](https://devinschumacher.com/topical-clustering/) (instead of just single keyword posts)
 
-![](/images/topic-clusters-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/topic-clusters-1.png)
 
 ## Final Thoughts
 

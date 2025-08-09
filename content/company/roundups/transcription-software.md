@@ -1,7 +1,7 @@
 ---
 slug: /best/transcription-software/
 title: "Best Transcription Software"
-date: "2022-10-22"
+date: "2022-10-22T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -24,7 +24,7 @@ In this guide, we'll discuss the different types of transcription software so th
 
 ### [Rev](https://serp.ly/rev)
 
-![](/images/rev-1024x363.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/rev-1024x363.png)
 
 Rev is one of the leading transcription software providers in the world, offering premium services for manual and automated transcription, closed captioning, and foreign subtitling. Their clients range from global enterprises to freelance journalists, and they have the capacity to handle any customer's needs with ease. Whether you're looking for a tool to help transcribe your own content or need a service to handle all of your transcription needs, Rev is the perfect choice.
 
@@ -32,7 +32,7 @@ With advanced technology and high-quality transcriptionists behind every project
 
 ### [Trint](https://serp.ly/trint)
 
-![](/images/trint-1024x398.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/trint-1024x398.png)
 
 Trint is a powerful transcription software that uses artificial intelligence to automatically transcribe your audio and video files. With a simple drag-and-drop interface, you can easily upload your files to the Trint platform and get accurate, high-quality transcriptions in just minutes.
 
@@ -44,7 +44,7 @@ Whether you're an individual or a business looking for an easy way to transcribe
 
 ### [Sonix](https://serp.ly/sonix)
 
-![](/images/sonix-1024x403.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/sonix-1024x403.png)
 
 Sonix is a transcription software that is fast, accurate, and affordable. With millions of users from all over the world, Sonix makes it easy to upload your audio or video files and get an online transcript in just a few minutes.
 
@@ -54,7 +54,7 @@ Whether you're looking for an effective way to transcribe your meeting notes or 
 
 ### [Descript](https://serp.ly/descript)
 
-![](/images/descript-1024x523.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/descript-1024x523.png)
 
 Looking for an easy way to transcribe your audio and video files? Look no further than Descript, the ultimate transcription software. With Descript, you can easily upload media or record directly into the app to instantly get your files transcribed into text. Then, you can easily edit out filler words and silent gaps with a single click, making it quick and easy to get your media ready for publishing.
 
@@ -62,7 +62,7 @@ So if you're looking for a powerful transcription tool that makes editing as eas
 
 ### [Happy Scribe](https://serp.ly/happy-scribe)
 
-![](/images/happy-scribe-1024x418.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/happy-scribe-1024x418.png)
 
 Happy Scribe is a great transcription software that makes it easy to convert your audio files into text. Whether you want to use their automatic transcription service or opt for their professional transcription service, this platform has everything you need to get your files transcribed quickly and accurately.
 

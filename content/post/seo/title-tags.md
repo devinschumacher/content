@@ -1,6 +1,6 @@
 ---
 title: "title tags"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "title-tags"
 ---
 
@@ -44,33 +44,33 @@ This is not true—they are two different HTML tags.
 
 The title tag is what is shown on the SERP. It is more important for SEO purposes.
 
-[![](/images/image-10.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image-10.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-10.png)
 
 The H1 tag is the heading on the actual webpage.
 
-[![](/images/image-1-1024x474-1.png)](https://devinschumacher.com/wp-content/uploads/2019/11/image-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-1-1024x474-1.png)
 
 It's easy to confuse these as the same thing because by default WordPress uses the Page Title as the H1 on blog posts in almost every theme.
 
-[![](/images/page-title-in-wordpress.jpg)](https://devinschumacher.com/wp-content/uploads/2022/08/page-title-in-wordpress.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/page-title-in-wordpress.jpg)
 
 You can view the title tag and H1 tag of any webpage easily—here's how.
 
 **Right-click "View page source" on the webpage.**
 
-[![](/images/image-7-1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image-7-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-7-1.png)
 
 **The page HTML will come up.**
 
-[![](/images/image-6-1024x320-1.png)](https://devinschumacher.com/wp-content/uploads/2019/11/image-6.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-6-1024x320-1.png)
 
 **Ctrl + F "Title" for the title tag.**
 
-[![](/images/image-5-2.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image-5-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-5-2.png)
 
 **Ctrl + F "<h1" for the H1 tag.**
 
-[![](/images/image-4-2.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image-4-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-4-2.png)
 
 ## Why Are Title Tags Important For SEO?
 
@@ -106,7 +106,7 @@ Independent research from [Brian Dean](https://backlinko.com/google-ranking-fact
 
 <figure>
 
-[![Backlinko Title Tag Study](/images/backlinko-title-tag-study.png)](https://devinschumacher.com/wp-content/uploads/2022/08/backlinko-title-tag-study.png)
+![Backlinko Title Tag Study](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/backlinko-title-tag-study.png)
 
 <figcaption>
 
@@ -128,7 +128,7 @@ Often you will find that webpages don't just rank for a primary keyword, but sev
 
 <figure>
 
-[![00 average number also rank for keywords2](/images/00-average-number-also-rank-for-keywords2.png)](https://devinschumacher.com/wp-content/uploads/2022/08/00-average-number-also-rank-for-keywords2.png)
+![00 average number also rank for keywords2](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/00-average-number-also-rank-for-keywords2.png)
 
 <figcaption>
 
@@ -150,7 +150,7 @@ Like this.
 
 <figure>
 
-[![Front Loaded Keyword Title Tag](/images/front-loaded-keyword-title-tag.png)](https://devinschumacher.com/wp-content/uploads/2022/08/front-loaded-keyword-title-tag.png)
+![Front Loaded Keyword Title Tag](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/front-loaded-keyword-title-tag.png)
 
 <figcaption>
 
@@ -166,7 +166,7 @@ Enter something in Google and notice that generally, the top results have that s
 
 **Here is an example.**
 
-[![](/images/image-24-2.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image-24-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-24-2.png)
 
 Google seems to put more emphasis on words featured earlier in page titles.
 
@@ -182,7 +182,7 @@ When you provide a superior user experience, and make it easier for Google to ra
 
 <figure>
 
-[![Short Titles](/images/short-titles.jpg)](https://devinschumacher.com/wp-content/uploads/2022/08/short-titles.jpg)
+![Short Titles](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/short-titles.jpg)
 
 <figcaption>
 
@@ -198,11 +198,11 @@ The better result are not just in the SERPs, either.
 
 [Research from HubSpot](https://blog.hubspot.com/marketing/seo-social-media-study) showed 11-14 character headlines get more social media shares.
 
-[![](/images/blog-post-content-title-length-social-shares.png)](https://devinschumacher.com/wp-content/uploads/2022/08/blog-post-content-title-length-social-shares.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/blog-post-content-title-length-social-shares.png)
 
 If your page title is too long, the excess will be cut-off. It'll look like this.
 
-[![](/images/image14-11.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image14-11.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image14-11.png)
 
 Notice the ...
 
@@ -222,11 +222,11 @@ It's a psychological thing. The human brain finds numbers easy to understand—t
 
 A study of headline preferences from [Conductor](https://www.conductor.com/) confirms this. Take a look at this graph.
 
-[![](/images/blog-post-headline-study.png)](https://devinschumacher.com/wp-content/uploads/2022/08/blog-post-headline-study.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/blog-post-headline-study.png)
 
 It's no wonder so many headlines feature numbers. Buzzfeed popularized numbered headlines—dubbed "listicles."
 
-[![](/images/buzzfeed-listicle-blog-posts.png)](https://devinschumacher.com/wp-content/uploads/2022/08/buzzfeed-listicle-blog-posts.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/buzzfeed-listicle-blog-posts.png)
 
 It's also important to note, for some strange reason odd numbers perform better.
 
@@ -261,7 +261,7 @@ Because they are a great way to get some extra long-tail keyword traffic. It's a
 
 [Backlinko's Brian Dean highly recommends](https://backlinko.com/on-page-seo) the use of title modifiers.
 
-[![](/images/image-8-2.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image-8-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-8-2.png)
 
 It's a simple trick to broaden your content to a much wider net of search queries.
 
@@ -275,7 +275,7 @@ Search intent is what someone is really looking for when they use Google.
 
 This does not always exactly match what they enter into the search bar.
 
-[![](/images/image-9-2.png)](https://devinschumacher.com/wp-content/uploads/2022/08/image-9-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-9-2.png)
 
 **Search intent generally falls under one of these 3 categories.**
 

@@ -1,6 +1,6 @@
 ---
 title: "hyperlinks"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "hyperlinks"
 ---
 
@@ -16,7 +16,7 @@ Hyperlinks were the original way of connecting documents on the internet.
 
 <figure>
 
-![](/images/hyperlinks-in-the-original-internet.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hyperlinks-in-the-original-internet.png)
 
 <figcaption>
 
@@ -38,11 +38,11 @@ Let's just jump right in and **define hyperlinks**, because these bad boys are t
 
 Hyperlinks are everywhere.
 
-![](/images/hyperlinks-are-everywhere.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hyperlinks-are-everywhere.gif)
 
 You've already seen at least 2 in this article alone.
 
-![](/images/hyperlinks_are_everywhere_img.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hyperlinks_are_everywhere_img.png)
 
 ## The Importance of Hyperlinks
 
@@ -50,7 +50,7 @@ Originally, hyperlinks were used to cite resources or references with an easy-to
 
 A clickable piece of text is called a text based hyperlink, and the clickable part of the test is called the "[anchor text](https://devinschumacher.com/anchor-text/)". If you're reading this article wanting to get better at SEO – remember the term **anchor text**. It is HUGELY important in [SEO](https://devinschumacher.com/what-is-seo/).
 
-![](/images/anchor-text-is-a-critical-moment-in-learning-seo-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/anchor-text-is-a-critical-moment-in-learning-seo-1.gif)
 
 In order to rank a website in Google (or any other [search engine](https://devinschumacher.com/search-engines/) for that matter) you need a website that is properly built using correct [on-page seo techniques](https://devinschumacher.com/on-page-seo/), so Google can easily understand it, **and** your website needs to have some kind of trust & authority – which is achieved by getting _other websites to link to you_, called [link building](https://devinschumacher.com/link-building/).
 
@@ -58,7 +58,7 @@ When another website links _to your website_, this is referred to as getting a "
 
 And **trust me when I say, links are here to stay.** It rhymes, so you know it's real.
 
-![](/images/download-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-1.gif)
 
 With SEO being just one example, it is pretty clear that hyperlinks are now used for many different purposes above just citing sources, and there are many more **types of hyperlinks** that just "text based links".
 
@@ -88,11 +88,11 @@ Image links are clickable _images_, rather than text.
 
 The most common place you see this are banner advertisements on websites.
 
-![](/images/image-link-1024x584-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/image-link-1024x584-1.png)
 
 Here is an example of an image link:
 
-[![This is a picture of the homepage of SERP Co, which is a digital marketing agency.](/images/staging-devinschumacher.kinsta.cloud-homepage-the-best-digital-marketing-agency-1024x730-1.png)](https://staging-devinschumacher.kinsta.cloud)
+![This is a picture of the homepage of SERP Co, which is a digital marketing agency.](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/devinschumacher.com-homepage-the-best-digital-marketing-agency-1024x730-1.png)
 
 ### Inline links
 
@@ -104,7 +104,7 @@ Inline linking involved using a resource on another server (someone else has a w
 
 Let's not go down that rabbit hole right now.
 
-![](/images/download-2.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-2.gif)
 
 ### Anchor links
 
@@ -116,7 +116,7 @@ But, in case you want to try one out right now, I have created an anchor link fo
 
 Internal links are hyperlinks that point to another page on the same website.
 
-For example, here on this article that you are reading called "Hyperlinks", whenever we link to another article on a _different page/URL_ of our website – that would be an internal link. [Like this internal link sending you to the SERP Co homepage.](https://staging-devinschumacher.kinsta.cloud)
+For example, here on this article that you are reading called "Hyperlinks", whenever we link to another article on a _different page/URL_ of our website – that would be an internal link. [Like this internal link sending you to the SERP Co homepage.](https://devinschumacher.com)
 
 [Internal links](https://devinschumacher.com/internal-links/) are not to be confused with anchor links – anchor links link to a different place on the same page/URL, where an internal links links to a different page/URL on the same website, but not the same URL.
 
@@ -138,13 +138,13 @@ Fat links can open multiple windows, multiple tabs, or just open a dialogue box 
 
 A traditional hyperlink is made up of a few [html elements](https://devinschumacher.com/seo-html-elements/). Let's run a quick example so you get it.
 
-[This is a link to SERP Co](http://staging-devinschumacher.kinsta.cloud).
+[This is a link to SERP Co](https://devinschumacher.com).
 
 1. **The Anchor Tags** : <a> </a>
 
 3. **The Hypertext Reference** Tag : href
 
-5. **The URL**: https://staging-devinschumacher.kinsta.cloud
+5. **The URL**: https://devinschumacher.com
 
 7. **The Anchor text** : This is a link to SERP Co.
 
@@ -152,7 +152,7 @@ If you know how to put these together, then you know **how to hyperlink**.
 
 On the "backend" (aka the HTML) our example looks like this:
 
-![](/images/screen-shot-2020-04-05-at-1.26.55-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2020-04-05-at-1.26.55-pm.png)
 
 This is not a course on HTML, but basically what you see is the 1. Anchor Tag, then the 2. Hypertext Reference Tag, then the 3. URL, and then the 4. Anchor Text.
 
@@ -174,11 +174,11 @@ In HTML, attributes define additional characteristics or properties of of an ele
 
 Essentially, hyperlink attributes give links "extra powers".
 
-![](/images/download-3.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-3.gif)
 
 There are way too many hyperlink attributes to cover here. In fact, it would require its own series of articles to be comprehensive so let's just cover the ones most important for SEO – this would be the "REL" attribute.
 
-[![](/images/hyperlink_attributes-rel-1024x715-1.png)](https://devinschumacher.com/wp-content/uploads/2020/04/hyperlink_attributes-REL.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hyperlink_attributes-rel-1024x715-1.png)
 
 As you can see, even looking at one attribute there are still a ton of values – lot's of options for augmenting links. These are the ones you **need** to know:
 
@@ -192,7 +192,7 @@ As you can see, even looking at one attribute there are still a ton of values �
 
 You can add these attributes to your links in the HTML, by adding a **rel=""** right after the URL
 
-![](/images/screen-shot-2020-04-05-at-2.43.28-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2020-04-05-at-2.43.28-pm.png)
 
 ## Final Thoughts
 

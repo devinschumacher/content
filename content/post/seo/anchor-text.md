@@ -1,6 +1,6 @@
 ---
 title: "anchor text"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "anchor-text"
 ---
 
@@ -20,7 +20,7 @@ Buckle up, buttercup.
 
 Anchor Text is the "clickable" portion of a link, usually found somewhere in a piece of content or on a webpage.
 
-![](/images/anchor-text-example-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/anchor-text-example-1.png)
 
 You probably clicked on some anchor text to get to this article.
 
@@ -39,7 +39,7 @@ From the perspective of us lovely humans, it is the part of a hyperlink that we 
 From the perspective of a bot, like a search engine that reads HTML (among other things), it would look like this:
 
 ```
-<a href="https://staging-devinschumacher.kinsta.cloud">SERP Co</a>
+<a href="https://devinschumacher.com">SERP Co</a>
 ```
 
 Let's break this down real quick by looking at the full hyperlink structure in the example above.
@@ -49,12 +49,12 @@ Let's break this down real quick by looking at the full hyperlink structure in t
 A simple hyperlink is made up of 3 parts:
 
 1. **The anchor tags**: <a></a>
-2. **The link destination**: href="https://staging-devinschumacher.kinsta.cloud"
+2. **The link destination**: href="https://devinschumacher.com"
 3. **The anchor text**: SERP Co
 
 We will illustrate this example:
 
-[![](/images/1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/1.png)
 
 The first part of this hyperlink in HTML is the "anchor" tags. They look like this:
 
@@ -62,7 +62,7 @@ The first part of this hyperlink in HTML is the "anchor" tags. They look like th
 <a> </a>
 ```
 
-[![](/images/2.png)](https://devinschumacher.com/wp-content/uploads/2022/08/2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/2.png)
 
 The <a> HTML tag creates the code that is used to define a hyperlink.
 
@@ -79,15 +79,15 @@ href=""
 We put the actual URL of the link destination in between the quotation marks.
 
 ```
-href="https://staging-devinschumacher.kinsta.cloud"
+href="https://devinschumacher.com"
 ```
 
-[![](/images/3.png)](https://devinschumacher.com/wp-content/uploads/2022/08/3.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/3.png)
 
 This href part goes inside of the anchor tags, so it ends up looking like:
 
 ```
-<a href="https://staging-devinschumacher.kinsta.cloud"></a>
+<a href="https://devinschumacher.com"></a>
 ```
 
 Now we simply need to add in what we want the clickable text to be, in this case, "SERP Co" which we put in between the >< symbols.
@@ -99,16 +99,16 @@ SERP Co
 So, the whole enchilada looks like this:
 
 ```
-<a href="https://staging-devinschumacher.kinsta.cloud">SERP Co</a>
+<a href="https://devinschumacher.com">SERP Co</a>
 ```
 
 To summarize the structure of a link:
 
-![](/images/html-anchor-text.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/html-anchor-text.png)
 
 **Note**: There are many more attributes you can add to a hyperlink, like telling it to "open in a new tab" or be "nofollow", but that doesn't really matter for what we are trying to learn in this article.
 
-[![](/images/the-parts-of-a-link.png)](https://devinschumacher.com/wp-content/uploads/2022/08/the-parts-of-a-link.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/the-parts-of-a-link.png)
 
 ## Why is anchor text important?
 
@@ -132,7 +132,7 @@ Yes, we agree with that one.
 
 Having relevant keywords in the anchor text of the links pointing to your page is a very important [search engine ranking factor](https://devinschumacher.com/google-ranking-factors/).
 
-![](/images/how-anchor-texts-helps-ranking.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-anchor-texts-helps-ranking.png)
 
 Now, in many of these examples we have been linking to another page on our site (interlinking), which is quite easy to manipulate the anchor text because after all, I am the one writing this blog post.
 
@@ -219,12 +219,12 @@ You will see page title anchor texts pop up frequently on those "recommended rea
 
 **Recommended Additional Reading:**
 
-- [SEO Keywords: What Are Keywords for SEO & How to Choose The Good Ones](https://staging-devinschumacher.kinsta.cloud-keywords/)
+- [SEO Keywords: What Are Keywords for SEO & How to Choose The Good Ones](https://devinschumacher.com-keywords/)
 - [Digital Marketing for Dummies: Everything You Need to Know to Get Started](https://devinschumacher.com/wp-admin/post.php?post=3166&action=edit)
 
 Those would be examples of using a page title as the anchor text. Totally rad!
 
-![](/images/download-14.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-14.gif)
 
 ### Sentence Anchors
 
@@ -248,27 +248,27 @@ Muy Bien??
 
 https://www.youtube.com/watch?v=uOpjYE-iPnY
 
-![](/images/screen-shot-2019-10-18-at-2.51.26-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-18-at-2.51.26-pm.png)
 
 There are a lot of ways to write a URL, and since most websites are now set up to redirect all variations to one primary URL protocol, there are a lot of different naked URL variations you can get.
 
 #### Naked Anchor Text Examples:
 
-- [staging-devinschumacher.kinsta.cloud](https://devinschumacher.com/)
-- [www.staging-devinschumacher.kinsta.cloud](https://devinschumacher.com/)
-- [http://staging-devinschumacher.kinsta.cloud](http://staging-devinschumacher.kinsta.cloud)
-- [http://www.staging-devinschumacher.kinsta.cloud](http://www.staging-devinschumacher.kinsta.cloud)
-- [https://staging-devinschumacher.kinsta.cloud](https://staging-devinschumacher.kinsta.cloud)
-- [https://www.staging-devinschumacher.kinsta.cloud](https://www.staging-devinschumacher.kinsta.cloud)
+- [devinschumacher.com](https://devinschumacher.com/)
+- [www.devinschumacher.com](https://devinschumacher.com/)
+- [https://devinschumacher.com](https://devinschumacher.com)
+- [http://www.devinschumacher.com](http://www.devinschumacher.com)
+- [https://devinschumacher.com](https://devinschumacher.com)
+- [https://www.devinschumacher.com](https://www.devinschumacher.com)
 
 and...
 
-- [staging-devinschumacher.kinsta.cloud/](https://devinschumacher.com/)
-- [www.staging-devinschumacher.kinsta.cloud/](https://devinschumacher.com/)
+- [devinschumacher.com/](https://devinschumacher.com/)
+- [www.devinschumacher.com/](https://devinschumacher.com/)
 - [https://devinschumacher.com/](https://devinschumacher.com/)
-- [http://www.staging-devinschumacher.kinsta.cloud/](http://www.staging-devinschumacher.kinsta.cloud/)
+- [http://www.devinschumacher.com/](http://www.devinschumacher.com/)
 - [https://devinschumacher.com/](https://devinschumacher.com/)
-- [https://www.staging-devinschumacher.kinsta.cloud/](https://www.staging-devinschumacher.kinsta.cloud/)
+- [https://www.devinschumacher.com/](https://www.devinschumacher.com/)
 
 **Pro tip**: Utilize all these different types of naked URL variations. It's a great way to keep your anchor profile text varied so it doesn't look like you are trying to cheat the system).
 
@@ -299,7 +299,7 @@ Here are some common anchor text variations (with examples) that we like to use:
 
 - **Brand + Keyword**: [SERP Co - Digital Marketing](https://devinschumacher.com/)
 - **Generic + Keyword**: [click here to visit this marketing agency](https://devinschumacher.com/)
-- **Naked + Keyword**: [https://staging-devinschumacher.kinsta.cloud - an online marketing firm](https://devinschumacher.com/)
+- **Naked + Keyword**: [https://devinschumacher.com - an online marketing firm](https://devinschumacher.com/)
 
 ## Anchor text profile
 
@@ -307,7 +307,7 @@ Your anchor text profile (aka anchor text ratio) is quite literally the entire m
 
 For example, if our website SERP Co had 4 links pointing to it with these anchor texts:
 
-- staging-devinschumacher.kinsta.cloud
+- devinschumacher.com
 - SERP Co
 - click here
 - digital marketing company
@@ -323,7 +323,7 @@ This is obviously a very simple example, but the point is that you want your anc
 
 Our actual anchor text profile, at the time of writing this, looks more like this:
 
-[![](/images/anchor_text_profile_for_serp_co-1024x740-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/anchor_text_profile_for_SERP_Co.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/anchor_text_profile_for_serp_co-1024x740-1.png)
 
 To be honest, our anchor text profile is quite shit right now - but we just barely started building links and we purchased a couple of smaller SEO companies that ended up getting 301'd into our domain, so I'm not surprised that it's kind of weird.
 
@@ -331,7 +331,7 @@ Your focus should be to make sure you never have an anchor text ratio with a dis
 
 If all of your anchor texts are keyword-based, it is pretty obvious for the algorithm to know that you are manipulating your anchor text to try and rank your website higher - because it is not normal for a website to receive all keyword anchor texts.
 
-![](/images/anchor-text-distribution-infographic.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/anchor-text-distribution-infographic.png)
 
 ## How to evaluate your anchor text profile
 
@@ -349,7 +349,7 @@ Find & analyze the competition who is winning where you want to be winning.
 
 **Step 2: Add your website to "Ahrefs > Anchors" & Export to CSV**
 
-![](/images/screen_shot_2019-10-18_at_8_08_31_pm-1024x536-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-18_at_8_08_31_pm-1024x536-1.png)
 
 **Step 3: Repeat Step 2 for each of your competitors**
 
@@ -357,11 +357,11 @@ Find & analyze the competition who is winning where you want to be winning.
 
 **Pro tip**: Instead of using a spreadsheet for this, use SERP App for this. Everytime you get new links you can add an anchor text type to it and the software will begin to keep track of everything and give you recommendations.
 
-![](/images/categorizing-anchor-text-types-1-1024x845-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/categorizing-anchor-text-types-1-1024x845-1.png)
 
 **Step 5: Create a simple pie chart, and voila!**
 
-![](/images/screen-shot-2019-10-18-at-8.32.19-pm-1024x470-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-18-at-8.32.19-pm-1024x470-1.png)
 
 If you do this for each of the top competitors who are ranking for a keyword you want (and ideally you would do this with a page on your website, not your entire domain like I did in the example) you will quickly see the anchor text ratios of the top guys, and use it as a benchmark for your anchor text profile.
 
@@ -379,13 +379,13 @@ Specifically, the Penguin algorithm targeted "link schemes" and any websites tha
 
 Manipulating your anchor text definitely falls into the category of Penguin, but can also fall into the Panda algorithm as well.
 
-[![](/images/anchor-text-penalty-1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/anchor-text-penalty-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/anchor-text-penalty-1.png)
 
 If you don't know what that is don't worry about it right now. The point is - always use anchor text best practices to avoid peril.
 
 So anyway, now that the boring history lesson part of the show is done, let's kick off these best practices with a screenshot from Google about anchor text best practices.
 
-[![](/images/googles-best-practices-on-anchor-text.png)](https://devinschumacher.com/wp-content/uploads/2022/08/googles-best-practices-on-anchor-text.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/googles-best-practices-on-anchor-text.png)
 
 Now, I think we know by now that half of what Google says publicly is total BS and we need to take it with a grain of salt. We prefer to go by our personal tests to see what's working - not what some Google monkey has been told to tell us.
 
@@ -393,7 +393,7 @@ Some things Google says we will confirm, some we vehemently oppose.
 
 As our good friend the Dalai Lama once said: “Know the rules well, so you can break them effectively.”
 
-[![](/images/download-16.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/download-16.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-16.gif)
 
 ### Anchor text best-practice summary from our own research
 
@@ -419,7 +419,7 @@ If you think you're rankings are suffering or you are potentially setting yourse
 
 And in case you were wondering, we have located actual footage of a Google slap in action on someone who over-optimized their anchor text:
 
-[![](/images/download-18.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/download-18.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-18.gif)
 
 Definitely something you want to avoid at all costs.
 

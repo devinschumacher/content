@@ -1,7 +1,7 @@
 ---
 slug: /reviews/zapier/
 title: "Zapier Review"
-date: "2022-10-08"
+date: "2022-10-08T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -12,7 +12,7 @@ tags:
 
 With over 3,000 supported apps, it connects your most frequently used ones and moves information between them automatically.
 
-![](/images/eaa56102-8ae7-46db-a82b-d4af16dc59ac.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/eaa56102-8ae7-46db-a82b-d4af16dc59ac.png)
 
 The best part is that you don't need to touch a single line of code!
 
@@ -24,11 +24,11 @@ This marketing automation tool has been growing consistently and now helps over 
 
 It also ranked #33 in the 2019 Forbes Cloud 100 apps, a list of the best private cloud apps. Pretty impressive, I must say.
 
-![](/images/d96506fd-7a14-43c3-85d3-fcc3947cf02f.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/d96506fd-7a14-43c3-85d3-fcc3947cf02f.png)
 
 Besides, many of the repetitive tasks automated by Zapier, like data entry, are extremely monotonous and time-consuming. Having to process that manually in the 21st century seemed almost ridiculous.
 
-![](/images/giphy-3.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/giphy-3.gif)
 
 Other business and productivity apps can also be quite useful, but most of them don't offer the possibility to automate manual tasks.
 
@@ -72,7 +72,7 @@ All you need to get started is an email address to create your account or simply
 
 The first thing you want to do is click on 'My Zaps', where all of your Zaps will be displayed, like a home page. Here you can create several different folders to organize all your different workflows.
 
-![](/images/43b318d1-4113-4bbb-acc1-04fb98a03de9.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/43b318d1-4113-4bbb-acc1-04fb98a03de9.png)
 
 Just select 'Make a New Zap', name it, and set your preferences.
 
@@ -108,7 +108,7 @@ Once your Zap is up and running, you will be able to see what's going on under t
 
 So for each time Facebook Lead Ads creates a new row in our spreadsheet, it will create a task that will show up in our task history record.
 
-![](/images/a16ecb2c-7d56-43c5-a89e-5eb20eab8945.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/a16ecb2c-7d56-43c5-a89e-5eb20eab8945.png)
 
 Browsing through this list is not hard. You can filter your actions by date, Zap, and several other criteria.
 
@@ -120,7 +120,7 @@ Browsing through this list is not hard. You can filter your actions by date, Zap
 
 They are close to infinite.
 
-![](/images/bae78858-2304-477a-9ea8-aee123dbe052.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/bae78858-2304-477a-9ea8-aee123dbe052.png)
 
 It also makes Zapier a versatile tool that can be used in any industry, precisely why many people recommend Zapier.
 
@@ -140,7 +140,7 @@ It can also help you eliminate potentially complicated workarounds. And unlike Z
 
 While it is true that there's a lot to take in here, Zapier does quite a good job guiding you through the process.
 
-![](/images/43d31f8f-727d-46e2-bfb1-ac46601e4930.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/43d31f8f-727d-46e2-bfb1-ac46601e4930.png)
 
 As soon as you enter their website, you will come across many introductory videos that give you a glimpse of what you can do with it.
 
@@ -166,7 +166,7 @@ The vast majority of the time we spend online isn't from a desktop computer but 
 
 The pricing structure seems unnecessarily complex to begin with, so it is no wonder choosing a plan is such a tough call.
 
-![](/images/d2aa9874-ee1c-4f96-b1c6-110ba44959ec.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/d2aa9874-ee1c-4f96-b1c6-110ba44959ec.png)
 
 If you are not yet familiar with how the platform works, you might be confused by how many actions and zaps are enough for what you need.
 
@@ -200,7 +200,7 @@ So the big question here is whether a paid account is worth its price and which 
 
 Let's start by saying Zapier is targeted at businesses, so it wouldn't be wrong to choose your plan depending on your work volume and needs.
 
-![](/images/29863cfa-5ae8-440b-a5a0-25b8456628f6.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/29863cfa-5ae8-440b-a5a0-25b8456628f6.png)
 
 A big advantage here is that you can take your first steps on Zapier completely for free. Although it is not suitable for big projects, it is enough to cover basic automation needs.
 

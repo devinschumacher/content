@@ -1,6 +1,6 @@
 ---
 title: "sitemaps"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "sitemaps"
 ---
 
@@ -34,7 +34,7 @@ Remember in school when you'd get that professor who would just literally tell y
 
 That's how search engine bots feel when you give them a sitemap – keep those robots happy.
 
-![](/images/web-roboots-love-sitemaps.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/web-roboots-love-sitemaps.gif)
 
 ## Types of Sitemaps
 
@@ -56,7 +56,7 @@ You can use a spreadsheet, mind-mapping tool, or even just pen and paper to draw
 
 Here is an example of how you might plan out the sitemap for a single-location dentist website:
 
-[![a visual sitemap example using a dentist website](/images/screen-shot-2020-05-09-at-12.19.47-pm-1024x726-1.png)](https://devinschumacher.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-09-at-12.19.47-PM.png)
+![a visual sitemap example using a dentist website](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2020-05-09-at-12.19.47-pm-1024x726-1.png)
 
 ### HTML Sitemap
 
@@ -70,7 +70,7 @@ There are WordPress plugins that will allow you to create these types of pages v
 
 Here is an example HTML sitemap we found on [https://gunlawsuits.org/sitemap/](https://gunlawsuits.org/sitemap/).
 
-[![](/images/html-example-sitemap-1024x805-1.png)](https://devinschumacher.com/wp-content/uploads/2020/05/html-example-sitemap.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/html-example-sitemap-1024x805-1.png)
 
 ### XML Sitemap
 
@@ -82,11 +82,11 @@ They are especially important for very large websites where an HTML sitemap woul
 
 For example, that the retail giant "Target", a quick use of a Google search engine operator shows us that they have over 5 million URLs indexed:
 
-[![](/images/google-search-operator-on-target.png)](https://devinschumacher.com/wp-content/uploads/2022/08/google-search-operator-on-target.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-search-operator-on-target.png)
 
 An HTML sitemap would be ridiculous... 5 million links .... _all on one page??!_
 
-![](/images/fuhgettaboutit-1024x682-1.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/fuhgettaboutit-1024x682-1.jpg)
 
 So in this case you'd want to use an XML sitemap.
 
@@ -101,7 +101,7 @@ You can usually find a website's XML sitemap by adding these inner URLs at the e
 
 Here is the [XML Sitemap for SERP Co](https://devinschumacher.com/sitemap_index.xml)
 
-![](/images/serp-co-xml-sitemap.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/serp-co-xml-sitemap.png)
 
 As you can see this XML sitemap is hierarchical - there are sub-sitemaps located in the top level /sitemap\_index.xml.
 
@@ -132,7 +132,7 @@ Once you know what kind of website you are building, and have created your visua
 
 **Note**: A sitemap is not a requirement for your website to get indexed, or to rank in the [SERPs](https://devinschumacher.com/serp/), but they help so you'd have to be pretty lazy not to implement one.
 
-![](/images/download-4-2.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-4-2.gif)
 
 ### Create your Sitemap
 
@@ -145,23 +145,23 @@ Once your sitemap is created, you want to _submit_ it to Google - you can also d
 
 Go to [Google Search Console](https://search.google.com/search-console) > Sitemaps > Submit.
 
-![](/images/submit-sitemap-to-gsc-1024x496-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/submit-sitemap-to-gsc-1024x496-1.png)
 
 ### Use the Search Console Sitemap Report to Find Errors
 
 After Google has crawled your sitemap, you can find errors by clicking the “Submitted Sitemaps” area:
 
-![](/images/screen-shot-2020-05-09-at-12.54.10-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2020-05-09-at-12.54.10-pm.png)
 
 As you can see there is a status column – all "Success". Excellent.
 
 Check your "index coverage" by clicking on the graph:
 
-![](/images/see-index-coverage-in-gsc.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/see-index-coverage-in-gsc.png)
 
 This will show you all the details you'll ever want to know about your sitemap(s):
 
-![sitemap status and error codes](/images/screen-shot-2020-05-09-at-12.55.48-pm.png)
+![sitemap status and error codes](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2020-05-09-at-12.55.48-pm.png)
 
 ## Sitemap Benefits
 
@@ -187,4 +187,4 @@ That's just about it. Many people tend to overcomplicate this, but it really is 
 2. Submit your sitemap to Google search console.
 3. 3\. Go eat lunch.
 
-If you have additional questions about sitemaps, drop it in the comments below. And if you need 1 on 1 help, join the [SERP University Facebook Group](staging-devinschumacher.kinsta.cloud).
+If you have additional questions about sitemaps, drop it in the comments below. And if you need 1 on 1 help, join the [SERP University Facebook Group](devinschumacher.com).

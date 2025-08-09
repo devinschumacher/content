@@ -1,7 +1,7 @@
 ---
 slug: /reviews/demio/
 title: "Demio Review"
-date: "2022-10-08"
+date: "2022-10-08T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -14,7 +14,7 @@ If you can provide your targeted audience a great product with a webinar that ca
 
 If you don't, well...
 
-![](/images/swing-and-a-miss.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/swing-and-a-miss.gif)
 
 [Demio](https://serp.ly/demio) claims to be one of the [best webinar softwares](https://devinschumacher.com/webinar-software/) on the market, and we’re going to put that to the test.
 
@@ -36,7 +36,7 @@ After that, you have to figure out what’s the ultimate goal you have with webi
 
 Do you want to generate new leads, convert existing leads, or train existing customers?
 
-![](/images/hell-yeah-demio.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/hell-yeah-demio.gif)
 
 We chose the option to convert existing leads as that’s what most webinars are used for. 
 
@@ -146,7 +146,7 @@ All you have to do is make a video that you record for a webinar or an old sessi
 
 **Second**, well... Actually there is no second because the writer of this article forgot to put in a second point and me, the editor, now has to imagine what that could be. But who knows?!
 
-![](/images/oh-well-demio-review-gif-2.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/oh-well-demio-review-gif-2.gif)
 
 ## Creating A Webinar Funnel Page
 

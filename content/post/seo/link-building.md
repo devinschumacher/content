@@ -1,6 +1,6 @@
 ---
 title: "link building"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "link-building"
 ---
 
@@ -34,13 +34,13 @@ When other authoritative, trusted, and relevant (to your business) websites link
 
 The more websites that you can get to link to your website (assuming once again that they themselves are relevant and trusted) the more power your website will accumulate.
 
-![](/images/link-building-illustration.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/link-building-illustration.jpg)
 
 ## Why is Link Building so important?
 
 The original Google algorithm was based primarily on evaluating websites based on how many backlinks a website had from other sites on the internet.
 
-![](/images/googles-original-algorithm-was-based-on-getting-backlinks.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/googles-original-algorithm-was-based-on-getting-backlinks.png)
 
 Even though that was all the way back in 1998 and the algorithm has evolved a lot since then, having other websites link to you is still one of the top SEO ranking factors - by far.
 
@@ -55,7 +55,7 @@ Just to drive this point home, here is what happens when you publish content on 
 
 <figure>
 
-[![](/images/results_from_our_link_building_campaign-1024x134-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/results_from_our_link_building_campaign.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/results_from_our_link_building_campaign-1024x134-1.png)
 
 <figcaption>
 
@@ -166,11 +166,11 @@ No one is going to link to you if your website is trash.
 
 Well, I shouldn't say no one because people link to trash websites all the time - but it will be much harder for you to acquire links if your website looks bad, untrustworthy, or just downright stupid. Unless your website is Lings Cars:
 
-[![](/images/how-does-lings-cars-get-links-1024x666-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/how-does-lings-cars-get-links.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-does-lings-cars-get-links-1024x666-1.png)
 
 <figure>
 
-[![](/images/screen-shot-2019-10-19-at-2.15.04-pm-1024x166-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-19-at-2.15.04-PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-19-at-2.15.04-pm-1024x166-1.png)
 
 <figcaption>
 
@@ -260,7 +260,7 @@ Our team uses an easy to remember acronym when evaluating the quality of a poten
 
 Evaluating the quality of a. link will be based on these three ART factors - but keep in mind that you want to be evaluating the A,R,T of not only the website as a whole but also the specific page where you want to get a link from (domain-level factors vs. page-level factors).
 
-![](/images/backlink-factors-on-page-factors-ahrefs-metrics.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/backlink-factors-on-page-factors-ahrefs-metrics.jpg)
 
 ## Authority
 
@@ -272,15 +272,15 @@ Remember that hyperlinks "pass link power" to their destination, so if you get a
 
 For example, if I was running a link building campaign to improve the rankings of my [Keyword Research](https://devinschumacher.com/keyword-research/) article, I would rather have a link from Ahrefs.com on this page with 692 referring domains:
 
-[![](/images/screen_shot_2019-10-19_at_3_36_01_pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen_shot_2019-10-19_at_3_36_01_pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-19_at_3_36_01_pm.png)
 
 Then this page with 1:
 
-[![](/images/1-1.png)](https://devinschumacher.com/wp-content/uploads/2022/08/1-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/1-1.png)
 
 You can easily check the authority of a website by looking at the "UR" in Ahrefs. Be sure to enter the entire URL into site explorer so you get the stats on. the specific page:
 
-[![](/images/screen_shot_2019-10-21_at_12_18_20_pm-1024x247-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen_Shot_2019-10-21_at_12_18_20_PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-21_at_12_18_20_pm-1024x247-1.png)
 
 **Try to get links from web pages that have a lot of links themselves.**
 
@@ -290,11 +290,11 @@ The "authority" or "strength" of an entire website comes from the quantity/quali
 
 In general, getting a link from a very strong website, like Forbes, would be much more "powerful" than a link from some unknown blog.
 
-![](/images/authority-links-carry-more-weight-illustration.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/authority-links-carry-more-weight-illustration.jpg)
 
 You can easily check the authority of a website by looking at the DR in Ahrefs:
 
-[![](/images/dr-of-serp-co.png)](https://devinschumacher.com/wp-content/uploads/2022/08/dr-of-serp-co.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/dr-of-serp-co.png)
 
 ## Relevance
 
@@ -313,15 +313,15 @@ You can easily check the authority of a website by looking at the DR in Ahrefs:
 
 Please read our guide on [anchor text](https://devinschumacher.com/anchor-text/) before trying to decide what anchor text to make your backlinks.
 
-[![](/images/anchor-links.png)](https://devinschumacher.com/wp-content/uploads/2022/08/anchor-links.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/anchor-links.png)
 
 - **Co-occurrence**: The text surrounding the link provides context and can add relevance.
 
-![](/images/surrounding-text-link-anchor-illustration.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/surrounding-text-link-anchor-illustration.jpg)
 
 - **Link position**: Where the link appears on the page adds relevance.
 
-[![](/images/link-position-adding-power.png)](https://devinschumacher.com/wp-content/uploads/2022/08/link-position-adding-power.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/link-position-adding-power.png)
 
 ## A Sample of Link Building in Action
 
@@ -348,11 +348,11 @@ The obvious websites that make good prospects are websites that have _already li
 
 Simply go to Ahrefs > Keywords Explorer and pop in the KEYWORD that you are trying to rank for.
 
-[![](/images/screen_shot_2019-10-21_at_12_39_23_pm-1024x508-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen_Shot_2019-10-21_at_12_39_23_PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-21_at_12_39_23_pm-1024x508-1.png)
 
 Scroll down to "SERP Overview", expand the results to 100, and export the list:
 
-[![](/images/screen_shot_2019-10-21_at_12_42_12_pm-1024x453-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen_Shot_2019-10-21_at_12_42_12_PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-21_at_12_42_12_pm-1024x453-1.png)
 
 Now you have a list of all the pages that are ranking for the keyword you want.
 
@@ -364,7 +364,7 @@ Now for the prospects.
 
 Now you have a CSV with 100 competitors.
 
-[![](/images/screen-shot-2019-10-21-at-12.46.51-pm-1024x794-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-21-at-12.46.51-PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-21-at-12.46.51-pm-1024x794-1.png)
 
 So, from this list of 100 competitors, we find the prospects by using Ahrefs again.
 
@@ -372,11 +372,11 @@ Take the first URL and add it to Ahrefs > Site Explorer > Backlinks.
 
 **Set filters to**: "One link per domain", "Do Follow" and then export.
 
-[![](/images/screen_shot_2019-10-21_at_12_49_27_pm-1024x543-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen_Shot_2019-10-21_at_12_49_27_PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-21_at_12_49_27_pm-1024x543-1.png)
 
 This will leave you with another CSV of all the people who LINK to a resource similar to the one you are trying to rank for (and promote). In this example, it will give us **_11,968 prospects._**
 
-[![](/images/screen_shot_2019-10-21_at_12_52_12_pm-1024x670-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen_Shot_2019-10-21_at_12_52_12_PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-21_at_12_52_12_pm-1024x670-1.png)
 
 Repeat this process for all 100 competitors, and then combine the spreadsheets and you will have an incredible amount of potential prospects to get links from.
 
@@ -390,11 +390,11 @@ But since this is still a high-level article, let's keep it simple.
 
 Use a tool like [Hunter](https://serp.ly/hunter.io) to find contact emails from each prospect's website:
 
-[![](/images/screen-shot-2019-10-21-at-1.01.00-pm-1024x421-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-21-at-1.01.00-PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-21-at-1.01.00-pm-1024x421-1.png)
 
 Or even in bulk:
 
-[![](/images/bulk-hunter-1024x395-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/bulk-hunter.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/bulk-hunter-1024x395-1.png)
 
 ## Contact
 
@@ -475,7 +475,7 @@ Because when your website is set up properly, you can build links to ONE page on
 
 For example, if your website is set up properly (with link hubs, and good site structure) the "link juice" from backlinks you acquire will flow to your other pages more easily, and send the power around via internal links.
 
-[![](/images/link-juice-flowing-through-a-website-silo.jpg)](https://devinschumacher.com/wp-content/uploads/2022/08/link-juice-flowing-through-a-website-silo.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/link-juice-flowing-through-a-website-silo.jpg)
 
 **Recommendations:**
 

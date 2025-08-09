@@ -1,7 +1,7 @@
 ---
 slug: /reviews/acenet-hosting/
 title: "Acenet Hosting Review"
-date: "2022-09-30"
+date: "2022-09-30T12:00:00.000Z"
 category: Reviews
 tags: 
   - "reviews"

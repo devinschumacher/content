@@ -1,6 +1,6 @@
 ---
 title: "google maps marketing strategies"
-date: "2022-08-26"
+date: "2022-08-26T12:00:00.000Z"
 slug: "google-maps-marketing-strategies"
 ---
 
@@ -14,7 +14,7 @@ If you can get your business to show up in the top of the maps area you will gen
 
 Here is a screenshot from one of our dental seo clients who is benefitting hugely from Google Maps. Look at all those potential customers just in the last 30 days:
 
-![](/images/google-maps-insights-from-dental-seo.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-maps-insights-from-dental-seo.png)
 
 ### Google My Business
 
@@ -22,19 +22,19 @@ Formerly known as Google Places, [Google My Business](https://www.wordstream.co
 
 Virtually any type of business (with the exception of certain more risqué establishments) can claim a Google My Business listing, which will display information that searchers may want to know, such as address, opening hours, phone number, website link, customer reviews, etc.
 
-![Google Maps marketing Google My Business](/images/google-maps-marketing-google-my-business.png)
+![Google Maps marketing Google My Business](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-maps-marketing-google-my-business.png)
 
 Google My Business (GMB) is a cornerstone of any successful [local seo](https://devinschumacher.com/local-seo/) campaign, and it is critical that you understand how to most effectively optimize your GMB profile for maximum SEO impact.
 
 **Hint**: keep reading and we will tell you exactly what you need to know... Get excited!
 
-![](/images/download-4-5.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-4-5.gif)
 
 ### Google Maps
 
 Google Maps – you've seen it, you've used it, and now you will learn to master it (for the benefit of your business). Google Maps ([https://maps.google.com/](https://maps.google.com/)) is a web mapping service that helps consumers discover, locate, contact & navigate to businesses and places of interest.
 
-![](/images/google-maps-summary.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-maps-summary.png)
 
 However, Google Maps is not just a standalone web mapping service that helps people from getting lost on their way to their destination, it also takes up a massively prominent area of the organic SERPs for any search query that Google deems encompasses search intent that would warrant showing a local business.
 
@@ -42,13 +42,13 @@ For example, if you type "diy desk ideas" there is really no intent there to tal
 
 So the SERP you get is much more _informational_ oriented. See:
 
-[![](/images/serp_result_for_diy_desk_ideas2-505x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2020/03/SERP_result_for_diy_desk_ideas2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/serp_result_for_diy_desk_ideas2-505x1024-1.png)
 
 No need for maps or "local results".
 
 However, what if your search was something like "desk stores near me". Think that SERP will look a little different?
 
-[![](/images/serp_result_for_a_local_query2-289x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2020/03/SERP_result_for_a_local_query2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/serp_result_for_a_local_query2-289x1024-1.png)
 
 In this search Google knows the **intent** of the searcher is to get options of stores where they can to buy a desk, the SERP is has more _local_ results.
 
@@ -99,7 +99,7 @@ The best way to verify your Google My Business profile is with a postcard.
 
 Sign up for a GMB by going to business.google.com, and submitting all your information. Google will then ask to 'verify' that your business actually exists at the address you entered by sending you a postcard with a 5 digit verification code, looking something like this:
 
-![](/images/google-my-business-verification-postcard.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-my-business-verification-postcard.jpg)
 
 When you get it, simply enter the code on the GMB profile you made, and Voila! you're now verified (and have the ability to show up on Google Maps).
 
@@ -113,7 +113,7 @@ The first URL should be the landing page that is most relevant to the business l
 
 The second URL, goes to the general/main "[Contact](https://devinschumacher.com/contact/)" page.
 
-![](/images/contact-information-links-on-a-google-my-business-profile.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/contact-information-links-on-a-google-my-business-profile.png)
 
 ##### UTM Codes for Tracking Traffic from Google Maps
 
@@ -127,13 +127,13 @@ You can do this by knowing your business, looking at the category options, and a
 
 For example, if we Google "[seo company los angeles](https://devinschumacher.com//los-angeles/)" we will see that all 3 business who are displaying in the organic (aka not-paid) area of Google Maps for this query have designated their Primary Category as "internet marketing service". So, if we want to have the Best chance to show up for this keyword search as well it would behoove us to designate our business primary category the same way.
 
-![](/images/google_maps_search_results_for_seo_company_los_angeles.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google_maps_search_results_for_seo_company_los_angeles.png)
 
 #### Business Operating Hours
 
 This one is pretty obvious - fill out your business hours completely so consumers (and Google) have an accurate understanding of when you are open.
 
-![](/images/google-my-business-hours-of-operations.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/google-my-business-hours-of-operations.png)
 
 #### Business Description
 
@@ -154,7 +154,7 @@ Images are huge for local SEO & Google Maps marketing.
 
 Check this out, in the last month alone this GMB generated 100s of image views by customers:
 
-[![](/images/screen-shot-2020-03-08-at-2.29.24-pm.png)](https://devinschumacher.com/wp-content/uploads/2022/08/screen-shot-2020-03-08-at-2.29.24-pm.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2020-03-08-at-2.29.24-pm.png)
 
 A small, but legitimate win & competitive advantage - give yourself all the advantages you can.
 
@@ -186,7 +186,7 @@ Google gives you the option of generating a free website in a single click. It c
 
 Create a free Google business website, and then edit it to drop some links to your website & social properties - lots of good relevance and keywords to be had!
 
-![](/images/screen_shot_2020-03-08_at_3_00_07_pm-1024x509-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2020-03-08_at_3_00_07_pm-1024x509-1.png)
 
 #### Online Reviews for Google Maps
 
@@ -206,7 +206,7 @@ Remind your new customers that they can leave you a review on Google, Yelp, Face
 
 Do whatever you gotta do to get those review stars!
 
-![](/images/download-5-3.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-5-3.gif)
 
 ### On Page Optimization
 
@@ -281,7 +281,7 @@ For more actionable information about Off Page Optimization for Google Maps Mark
 
 You've done all the hard work, and now its just about time to bring home the bacon.
 
-![](/images/download-6-3.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-6-3.gif)
 
 But before you kick back and watch your KPIs take off - you gotta make sure you are even tracking them.
 
@@ -293,33 +293,33 @@ Google My Business insights is a built-in analytics dashboard on your GMB profil
 
 - Queries used to find your business
 
-![](/images/queries-used-to-find-your-business-1024x786-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/queries-used-to-find-your-business-1024x786-1.png)
 
 - How customers search for your business
 
-![](/images/how-customers-search-for-your-business-1024x524-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/how-customers-search-for-your-business-1024x524-1.png)
 
 - Where customers view your business on Google
 
-![](/images/where-customers-view-your-business-on-google-1024x499-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/where-customers-view-your-business-on-google-1024x499-1.png)
 
 - Customer actions
 
-![](/images/customer-actions-1024x502-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/customer-actions-1024x502-1.png)
 
 - Directions requests
 
-![](/images/directions-requests-1024x581-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/directions-requests-1024x581-1.png)
 
 - Phone calls
 
 - Photo views
 
-![](/images/photo-views-1024x520-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/photo-views-1024x520-1.png)
 
 - Photo quantity
 
-![](/images/photo-quantity-1024x410-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/photo-quantity-1024x410-1.png)
 
 ## Final Thoughts
 

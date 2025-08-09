@@ -1,7 +1,7 @@
 ---
 slug: /reviews/kajabi/
 title: "Kajabi Review"
-date: "2022-10-08"
+date: "2022-10-08T12:00:00.000Z"
 category: Reviews
 
 tags: 
@@ -14,7 +14,7 @@ Since the pandemic hit, people have become much more likely to invest money in e
 
 That is why many people have started to utilize Kajabi.
 
-![](https://devinschumacher.com/wp-content/uploads/2022/10/Grabbing-Opportunities.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Grabbing-Opportunities.webp)
 
 But it’s not just students who need instant solutions.
 
@@ -56,7 +56,7 @@ Just for fun, this is what one billion looks like compared to 50K and one millio
 
 Didn’t see that one coming, huh? 
 
-![](https://devinschumacher.com/wp-content/uploads/2022/10/Wow.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Wow.webp)
 
 That’s right. This is how much money a single platform can make. 
 
@@ -68,7 +68,7 @@ I know this sounds a lot like other similar platforms, so what makes Kajabi diff
 
 The beauty of it is that it is a one-stop-shop that does everything for you. It is like the swiss army knife of online course platforms. You don’t need to invest in any additional tools at all! 
 
-![](https://devinschumacher.com/wp-content/uploads/2022/10/Bobs-Burgers.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Bobs-Burgers.webp)
 
  It is not just a course marketplace that barely allows you to manage the content of your course. Kajabi gives you full control of your business, including payments, marketing, appearance, and functionalities from a single dashboard. 
 
@@ -134,7 +134,7 @@ Kajabi is one of the few tools that offer live chat support 24/7 from the Growth
 
 It also allows you to generate tickets and participate in live Q&A training sessions. 
 
-![](https://devinschumacher.com/wp-content/uploads/2022/10/Cereal-Robot.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Cereal-Robot.webp)
 
 Another thing worth mentioning is that you can talk to a real human instead of one of those annoying bots that never solved anything for anyone. 
 
@@ -174,7 +174,7 @@ This function will also let your students see each other’s profiles and send p
 
 Including different methods and plans, like monthly payments for the most expensive courses. 
 
-![](https://devinschumacher.com/wp-content/uploads/2022/10/Money-Computer.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Money-Computer.webp)
 
 ### Tons of Built-in Features
 
@@ -208,7 +208,7 @@ From coaching programs to student communities, Kajabi provides all sorts of temp
 
 Unlike other similar tools, Kajabi doesn’t offer any kind of free plan, and it is actually pretty expensive. 
 
-![](https://devinschumacher.com/wp-content/uploads/2022/10/Simples.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Simples.webp)
 
 But on the other hand, you wouldn’t have to pay for any additional tool. We’ll discuss later on whether the price is worth paying. 
 
@@ -216,7 +216,7 @@ But on the other hand, you wouldn’t have to pay for any additional tool. We’
 
 Kajabi’s interface is far from intuitive. It definitely takes a while to get acquainted with all the functionalities and where to find them. 
 
-![](https://devinschumacher.com/wp-content/uploads/2022/10/Buttons.webp)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Buttons.webp)
 
 This clearly has to do with how much you can do with it, though.
 

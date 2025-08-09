@@ -1,6 +1,6 @@
 ---
 title: "What is SEO"
-date: "2022-09-23"
+date: "2022-09-23T12:00:00.000Z"
 slug: "what-is-seo"
 ---
 
@@ -50,7 +50,7 @@ So what happens when you Google "teeth whitening queen creek"?
 
 You see a [SERP](https://devinschumacher.com/serp/)! [(Search Engine](https://devinschumacher.com/search-engines/) Results Page). It looks like this:
 
-![](/images/an-example-of-the-benefits-of-local-seo-843x1024-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/an-example-of-the-benefits-of-local-seo-843x1024-1.png)
 
 Well, it looks like that without the arrows at least.
 
@@ -58,13 +58,13 @@ The arrows are pointing to one of our actual clients who is benefitting from [lo
 
 We included the arrows to show you that we aren't all talk here - we do walk the walk. Even if thine walks be sometimes silly.
 
-![](/images/download-1-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-1-1.gif)
 
 SEO literally matches up **people who want your products** with **your business**.
 
 You know, the types of people that be like:
 
-![](/images/download-2-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-2-1.gif)
 
 For the record, I know that "be like" isn't proper grammar. Okay back to the topic at hand.
 
@@ -82,7 +82,7 @@ Suppose, this time, you are a content brand that sells informational type produc
 
 That was a fun sentence. But looks - this is real.
 
-![](/images/knowledge-ofr-men-1024x803-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/knowledge-ofr-men-1024x803-1.png)
 
 You provide advice to guys about how to do things that aren't so common sense.
 
@@ -94,7 +94,7 @@ Well, remember that prom coming up just around the corner in Queen Creek, Arizon
 
 Guess what - guys are gonna need help with getting dates, and learning how to talk to girls, and probably even how to tie their shoes.
 
-![](/images/terrible-shoe-ties-1024x576-1.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/terrible-shoe-ties-1024x576-1.jpg)
 
 So what do they do?
 
@@ -104,11 +104,11 @@ And what happens when you Google these things?
 
 You see a SERP! (Search Engine Results Page). And it looks like this:
 
-![](/images/an-example-of-how-seo-is-beneficial-for-enterprise-comapnies-1024x923-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/an-example-of-how-seo-is-beneficial-for-enterprise-comapnies-1024x923-1.png)
 
 or this:
 
-![](/images/another-example-of-how-seo-impacts-businesses-in-a-positive-way-1024x885-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/another-example-of-how-seo-impacts-businesses-in-a-positive-way-1024x885-1.png)
 
 Once again, it looks like that without the arrows.
 
@@ -118,13 +118,13 @@ And remember what happens when we show you that we aren't all talk? That we actu
 
 Ya, you remember:
 
-![](/images/download-3-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-3-1.gif)
 
 Once again we have an example of how SEO is driving **people with specific needs** (traffic) to the **place that has the solution** for those specific needs (your business).
 
 Let's take a little bit deeper look of what SEO is actually doing for this website:
 
-![](/images/screen_shot_2019-09-04_at_5_51_53_pm-1024x755-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-09-04_at_5_51_53_pm-1024x755-1.png)
 
 We can see from this screenshot that this ONE article on Knowledge For Men (KFM) is bringing the website over 100 unique visitors every month (and growing rapidly).
 
@@ -132,7 +132,7 @@ When you start thinking about scaling that effort up (more articles, more SEO) t
 
 Here is how this is working at scale for the KFM as a whole:
 
-![](/images/screen_shot_2019-09-04_at_5_55_08_pm-1024x557-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-09-04_at_5_55_08_pm-1024x557-1.png)
 
 You read that right.
 
@@ -163,7 +163,7 @@ Once we figure out "What A Google Wants" (insert [Christina Aguilera](https://ww
 
 Seriously, some of y'all come to us with the website equivalent of this:
 
-![](/images/house1.jpg)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/house1.jpg)
 
 You can't build your house (website) like this and expect search engines to take you seriously.
 

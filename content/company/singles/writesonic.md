@@ -1,7 +1,7 @@
 ---
 slug: /reviews/writesonic/
 title: "Writesonic Review"
-date: "2023-03-26"
+date: "2023-03-26T12:00:00.000Z"
 categories: 
   - "artificial-intelligence"
   - "reviews"
@@ -14,7 +14,7 @@ categories:
 
 From generating articles and blog posts to crafting eCommerce product descriptions and ads, Writesonic has got you covered.
 
-![writesonic.png](/images/writesonic.png)
+![writesonic.png](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/writesonic.png)
 
 ## TLDR: Not Recommended
 
@@ -52,7 +52,7 @@ As the CEO of Writesonic, Samanyou is committed to continuing to enhance the pla
 
 ## Features
 
-![Image.png](/images/Image.png)
+![Image.png](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/Image.png)
 
 Writesonic boats "80+ Powerful AI Writing Tools at your Fingertips."
 
@@ -320,7 +320,7 @@ This plan includes everything in the Long-form plan plus custom word and user op
 
 To help you compare the different plans and features, we've included a markdown table below:
 
-![writesonic pricing.png](/images/writesonic%20pricing.png)
+![writesonic pricing.png](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/writesonic%20pricing.png)
 
 ## Writesonic FAQs
 

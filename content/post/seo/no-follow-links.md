@@ -1,6 +1,6 @@
 ---
 title: "no follow links"
-date: "2022-08-25"
+date: "2022-08-25T12:00:00.000Z"
 slug: "no-follow-links"
 ---
 
@@ -11,7 +11,7 @@ If you don't already know about [Off Page SEO](https://devinschumacher.com/off-p
 
 Google's OG algorithm used backlinks (links from other websites pointing to your website) as a way to determine which sites were "popular" and thus, trustworthy.
 
-[![](/images/a-definition-of-pagerank-to-help-understand-what-a-nofollowl-link-is-1024x147-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/a-definition-of-pagerank-to-help-understand-what-a-nofollowl-link-is.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/a-definition-of-pagerank-to-help-understand-what-a-nofollowl-link-is-1024x147-1.png)
 
 When a website accumulates "PageRank" (aka trust, authority, etc.) it ranks more easily for keywords on the search results.
 
@@ -38,11 +38,11 @@ In fact, every hyperlink has a "rel" property, which is an HTML property that te
 
 This article focuses on the rel="nofollow" property, but just for you curious folk, here are some of the other possible rel attributes:
 
-[![](/images/link-html-tag-rel-attributes-1024x520-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/link-html-tag-rel-attributes.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/link-html-tag-rel-attributes-1024x520-1.png)
 
 And just recently (late 2019) Google added some NEW rel attributes:
 
-![](/images/googles-new-link-rel-attributes-1024x519-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/googles-new-link-rel-attributes-1024x519-1.png)
 
 ## What Are Nofollow Links?
 
@@ -50,7 +50,7 @@ For certain links on your website, you will want to give Search Engines a better
 
 The way we communicate this, is through HTML tags using something called a rel attribute. A rel attribute is a value that lives inside of an HTML anchor <a> tag.
 
-[![](/images/what-does-a-nofollow-link-look-like-in-html-1024x62-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/what-does-a-nofollow-link-look-like-in-HTML.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/what-does-a-nofollow-link-look-like-in-html-1024x62-1.png)
 
 It is an additional "property" of a hyperlink that gives more info about the link.
 
@@ -66,20 +66,20 @@ The converse of a nofollow link is a dofollow link. If a hyperlink is marked as 
 
 Understanding the difference between nofollow links & dofollow links will significantly help your SEO progress, so let's start with an example of both.
 
-In this sentence, when we say say [click here](https://staging-devinschumacher.kinsta.cloud), you will be taken to the the homepage of SERP Co - from a dofollow link.
+In this sentence, when we say say [click here](https://devinschumacher.com), you will be taken to the the homepage of SERP Co - from a dofollow link.
 
 In HTML, this link would look something like this:
 
 ```
-<a href="https://staging-devinschumacher.kinsta.cloud">click here</a>
+<a href="https://devinschumacher.com">click here</a>
 ```
 
-But, in this sentence, when we say [click here](https://staging-devinschumacher.kinsta.cloud), we will still take you to the homepage of SERP Co, but this link is marked as nofollow.
+But, in this sentence, when we say [click here](https://devinschumacher.com), we will still take you to the homepage of SERP Co, but this link is marked as nofollow.
 
 In HTML, this link would look something like this:
 
 ```
-<a href="https://staging-devinschumacher.kinsta.cloud" rel="nofollow">click here</a>
+<a href="https://devinschumacher.com" rel="nofollow">click here</a>
 ```
 
 The key difference between nofollow links & dofollow links is that a DOFOLLOW link will pass trust/authority to the destination, but a NOFOLLOW link will not pass trust/authority to the link destination.
@@ -92,7 +92,7 @@ Got a dofollow link? **GOAL!**
 
 <figure>
 
-[![](/images/getting-a-do-follow-link-.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/getting-a-do-follow-link-.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/getting-a-do-follow-link-.gif)
 
 <figcaption>
 
@@ -104,7 +104,7 @@ Real life example of _SEOs scoring a dofollow link_
 
 However, if you get a backlink from another website and it is marked as NOFOLLOW, it will NOT\* help your rankings. Got a nofollow link? **No Goal.**
 
-[![](/images/getting-a-nofollow-link.gif)](https://devinschumacher.com/wp-content/uploads/2022/08/getting-a-nofollow-link.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/getting-a-nofollow-link.gif)
 
 _\* I put an asterisk here because this is actually a highly debated topic, and there are some merits to getting nofollow links. But for a beginner, **the general rule is: try to get DOFOLLOW links from good websites.**_
 
@@ -122,7 +122,7 @@ So, in 2005, Google introduced the re="nofollow" HTML tag to combat a very com
 
 Other Search engines soon followed suit (no pun intended), although they each interpret the rel attribute slightly differently:
 
-[![](/images/screen-shot-2019-10-16-at-12.58.59-pm-1024x217-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-16-at-12.58.59-PM.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen-shot-2019-10-16-at-12.58.59-pm-1024x217-1.png)
 
 SEOs are pretty creative, I will admit that. So, when this information started to become prevalent us SEOs used it to our advantage, and thus was born the concept of "PageRank Sculpting".
 
@@ -136,7 +136,7 @@ Since we know that PageRank (aka trust, power, link juice, authority, etc.) is p
 
 If you had 3 links on a web page, & two of the links were dofollow, but one of the links was nofollow, then the total PageRank was split between the 2 dofollow links.
 
-[![](/images/0-how-pagerank-sculpting-used-to-work-2-794x1024-1.png)](https://devinschumacher.com/wp-content/uploads/2019/10/0-how-pagerank-sculpting-used-to-work-2.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/0-how-pagerank-sculpting-used-to-work-2-794x1024-1.png)
 
 Knowing this, SEOs would find pages on their website with a lot of links, and link from that page to another page on their website site (internal linking) that they wanted to pass power to, and then they would nofollow the internal links to other pages on their website they didn't want to waste sending link juice to (link a contact page, privacy policy, etc.).
 
@@ -167,7 +167,7 @@ We put the "No" in that ' The short answer is "No". ' part because they do help.
 
 Google's official stance is that "we do not follow nofollow links".
 
-![](/images/download-11-1.gif)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/download-11-1.gif)
 
 Google is a tyrant. They want to know everything about the internet.
 
@@ -192,11 +192,11 @@ This is quite easy. Let me show you the hard way first:
 
 When you're on a website, simply right-click and choose "Inspect"
 
-![](/images/screen_shot_2019-10-16_at_11_09_38_pm-1024x499-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-16_at_11_09_38_pm-1024x499-1.png)
 
 Then, you can click on an element and look down at the code. In this example on our post about [SEO Keyword Research](https://devinschumacher.com/keyword-research/), you will see us "inspecting" a link and in the screenshot, you will see inside the HTML of the link it says rel="nofollow"
 
-![](/images/screen_shot_2019-10-16_at_11_07_06_pm-1024x604-1.png)
+![](https://raw.githubusercontent.com/devinschumacher/uploads/main/images/screen_shot_2019-10-16_at_11_07_06_pm-1024x604-1.png)
 
 Thanks for suffering through that, now ill show you the easy way - a browser plugin!
 
